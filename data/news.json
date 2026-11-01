@@ -1,6 +1,15 @@
 {
-  "updatedAt": "2026-11-01T16:46:13.837048+00:00",
+  "updatedAt": "2026-11-01T16:51:26.634839+00:00",
   "articles": [
+    {
+      "title": "Uppgifter: USA planerar nya attacker mot Iran",
+      "description": "Flera amerikanska medier rapporterar att Trump-administrationen planerar att genomföra nya attacker mot Iran efter mellanårsvalet. Enligt Ekots internationella korrespondent Daniel Alling, baseras uppgifterna på källor från bland annat Pentagon samt olika uttalanden från president Donald Trump och utrikesministern Marco Rubio. Iran svarar med att man är redo att slå tillbaka, men öppnar också för samtal. ”Men om det verkligen händer, det får vi se”, säger korrespondenten.",
+      "link": "https://www.sverigesradio.se/artikel/9332324",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-01T16:46:00+00:00",
+      "impact": false
+    },
     {
       "title": "En gripen efter hot om våldsdåd i Moskva",
       "description": "En minderårig rysk pojke har gripits efter hot om att utföra ett våldsdåd i Moskva, skriver Reuters med hänvisning till Rysslands säkerhetstjänst. Den planerade attacken ska ha riktats mot en park i den ryska huvudstaden.",
@@ -8,24 +17,6 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-01T16:22:10+00:00",
-      "impact": false
-    },
-    {
-      "title": "Hødd spelar mot Bryne - følg kampen her!",
-      "description": "",
-      "link": "https://www.nrk.no/mr/hodd-spelar-mot-bryne---folg-kampen-her_-1.18070693",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T16:13:36+00:00",
-      "impact": false
-    },
-    {
-      "title": "Vet du hvor du skal dra i en krisesituasjon?",
-      "description": "Hvis svaret er nei, er du ikke alene.",
-      "link": "https://www.nrk.no/sorlandet/informasjonspunkter-og-moteplasser_-vet-du-hvor-du-skal-dra-i-en-krisesituasjon_-1.18066131",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T16:08:56+00:00",
       "impact": false
     },
     {
@@ -44,6 +35,15 @@
       "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-01T15:22:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "GCC Secretary-General: Gulf States Proved Resilience in Confronting Mounting Security, Economic Challenges - Qatar news agency",
+      "description": "GCC Secretary-General: Gulf States Proved Resilience in Confronting Mounting Security, Economic Challenges Qatar news agency",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUnVNWTFyVWQyTzRYMXRxVncwRHh3OXBraHRKYkRVUWFlTWdBWUV2WUxhRXh5cHBIdDJhN0EwVlFTQVowSkVfT1ZvcFVjR0YyZVkwa0I2eEhiWlM2M1Y3UFJaREd3SXo1RkxPM0tOVFhCVHltNG5RaDdQQVBzb0U4OHUzRFpNTk5LcVlHbmhCekM1ekFodlNXU2ItRVl5N2xYTHhrZ3dOaURTLVpHcl93QTF0ZzBXdU56V0JJQ2NjZEhab0JEN3NncGFKN1VIOUE5QUV4amhWSzRib05QQ1BBZ29STktQZw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-01T15:18:54+00:00",
       "impact": false
     },
     {
@@ -74,39 +74,12 @@
       "impact": false
     },
     {
-      "title": "Sterke reaksjoner – mener Molde-profil burde vært utvist",
-      "description": "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann.",
-      "link": "https://www.nrk.no/sport/sterke-reaksjoner-_-mener-molde-profil-burde-vaert-utvist-1.18070645",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T14:58:40+00:00",
-      "impact": false
-    },
-    {
-      "title": "Bilulykke i Gullesfjorden: Tre personer kritisk skadd",
-      "description": "En person ble flydd til sykehus med helikopter.",
-      "link": "https://www.nrk.no/tromsogfinnmark/bilulykke-i-gullesfjorden_-de-involverte-skal-vaere-kritisk-skadd-1.18070643",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T14:43:53+00:00",
-      "impact": false
-    },
-    {
       "title": "Sveriges reserv av soldater krymper – äventyrar försvarsförmågan",
       "description": "Sverige behöver snabbt fler soldater i reserv. Men utvecklingen går istället åt motsatt håll. Under flera år har Försvarsmaktens personalreserv minskat – eftersom soldater inte fått sin repetitionsutbildning.",
       "link": "https://www.svt.se/nyheter/inrikes/sveriges-reserv-av-soldater-krymper-aventyrar-forsvarsformagan",
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-11-01T14:39:23+00:00",
-      "impact": false
-    },
-    {
-      "title": "Person falt ned fra demning i Orkland",
-      "description": "En person er fløyet til St.Olavs Hospital etter å ha falt rundt fem meter ned fra en demning i Orkland søndag ettermiddag.",
-      "link": "https://www.nrk.no/trondelag/person-falt-ned-fra-demning-i-orkland-1.18070631",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T14:31:34+00:00",
       "impact": false
     },
     {
@@ -128,30 +101,21 @@
       "impact": false
     },
     {
+      "title": "Live - Iran warns any new war could spread beyond the Middle East - Iran International",
+      "description": "Live - Iran warns any new war could spread beyond the Middle East Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-01T13:53:49+00:00",
+      "impact": false
+    },
+    {
       "title": "Därför finns lejon överallt i Göteborgs stadsmiljö - Sveriges Radio",
       "description": "Därför finns lejon överallt i Göteborgs stadsmiljö Sveriges Radio",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZUlzZzluT2gzMmJHNWJfcVJTV21VQU9JeVNxU2Q5MkdjS3djTzhvV0xTLUNUZ0NmUnJONjgxeVM2Q1dGQ3NVQ0dZdlJzU3lOV3Yzb0dHOXl4bkFPVURPWHpOTFJYRHd0LWFYYnhKRFJ0bkoxb2ZqeHNMMVU4X3U1bjh0WkFjYWxPUWQtb2FVejI?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-01T13:53:42+00:00",
-      "impact": false
-    },
-    {
-      "title": "Rosenborg sikrer bronse og spill i Europa etter 6-0 seier mot Røa",
-      "description": "",
-      "link": "https://resultater.nrk.no/fotball/2026-11-01/1/events/2725804",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T13:41:46+00:00",
-      "impact": false
-    },
-    {
-      "title": "Alta IF-kapteinen om framtiden: – En gjeng som har lyst til å bli god",
-      "description": "BUL rykket ned fra 3. divisjon, mens Alta IF må forberede seg på et nytt år i divisjonen. Nå håper Felix Adrian Jacobsen at fundamentet som ble lagt denne sesongen skal gi Alta IF mer å juble for neste sesong.",
-      "link": "https://www.nrk.no/tromsogfinnmark/kapteinene-pa-alta-if-og-bossekop-ul-oppsummerer-arets-sesong-i-3.-divisjon-1.18070473",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T13:39:05+00:00",
       "impact": false
     },
     {
@@ -170,24 +134,6 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-01T13:35:48+00:00",
-      "impact": false
-    },
-    {
-      "title": "Magnus (30) er narkodealer på si",
-      "description": "­",
-      "link": "https://www.nrk.no/innlandet/xl/_magnus_-har-solgt-narkotika-i-15-ar-_-mener-det-er-vanskelig-for-politiet-a-ha-kontroll-1.17212721",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T13:28:55+00:00",
-      "impact": false
-    },
-    {
-      "title": "Vart seriemeister etter maktdemonstrasjon - no ventar gullfeiring i Bergen",
-      "description": "Brann kvinner er seriemeistrar i Toppserien etter ein overtydande 4–1 siger over LSK kvinner.",
-      "link": "https://www.nrk.no/vestland/brann-sk-kvinner-er-seriemeistrar-i-toppserien-1.18070055",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T12:49:56+00:00",
       "impact": false
     },
     {
@@ -245,15 +191,6 @@
       "impact": false
     },
     {
-      "title": "Tre omkom over usikra kraftverk – regelverket blei endra etter ulukka",
-      "description": "",
-      "link": "https://www.nrk.no/artikkel/tre-omkom-over-usikra-kraftverk-regelverket-blei-endra-etter-ulukka-1531015",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T11:41:33+00:00",
-      "impact": false
-    },
-    {
       "title": "M vill erbjuda alla Göteborgs anställda en leasad Volvo - Omni – Alla nyheter. Alla perspektiv.",
       "description": "M vill erbjuda alla Göteborgs anställda en leasad Volvo Omni – Alla nyheter. Alla perspektiv.",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXlkRDMzdVNiVV9UaUpUVE5LRHZWb3Rra2QtN2QtblZFeWQwWlNfXzhYaGlscTltRTJFM2xoNVFKdmRZdFVuVTcxVHVvSVJ0WEpZUFg3VWhyaTNnd3BCUnNHQ0Z1V3RBWWpyTXFFVzlFaU5NcERvWFFHZ2IyVDJLbUxScWdiMXc?oc=5",
@@ -269,24 +206,6 @@
       "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-01T11:33:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Premiere på «Markens Grøde» som er filma i Luster: – Store filmprosjekt snusar på Vestlandet",
-      "description": "",
-      "link": "https://www.nrk.no/artikkel/auka-etterspurnad-fra-utlandet-store-filmprosjekt-snusar-pa-vestlandet-1531266",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T11:21:24+00:00",
-      "impact": false
-    },
-    {
-      "title": "Etablerer tappestasjon i Alta: – En mer bærekraftig blodforsyning",
-      "description": "Innbyggerne i Alta og omegn skal bidra til at Finnmark blir mer selvforsynt med blod. Det er ambisjonen til Finnmarkssykehuset, som jobber for å etablere en blodbank i fylkets mest befolkningsrike kommune.",
-      "link": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-vil-etablere-blodbank-i-alta_-men-forste-steg-pa-veien-er-tappestasjon-1.18070495",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T11:19:45+00:00",
       "impact": false
     },
     {
@@ -335,24 +254,6 @@
       "impact": false
     },
     {
-      "title": "Sexarbeidere ble truet med pistol – slik beskytter «Sofija» (36) seg",
-      "description": "Flere sexarbeidere har det siste året blitt truet av kunder. «Sofija» gjør et konkret grep for sin egen sikkerhet.",
-      "link": "https://www.nrk.no/sorlandet/sexarbeidere-ble-truet-med-pistol-1.18065941",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T10:33:10+00:00",
-      "impact": false
-    },
-    {
-      "title": "Vil forby turistene å ta med seg fisk ut av Norge",
-      "description": "I løpet av de siste årene har fisketurister tatt med seg fisk for over 4 milliarder ut av Norge. Nå tar politikere til orde for både forbud og andre begrensninger.",
-      "link": "https://www.nrk.no/nordland/fisketurister-har-tatt-med-seg-fisk-for-4-milliarder-ut-av-norge.-ordforer-etterlyser-forbud-1.18066011",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T09:53:28+00:00",
-      "impact": false
-    },
-    {
       "title": "Efter missarna på häktet: Två intagna döda - Aftonbladet",
       "description": "Efter missarna på häktet: Två intagna döda Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUkkxd1AyVmdUU0tldm9EajNKWGtfXzM0Q19JT0Y4d29heTgtMXhOczlXY1FzYXFVdkpzVnR0c3NBa2NueWFHZG82RXFnWF9ubjZsTFVQSFJnQ1NRUGtJQUJ0Z1h5THc1Vkgxa1oybENqSk12OEF1WDdYdGMydGZTVUwybnNjYlhtbE51TmlMQXFDVGZ4Q3NzR3UzVkJvZlQyM1JCRFp5eEZoWHhXc2JPZzc1TWtoejQzdkJjSGJJMS1JV0ZvQTk0?oc=5",
@@ -371,12 +272,12 @@
       "impact": false
     },
     {
-      "title": "Jørn-Bjørn har brukt samme bukse i et år",
-      "description": "Jørn-Bjørn Fuller-Gee er kåret til verdensmester i jeans. Nå får han skryt for sitt oppgjør med klesindustrien.",
-      "link": "https://www.nrk.no/sorlandet/jorn-bjorn-er-verdensmester-i-jeans_-har-brukt-samme-bukse-i-et-ar-1.18066831",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T09:38:08+00:00",
+      "title": "Quad ministers flag concerns over economic coercion | NHK WORLD-JAPAN News - NHKニュース",
+      "description": "Quad ministers flag concerns over economic coercion | NHK WORLD-JAPAN News NHKニュース",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPOUxwVzljbGc3X1hoU3lTZXVDVDVLNDA3NjI2dm92eE8xcEdBRFNuSkhmMDNjWS1BYzBfZlRpVjJNdV9JdThUdlY3bnRwLVV2QURpUlI3STkzS3dvLU5jNnJkNA?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-01T09:18:19+00:00",
       "impact": false
     },
     {
@@ -386,24 +287,6 @@
       "source": "P4 Göteborg",
       "category": "Local",
       "published": "2026-11-01T09:09:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ottos bror ble drapsmann etter at familien hadde advart gjennom 23 år",
-      "description": "­",
-      "link": "https://www.nrk.no/dokumentar/xl/_ingen-skal-kunne-si-at-vi-ikke-varslet_-1.18056101",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T09:08:34+00:00",
-      "impact": false
-    },
-    {
-      "title": "Travel Halloween-natt for politiet i Sør-Vest",
-      "description": "",
-      "link": "https://www.nrk.no/rogaland/travel-halloween-natt-for-politiet-i-sor-vest-1.18070389",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T08:45:08+00:00",
       "impact": false
     },
     {
@@ -425,12 +308,12 @@
       "impact": false
     },
     {
-      "title": "Hektisk Halloween-natt for politiet: Sinte menn, løpande person med hammer og inndratt replikapistol",
-      "description": "Da oktober blei til november hadde politiet i Troms nok å gjere heile natta.",
-      "link": "https://www.nrk.no/tromsogfinnmark/hektisk-halloween-natt-for-politiet-i-troms-1.18070430",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-11-01T08:05:16+00:00",
+      "title": "Trump Renews Iran Threat, Says US Still Needs To 'Take Care' Of 1 Or 2 Targets - Radio Free Europe/Radio Liberty",
+      "description": "Trump Renews Iran Threat, Says US Still Needs To 'Take Care' Of 1 Or 2 Targets Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-01T08:07:39+00:00",
       "impact": false
     },
     {
@@ -477,6 +360,15 @@
       "category": "Local",
       "published": "2026-11-01T05:10:57+00:00",
       "impact": true
+    },
+    {
+      "title": "Bulgarians vote in a presidential runoff marked by regional security threats - News4JAX",
+      "description": "Bulgarians vote in a presidential runoff marked by regional security threats News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmNvWHFpSWtKU3VlY2d4cF9ucTZHYzRqSHUtRFp2SzFYdmhBZjNVLTZSNUZYNmwxSnBvNkNSXzFGYi04cjBYMTBoZTI0elRkTmJtTWRJQkg2SXJtSDRSam1SME9NRFpfMHpqcjFTRm9jdlM2V3JVNHhSM1lZbG01SWxrVjZuTHFJSGhfcE9pcDdXanRwaW1iRWpKZG5mbzIzME0xcEhGb2JtYVo0blFkQXFfU0RPRGhfTy0wbGpGY1gtdw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-01T05:01:36+00:00",
+      "impact": false
     },
     {
       "title": "Kristersson har gått om Andersson i förtroendeligan",
@@ -533,6 +425,15 @@
       "impact": false
     },
     {
+      "title": "Japan earthquake: 6.0 magnitude tremors strikes Shima region - The Economic Times",
+      "description": "Japan earthquake: 6.0 magnitude tremors strikes Shima region The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRU9taXFhZ2R0RGkwOFhjdGpDU1hraEdjaENHY2I2enRvRjFEbThPbjY5NTVybGtmY0JSNndySGZ4ZDBxSkJ6MVZJRWluaDdYLUVLWkhfUUxDRU93S3h5NTZZa2RWTTBjc3kzNWRFQkpDVllDaFRPQXNuajUyYVRlaUIzcXlRSzI4SDRkTzJoTFlnNEhrcWxfTjRmaGJqNTZtbEROV1ZRa09Sc0lFb1RtanFBNHAzandXN1JPTldHdjhMcGhGSnFUNWcyaS1ZU1d0Q0EzSU5LOHZ1a01na09hVF9tNnJJaWfSAeABQVVfeXFMUEd2R3RUUjAzTFltMHNuZHpvSmFPRVdHcjBMYkxYWm5Hc2Y3MjJaRFpRNS0xMkZOVllGMU5RTjYwMmFGSzlqTnQ4N0ZFWURLTVBCdVhpeGJDUEptWExGbjVrR0tjSEk1THd2M1NyUmctVlZOWUpreFJiVWd5dHpEVW1UeWNDbHRReVExRFRYY1lVVmh2NFpsbVV3NFJlNGRjdjcxU3NiZGFVVWRKb0hNYnJSU1YwQllEX3FTYXNHUW5Jemo5aXVnZ2tzcHhMS3FmRUZPLWtDOUlUOFJ6Y0JYaDk?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-01T03:05:24+00:00",
+      "impact": false
+    },
+    {
       "title": "Olycka på E20 i Göteborg: \"Stor påverkan på trafiken\" - Aftonbladet",
       "description": "Olycka på E20 i Göteborg: \"Stor påverkan på trafiken\" Aftonbladet",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0ZaS1hWOGJlVDBTSHRHN2txNGV5b3dPejBJTlJySHowQnR5a2RqZzRpZVM0M2EwWkNTcmlzUldRNU1Deng4ekhvNHA5YmdvWmhPb1YyVkhvYTBFVG9jb1hPaVNIaER3VG90Z3BwajdzWndNejNWOFdidnhYV01IUGs5bjkzUUVlaXc?oc=5",
@@ -569,6 +470,15 @@
       "impact": false
     },
     {
+      "title": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+      "description": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dHbXRoRmUxQ0d2U19SODVtLURyQU5tMWhQSjh6cl9SaDRybGVJQ0Y1aXNuUkl3WlpPb2FLY1JGYlFIZS1xNmFCbEk4QUFyZXFYdll2akFOdU9pcEtoLWgza1E4TmdXZlBXNnYtNklYNGlEaDF3bHY5TXZOSVp1UkdoY1RxZw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-31T21:39:57+00:00",
+      "impact": false
+    },
+    {
       "title": "Gatsten och pyroteknik kastades mot polis i Frankfurt",
       "description": "I Tyskland blev det våldsamt på flera håll i samband med gårdagens ungdomsdemonstrationer. I Frankfurt attackerade demonstranterna polisen och vandaliserade och plundrade butiker. Även i Hamburg, Köln och i huvudstaden Berlin blev det bitvis våldsamt under kvällen.",
       "link": "https://www.sverigesradio.se/artikel/9332174",
@@ -596,30 +506,12 @@
       "impact": false
     },
     {
-      "title": "Nytt system skal redde minst fem flere liv i året",
-      "description": "Hovedredningssentralen erstatter nå et 25 år gammelt datasystem. Håpet er å kutte livsviktige minutter, og spare samfunnet for milliarder.",
-      "link": "https://www.nrk.no/rogaland/systemet-_samvirke-forst_-hos-hovedredningssentralen-skal-redde-fem-flere-liv-i-aret-1.18065337",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-10-31T21:05:00+00:00",
-      "impact": false
-    },
-    {
       "title": "FBI pekar ut Nordkorea efter jättehack mot Binance",
       "description": "Nordkorea låg bakom hackerattacken mot kryptobörsen Binance i veckan, där tillgångar värda över 60 miljarder kronor stals. Det uppger amerikanska FBI. Samtidigt meddelar Binance att företaget har täckt 90 procent av förlusterna.",
       "link": "https://www.svt.se/nyheter/utrikes/binance-tacker-90-procent-av-forlusterna-efter-jattehack",
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-10-31T20:26:42+00:00",
-      "impact": false
-    },
-    {
-      "title": "Etterforsker navnekrøll i Alaska før mellomvalget",
-      "description": "USAs president krever at demokratenes kandidat må tas av lista for senatsvalget i Alaska. Påtalemyndigheten skal etterforske om demokratene har hentet inn en pensjonert lærer for å forvirre velgere.",
-      "link": "https://www.nrk.no/urix/trump-vil-utestenge-demokratisk-kandidat-i-alaska-i-navnekrangel-sak-1.18069928",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-31T20:26:29+00:00",
       "impact": false
     },
     {
@@ -812,6 +704,15 @@
       "impact": false
     },
     {
+      "title": "Cuba grid collapse: The situation is growing more dire, experts say - ABC News - Breaking News, Latest News and Videos",
+      "description": "Cuba grid collapse: The situation is growing more dire, experts say ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2VmVHJ5QWVWN0x5NUVuYTBVUEl0c0lFSDVUbjhJNFpCRjFWbFZINDlSMTA3LVl6b2d5MWpHRGhpSUZCamE4anhIb2Vsd0VBMVZRaWxEZHVnLUVjcjEzYjBsLUR1d1VseWVUM1dVQjQ1VmdvTl9wVGxwMTRDZS1SVXFfbTZEUVRvbHA5S1M3MTVLREplYmtHSDZ1MjBjRHRDUTB3WdIBqgFBVV95cUxNUV9UeXpFazByVnBWYWIxOHdpQzROMUdtSGV5eDV3alFESUozT2NoMG9xMkl4RFlXMnJDeXNIa0VDdFhkS3pSWmxXY2FSWUUzeDV3Mkl5WThISmdOSGpleGVySXBoTS1vN1ZuODFpYndHMkNfY1h0ZWZYbTBFVHllcGxXV0JMa0J2cTYzZVRvblNvNEpsNXNSS05sNHlGemhXTDlBQWFnS2JPdw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-31T13:25:43+00:00",
+      "impact": false
+    },
+    {
       "title": "Polisen bordade fartyg utanför Gotland",
       "description": "Natten mot lördagen bordade polis ett fartyg utanför Gotland. – Vi har gått ombord på fartyget och kontrollerat besättningens resehandlingar, säger Carina Skagerlind, presstalesperson vid polisregion Stockholm till SVT Nyheter.",
       "link": "https://www.svt.se/nyheter/inrikes/polisen-har-kontrollerat-fartyg-utanfor-gotland",
@@ -857,6 +758,15 @@
       "impact": false
     },
     {
+      "title": "Trump-backed right-wing lawyer appears to win Colombia's presidential election - ABC News - Breaking News, Latest News and Videos",
+      "description": "Trump-backed right-wing lawyer appears to win Colombia's presidential election ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMEdrTFBVWVZfa3JTUng2MG9kRUhORDZPUjE0YTZ5d25jeW0wSEl0cmFTa05LY1paSG93bTVkZ3U4NXZIRVJBNUNONmpZWk5IMEJ6U3pOc0YyUndXT2EtanhyVmpjTTI1UXdMWUY0dF9CLUZNZlJxZ1MtVHZ0SXd3eW1qSHVHZWJDelV4M054R2VLU1h5SkVqUWFtUEVJczNRRE9NTTFjR2JJUFFxZXVMWWVR0gG3AUFVX3lxTE1kVkFCTUozelpBWHpnY2hBdmVaTi0xNWZ1clBIamVwempjTWlPZnRjT0hxelk0eDFCMW5WSDNSTUU0Y2FPYWtLYjRHTXExbUgtSGVSRTRlODIyTWpQdVRsbnJXUlQwcTQwWFk3Vm04a2JuR0VmbFA4a1V6cE4zdzF2aXVXZXpqRWlJR0ZxVGlUWWRJVU9OMEg0U0dtdnNWZ3J4T2E5bXVLX0VHYWFfUDhHZlpaMlBNQQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-31T11:20:29+00:00",
+      "impact": false
+    },
+    {
       "title": "Nya vapnet mot invasiva guldfiskarna: Gäddan Rolf",
       "description": "Guldfiskarnas nya värsta fiende har ett namn – det är gäddan Rolf och han har släppts ut i Kvarndammen i Göteborg för att rensa den på invasiv guldfisk. Förhoppningen är att han ska kunna äta upp guldfiskarna i dammen, eftersom de inte hör hemma där. Men man vet först i vår hur det har gått.",
       "link": "https://www.sverigesradio.se/artikel/9330503",
@@ -899,6 +809,24 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-10-31T09:30:28+00:00",
+      "impact": false
+    },
+    {
+      "title": "Man räddades ur hamnen i Göteborg – misstänkt dråpförsök - Omni – Alla nyheter. Alla perspektiv.",
+      "description": "Man räddades ur hamnen i Göteborg – misstänkt dråpförsök Omni – Alla nyheter. Alla perspektiv.",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFExUnEwRFhvZGJJS1lORGZQR0xUZ2pMdDh5NVhiRnh3OWNuVkEtRUc4Yjh3UVMwM1FDUklUN3Y0SktTRjI4cnZmbko1cGYtMGswdGRYcnRsMVliRWc3RjFkRXNXM3ZDV0J6UDhNcEVmT0lrWk0waWlaYUZsRGR3cnFmMlFvUQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-31T08:07:47+00:00",
+      "impact": false
+    },
+    {
+      "title": "Två finalchanser för Göteborg - rakapuckar.com",
+      "description": "Två finalchanser för Göteborg rakapuckar.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XZ0lTY1hFV2xPaVBleUpaUWdyN2RWeURQeHNnOTFWTWQtS1k5Z3lKNXB0OTNSV2hOaEhxY0ZpdTR2TERPOEtQdnlsMTY2blNxT0tUdTliSzdfdVBUTkFXNW5BVQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-31T07:57:24+00:00",
       "impact": false
     },
     {
@@ -998,6 +926,15 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-10-30T22:27:42+00:00",
+      "impact": false
+    },
+    {
+      "title": "The $150 Trillion Global Economy in 2030 – Visual Capitalist - EnergyNow.com",
+      "description": "The $150 Trillion Global Economy in 2030 – Visual Capitalist EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVTRqUGJRaVFmdHpFOXlfVUJjaHVVb0Z6QnRxZFI5TUN2ZXpnNFFrbGRLQ2l5b0Z4Tmlad2VGVUNKNmsya2xKbkszRzlQR1RrTTVmNjE1WFVjMlE5alJKbTl4R2JDYzVYclFicEdpdzNvQVliZS1Rc2hNdTZQdFZPdGFKV0kxR2x6TFFkdE5XY2tRQQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T22:18:48+00:00",
       "impact": false
     },
     {
@@ -1109,21 +1046,21 @@
       "impact": false
     },
     {
+      "title": "Breakingviews | International financial commentary - Breakingviews",
+      "description": "Breakingviews | International financial commentary Breakingviews",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84QWlOZXgzaEhtckk1VVpIRWd5OHJEZXFYR0kxZzItaEhnaXh1QzJ1a2dFMkw5VHE4MGRiVTRQOWxIaTVZ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T16:38:12+00:00",
+      "impact": false
+    },
+    {
       "title": "Allsvenskan • IFK Göteborgs svar om Emil Forsberg: ”Jättebra spelare” - Expressen",
       "description": "Allsvenskan • IFK Göteborgs svar om Emil Forsberg: ”Jättebra spelare” Expressen",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS05aeExkRzVkeHJvRUNlNFhfcXNaMnpybkFQYXlILU5ZS1BJNkpRcTRnOUVaNUJIbEdFdF9KYUU4dlkwbzdzRTJ1a2F6cF9IWE1Ub3puM3Zha0NwVFpZTTk4QUFVVS0yRWhpdG05VXdzOTl0eGRpcUtCSjlnclh2Y1FaYWtWS3hFaHFMc04tZ3g2bmVQT2FVc0d1Z0VJUEp5?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-10-30T15:09:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "Vil avgrense gards­salet til to flasker vin per person: – Altfor strengt",
-      "description": "På Tjøme drøymer vinbonde Anniken Rasch om å selje vin rett frå garden, akkurat som i utlandet. No skal Stortinget bli einige om reglane for norsk gardssal.",
-      "link": "https://www.nrk.no/vestfoldogtelemark/nytt-lovforslag-om-gardssal-av-vin_-_-to-flasker-er-altfor-lite-1.18057944",
-      "source": "NRK Norge",
-      "category": "Nordics",
-      "published": "2026-10-30T15:03:31+00:00",
       "impact": false
     },
     {
@@ -1143,6 +1080,15 @@
       "category": "Local",
       "published": "2026-10-30T14:38:14+00:00",
       "impact": true
+    },
+    {
+      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted - PBS",
+      "description": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted PBS",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakJEWGNoUUZzR3RwMWstUktPTVRqVVd3a2Q4cnhuOGRoVXFBX0Mwalpqalh1UHpzZmpQX1hJVjVDS1lhdEpWdURRNnVSVzFyM196cVBWQmV3bl9TZDRXekhwb28zVFlpMTl6SGJuQVNZa2F6SG1ZaURvN2k0TEt0NUlPX0E5eFhyTzJIZGpaUWNHUHJyU2UtUjJfZWJYNzR1Zzc0R3lnNVZtZlZtUkRnVzl4d1VTUQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T14:25:00+00:00",
+      "impact": false
     },
     {
       "title": "Klimatforskaren Andreas Malm nekas inresa i Storbritannien",
@@ -1262,6 +1208,15 @@
       "impact": false
     },
     {
+      "title": "Göteborg slopar valfriheten i hemtjänsten - Bulletin",
+      "description": "Göteborg slopar valfriheten i hemtjänsten Bulletin",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1raEZxNnQwdWZJRHQzRktiZGthemg0STJ2TEZFZ1hrRG52dV95VVVibXduVTZQQVNMYU95VXI3dklpN21aUG1LWHo4akRid29ncms4UWtCRnVURGNxV1FxcmthMmRkS1FHS3I0TUln?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-30T10:46:06+00:00",
+      "impact": false
+    },
+    {
       "title": "Intern S-kritik mot strategin: ”Ett jättestort misstag”",
       "description": "Sverige står fortfarande utan ny regering. Inom de rödgröna partierna växer nu frustrationen mot S-ledaren Magdalena Anderssons hantering av regeringsbildningen, uppger källor för SVT. – Jag förstår verkligen Vänsterpartiets känslor och att de har känt sig lurade, säger S-profilen Annie Ross.",
       "link": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag",
@@ -1289,12 +1244,39 @@
       "impact": false
     },
     {
+      "title": "Vance offers to meet Iran's Rezaei for peace talks as Qatar renews mediation efforts - Iran International",
+      "description": "Vance offers to meet Iran's Rezaei for peace talks as Qatar renews mediation efforts Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GZUREd29UUlBkc2lkWEFoS2lwQ1llVW9nZjVoNHZFRTB0SmN5a2c2Unh0Uk9SWnAzaXg3YmpYSnZYQnpsY25VeTQteGNLYlprU1E?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T07:36:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
+      "description": "War in Ukraine | Global Conflict Tracker Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T07:30:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Man i Bohuslän misstänkt för våldtäkt mot barn – häktas",
       "description": "En man i 40-årsåldern i Bohuslän har häktats på sannolika skäl misstänkt för våldtäkt mot barn, sexuellt övergrepp mot barn och sexuellt ofredande. – Mannen är lärare, men i nuläget finns det ingenting som tyder på att brottsligheten har koppling till hans yrkesutövning, säger kammaråklagare Louise Larsson i ett pressmeddelande.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/larare-i-bohuslan-haktad-for-fyra-valdtakter-mot-barn",
       "source": "SVT Väst",
       "category": "Local",
       "published": "2026-10-30T07:19:03+00:00",
+      "impact": false
+    },
+    {
+      "title": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta - ABC News - Breaking News, Latest News and Videos",
+      "description": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUwyWFV3S210cEtiS3ZSTVFsRVl6N2lHUWlKaV9YWEFqSDNrWEdyQnVkdFk3UlJpamUzRzlJbktGeTRFLWFCWkNoTXNxdE9rMFZOeUdlRkQwclZ2cF9VdXRFUm00TWIyUEQyYkFEa3lOMGo0QzRnVGY4emZINWZNdUF5SFo5bUF2TU5XekdhWGpYSE1leXRaR2h5b9IBoAFBVV95cUxONHZEOURtVHd1cXJJTjlTOFBNUVpvWFRjNHBYMEd4M2t4T2cxdkY0ZU5xWDVVMDdQQTNnVDV0Ml8yY0Q2TjRrZWQwRFRlZmNnMEplMkhWdDRlc1o2WE11LUdlbndqYkRsa1BpdDFFNFlXREpTeFdtWlZwU2NLMzFZX3E4UDZOajVsLTB1MzlUN0I2T1Zjby1nQnhCcXVTM3F4?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T06:48:28+00:00",
       "impact": false
     },
     {
@@ -1316,12 +1298,39 @@
       "impact": true
     },
     {
+      "title": "Vietnam poised to seize opportunities in technology, green investment: Foreign ambassadors - Vietnam+ (VietnamPlus)",
+      "description": "Vietnam poised to seize opportunities in technology, green investment: Foreign ambassadors Vietnam+ (VietnamPlus)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3lSMExYejJtb19CeUh1bkgzaHAyTC1DQnhNRnFadjQ1YWV6YVJfTzVwNVNkMUFZTTVMSE1VOVdrRVYxQlJIbUhNLUZYUEoxeGhNb0tlVHdlc2RXVUY1WFVWbTVIcHc4U3I2bFlSN0NhVGxZMzVucEZhWm8wRW5aTU5heEhpMHNVbS1scHJhUDFVRkRIeGJKWnY5TEdEUDM0Q0R3ajhoMmRGQjh3UzVwa1Rjcno1dGlIUjNRQzJMd0dwX3hxN3RIUA?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-30T05:20:05+00:00",
+      "impact": false
+    },
+    {
       "title": "Forskare varnar: Snabb ökning av attacker kopplade till våldsbejakande nätkultur",
       "description": "True Crime Community, TCC, är en mörk del av internet. En kultur på sociala medier där massmördare och skolskjutare idoliseras och där copy cat-dåd uppmuntras. Nu varnar forskare för en snabb ökning av våldsdåd där gärningspersonerna kopplas till nätmiljön. – Sedan 8 september har vi noterat runt 13 attacker i tät följd, som alla är kopplade till TCC, säger Alexandre Rodde, masskjutningsspecialist och doktorand vid King's College.",
       "link": "https://www.svt.se/nyheter/utrikes/forskare-varnar-snabb-okning-av-attacker-kopplade-till-valdsbejakande-natkultur",
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-10-30T05:01:49+00:00",
+      "impact": false
+    },
+    {
+      "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+      "description": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T05:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Arab Spring | History, Revolution, Causes, Effects, & Facts - Britannica",
+      "description": "Arab Spring | History, Revolution, Causes, Effects, & Facts Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wM3FVSWZUa3ZtUjJUc0dZRDR1UWEwRHpsTy1RLUNNYm05cmgyV1lFYy05ZWdib1B6WmNQM3laNWNGay1acC1JdXprQjhjSHh5dURWUnQ2VQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-30T05:00:00+00:00",
       "impact": false
     },
     {
@@ -1376,6 +1385,15 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-10-30T03:38:42+00:00",
+      "impact": false
+    },
+    {
+      "title": "Trots V:s vallöfte – inga frysta hyror i Stockholm och Göteborg - Dagens Arena",
+      "description": "Trots V:s vallöfte – inga frysta hyror i Stockholm och Göteborg Dagens Arena",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcS10ejhMQ0xEN0FmWDFENU9RRm9PeHg0bU5nT3lQSEVha3NxLU9NX0tiR0RHTm1pRW0zSzdnbEJadFJoTEdBa3E5OERWS2RNcm5lT0FfWGRjNVpVcmRQQ01ldVB4dmFnZzItZEdySlAxaG10RTN4ckxhQk1zTkZ0b2t0MUdFQW4taDgtMnIwYjF5eTFMSHFqMlNCNA?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-30T00:32:30+00:00",
       "impact": false
     },
     {
@@ -1469,6 +1487,15 @@
       "impact": false
     },
     {
+      "title": "Pashinyan and Slovenian Foreign Minister Discuss Cooperation in Economics, Technology, and Investment - Arka.am",
+      "description": "Pashinyan and Slovenian Foreign Minister Discuss Cooperation in Economics, Technology, and Investment Arka.am",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdE5QSUo0a0JTWHZRZXNMQkppQTlhTndYVW8tY2EyR2FqbHR4MjJ1aE9WTVhSQTJZWTBMOTN0ZHNHN1JWSXBSMjdtNy1RbDlqTkF3VnZmMDdBOHNyTnRqcTlMQk92UnFkeklEaWhPWVdGMzYwcGpURnNRUW00eU03d1NaSG1IbDVFOXhsb08ySW91WnBRbEdzZlpBT1pfMXZFeHZMdkJzVzNiYndRNjdiTksyTFRlQ3BsLUhuamxwaFpKOXgyaFBFaElEcVE?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-29T17:35:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Rödgrön ilska efter beskedet – C-källa: ”Farsartat”",
       "description": "Rödgröna partiledare rasar mot talmannens besked om att pröva C-ledaren Elisabeth Thand Ringqvist i en statsministeromröstning. Magdalena Andersson (S) kallar beslutet för ”anmärkningsvärt” – och inom C pyr missnöjet. – Alla tycker att det här är väldigt konstigt, säger en C-källa till SVT.",
       "link": "https://www.svt.se/nyheter/inrikes/rodgron-ilska-efter-beskedet-c-kalla-farsartat",
@@ -1484,6 +1511,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-10-29T17:14:48+00:00",
+      "impact": false
+    },
+    {
+      "title": "DIREKT: Mjällby vann i Göteborg – tog tre blytunga poäng mot Öis - Kristianstadsbladet",
+      "description": "DIREKT: Mjällby vann i Göteborg – tog tre blytunga poäng mot Öis Kristianstadsbladet",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkkzdEdzbU1MaXpCdU42NzZzT3RCWm5jRUZsZEY0TEQ0YkpYTllMSXFNRndVcWloamRnMTJCZEoxMko5Qk5OaS13cld2SEVNRGwyQ3UyVkkzUjhmWXV3TzZlZENTMWc1XzJDVFFEWGxTLVZFLVppMldGOXNoa2tHMVFCdktGVy1BdG90VUtCSi1UWnc?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-29T17:00:00+00:00",
       "impact": false
     },
     {
@@ -1514,6 +1550,15 @@
       "impact": false
     },
     {
+      "title": "PM Modi invites Swedish companies to boost India manufacturing, green hydrogen, clean energy - ET Government",
+      "description": "PM Modi invites Swedish companies to boost India manufacturing, green hydrogen, clean energy ET Government",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdkpRdFhIY0N5eVVPSUt1a0lfYTM2OWlPdzgzdnRPSmhWcTlqSTY2ZlJDUEpfS3R1cmI5NXZTWE10WDAxa0h1aUVsakZJbDNiSTNxV2pjX1E2Qlp6QjFWV3lLSGJVQjBCQ3Y1bTFYTXB6RlNjenZpZmdiME04eUF6R0xZMm8xLTI0cFNYclRoRURlT3NQeVhZdTlCaVpYeVZrcV9vWHd0MmxYb3BialRqY2I4ZnpzS3ZEU190SXFtczlwWERlMVpCa3lIMlR5ZGJpQnJCRldjbGdUei1WRFRRaC1GcE8tQ2F5LUZHWENVSGdoRWNTV2FxYUxHdVbSAfcBQVVfeXFMUEU3V2hQbWpLTUtNa25sR0hndkZ4UWZ0SzM4MDdXU1l4OWJ0OC03ZUpHS3hiQjBBU1lCT2FBUXlKS25aX25EOEd5MFhVcHdfRW9HN3dhVWxzQnpaWDVVNG9GZHh3Q1FXT0sxYnpIRlJuNEZhcl8xREwtWXhKZ05XUGZTbG9ONTVpSnhrNkszZEV5MHFxV25aQVczcUdPTDhsN0pHREJiZjA3c2pSM0otQzRWZmU3cmxvUk1TZVluNTFzR3A2TXNzeERrMlBRdGhXMHE4dlhkd1F4UmRjelNQY2dmVDFUOU9Vd1k5MEJCYjNRQmtqd3NtUQ?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-29T14:45:03+00:00",
+      "impact": false
+    },
+    {
       "title": "Här är Konkurrensverkets tre frågor till VGR om Millennium",
       "description": "Konkurrensverket utreder om Västra Götalandsregionen följde lagen när de slöt avtal med Oracle tidigare i år. Nu har regionen fått frågor att besvara. Om det visar sig att de gjort fel kan en mångmiljonnota landa hos skattebetalarna. – Det är ett komplicerat område både det här och många av de andra uppgörelser och upphandlingar vi gör, säger regionens ekonomidirektör Emil Gisslow.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/har-ar-konkurrensverkets-tre-fragor-till-vgr-om-millennium",
@@ -1532,13 +1577,13 @@
       "impact": true
     },
     {
-      "title": "Nekter militærtjeneste og lærer ikke matte – likevel er de avgjørende i valget i Israel",
-      "description": "Israels ultraortodokse vil ikke bidra i militæret og flere frykter de er en tikkende bombe for landets økonomi. – Dette leder oss mot Israels undergang, mener aktivist.",
-      "link": "https://www.nrk.no/urix/nekter-militaertjeneste-og-laerer-ikke-matte-_-likevel-er-de-avgjorende-i-valget-i-israel-1.17992118",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-29T12:59:35+00:00",
-      "impact": false
+      "title": "Ny trafiklösning ska minska köer från Marieholmstunneln - Trafiken.nu",
+      "description": "Ny trafiklösning ska minska köer från Marieholmstunneln Trafiken.nu",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTM5YjBvaHJHWUtRbGI1ZVFLSjNaSmRZV2R1NmhCYVBsQW1yenFWQUFDUTZkaHZKWHRyYXRjV3ZxZU5JUDhJRzN4cWYwMjUyNHJiMW5ucVF0c09pWXpvdHJCWXJBOUpHNm0xaGF3dVZUWGNERkJrMlZGSjBmSlppTGpJdmhvT3JDV2l5UW1PTjl4Y2pONEdxRlJURGJzWTJZb2FtemhzdDNZQQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-29T13:18:51+00:00",
+      "impact": true
     },
     {
       "title": "E6 vid Kallebäck avstängd efter trafikolycka",
@@ -1568,12 +1613,57 @@
       "impact": false
     },
     {
+      "title": "New national security strategy calls for worst-case scenario preparations including ‘war’ - BNN Bloomberg",
+      "description": "New national security strategy calls for worst-case scenario preparations including ‘war’ BNN Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2ItT0dRd0dQYWhMVnNjOE93UHdXbFBWNVV6RGhyUDltVXBfS3Fma3ZHOUVWUXc0MUpVOTVsTEhxSmxkSncwcU5YdHo3UjNvM3psMy0yVzkyRzRCc3VrTjFIQk9OdjMxakNoNTUtbUdJTktxSVh1dDhWbWs0MC1DYktLZlg4aV9KX1VfNTkwY25hQW4zTFFBWUt5Z20xZDMwODE5MXFEUDJFdzVidVhLeTVYWEp1QzlaUFBzdWVfUkNVNXZoUHk5c1lRTHBOWlhCT2h5TnJLai1QWFAteW9raw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-29T09:56:43+00:00",
+      "impact": false
+    },
+    {
       "title": "Mellanårsvalet i USA – följ senaste nytt",
       "description": "Den 3 november går USA till mellanårsval. Då avgörs om president Donald Trumps parti Republikanerna får behålla makten i kongressen. Följ senaste nytt här.",
       "link": "https://www.svt.se/nyheter/utrikes/mellanarsvalet-i-usa-folj-senaste-nytt",
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-10-29T09:26:43+00:00",
+      "impact": false
+    },
+    {
+      "title": "Hårda slaget mot plånboken – därför höjs deras hyra med flera tusenlappar - Hem & Hyra",
+      "description": "Hårda slaget mot plånboken – därför höjs deras hyra med flera tusenlappar Hem & Hyra",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkZwcFNwZ3NWUllKaDZwVTNLYTVRMmVIMDhGaVE4LVVJcmRBUU5GUlFZSHFEWmRqZU1ZREhCcWoydlo2ZEU4NE1iOTFpdW0zR2NORmRZenRFemk5aTRndzJreDJjLU9vVGdXSElmUFFqTFYweElWNWlZVk01aEtQdkI3dG1BT3plOFRxUWh6N3dqaFhRRnBjcEVkSEZlcTJCci1nY25B?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-29T09:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats - ABC News - Breaking News, Latest News and Videos",
+      "description": "Carney, top EU official push Canada associate membership and wider alliance against Trump threats ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0kzYlZfX1MzdjB5QmZJVlZ3bjkzYU45aE12LTJNbTlLTEVBcFJvUmhQWEROSVRFdmJrcERBQjZzS1I0NF8wYW4zUVRKNk5ZT1IyUXAwdTBTa29uMUx3V3NWTWxuNEJTQXRSTGhOcHpycTFUSldmLVlla1F5SExQOEQ3dzBCOHRRQW1ubGphTEVCZkVFMmpFTjlXanA0Slc10gGmAUFVX3lxTE9FdFZrczNmNFUtaEs0UmNXSTVQVVdqZzM4czRyaS1wbWpNdlZmZGloeUpKQVR1TEZmWWJMR212NlZRcHJ3OHVWbDlQbmE0YnlvNlhnVzAtMlJuandZdUxCMjE0NHlpd0lJOTg0NTFiYUZabEwxVHBwbHdZdWlFZHVqdjZpVlJmLVNrV05lajB1N2FxYWtmY0l0ay1nWUNkMEc4TmFJZ3c?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-29T07:02:27+00:00",
+      "impact": false
+    },
+    {
+      "title": "What makes Singapore Asia’s economic powerhouse - Singapore Economic Development Board (EDB)",
+      "description": "What makes Singapore Asia’s economic powerhouse Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNlVVYlV3bDhEcGdMT0xBZXlGZWJJZXpKakNJbkRYUjlHTDhlYTNnSmxWaEt4TnRqZWhncnRZR19CVGlrZ1g0ZDVPa0NpcVdEemNsZGRkaVg?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-29T07:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "What Worries the World – October 2026 - Ipsos",
+      "description": "What Worries the World – October 2026 Ipsos",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMSC1vVzVZM041bWtWa2FPSTkzZDBDYnM1SV96eENhS19VdkVpQmgtdDE2WG1VNkU1NHlLVDJYYlA4WGxYV0pYV3QzQUJORU9TeEZ5NXVR?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-29T07:00:00+00:00",
       "impact": false
     },
     {
@@ -1592,6 +1682,15 @@
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-10-29T04:05:15+00:00",
+      "impact": false
+    },
+    {
+      "title": "Global Economics Intelligence executive summary (September 2026) - McKinsey & Company",
+      "description": "Global Economics Intelligence executive summary (September 2026) McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmgzTkdja3YzVE1LaEtHbGFYak1oUU9Pei1CR1AwOW4wak5uY3hRQk0wb1o1SWhObGhxTUZDaEZqSUZ0TjdqUS1Ed3hwclZJRi1YV0RLQzZIY3paTzR3R2l0dkp5TkhLYVdXbm5NREhjc0lSazNjRmhJNlc4Y0Z5c2d0MWZ0WWNqNVhWRjFIRUdnWHJvaEYzdmp6NnV3cXd3bjdybm9EVTN4TEgwdUJsVA?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-29T00:00:00+00:00",
       "impact": false
     },
     {
@@ -1622,12 +1721,30 @@
       "impact": false
     },
     {
+      "title": "Germany and Japan strengthen economic ties as global tensions rise - Euronews.com",
+      "description": "Germany and Japan strengthen economic ties as global tensions rise Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzFKSGFXU0JKNUtueUhhcXdRMG5IdGw1bE9uMzg0RklGNVdTU0wtR0FwazhwbXE0dEVXMkNhd2FFS3pRSXY0bG1VZWotVHhCR2F6cW4wZDdYa2FIYW9OS1AwWjhFLU11Uzl5YkRmRk5fVnk0YktMR19Bb2pJcFNGYUhRRUJWaEFuWmQzV292VTlTVENfNnBrSS10N0x2RFRvVERzSg?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-28T14:16:18+00:00",
+      "impact": false
+    },
+    {
       "title": "Valmyndigheten: Vi är redo för extraval",
       "description": "Riksdagen har efter ett försök inte lyckats rösta fram en ny regering. Om man misslyckas med alla fyra försök väntar extraval. – Vi är redo, säger Valmyndighetens kanslichef Anna Nyqvist.",
       "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-vi-ar-redo-for-extraval",
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-10-28T08:30:14+00:00",
+      "impact": false
+    },
+    {
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-28T07:00:00+00:00",
       "impact": false
     },
     {
@@ -1638,6 +1755,15 @@
       "category": "Local",
       "published": "2026-10-28T07:00:00+00:00",
       "impact": true
+    },
+    {
+      "title": "UN condemns US economic embargo of Cuba though more nations sit out after Trump administration push - News4JAX",
+      "description": "UN condemns US economic embargo of Cuba though more nations sit out after Trump administration push News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQemtSMEg0UXRiU0xhV0Z2M2F6QjU3OEpKRmxHc3hZd3ZMZEJSZUxKNmdXNkdBU1M2WEg3SkwwRHhaVG91SmF5Q3JZckRURHdQTUh5U0JjVnNsY1otQ280eTg2TnRtTlJHMFBzWmVkM0k1bDA5Z0F4S1JWSUNkVUllcVA0dWtQbm9PS0w1XzBCZjEzSWtZTXJsMlZYU3NhbDI1OFZoSnBmZWVCMlZDZW5tU2RsNE93ODhoYkZNbk5XcG5Da2tvdXJjNENFZw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-28T04:07:43+00:00",
+      "impact": false
     },
     {
       "title": "Misstänkt dataintrång mot nöjesparker",
@@ -1658,21 +1784,21 @@
       "impact": false
     },
     {
+      "title": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It. - The New York Times",
+      "description": "The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It. The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHZ2c2JMQTZCSDJGZWdLc1B3dkNlQW5Ici16QUU2LXdkQURUZnA3YzFHcVFZVmtMcHdXT3ZDMGZBZzZ3LVZlNFN1RDVRTU50bnUxYWhvOXI0WkxQTHFzQS10MkFJNmVFYXZzc0pNTjFNeTNaR1VLQTN4R2Z0c0oxMU9aUDBCdw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-27T17:30:52+00:00",
+      "impact": false
+    },
+    {
       "title": "”Jesper”, 42, utsatte familjen för psykiskt våld",
       "description": "”Jespers” våldsamma utbrott skrämde familjen. Till sist ställdes han inför ett ultimatum: söka hjälp eller skilsmässa. – Det gick inte att lugna mig, det gick inte få mig att backa en millimeter, säger han i SVT:s Du måste gå.",
       "link": "https://www.svt.se/nyheter/inrikes/jesper-42-utsatte-familjen-for-psykiskt-vald",
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-10-27T17:21:06+00:00",
-      "impact": false
-    },
-    {
-      "title": "Daniel er velgeren Netanyahu frykter",
-      "description": "Tusenvis av jøder har fløyet til Israel for å stemme mot Benjamin Netanyahu under dagens skjebnevalg. De kan være med på å avgjøre valget.",
-      "link": "https://www.nrk.no/urix/daniel-er-velgeren-netanyahu-frykter-1.18065943",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-27T14:53:32+00:00",
       "impact": false
     },
     {
@@ -1730,12 +1856,48 @@
       "impact": false
     },
     {
-      "title": "Serbia kastet Putins venn",
-      "description": "Studentenes protester har snudd opp ned på politikken. Nå skal deres håndplukkede kandidater – mange uten politisk erfaring – styre landet.",
-      "link": "https://www.nrk.no/artikkel/serbia-kastet-putins-venn-1531003",
-      "source": "NRK Urix",
+      "title": "Singapore tops global innovation ranking of over 70 countries - Singapore Economic Development Board (EDB)",
+      "description": "Singapore tops global innovation ranking of over 70 countries Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVByYmhvXy0yVUF5aVlpVWJRcW11N3lUelJBR1diQnJ1WXNVZ29VNHViRTI2cmFzN0hGTUE4Yk1WNlh2ZVlhRExybUpEOFgwbGlLdUhCVER6eEFVRnFLWTJVWWpnUG5hbUhNYVV5NTZMVGFlcmRrelh1RnVwS2VCc1Z0eGtSM3I2VWJSLXlTLTk1Zi1nVE5EQWZOeTh5cmVwZ0Jodg?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-27T07:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Singapore launches review of economic strategy to stay ahead of global shifts - Singapore Economic Development Board (EDB)",
+      "description": "Singapore launches review of economic strategy to stay ahead of global shifts Singapore Economic Development Board (EDB)",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnBYTEJWMzlndFZySTRwLS1LTDRodXJzbVZuaWNqMzFvUnViczU4Q2cyT1o3dHIxellnVVB1ZWlhNml3RGhSVTJKemREaHZvTkl6dE1CZ29zQWxXTV9YaVhOZ0xkb29uMXFGQXU5aHhSUTFLQU55dU5aM0VaaVlwQWwzOEg4ZWM1TUhybTRCeWo0N3EwYmdULU1yRjFoUU5rZzA4Njg3cUxfc2YtUEFrMjlkSXIzcGNweXc?oc=5",
+      "source": "World English",
       "category": "World",
-      "published": "2026-10-27T07:53:30+00:00",
+      "published": "2026-10-27T07:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "20 New Technology Trends for 2027 | Emerging Technologies 2027 - Simplilearn.com",
+      "description": "20 New Technology Trends for 2027 | Emerging Technologies 2027 Simplilearn.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96Qlh1S3htejlyck9TZjZacklqZ0dpMUpwRWJxMWtkQkVpSUl6c0I0S0M5MWdfV0JQOU0yZkpfVVFUN3kwZGFyMHFlWWdaYnIwWmpDOGxIOG96NFNYS2JfWi1VcjJxTGVzSEppUVpScGlqTksy?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-27T07:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sweden - Economy, Trade, Manufacturing - Britannica",
+      "description": "Sweden - Economy, Trade, Manufacturing Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JNC1BdG16RERUR2RJbFdhTVdqTkFBTV95VzJ3elFfTkZiWTZ1N094S2sxdFg2b1owVDBQUDI3SEdfMXM5VEJnZXhkZU8xZS10LWVlVDJyTnBkNkU?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-27T05:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Nigeria - Politics, Economy, Society - Britannica",
+      "description": "Nigeria - Politics, Economy, Society Britannica",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zdWszdVVmVy16SXNWeDUzM0dYR2o2UjM0VmtQQ3YweXhQdW9fNnFnaUoyN2tkV09qcEdsdTl6N2NhZHROaGlCZTMzMVYwNVppRHdRUGxoZW1JdkgyT1RxZFRSei01cEh5Xy1yU2ZxRGg?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-27T05:00:00+00:00",
       "impact": false
     },
     {
@@ -1748,21 +1910,21 @@
       "impact": false
     },
     {
-      "title": "Hvem skal styre Kina etter Xi Jinping?",
-      "description": "Spørsmålet er rett og slett farlig. Denne uken blir det likevel stilt.",
-      "link": "https://www.nrk.no/urix/hvem-skal-styre-kina-etter-xi-jinping___-1.18062575",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-26T22:53:32+00:00",
-      "impact": false
-    },
-    {
       "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
       "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
       "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-10-26T15:25:04+00:00",
+      "impact": false
+    },
+    {
+      "title": "Top Economist Warns 'Oil at 150' Could Deal a 'Significant Blow' to the Global Economy if Iran Conflict Widens: 'We Don't Have These Two Other Things That We Had Before...' - TradingView",
+      "description": "Top Economist Warns 'Oil at 150' Could Deal a 'Significant Blow' to the Global Economy if Iran Conflict Widens: 'We Don't Have These Two Other Things That We Had Before...' TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOaUd0OHlXb2NoNXE2S2VfakJsbXg3QndBSVZhSWVlWXRrcUdzaE9UU21hbkRMcEE3ekZOWlVTQUs1UWpmUUNMM3NteDBsZlNhNzNwWG5fUDgzNFMtUzZxRjJLaTMzeEt1bmhsTW1SWER6OWJ1NzdxTHNqb2hBWVhNZVI4N0NwZEZFa25lZTA5NWR1X01CM1p2M002dEFldm94Uzl1eklJQk03c1BJUi0zYUdTZ0lzYi1kQkxRa3RkLUxqSks5TUFTUmhmam16c0JvaDFuZ2N5QzNJcTgxcFo4dXNIcWZvcnctbWxDZV90X2NUN3FLS3Q5bm9JNFlaeUJGOFdmTXVfdnUwa0VJNXhRREYyakE0aUtHbE05akdIdUhSbzdNU3R6ak5KYjQwNkMzWWJNVEVIcEJpVE5vWEVkUTE5bw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-26T12:58:39+00:00",
       "impact": false
     },
     {
@@ -1793,12 +1955,39 @@
       "impact": false
     },
     {
+      "title": "Sweden Center Leader Reports Little Progress in Coalition Talks - Bloomberg.com",
+      "description": "Sweden Center Leader Reports Little Progress in Coalition Talks Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaFh5MXNhN3ZzMmE4cFpqX1RBcWR5UmZ5VFIwNFhHVlZyNktIdk9YaXgwT0dfWUJXUV9Ic3N1d1FtMGItakxnNVJ3TWkzdWttTE9MRzlUT1B1dk5DZlI0Y3RSYVZuMjNhUWEya3Z3XzB6QkpaeTJwdDZGcTlvWkRRSkhnWVlwcTRYSkp0QlBWT3Z3di1UWlYzMUQ0a1pzZ25JYU5ueVQtSy1mdVBpRk1OcWh2cjA?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-10-26T11:09:55+00:00",
+      "impact": false
+    },
+    {
       "title": "I dag presenterar Thand Ringqvist (C) sitt sonderingsuppdrag",
       "description": "Centerledaren har haft sedan förra måndagen på sig att sondera möjligheterna till att bilda en regering. I dag klockan 10 rapporterar Elisabeth Thand Ringqvist tillbaka till talmannen om hur det har gått.",
       "link": "https://www.svt.se/nyheter/inrikes/i-dag-presenterar-thand-ringqvist-c-sitt-sonderingsuppdrag",
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-10-26T07:04:38+00:00",
+      "impact": false
+    },
+    {
+      "title": "Weekly market commentary - BlackRock",
+      "description": "Weekly market commentary BlackRock",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-10-26T07:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Stora skillnader i vård vid könsdysfori – Göteborg sticker ut - Dagens Nyheter",
+      "description": "Stora skillnader i vård vid könsdysfori – Göteborg sticker ut Dagens Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTnA3U2NDUmdvQmpPbVpvZ1BkcjlRWEE2NUJkNTJMT3MxRG9yWk1qMFRUUVV6WFhYY2xUMW9wbnlGb3h2X0RDa0daRlgzQVJTejd4Ni0yZm9kZjZoaE9aV3NhYXR3eWc4amFTLW5pYWpqWlNkWHhWUkEwUXZHUmFIYnAyTUdUVkk0b2VhcHVBVQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-10-26T06:16:40+00:00",
       "impact": false
     },
     {
@@ -1820,435 +2009,12 @@
       "impact": false
     },
     {
-      "title": "Derfor stemmer de på Flávio Bolsonaro under søndagens presidentvalg",
-      "description": "",
-      "link": "https://www.nrk.no/urix/xl/derfor-stemmer-de-pa-flavio-bolsonaro-1.18064351",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-25T21:11:52+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nu drar stormen in över Sverige – flera gula varningar",
-      "description": "Stormen Boelo drar in över Sverige på söndagen. Regn och hårda vindbyar på över 20 meter per sekund väntas på flera håll i landet. Flera gula varningar har utfärdats av SMHI.",
-      "link": "https://www.svt.se/nyheter/inrikes/nu-drar-stormen-in-over-sverige-flera-gula-varningar",
-      "source": "SVT Sverige",
+      "title": "Flödet är inte tillgängligt.",
+      "description": "Besök Google Nyheter och visa de senaste rubrikerna.",
+      "link": "https://news.google.com/?fr_unfepa=1&oc=5",
+      "source": "Google News Sverige",
       "category": "Sweden",
-      "published": "2026-10-25T05:47:20+00:00",
-      "impact": true
-    },
-    {
-      "title": "Mats Knutson: Därför kan inte C släppa den röda linjen mot SD",
-      "description": "Centerpartiet håller fast vid sin röda linje mot Sverigedemokraterna. Det har partiledaren Elisabeth Thand Ringqvist upprepat flera gånger under veckan. Men varför sitter SD-motståndet så hårt inom C? – Det finns tre skäl, säger SVT:s inrikespolitiske kommentator Mats Knutson.",
-      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-darfor-kan-inte-c-slappa-den-roda-linjen-mot-sd",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-10-25T04:38:41+00:00",
-      "impact": false
-    },
-    {
-      "title": "Experten om skjutningarna: ”Indikation på att en konflikt blossat upp”",
-      "description": "På mindre än en vecka har två personer dödats i skottlossningar i södra Stockholm. – Risken blir kraftigt förhöjd att det kommer att komma fler skjutningar, säger Manne Gerell, docent i kriminologi vid Malmö universitet.",
-      "link": "https://www.svt.se/nyheter/inrikes/experten-om-skjutningarna-indikation-pa-att-en-konflikt-blossat-upp",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-10-24T19:58:48+00:00",
-      "impact": false
-    },
-    {
-      "title": "Stormen Boelo drar in över Sverige – påverkar tågtrafiken",
-      "description": "Storbritanniens nationella vädertjänst, Met Office har utfärdat nya varningar för stormen Boelo i Skottland, Nordirland och norra England. På söndagen väntas stormen dra in över Sverige. SMHI har utfärdat varningar för kombination av regn och vind i flera delar av landet.",
-      "link": "https://www.svt.se/nyheter/inrikes/varning-for-livsfara-nar-stormen-boelo-nar-storbritannien",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-10-24T12:30:50+00:00",
-      "impact": true
-    },
-    {
-      "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
-      "description": "Ukraina har igjen en stabil forbindelse til Starlink. Det gjør at dronene kan brukes med full kapasitet i krigen mot Russland.",
-      "link": "https://www.nrk.no/norge/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063632",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-24T08:45:30+00:00",
-      "impact": false
-    },
-    {
-      "title": "– Kan bety slutten",
-      "description": "",
-      "link": "https://www.nrk.no/urix/xl/frykter-for-amazonas-fremtid-dersom-bolsonaro-vinner-1.18060237",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-23T18:43:56+00:00",
-      "impact": false
-    },
-    {
-      "title": "Trump om Starlink og Ukraina: Elon Musk har gjenopprettet det",
-      "description": "USAs president ville ikke svare på om han ba Musk fjerne begrensninger på Ukrainas bruk av Starlink.",
-      "link": "https://www.nrk.no/artikkel/trump-om-starlink-og-ukraina-elon-musk-har-gjenopprettet-det-1530768",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-22T21:03:05+00:00",
-      "impact": false
-    },
-    {
-      "title": "Dødelige skipsangrep setter Nato på prøve",
-      "description": "En kjemikalietanker ble angrepet innenfor et Nato-lands territorialfarvann. Utenriksministeren kaller utviklingen svært alvorlig.",
-      "link": "https://www.nrk.no/artikkel/dodelige-skipsangrep-setter-nato-pa-prove-1530250",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-19T13:45:48+00:00",
-      "impact": false
-    },
-    {
-      "title": "Vil ha ny norsk EU-debatt: – Mye har skjedd siden 1994",
-      "description": "Skal Norge bli med i EU? Spørsmålet splitter nordmenn, men stadig flere er åpne for å ta diskusjonen på ny.",
-      "link": "https://www.nrk.no/stor-oslo/vil-ha-ny-norsk-eu-debatt_-_-mye-har-skjedd-siden-1994-1.17994600",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-19T08:43:25+00:00",
-      "impact": false
-    },
-    {
-      "title": "Opptøyer i Frankrike: Rådhus satt i brann",
-      "description": "Det meldes om kraftige opptøyer, plyndring, hærverk og omfattende vold i en rekke franske byer. Flere hundre er pågrepet. I byen Limoges er rådhuset satt i brann.",
-      "link": "https://www.nrk.no/artikkel/opptoyer-i-frankrike-radhus-satt-i-brann-1530409",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-17T22:41:45+00:00",
-      "impact": false
-    },
-    {
-      "title": "Trump om Ukrainas nye angrep på russiske oljeanlegg: – En skam",
-      "description": "USAs president Donald Trump kaller de nye ukrainske angrepene på russiske oljeanlegg for «en skam».",
-      "link": "https://www.nrk.no/artikkel/trump-om-ukrainas-nye-angrep-pa-russiske-oljeanlegg-en-skam-1530320",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-16T03:06:19+00:00",
-      "impact": false
-    },
-    {
-      "title": "Minst fire drept i masseskyting på barneskole i USA",
-      "description": "Tre barn og en lærer ble skutt og drept på en barneskole i delstaten Oregon i USA torsdag.",
-      "link": "https://www.nrk.no/artikkel/minst-fire-drept-i-masseskyting-pa-barneskole-i-usa-1530312",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-16T01:19:15+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lägsta arbetslösheten bland utlandsfödda på 18 år i Ale - Newsworthy",
-      "description": "Lägsta arbetslösheten bland utlandsfödda på 18 år i Ale Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdldEcWMwZ3pGUlBlLV85dHgtSHUtTFlmallPRC1hWHJ5d3lfV1BiVjdpaHhiYWdmS3AxVnZkNHl4VFlWdi1yejN0TE9qdWVWVmF6T0tNUlp6bDRkLWRLa2lfcVBfTEVZYlhDcHd4eGpaVVVQQWNvQjJZanBSOEpmNFNRekpHaGN3VUJiWXZ3cGZSOXpjSzZqdWZWM3o5QndmTGpRRDhCNXhROFdyRmRUX3NiZkFtN0NVYzF2aWJ3?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-10-15T08:17:51+00:00",
-      "impact": false
-    },
-    {
-      "title": "Så många är långtids­arbetslösa i Ale - Newsworthy",
-      "description": "Så många är långtids­arbetslösa i Ale Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3cmxMOG5UVHlJT2JiR2hycnVfT3h2QVZOVkFjRDZnSTU0MmVxZm5wQUhXNHNSSlNYV2tPazNlelo2Ym51LWFhaE9NZUo2b1dBWUE?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-10-15T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Tiltalt for krigsforbrytelse etter Nord Stream-sabotasjen",
-      "description": "Den ukrainske soldaten er anklagd for å ha deltatt i det spektakulære angrepet på rørledningene i Østersjøen. I dag starter rettsaken.",
-      "link": "https://www.nrk.no/artikkel/tiltalt-for-krigsforbrytelse-etter-nord-stream-sabotasjen-1530027",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-14T08:11:25+00:00",
-      "impact": false
-    },
-    {
-      "title": "Bostäder: färre visningar i Ale – men ökat tryck - Newsworthy",
-      "description": "Bostäder: färre visningar i Ale – men ökat tryck Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTRmMUNRZko2YUtROHRrM3lCWUpXLUdnTGFjTVpOT0xyM09PdkRHc0FUdHg0T2VFRWU3QmdjcjVZdl9RVkQ5bUFheEJhSmRYWUdydFpuaFdPMkZiUzdiUEdyY3lrd0h2ZEVUSHh0c0tZb3ZCamFvRGhKd1N3Vkp5ZlJmNXhhYlp1Vzk3OWlxeUF3OTlOTGhwZFVESS1uaTZxS3BmWkhmTQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-10-12T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Elevar blir vansira for livet: – Det einaste vi kan gjere for å bli høyrde",
-      "description": "Det er Frankrikes største elev- og studentopprør på 20 år. Jan (16) meiner at det er verdt å slåst mot politiet for å få det betre på skulen.",
-      "link": "https://www.nrk.no/artikkel/elevar-blir-vansira-for-livet-det-einaste-vi-kan-gjere-for-a-bli-hoyrde-1529983",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-12T06:55:46+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nå vakler Trumps skanse i Iowa",
-      "description": "To bønder merker president Trumps politikk på hver sin måte, men de har én felles bekymring.",
-      "link": "https://www.nrk.no/urix/na-vakler-donald-trumps-skanse-i-iowa-1.18050801",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-11T09:00:15+00:00",
-      "impact": false
-    },
-    {
-      "title": "Gaza etter tre år med krig",
-      "description": "Mahmoud og familien hans lurer på når livet kommer til å bli som normalt.",
-      "link": "https://www.nrk.no/urix/xl/dette-er-gaza-etter-tre-ar-med-krig-1.18047555",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-08T20:30:09+00:00",
-      "impact": false
-    },
-    {
-      "title": "Knuser rekorder i Arktis: Shipping-giganter ser mot Norge og Russland",
-      "description": "«Panstar Acro» sparte 20 dager på å ta snarveien gjennom Arktis. Mindre is gir både muligheter og utfordringer for skipsfarten.",
-      "link": "https://www.nrk.no/artikkel/knuser-rekorder-i-arktis-shipping-giganter-ser-mot-norge-og-russland-1529028",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-08T17:56:03+00:00",
-      "impact": false
-    },
-    {
-      "title": "Først nå kjem den første orkanen til den amerikanske golfkysten",
-      "description": "Sidan målingane starta har ein aldri komme så seint på året utan å registrere ein einaste orkan i Atlanterhavet.",
-      "link": "https://www.nrk.no/artikkel/forst-na-kjem-den-forste-orkanen-til-den-amerikanske-golfkysten-1527545",
-      "source": "NRK Urix",
-      "category": "World",
-      "published": "2026-10-08T09:14:04+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skolanställd slagen, riven och sparkad av 11-åring i Ale - Göteborgs-Posten",
-      "description": "Skolanställd slagen, riven och sparkad av 11-åring i Ale Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkpxQnJfTHJybmRvWmF1NlZqUmRoVXB2bmJXRVVpV09zOUpVaVM4NzVuS1Y3NWlHQ1dmbHR2cENZb1VCWmRjYUxXNkZieGZtaWRraV9oMXdKWldCOV92VWwxYjdFX0JrdmNBZU91QnBraWhNVTE3U0d2WEZCMFQzRXFkXzB5bENkTU9vbVRKU2RfZ1lvR1ZoekY1bWdhMkVETnFfMDVkYzBjeS1JY2lXZEtrREc2VUd4dngyVzJUaG5MMzZZZE5xaUoycDBPNWlqQVF0N1J4SQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-10-07T07:00:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Är Ale en av Sveriges bästa miljökommuner? - Alekuriren",
-      "description": "Är Ale en av Sveriges bästa miljökommuner? Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOODdZTHNhOVcxSUNCYXRuS1o0Q2pYbzlZbTAxWlVSb0ZrRnVWcVVTR1Z4Vl9ucm55OWMzRUhpWlVpcmdhcHNtbWRxSGxUSWVDYW5QU3dSLXdhNXU1elhmaFhfZW9NeWl1ZFQ4OUdrQ3ZyWjJnUkRCaXY0U1NZT3MzWUFn?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-10-02T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "De kan bli Sveriges miljöbästa storstadsnära kommun: ”Vi har lyckats minska hushållsavfallet” - Aktuell Hållbarhet",
-      "description": "De kan bli Sveriges miljöbästa storstadsnära kommun: ”Vi har lyckats minska hushållsavfallet” Aktuell Hållbarhet",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd09nU2RaczlYUnZXM3RYVnJ0bm5kRnV0OTd2dG92T2k2cjJTaXQtaWVROUtwLTM2WEhTYVg1ZjF3ZjRKc3dZSEdmSFFtSlZ2M2toWnF2ZUFnQ3U3U09kUjR2aFdvOHVEbHNZUm5IbWlWSGhlSkpmc3FvMlI4aWdTTWM4OVJhUDdaU1ZVcVB3dWphZjF0VnhnQ0hVX0V5SU8xZVFLVVNKZHl2cUdkcl9naHFyVk5OalZIOGg1NUY5bWhTbm85VjRlZ1ViVHFqcE51dlFjLTJzWjJrSlpmeDdCaWpfMWFwdjhOQlE?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-30T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fler älgar skjuts i Sverige– så är läget i Ale - Newsworthy",
-      "description": "Fler älgar skjuts i Sverige– så är läget i Ale Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRlRna0VsRlFuVUs5VkNTcGRTazQ2SEhrVU5fdmdxT3B1c19JbXdJakxlVFJSd0hFRnpHb01US0FhQ1pJZ2EtNUU0NnNkcGJudnZvTFBldHB5NlU1UGZ6MXZDanhnUm5OMDhRbktjZXcwQUJocFdheHdmUEhic1Vja01mNGFxY3ZpLXktY2tmcjZjQlBsTFlDUDhNcFgwQ1Raa2NSZnlHampvaDA?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-28T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Maktskifte i Ale – Liberalerna har valt sida - Alekuriren",
-      "description": "Maktskifte i Ale – Liberalerna har valt sida Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXRBdnRkd1pVWjVhcnJoTVM2MDRJMDZBYnQwNm1EZmlYMl9HenFWSWpIOFlYcGNEeDZ0ZFJUUHBmbDBoT1h4bFRzeG5zX003Y2VZM3FhVHVJVnd5aDFqSVI1WXU5dDJoYi0wU0JFdHAwWXA5M3lsdHNfNTFHZWtNOE9pYUNxdw?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-24T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Liberalerna kan bli vågmästare i Ale - Alekuriren",
-      "description": "Liberalerna kan bli vågmästare i Ale Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13ZEYxQ0Vfd0pZVF9qWjYxVHNnQ3lLbk1Jb3R4QmZ2Qm9SVHBXRWpiWHpXRnJWZldvME9WYlhTbVRmWDE3bjlyWmJOa00xenJ3MnA5Tm1jTzZ6aWQ2czU2c18xbHlCS0x2eng0V1RR?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-14T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Uppsamlingsräkning klar: Här fick Kristdemokraterna sitt största stöd i Ale - Newsworthy",
-      "description": "Uppsamlingsräkning klar: Här fick Kristdemokraterna sitt största stöd i Ale Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLWpyUld4dkZ0c2ludGU0NGpYSWxhYU5BZXZSaVpaWGwyZmJyVnp0OG5NVFVKa2hSTTV5czBRR0p3dEF4T3E2eE0yOGp5c2NiWC1NMXRXMTI0ZktMYTlaQjkzLXZiRVc3eUNWN1ZKbk9JclFhWmlyR2hyWXozUzNxUXBnb0VmbXBCcFRtckdHLVVPQzdOdGsxUC1YRWhlZk8wSWZCYVFGYWh5Sjc5X2Q3TVJGSkdvYlBvNU5TY3ByVHVQM281cS13THAxSjEtZ1VOOHc?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-14T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Uppsamlingsräkning klar: Sverigedemokraterna minskar för första gången i Ale kommun - Newsworthy",
-      "description": "Uppsamlingsräkning klar: Sverigedemokraterna minskar för första gången i Ale kommun Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWEV3dEJNR2dFLU9VNDBnek9QRC1OcVhzQnVMVjM1VGxmNWxka0tZQmFkVmEwWGhVcXlyNEN6eXh1S1htRVFpMkdyRC1rNWEyeHhKMTBxeUo0WjdiVW02YWd4M3piMEZZLTNfUW9ZeXJkbTdwbWIzVzBvV1pJaXFtUjZfQ3hPNmQ2NUswSHVfZXdhVFhzRl9CX2pDRXFjeUZNWFViQklPbnFwUVNUZ0RtNm9zbm1RZjV3SU5OYXdLWUhJRjdSREJqUm5MOEFUQ2Zfdjc1WmJLOEF5Q0lv?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-14T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fortsatt högt tryck på förtidsröstningen i Ale – mer än var fjärde har lagt sin röst - Newsworthy",
-      "description": "Fortsatt högt tryck på förtidsröstningen i Ale – mer än var fjärde har lagt sin röst Newsworthy",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd2w0UnpDU2VzMlFORmJ6anVMZlp2WTRNR3hhRGpoYk92RFc0M1NQdWZkcFZsWWoyZVFTcmlUdkVudjVuUkZHRmVuQUxhY0FiLTFxLWZQNjByNXV3ZUp4alZJQkwxNE92ZUhvZHNKQlRmeHRxSUFpSDdocUNMUzlpSUtjMUZSak5FQUVsY1M3NTVtZ0taZ0lIVDRxcGtvRlRqQ1Vhb21sWUhDYWpPVGlYaDdOdDRHVkpUOHQwNGhLRncyTUptYTdSMXZJY0NfWlJEbVkzTU5DNlRqRzVud1p2VHctMkROMlR0YU5HMHFnT3FLQQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-10T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Viktigaste frågan för Ale efter valet - Göteborgs-Posten",
-      "description": "Viktigaste frågan för Ale efter valet Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGFZVUVuTU5aOGpLanNZRVJPdDB5VWhiRUgyeGJMVDRwcGVXSGdUcUpoRHExaEdwUXpNYzRZWGREc0I0cUtSQ0dDS0hORi1xMmVIX3N1bWtTTTFLMVdiVW91akRHUGFiUTg3cEY0QWw3TV9ENFN1UFpSTndjNzBJLXduMmtYTkl0Wlh3Q2M5RXoxSEFnVXNRQl92cTh3UnZoa3pESkJ1YnNTRHd2YWo5QWZjd2VtUHVmdE5B?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-07T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ale bjuder på kultur och natur - Alekuriren",
-      "description": "Ale bjuder på kultur och natur Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oY1RXQVZPMF9YTE9lOUIxX1NwYkpENTlzX0pfQWJmZzE4ZG1OSDM2TW5RWDA4VE43WTJVTU5UdnlINTNzN2tOWGFYWVVFNmdtajhEc19JT1ZGRTVRLVMxNmlZcUVwVkp3b2F5Si1HeTk0UkU?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-07T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "\"Ale kommun – en plats som ger slow motion ett ansikte\" - Alekuriren",
-      "description": "\"Ale kommun – en plats som ger slow motion ett ansikte\" Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWnRfREJDV3BXWEpsaTVsbWN4OE5MMmFxUFB4ekZHbElZVC1mNDhVNXVmRlRQbFY5SFZnb2ktSGhxYUlkaUVOZlZlbEV1TUpPWDA1a0FNVjM5RmhDLVRNUG93eFd1MkFOWnViWWhnRWp1SUFaNy00UDgtX2hUT1pIQnpnZnBRTWxWWmE3aGZB?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-09-05T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "”Jag ser en oerhört stor potential i Ale” - Alekuriren",
-      "description": "”Jag ser en oerhört stor potential i Ale” Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNaGJBbmlhR1pobFE4SWRCb3hCQXNqdENsMHJISkpNMHo4SDJzOGI2bkg5cTBIcWhJTlk3cXRPcE41QXlpa0I5N19iMTBmTnE2WmhCbDd3TjRXcXRyU3pmZG5Oam16NFdvdWN6M2JGVk5XVEdfNGt2UnQyY2RZbnM?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-08-29T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Hur hade det sett ut i Ale om Socialdemokraterna styrt kommunen? - Alekuriren",
-      "description": "Hur hade det sett ut i Ale om Socialdemokraterna styrt kommunen? Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVdmYXlkV2lHbEtpU0lSZ1dlZzRYY0FKRnVGWUFnY0NrZmhmNHBOSTRHTWx4dFhXeEpMeDVPMGJkX0kxNXNsQXN4VWpoX3BuR25kSVVmczc4ZXZGZzZYUWtjYmx0X1FMZFRpOUwzeFUxWk83eV9LeUJrUkZtaGd3V1BjVkZLNmJPWVpJVjQ3M0xxTVZETllhdVVXQ1hiUQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-08-29T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ebba går vidare efter tio år som förvaltningschef - Alekuriren",
-      "description": "Ebba går vidare efter tio år som förvaltningschef Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWtIR1NJbUZvU3FPbFVjSDNrVHFRSmxETWhmX2lBbV9aanFHeEJlY21ZRmtkV05GU3JMY0hDaWtyMURrMlhoVzZCQmZoaDRRRWxnMXk1ZFdkcTlOVkhlVTBzY1hUc0I5ZUZkTndiRG5Zai13Slc4YlVHOGs1NW45VmJrVEtoQWJkLW5Fag?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-08-16T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ale överklagar stoppat bygglov – vill få 75 år gammal detaljplan prövad - Alekuriren",
-      "description": "Ale överklagar stoppat bygglov – vill få 75 år gammal detaljplan prövad Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3lBbnBrV0FQaWZXcDRmNG9wZjd1djVBekJVd2xfOTM1RVVtQ3lySUVtN29qSFkxMkRQOHpqNmNNazdES1FDVHE0M3dDNy0waW5DNGVQZWNmYXkzcVRTQ05HU1FjT2FxOWxLNEpkWm96b2trdUxsQ09FWTV2WWNMdldBTXVleXI1SWpFSHZ5aUxDbjZHdl9aM1lsNmJEMWJBUmgxR0Nvcw?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-08-15T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Löftet: Gör det gratis att hyra idrottshallar i Ale - Göteborgs-Posten",
-      "description": "Löftet: Gör det gratis att hyra idrottshallar i Ale Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmxWR050cVgxNm5OX3owSUlsOWJsX0s4dnl3SFRYQUR6dzlWemNnRFZadXBnTVBDQnJoLWRJWDRQQ1lxYlBjZEg2bTdXVjlCSTRJQnppeHJ4NHYtcGRJRGtzUFZ2MVJRSEg1aVlzR09WY2hMQ2U0QV9QcVhISTZtZnBnYks5SHlCc2dURHdIeWlISGs1X2lVV1Npb1RaTG9MeTZFVUswdVlTWmtldmFfRmpSSTVBZ0ZCY0FUUA?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-08-08T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Kommun- och regionvalet i Ale - SVT Nyheter",
-      "description": "Kommun- och regionvalet i Ale SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WSHVrZk1BaGJrSnpMLVNNYmNhbEx5YTB3X2ZoSV9GcVhQS3hEWDhIdWtjbDZRcEVLTXV5RGFJZHE0TE5WU1JhbTVfUGI0SnVJemlTdQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-08-05T15:06:38+00:00",
-      "impact": false
-    },
-    {
-      "title": "Två män döms till fängelse efter grov misshandel i Ale - Göteborgs-Posten",
-      "description": "Två män döms till fängelse efter grov misshandel i Ale Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMFFScGFFY2dpVmZGVXpYZTNJTGZBN1kzOHZrcnpGa3NEaUNjN0xvN3lPblVCbWdoWjZVNVVadzVzdVdELXdPS0NQUE1XSzRVT21BdGFfYWVDdmgyUUdnR0xuLTluWXlYUk8tVWV0MU1wQk9HZ21kLWFLNFBWck0tNTZLQVJsbGNETGRuRXVjVEFYTHBKNE9iTEFmNHQ1d2JoQ082MnY4c0dLMmQ3MkY4TkZvR244QjRUTi1WbXlvLTlHOG85ZVkxaA?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-29T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Domstolen stoppar nya skolan i Bohus - Alekuriren",
-      "description": "Domstolen stoppar nya skolan i Bohus Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDeHQyTkVEV2RrQk02RjhZVEhCeGl6RE4zaHJkRUdqeHY3aGVFSkJHYkxIdUFLdnE2WEc4S0VwTGpTZFZhVlJpQzJoN3VoTndBSXF0UF9kTE0wcVNtZTZzaWFHUjRVc1JSNzByX3FEZ3BvRGhVdmpEa3lpNzkwQQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-21T07:00:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Unik Elvisutställning lockar besökare till Ale - Alekuriren",
-      "description": "Unik Elvisutställning lockar besökare till Ale Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1BsMHdmS2xvMU9HbEZ3T1F6aU05UnA4cWNGVXQzandUcnVkUl9peUxOaTNZQ29DTzdBU2U3NnpqMlhueTVKZTluX1lYV0UxZU9DdVMxLUtJMHhoLWM0TVAyUzZrNnJWU0t5SXUxc3Y1blQyd3VJc0Naa01mWFVQOVdPXzEtMGZF?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-16T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Varför blir digitala betalningar allt vanligare i Ale kommun? - Alekuriren",
-      "description": "Varför blir digitala betalningar allt vanligare i Ale kommun? Alekuriren",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGRMWkFuRUUwTS1qMWhfVl9KMmNhSm1iQ08xcGtkNXI5ZFBVakIzUW5xRGotQmdoR2QzbHlBU2VSeTBjTFoxZWtWVWdnNnVoZUVUel9EOGt0X0FWVEZNb0xQQXN1aG9wTDdUYWw5UmVRTWpPV284MHlkNk1ZN3NmSWxkMDh3WTVnWnpnOTQzeGVBQVFiSTRtLTlR?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-15T10:25:56+00:00",
-      "impact": false
-    },
-    {
-      "title": "Gisela, 64, får hjälp med att rösta – tack vare bildstöd - Göteborgs-Posten",
-      "description": "Gisela, 64, får hjälp med att rösta – tack vare bildstöd Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVRGYkZyXzZPZWhLRDhuRU5PZkwyTzQ5REpoRmZ4U1NBVndUS3pwY2xpXzlBMzZpWktONTZ3ejhPcEtUX0xUV2F1SDVaRm5WcUhmNDNTangyNUdIMTk1My03MzgxVDZjMTNURUs3cGQ1aWV3cl9wU0pLZjhlX3pQWS1JalFhUWFiS0JhWlJfYVlTR3RUZnBPWGxjcDZYM0RYdkNKTS1kRFlPNWdZVFhtbGZ1MWxnZ0dhSFlfYkFWMVpweTBpMU1V?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-04T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Discgolfbanan i Ale är rankad som världens bästa – värdseliten tävlar i helgen - SVT Nyheter",
-      "description": "Discgolfbanan i Ale är rankad som världens bästa – värdseliten tävlar i helgen SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0Ewcy1CVzYwcmE1NTJZQ2gwXzlpeGIxQS0wMkt5bzF4S3lubm5pVUtKanpzVTU1a2VaUU9wUmVRdHg3c19xV1Y3U1hxS3dEYkpxVThjbml6UkRleG42TnJrRHRpR0JrMThTMHhoZUJiZHJZaGZEa2UzTDFXeFhxcU8yNkVwRldVUk1XajVJd3BTVnJ3MkllRE1CWnIyaU1EUFNyR2Q4NkQ4S1o1OE9POF9hb08yQQ?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-03T07:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "ALE - manifestation för en human migrationspolitik - MittSkifte",
-      "description": "ALE - manifestation för en human migrationspolitik MittSkifte",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQktSSktDZ3VfNmRmMDVqbnRyekpIMWhYVmIzOWlwb3l2ZmdUWjBIRnRDUlJzamxXYnhOVm1ndU55aU5EV1RxSmlIY1hjQ0F3WmFLaDRCMXZfaEFmMXE2eTljWU9FQ3VIb0loNkR2cHJlYVIwRVFOSmdxY0phZkxuQTFkLTZiZ2hrcHQ4eW5Fbw?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-07-01T21:57:42+00:00",
-      "impact": false
-    },
-    {
-      "title": "Solör Bioenergi planerar ny fjärrvärmeanläggning i Ale - ENERGInyheter.se",
-      "description": "Solör Bioenergi planerar ny fjärrvärmeanläggning i Ale ENERGInyheter.se",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0l4VW9PdnhKNzF3SHpYVXJMODFzREg3VWhGQW1KMTBjVUFONFNGaFlDUFR5R2JPRDQ5WWZFa3ZXUFpEQ2lpajNidk9tVkRLR3hhSzN0ckt6X0szZkdMYm5pN3ZUQ1JVeGp0Um05WDdEYzdwVXpiaXp4bDhRWkRhbGRpemVERmFTb09adXpxaVpjMGF3cVhKRFRHUVBod1E?oc=5",
-      "source": "Google News Ale",
-      "category": "Local",
-      "published": "2026-06-10T07:00:00+00:00",
+      "published": null,
       "impact": false
     }
   ],
