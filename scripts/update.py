@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime,timezone
 from email.utils import parsedate_to_datetime
 ROOT=Path(__file__).resolve().parents[1]
-FEEDS=[('SVT Väst','https://www.svt.se/nyheter/lokalt/vast/rss.xml','Local'),('SVT Sverige','https://www.svt.se/nyheter/inrikes/rss.xml','Sweden'),('SVT Utrikes','https://www.svt.se/nyheter/utrikes/rss.xml','World'),('P4 Göteborg','https://api.sr.se/api/rss/program/104','Local'),('Ekot','https://api.sr.se/api/rss/program/83','Sweden'),('NRK Norge','https://www.nrk.no/norge/toppsaker.rss','Nordics'),('NRK Urix','https://www.nrk.no/urix/toppsaker.rss','World'),('Google News Ale','https://news.google.com/rss/search?q=Ale+kommun+OR+%C3%84lv%C3%A4ngen&hl=sv&gl=SE&ceid=SE:sv','Local'),('Google News Göteborg','https://news.google.com/rss/search?q=G%C3%B6teborg&hl=sv&gl=SE&ceid=SE:sv','Local'),('Google News Sverige','https://news.google.com/rss/headlines/section/geo/SE?hl=sv&gl=SE&ceid=SE:sv','Sweden')]
+FEEDS=[('SVT Väst','https://www.svt.se/nyheter/lokalt/vast/rss.xml','Local'),('SVT Sverige','https://www.svt.se/nyheter/inrikes/rss.xml','Sweden'),('SVT Utrikes','https://www.svt.se/nyheter/utrikes/rss.xml','World'),('P4 Göteborg','https://api.sr.se/api/rss/program/104','Local'),('Ekot','https://api.sr.se/api/rss/program/83','Sweden'),('Google News Ale','https://news.google.com/rss/search?q=Ale+kommun+OR+%C3%84lv%C3%A4ngen&hl=sv&gl=SE&ceid=SE:sv','Local'),('Google News Göteborg','https://news.google.com/rss/search?q=G%C3%B6teborg&hl=sv&gl=SE&ceid=SE:sv','Local'),('Google News Sverige','https://news.google.com/rss/headlines/section/geo/SE?hl=sv&gl=SE&ceid=SE:sv','Sweden'),('Sweden English','https://news.google.com/rss/search?q=Sweden+politics+economy+technology+when:7d&hl=en&gl=SE&ceid=SE:en','Sweden'),('World English','https://news.google.com/rss/search?q=international+breaking+news+economy+security+when:7d&hl=en&gl=US&ceid=US:en','World')]
 LOCAL=re.compile(r'älvängen|ale kommun|nödinge|surte|bohus|göteborg|västra götaland|kungälv',re.I)
 IMPACT=re.compile(r'trafik|tåg|väg|skola|förskola|sjukvård|sjukhus|ränta|bolån|elpris|skatt|västtrafik|olycka|varning|störning|buss|arbete|inflation',re.I)
 def clean(s):return re.sub(r'\s+',' ',re.sub(r'<[^>]*>',' ',html.unescape(s or ''))).strip()[:500]
@@ -42,6 +42,7 @@ def main():
   except Exception as exc:errors.append(f'{name}: {type(exc).__name__}: {exc}')
  seen=set();items=[]
  for a in found+old:
+  if a.get('category')=='Nordics' or a.get('source','').startswith('NRK '):continue
   key=a['link'].split('?')[0].rstrip('/')
   if key not in seen:seen.add(key);items.append(a)
  items.sort(key=lambda a:a.get('published') or '',reverse=True)
