@@ -3,10 +3,10 @@ from pathlib import Path
 from datetime import datetime,timezone
 from email.utils import parsedate_to_datetime
 ROOT=Path(__file__).resolve().parents[1]
-FEEDS=[('SVT Väst','https://www.svt.se/nyheter/lokalt/vast/rss.xml','Local'),('SVT Sverige','https://www.svt.se/nyheter/inrikes/rss.xml','Sweden'),('SVT Utrikes','https://www.svt.se/nyheter/utrikes/rss.xml','World'),('P4 Göteborg','https://api.sr.se/api/rss/program/104','Local'),('Ekot','https://api.sr.se/api/rss/program/83','Sweden'),('NRK Norge','https://www.nrk.no/norge/toppsaker.rss','Nordics'),('NRK Urix','https://www.nrk.no/urix/toppsaker.rss','World')]
+FEEDS=[('SVT Väst','https://www.svt.se/nyheter/lokalt/vast/rss.xml','Local'),('SVT Sverige','https://www.svt.se/nyheter/inrikes/rss.xml','Sweden'),('SVT Utrikes','https://www.svt.se/nyheter/utrikes/rss.xml','World'),('P4 Göteborg','https://api.sr.se/api/rss/program/104','Local'),('Ekot','https://api.sr.se/api/rss/program/83','Sweden'),('NRK Norge','https://www.nrk.no/norge/toppsaker.rss','Nordics'),('NRK Urix','https://www.nrk.no/urix/toppsaker.rss','World'),('Google News Ale','https://news.google.com/rss/search?q=Ale+kommun+OR+%C3%84lv%C3%A4ngen&hl=sv&gl=SE&ceid=SE:sv','Local'),('Google News Göteborg','https://news.google.com/rss/search?q=G%C3%B6teborg&hl=sv&gl=SE&ceid=SE:sv','Local'),('Google News Sverige','https://news.google.com/rss/headlines/section/geo/SE?hl=sv&gl=SE&ceid=SE:sv','Sweden')]]
 LOCAL=re.compile(r'älvängen|ale kommun|nödinge|surte|bohus|göteborg|västra götaland|kungälv',re.I)
 IMPACT=re.compile(r'trafik|tåg|väg|skola|förskola|sjukvård|sjukhus|ränta|bolån|elpris|skatt|västtrafik|olycka|varning|störning|buss|arbete|inflation',re.I)
-def clean(s):return re.sub(r'\\s+',' ',re.sub(r'<[^>]*>',' ',html.unescape(s or ''))).strip()[:500]
+def clean(s):return re.sub(r'\s+',' ',re.sub(r'<[^>]*>',' ',html.unescape(s or ''))).strip()[:500]
 def get(n,*names):
  for name in names:
   t=n.findtext(name)
@@ -46,7 +46,7 @@ def main():
   if key not in seen:seen.add(key);items.append(a)
  items.sort(key=lambda a:a.get('published') or '',reverse=True)
  if not items:raise SystemExit('No feeds returned articles; preserving prior data')
- path.write_text(json.dumps(dict(updatedAt=datetime.now(timezone.utc).isoformat(),articles=items[:250],feedErrors=errors),ensure_ascii=False,indent=2)+'\\n')
+ path.write_text(json.dumps(dict(updatedAt=datetime.now(timezone.utc).isoformat(),articles=items[:250],feedErrors=errors),ensure_ascii=False,indent=2)+'\n')
  print(f'Collected {len(items)} headlines; {len(errors)} feed errors')
  for err in errors:print(err)
 if __name__=='__main__':main()
