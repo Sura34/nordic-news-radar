@@ -46,7 +46,7 @@ def main():
   if key not in seen:seen.add(key);items.append(a)
  items.sort(key=lambda a:a.get('published') or '',reverse=True)
  if not items:raise SystemExit('No feeds returned articles; preserving prior data')
- path.write_text(json.dumps(dict(updatedAt=datetime.now(timezone.utc).isoformat(),articles=items[:250],feedErrors=errors),ensure_ascii=False,indent=2)+'\\n')
+ path.write_text(json.dumps(dict(updatedAt=datetime.now(timezone.utc).isoformat(),articles=items[:250],feedErrors=errors),ensure_ascii=False,indent=2)+'\n')
  print(f'Collected {len(items)} headlines; {len(errors)} feed errors')
  for err in errors:print(err)
 if __name__=='__main__':main()
