@@ -45,6 +45,8 @@ def main():
   key=a['link'].split('?')[0].rstrip('/')
   if key not in seen:seen.add(key);items.append(a)
  items.sort(key=lambda a:a.get('published') or '',reverse=True)
+ cutoff=datetime.now(timezone.utc).timestamp()-7*86400
+ items=[a for a in items if not a.get('published') or datetime.fromisoformat(a['published'].replace('Z','+00:00')).timestamp()>=cutoff]
  if not items:raise SystemExit('No feeds returned articles; preserving prior data')
  path.write_text(json.dumps(dict(updatedAt=datetime.now(timezone.utc).isoformat(),articles=items[:250],feedErrors=errors),ensure_ascii=False,indent=2)+'\n')
  print(f'Collected {len(items)} headlines; {len(errors)} feed errors')
