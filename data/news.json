@@ -1,6 +1,501 @@
 {
-  "updatedAt": "2026-11-03T09:38:08.227331+00:00",
+  "updatedAt": "2026-11-03T17:52:40.548088+00:00",
   "articles": [
+    {
+      "title": "Rysk massattack – Ukrainas energisystem måltavla",
+      "description": "Ryssland har genomfört årets största attack mot Ukrainas energisystem under tisdagen, rapporterar Kyiv Independent. Enligt den statliga nätoperatören Ukrenergo har kritisk infrastruktur attackerats med ballistiska robotar, kryssningsrobotar och drönare, med omfattande strömavbrott som följd runt om i Ukraina.",
+      "link": "https://www.sverigesradio.se/artikel/9333903",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T17:46:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Svensk bodde på Neapels flygplats – uppges ha fått kontakt med familjen",
+      "description": "Den svenska mannen som i över en månad uppgetts söka skydd på Neapels flygplats Capodichino befinner sig nu på mottagningscenter och har kommit i kontakt med sin familj, rapporterar italienska medier. Enligt uppgifterna har han saknat både resehandlingar och minne, men motsatt sig hjälp fram tills nu.",
+      "link": "https://www.svt.se/nyheter/utrikes/svensk-bodde-pa-neapels-flygplats-uppges-ha-fatt-kontakt-med-familjen",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-03T17:31:46+00:00",
+      "impact": false
+    },
+    {
+      "title": "”Kör, kör, kör” – så misstänks Galiyev guidat unga mördare",
+      "description": "På tisdagen inleddes rättegången mot utpekade gängtoppen Ildar Galiyev som misstänks ha dirigerat en lång rad dödskjutningar och sprängdåd under konflikten mellan de kriminella gängen Dalennätverket och Foxtrotnätverket. Åklagaren spelade bland annat upp ett filmklipp där Galiyev, i realtid, påstås guida en tonårig mördare på Södermalm 2024. ”Vart är han mannen, tappa inte han. Kör, kör, kör”, säger rösten i klippet.",
+      "link": "https://www.sverigesradio.se/artikel/9333884",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T17:16:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sudan says it downed drone from Ethiopia, files complaint with UN - Al-Monitor",
+      "description": "Sudan says it downed drone from Ethiopia, files complaint with UN Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHQwMWxfWEdUSHY3T2t2cHl0N3BsVUxzbjdES0hQZmFkR2pZZ3VqSzVYcGR2VXdtYm1XQ2lKaVM1T0RMVzJGTkxjWHYyYVVQclJaSmllMGNkc0kxeHBkcGE1Nlh6aVdVdkttYUd2aXczSm93ZXU5SkJ4aVJpdmVEVHdzc3dtR2ZRYmpOclNSXzJ5S0MwcEE3TmVBMDY0QjJ2?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-03T17:10:16+00:00",
+      "impact": false
+    },
+    {
+      "title": "Första svenska spårvagnen framme i krigets Ukraina - Aftonbladet",
+      "description": "Första svenska spårvagnen framme i krigets Ukraina Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObHVsZUlObklhVzg0MU9CM0hkRTNONWhwMUdHT2habVZGOExQUk5LN0dJX040MzBSbFE2TndlMGViN21hcFUtUEtlbjFhdVl1aGZ5NjdtaEE5RmdBZl8wT21ZcUx0emxqWDF3aWNrZGRvaXJ3LXlVWFZqWFNWSmg3a19SQWEyRWVkTE9TTDdyMmZTV0hWRGtubUNnVTE2ajg?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T17:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Göteborgs styre: Elsparkcykelhot, sänkta politikerlöner – och hopp om AI-hjälp att spara - Dagens Nyheter",
+      "description": "Göteborgs styre: Elsparkcykelhot, sänkta politikerlöner – och hopp om AI-hjälp att spara Dagens Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHJuMmtBY1JuN0xhYk1WSW1YS2tOYS1oRkpsTVo0cFhjMXdQV1FsbVppd0txZXI0TTQ5bUJDYnVYRTliMXFvNW9VSWRoRjNkbERnRGdkczBuRjFwalFoMHI2N012SEpfaU1aZ2VxUUtTMTZDWnh0ZG9rY1VBR2NYWE9oS28tQnEwMEliNm9jYTNrb0JldTJpeXdfVzRWTlNINUk1SEQ3RDRkWmpISC1rUw?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T16:52:59+00:00",
+      "impact": false
+    },
+    {
+      "title": "Bombhot stoppar flera flyg: ”Kan vara främmande land”",
+      "description": "Flera flygplan i Europa har utsatts för bombhot under dagen, vilket lett till omdirigeringar, evakueringar och genomsökningar. Bland de drabbade finns ett SAS-plan från Köpenhamn till Warszawa. Det är ännu oklart vem eller vilka som ligger bakom hoten, om händelserna har något samband och om det finns någon substans i hoten. Flygbolagen måste agera även vid osäkerhet, säger Hans Liwång, professor vid Försvarshögskolan.",
+      "link": "https://www.sverigesradio.se/artikel/9333867",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T16:34:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Facket efter nej till mindre barngrupper: ”Anmärkningsvärt”",
+      "description": "Fackförbundet Sveriges lärare reagerar nu efter Ekots nyhet om att flera kommuner inte vill se en lagreglering av storleken på barngrupper i förskolan. ”Det är faktiskt anmärkningsvärt att kommuner motsätter sig en lagstiftning som ska ge barn mindre grupper och att vi får en bättre förskola.”, säger förbundsordförande Anna Olskog. Ekots genomgång visar att flera kommuner motsätter sig lagreglering då det kan innebära ökade kostnader, svårigheter att rekrytera personal och att lokaler behöver by",
+      "link": "https://www.sverigesradio.se/artikel/9333629",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T16:21:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Muslimske demokraten Abdul El-Sayed utmanar republikanerna",
+      "description": "Abdul El-Sayed vill vinna väljare i Michigan genom frågor om ekonomi och sjukvård, samtidigt som republikanerna angriper hans muslimska kopplingar.",
+      "link": "https://www.svt.se/nyheter/utrikes/muslimske-demokraten-abdul-el-sayed-utmanar-republikanerna",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-03T16:13:36+00:00",
+      "impact": true
+    },
+    {
+      "title": "Helena Gissén: Oddsen för Kristersson är dåliga",
+      "description": "Moderaternas partiledare, Ulf Kristersson, får sonderingsuppdraget av talmannen efter att Centerpartiets partiledare Elisabeth Thand Ringqvist röstats ned i riksdagen på tisdagen. Ekots inrikespolitiska kommentator, Helena Gissén, tror att det snudd på omöjligt för Kristersson att få ihop en regering.",
+      "link": "https://www.sverigesradio.se/artikel/9333846",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T16:02:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Därför small det i Göteborg i morse - Göteborgs-Posten",
+      "description": "Därför small det i Göteborg i morse Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU1EwZnBPOVBMdmVsdTZaekI0MHluSEs1T1drelpnSk9VSzZJSHluN0k3UjY0VnhFX0NuNFpNemNWTm4xeUl2bUh5Ui1aOTRLTkJBeVNmRExEM0dDUWpIaExwSTNoVTNJSEVoNUhkQnlYMnRWZFE5VW9HMU04NldVSHc0ZG9iejVrdDE1RTMxb3VjNUxyVzJLZG56TFBOaVVKTWw1ZlFwWXU1aDhucTk1X0JrS2R3cTQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T15:59:41+00:00",
+      "impact": false
+    },
+    {
+      "title": "30 matbutiker drabbades av frysattacken – mat för miljoner slängdes",
+      "description": "30 svenska matbutiker drabbades av kyl- och frysproblem efter en misstänkt hackerattack under måndagen. I vissa butiker steg temperaturen i frysarna till över 50 plusgrader – och mat för miljontals kronor har behövt slängas.",
+      "link": "https://www.svt.se/nyheter/inrikes/30-matbutiker-drabbades-av-frysattacken-mat-for-miljoner-slangdes",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-03T15:58:57+00:00",
+      "impact": false
+    },
+    {
+      "title": "Då kan elsparkcyklar i Göteborg förbjudas",
+      "description": "Felparkering, olyckor och nedskräpning. Göteborgs nya kommunstyre har fått nog av problemen kring elsparkcyklar och hotar sluta upplåta mark åt företagen som hyr ut. – Det kan inte se ut som det gör idag, säger Jonas Attenius (S), kommunstyrelsens ordförande.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/da-kan-elsparkcyklar-i-goteborg-forbjudas",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-03T15:45:45+00:00",
+      "impact": false
+    },
+    {
+      "title": "UN recognizes ongoing restoration work inside Ethiopia’s Desa’a forest amid conflict - news - Mongabay",
+      "description": "UN recognizes ongoing restoration work inside Ethiopia’s Desa’a forest amid conflict news - Mongabay",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUdqMW1lM3FJblFKVHNOZFQyQnp4MHZtSHNtTUREUzF0ZW82Y2RpWG9YYjNKS2JHcnZQMmRFZHVwUW1OLXd3Z1oya1BFUTI5aU4zVUhKWnBVdkJPblFyNXduS1MtbWZPcWszekNtZmw3dlNYc18yNUFOVnVRU09iVnp0Y0FQNlZjZWVJX09YdDhmeGR1aEpWUXU4Rko2NTM3S3hMSU51Rm5tVWxXSVRHcUJEMmZvM1dV0gG-AUFVX3lxTE1KZldsX2NmZzJ5YTVoS0Y0OGVwZ1ZNdDVaYW9KY1FNRlNoNVV1NDk5a0JCWmFsbUpQcWlxRTZwQXZ2SUhYa0ZrSWxjSThuRTRJbG5EeGR2RkJaSlVrT2F4VFVhakF3Z3gxbkQzX20wNDI0VVYtRS1XM3NQTDRiM3ZUSmFuYlpkXy1LTlBGSWJRX1E0MmpOTzJnZDBnOWpab0p0ZWcwV0tudXZFX05HYjkxSURUX0JtQU93T01YQkE?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-03T15:40:51+00:00",
+      "impact": false
+    },
+    {
+      "title": "Prins, kakfest och framtidstro på Tillsammansfestivalen - Vårt Göteborg",
+      "description": "Prins, kakfest och framtidstro på Tillsammansfestivalen Vårt Göteborg",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1hNZDJxVlVsYTF1Q21GYjFPR09Dekg2Z0R3aTNGNTZjZ1RLVm80MTlUOEtFWE1xTzZSSWNweGd3NExQaXp5djhUUEVTUmhpY3JtUUc3ZGNRTnNpcDQ5U1VuNTR6a29TVjFrM3N3Z0MxeE1XOHFkRmJxVktZREt5VVFIZXpZTU5B?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T15:38:21+00:00",
+      "impact": false
+    },
+    {
+      "title": "Det står på spel i delstaterna: ”Flera kan få sin första kvinnliga guvernör”",
+      "description": "Valdag i USA handlar om mer än kongressen. I Los Angeles kan staden få en borgmästare med rötter i den demokratiska socialistiska rörelsen när Nithya Raman utmanar Karen Bass. Samtidigt väljs guvernörer i flera delstater. Flera kan få sin första kvinnliga guvernör, bland annat Georgia, Tennessee och Ohio. Extra fokus ligger på Texas där Gina Hinojosa utmanar Greg Abbott. Demokraterna hoppas vinna tillbaka latinoväljare efter kritik mot migrationspolisen ICE:s hårda deportationslinje.",
+      "link": "https://www.sverigesradio.se/artikel/9333756",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T15:33:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ulf Kristersson om sonderingsuppdraget: ”Mycket svårt”",
+      "description": "Efter att Centerpartiets partiledare Elisabeth Thand Ringqvist på tisdagen förlorat statsministeromröstningen i riksdagen, tackade Moderaternas partiledare, Ulf Kristersson ja till sonderingsuppdraget. Ulf Kristersson, som har en vecka på sig att sondera, uttryckte under en pressträff efter att han träffat talmannen att uppdraget ”kommer bli svårt, sannolikt mycket svårt men kanske inte helt omöjligt.” Partiernas krav och röda linjer kvarstår.",
+      "link": "https://www.sverigesradio.se/artikel/9333780",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T15:13:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Göteborgaren skrev Sveriges största schlagerhits – men vem var han?",
+      "description": "Han skrev låtar som nästan hela Sverige kan sjunga med i. Men hur många känner igen Gert Lengstrand – mannen bakom musiken? När SVT gav sig ut på Göteborgs gator med bilder blev det en hel del gissningar och lika många igenkännande leenden när låtarna kom på tal.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/goteborgaren-skrev-sveriges-storsta-schlagerhits-men-vem-var-han",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-03T15:06:55+00:00",
+      "impact": false
+    },
+    {
+      "title": "Larmet: Chattbottar används för att planera terrorattentat",
+      "description": "Artificiell intelligens har blivit ett viktigt verktyg för våldsbejakande extremister och terrororganisationer. Det slår Nationellt centrum för terrorhotbedömning, NCT, fast i en bedömning, vars sammanfattning publiceras på tisdagen. Redan i dag finns exempel på att gärningspersoner i Sverige använt sig av chattbottar för att planera attentat, säger Ahn-Za Hagström, chef för NCT.",
+      "link": "https://www.sverigesradio.se/artikel/9333681",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T15:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sweden Hands Caretaker Prime Minister a Shot to Form Government - Bloomberg.com",
+      "description": "Sweden Hands Caretaker Prime Minister a Shot to Form Government Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTF5c0lDcUdSWmtBWTRjLWNvdjZWZ01iSmhxaFhSWUtKUVRlcmgwLWZLMkFoSTE5b2hTWkwxWWZmbGRzSEhTRzJ3b1lIWjQySWNkZXNTc05yV1otSDg1Z2dab1U3M1BPa1VaSTU1TTdabmVKeTdzdDB5VFU2VXhvc056WEVBZXJzSXBGWXU4YVlSVVBVcjdCTkpaNlNjM1h5eHZXMjRxZWRicTFMdGJqSWxpdjQ?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-03T14:20:06+00:00",
+      "impact": false
+    },
+    {
+      "title": "Statyn i Göteborg har börjat hosta – för dubbfria däck",
+      "description": "John Ericsson-statyn i centrala Göteborg har drabbats av hosta. Anledningen: kommunen vill att fler ska välja dubbfria vinterdäck.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/statyn-i-goteborg-har-borjat-hosta-for-dubbfria-dack",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-03T14:15:21+00:00",
+      "impact": false
+    },
+    {
+      "title": "Statyn i Göteborg har börjat hosta – för dubbfria däck - SVT Nyheter",
+      "description": "Statyn i Göteborg har börjat hosta – för dubbfria däck SVT Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONEFjTWgyQ3FRZXNia2VFOUgxVl9IdHNyRU83QnVxZkZZTkp0MUJJYjFQcXRSNnc5RDc1ZnhEOVh3RGZhbUVTX056dXh5RDBHUEpaTUtoRWR2Z1ZfT0V2Qk1Xa0tvbjJ5MjhzcEJWQXFmT3daMUFwUkYyV3NKTTN2blVUMkZTejFuNkdNd2J0WWJUOGRqTHc?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T14:15:21+00:00",
+      "impact": false
+    },
+    {
+      "title": "DN Direkt – Göteborg sänker politikernas löner med fem procent - Dagens Nyheter",
+      "description": "DN Direkt – Göteborg sänker politikernas löner med fem procent Dagens Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWZ3MlVPWnV1c0o0MWU4MlVNLVRUNjMxNDcyY3FIcWZleVJ6SFhRc3Nnc2pnQ1I1cmt3NmsxWU9ySG0tWktHbl8zVmZmWmR5TUdmWDBtU1ROQmhocXpYRW1Od0pHZW4yMEJZdk1YSUhPZW9aSUtYY1dObFBqN1VGTnFIazUtVUNlYVUyaVltbXk?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T14:10:02+00:00",
+      "impact": false
+    },
+    {
+      "title": "Därför hostar statyn vid Avenyn i Göteborg - Göteborgs-Posten",
+      "description": "Därför hostar statyn vid Avenyn i Göteborg Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUo0X2doZE1Zci1BNlBLXzAySTRlZFJONWg1a0VHZ0xQLTJWMnpXUHNxNzQxTzMtSUFvc2NrWlNmelJBcUxxMjJYWjVGUUIzNVlHaURHdG1KU1F1RWlVcjlTcEVmeVhOcGVEZ1R0dVprRTBrRTQyXzBpNXkzam9iemdydEFWVjFHbDdULWJxY0dqdEFObHBWdUtPaThTbFJ5UVdacFJR?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T14:06:24+00:00",
+      "impact": false
+    },
+    {
+      "title": "Trump vill minska stödet till Israel",
+      "description": "USA:s president Donald Trump vill minska USA:s årliga stöd till Israel och landets säkerhetsinstanser. Det uppger han i en intervju med Fox News. I nuläget ligger USA:s årliga stöd på drygt 40 miljarder kronor om året.",
+      "link": "https://www.svt.se/nyheter/utrikes/trump-vill-minska-stodet-till-israel",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-03T14:04:56+00:00",
+      "impact": false
+    },
+    {
+      "title": "Här är åldern då kvinnor mår bäst - Aftonbladet",
+      "description": "Här är åldern då kvinnor mår bäst Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNGpOV2s5MFpHbzZ3SVJwakNsNmhsUlpjb1VfX3NPbEk2Tmh2T2d4U1RDdEFzeTUydmMyc21PbU5vSzA3R3dYQjZDbEhyOG9yQUtSZjRzdXNPRmtqM1dWR2c2LVF1X2lCSWZxeGc3dXJHejhSaXBJSFY2M2IzM0JLME9oYlcxcG1ZV1B6UnM3ZUpLdlNFVTZmT2FHNm05ZUs1OTJSR0JkSkRIX3c?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T14:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Fler flygplan genomsökta efter bombhot",
+      "description": "Enligt BBC har ytterligare två plan tillhörande Ryanair fått genomsökas på en av Roms flygplatser, men inget misstänkt har hittats. Planen flög från Dublin och Lissabon. Tidigare på tisdagen fick fyra andra plan i europeiskt luftrum nödlanda och sökas igenom efter bombhot, bland annat i Warszawa och Sofia.",
+      "link": "https://www.sverigesradio.se/artikel/9333694",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T13:54:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Marion drabbad i frysattacken: ”Forsade ut vatten”",
+      "description": "Det var inte bara de stora butikskedjorna som drabbades när kylar och frysar hackades. Kocken Marion Ringborg, som driver ett matcafé i centrala Stockholm, utsattes också för attacken. – Allt har bara behövt kastas, säger hon.",
+      "link": "https://www.svt.se/nyheter/inrikes/marion-drabbad-i-frysattacken-forsade-ut-vatten",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-03T13:28:08+00:00",
+      "impact": false
+    },
+    {
+      "title": "Fler anställda i Göteborgs stad får sex timmars arbetsdag - Göteborgs-Posten",
+      "description": "Fler anställda i Göteborgs stad får sex timmars arbetsdag Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2twd2ozMHdaRVM0MlpaR0sweTZjYnBGTVBqam5pS3hvSDhyR0FVNVBoTWVlLWJoQzdydlpiS3E5TDlZcXhKbGowS09lNXlQOUdJdmd4am45QjVsV0g3cWxhRWxoSnlIcFNwLXBOMnNsLS1acEVTNUxzVkxBYlFodnNkcFJUNmt3OVlobnZ6aWg1V3BueERfdmp0VEUzdFl2UjRGWFdlODdpQ1dvemRJeWlnUldhOTFxa3BrblVn?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T13:27:12+00:00",
+      "impact": false
+    },
+    {
+      "title": "COP31 – det här behöver du veta",
+      "description": "Den 9–20 november 2026 hålls FN:s klimatmöte COP31 i Antalya, Turkiet. Tusentals politiker, forskare, företag och organisationer väntas delta – däribland Sveriges representanter. Här är en guide för vad du behöver ha koll på inför veckan.",
+      "link": "https://www.svt.se/nyheter/utrikes/cop31-det-har-behover-du-veta",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-03T13:18:46+00:00",
+      "impact": false
+    },
+    {
+      "title": "Gissén: ”Uppfattas nog som ganska konstigt för väljarna”",
+      "description": "Under tisdagen röstades Centerpartiets ledare Elisabeth Thand Ringqvist ner som statsminister i riksdagen – vilket var väntat, enligt Ekots inrikespolitiska kommentator Helena Gissén. ”Det kan nog uppfattas som ganska konstigt för väljarna att man gång på gång lägger fram statsministrar för votering i kammaren, fast man vet på förhand att det inte kommer fungera”, säger Gissén. Hon säger att statsministeromröstningar är ett verktyg talmannen har för att få regeringsbildningsprocessen att gå fram",
+      "link": "https://www.sverigesradio.se/artikel/9333576",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T12:51:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Över 20 JO-anmälningar efter polisinsats vid derbyt",
+      "description": "Justitieombudsmannen har fått in över 20 anmälningar om polisens insats på IFK Göteborgs bortaläktare under derbyt mot BK Häcken, uppger Göteborgs-Posten.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/over-20-jo-anmalningar-efter-polisinsats-vid-derbyt",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-03T12:44:14+00:00",
+      "impact": false
+    },
+    {
+      "title": "Thand Rindqvist (C) röstas ner som statsminister",
+      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist röstas ner som statsminister i riksdagen. Det var i fredags som talmannen Andreas Norlén meddelade att C-ledaren skulle prövas i en statsministeromröstning, efter att hon sonderat för en regering som består av C, S, MP, KD och L. Det här är den andra statsministeromröstningen efter valet. I den första röstades Socialdemokraternas partiledare Magdalena Andersson ner. Efter fyra blir det automatiskt extraval.",
+      "link": "https://www.sverigesradio.se/artikel/9333567",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T12:39:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Wijnbladh: ”Det förra elstödet var mycket mer generöst”",
+      "description": "I oktober översteg elpriset 1,5 kronor per kilowattimme i elområde 4, och då aktiveras det elstöd som regeringen tidigare aviserat. Detaljerna kring hur stödet kommer att se ut och betalas ut i vinter har därmed presenterats. Ekonomireporter Olof Wijnbladh, som bevakar elmarknaden, förklarar vad elstödet innebär: ”Högkostnadsskyddet infördes för ett drygt år sedan och ska vara ett skydd hela året för om kostnaderna blir högre när elpriset går över en viss nivå”. Regeringen gick till val redan 20",
+      "link": "https://www.sverigesradio.se/artikel/9333555",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T12:11:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Efter frysattacken: ”Tyvärr den verklighet vi lever i”",
+      "description": "Att det fanns sårbarheter i systemen för kylar och frysar i vissa matbutiker var känt redan innan hackerattacken som drabbade vissa matbutikers frysar och kylar under måndagen , och bidrog till att skadan kunde begränsas – men inte undvikas helt. Ulrika Dahlin, beredskapsansvarig på branschorganisationen Svensk Dagligvaruhandel, berättar att man arbetat på att säkra matbutiker sedan hackerattacken mot franska butiker i mitten av oktober – men att man inte hann med alla. ”Det är 3 100 butiker att",
+      "link": "https://www.sverigesradio.se/artikel/9333545",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T11:55:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "US intelligence sharing has fractured under Trump, officials say - The Economic Times",
+      "description": "US intelligence sharing has fractured under Trump, officials say The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQThXR1FIY3RlU05DeFVrZWp6RWNIbUNabFBxWElyU0FuUzBNQ3F2QUp4bVF1UkthMV9LeHpRRnpSMS1jSGZwQVk1VzVjQjNTLWhBNHp5NHNjeEVHQU9CcnloaUlzRlI5QXpjR0dqYjNFaGRuc0g2R3A0eGdyY1VpWGZ6aWk1dFZhWlJmTUw1S25QZ3lOb1dhSE9XQWdqcldILVV5UUxUaUtZX2xLdm5EdHFVYmhQbm5MYTFFV1FIUm51WTdNc2Zid3ItLXpkcUgzaTQxc2NJRDJveFM2djFMNNIB5gFBVV95cUxONUk5T2ZCeGJSU3BFUTNyc210ZDJYaDJDSnotSF9YUHV2TE13bmVkNHZvTW45TEgzZHFHeVNlTDFGbjBDd0VmTm9VVHhTS1gwWGpBSGdSMmZvYWtObFBKSVBwQURmbjlfbUNNbFpieU43MWl2YzJVVEtpQWJtZFJXSWFfQWhMdWhuYi04MzA3YURMTm1uNVNEei1mNnZJTk5VYy1fMWRTVktkZFZHWU5RVEZNQ2V6QU8yX0gxZ3VROU1Da25Jc2s3VWdCZU43dVViemE5MHhqek1lUnFGYXJwNWQ2QWx6UQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-03T11:48:37+00:00",
+      "impact": false
+    },
+    {
+      "title": "How India pulled 500 million people out of poverty as inequality deepens - Al Jazeera",
+      "description": "How India pulled 500 million people out of poverty as inequality deepens Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkNzNW5uRmt6SFlmRVdWaUdMMEs2eG1aUWFnclBBbWxDX0w3UTBQaGVuS2hnbGlhTmZvbENUSUl2c0F3Q0dwMi0zbmRtTmV3bGR1TjRYNm5PTVpxQnZBdl9tWmFmcnhkNndHNjMya3ZHQ3dhUzNucTRaVk9YYVlHTFJtbmpVakp4RUhxTmpXSHNCNl9GY0I1VVptOW5pQ1JiQTZSOENZU2JPTnZyVTNhbThEONIBuAFBVV95cUxOTmNVWndRZ01oSU04WEpjb2Q5TFNaSlNMR09ZTFpRdl9aNTVuTlFXSXVlYWpUOHNwX1pMMmNXSVl0VW9aLVhtM3ZtYzM1T2h1ZnpIUkktNTdTUFFhTGJWc20teTZLOWpYRm5jYmxDcEpwYVFGSnk0MGRXdEFYNG40a2xTQzFUTnpXTERud3EzWHVhZXNnbnVUNFJ1NGhRWVhIQ1E0YzIxc2MzclRDMTN3NEpObzZLZmVZ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-03T11:36:36+00:00",
+      "impact": false
+    },
+    {
+      "title": "Skandalscener i derbyt – polis på läktaren - Aftonbladet",
+      "description": "Skandalscener i derbyt – polis på läktaren Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblUyOTFaWnJTUUFoMlhjZHhXaTFETTFnZWU1a3JZX3hHUVB1QzE2cHlHZkxtdFdyM0hkODAwaW14WjVZS2NKTjd0QjMtd2tmNzJ3cnpPUkJrSmxZQ0lUUE9ib2tXZDVMSmM2Y2VqNlJyVDlkY0N4dTBRcU81RkZrMURqbVNlWEhYV1Z3dHJYOVBTc0hEaXZUb2kwTXF4NERmT0pSQS1GNHY?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T11:29:32+00:00",
+      "impact": false
+    },
+    {
+      "title": "C-ledaren föll i omröstningen – Kristersson får stafettpinnen",
+      "description": "Elisabeth Thand Ringqvist föll i statsministeromröstningen med 324 nej-röster och endast 25 ja. Nu går stafettpinnen till Ulf Kristersson. – Jag är beredd att pröva om den icke-socialistiska konstellation som finns skulle kunna bilda regering, säger M-ledaren.",
+      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-gar-mot-nederlag-kristersson-vantas-fa-stafettpinnen",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-03T11:24:40+00:00",
+      "impact": false
+    },
+    {
+      "title": "Göteborg inför sex timmars arbetsdag för vissa anställda - Omni – Alla nyheter. Alla perspektiv.",
+      "description": "Göteborg inför sex timmars arbetsdag för vissa anställda Omni – Alla nyheter. Alla perspektiv.",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUUpwX0hTaVhFeHJhODRPbmJsNEplSkNVVDlHM1lLSXh1VV9VT0R3VTU0RDBvVFFMcXlmbkNYYWNnenpseEdUN25NX1ltNmgyaThNTTE2bUxMSXdGWU05U3dKZE9FTUxpbE5tYjhwejd6TU5aZEVaQkZGTEJzOXdyQ2JSWlczX0Y3?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T11:15:20+00:00",
+      "impact": false
+    },
+    {
+      "title": "Polisen JO-anmäld över 20 gånger efter läktarkaoset",
+      "description": "Polisen har JO-anmälts över 20 gånger efter söndagens derby mellan BK Häcken och IFK Göteborg, enligt Göteborgs-Posten . Efter att IFK Göteborgs bortasupportrar i andra halvlek tänt omkring 90 bengaler såg polisen personer lämna sektionen med brännskador i ansiktet och andningssvårigheter, varpå man valde att gå in i klacken med kravallutrustning och pepparspray. Polisens ingripande har kritiserats av supportrar och IFK Göteborg, men polisen står fast vid sitt agerande.",
+      "link": "https://www.sverigesradio.se/artikel/9333508",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T11:10:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sweden Is Set for First Rate Increase Since 2023: Decision Guide - Bloomberg.com",
+      "description": "Sweden Is Set for First Rate Increase Since 2023: Decision Guide Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1RFOGZycVlEcjhocDBldFZ4RENsNkY3VTFwTlVBOHkzeHdzT3NKaFpKLTlRQllGdi1jVUhRemppVGVicXFaa01YZExiczlmUDRZM2szZllpck5vZGdVSGY0LVJGUWMwbmo4ZWw0MXZVYnJ5bDlOaGtCNHVuTC14b256MHJ1c0ktQ2FlLXVtWGtBR3J1Z2tMQmNQY0p1WnFXX3RPLUlpWS00N1V2T0Jza2VfbFA?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-03T11:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Styrets nya budget: Mer pengar till förskola och fler träd",
+      "description": "Mer pengar till förskolan, kortare arbetstider och fler träd. Det är det viktigaste posterna i budgetförslaget från det nya styret i Göteborg som presenterades under tisdagen. Vid årsskiftet får Göteborg ett majoritetsstyre bestående av bestående av S, V och MP. För att frigöra pengar till bland annat förskolan vill styret dra ner på administration, göra ett stort uttag ur bolagssektorn och sänka politikerlönerna. Moderaternas nya gruppledare Hampus Magnusson är inte imponerad över de rödgrönas ",
+      "link": "https://www.sverigesradio.se/artikel/9333319",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T10:57:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Man hängde upp hitlerflagga – stäms av JK",
+      "description": "En man hade en hitlerflagga upphängd i sin bostad som syntes från utsidan. Nu stämmer Justitiekanslern mannen för hets mot folkgrupp.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/man-hangde-upp-hitlerflagga-stams-av-jk",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-03T10:55:24+00:00",
+      "impact": false
+    },
+    {
+      "title": "M29-spårvagn från Göteborg skickas till Ukraina - Sveriges Radio",
+      "description": "M29-spårvagn från Göteborg skickas till Ukraina Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemlYM1V3VGRRcjhhOGlFWkJIcFdBOUd6dGJkWTR4MGNsNUZLLTNiOURDYThZR1Y0S3VXN0NIRTNKTUJzd0xfRjlobExHenZpcTRMMGRRbUFnaXNDTWtCajJKZnhnNjhYdjBIWWs4LUtrWF9HUEp1c1czaXRWc3d3cHdLWXdybWFNeWdSeA?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T10:54:01+00:00",
+      "impact": false
+    },
+    {
+      "title": "Första spårvagnen framme i Ukraina – slipper skroten",
+      "description": "En spårvagn har färdats hela vägen från Göteborg till Mykolajiv i Ukraina för att stärka deras kollektivtrafik. Den klassiska modellen M29 har trafikerat Göteborg sedan slutet av 1960-talet, men fasas nu ut i Göteborg. Den första vagnen är framme i Ukraina och totalt ska ett 40-tal vagnar skickas till Mykolajiv istället för att skrotas. Vd:n för det ukrainska kommunala spårvagnsföretaget i Mykolajiv säger att de är mycket tacksamma för stödet.",
+      "link": "https://www.sverigesradio.se/artikel/9333289",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T10:53:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia - Al Jazeera",
+      "description": "Deadly RSF drone attacks reveal deep divisions between Sudan and Ethiopia Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjdhNXFKTUdUdk5MdVRHXzVKRzdCXy1tbVpBSzJ6Vk5uZmJsRFd5V3pwOURqMEh1TDJFN1d5UEdYZEJTTllfZkplUzl2MFNacmZMQ2l6WUQ4Y3RBYzYzN0JtcktYZFdRMmtpNFpVX0s2MGJvZXFwejdjc2xiUTBDQ2dTbGU2WnJ6RDBwR0xRLU93NlZqUVB4ZmozTlhzYVVncXE1LVJ3clNBcy1GWl9TOWpCakzSAboBQVVfeXFMTjZFX2MwWkkzc3BIVFEzY3BRUXNEV0FmTUNNSlBWMmlrNngyWlBpUGhuT1cyMXVCSFh1YXFlRl95blBVM0VfQmt3UUE1YmxOMGdOa0h6YnZfRTh0a0pLaXR0UHpKaWloUEttZlZzZXR1eUZXZFRUMndwRmY4R0dzc2RVMDdCR2UwVkMyREFMSFFRTmp0WmxiU0lPeEZERXdyS2JZZXAyMTExVi1RMUlUMEZpMzNfY1UzNVVR?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-03T10:40:43+00:00",
+      "impact": false
+    },
+    {
+      "title": "ANALYSIS-Financial markets were already fragile. Big AI bets could break them - Yahoo Finance",
+      "description": "ANALYSIS-Financial markets were already fragile. Big AI bets could break them Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeVF5M01wX3I4ZXhLWlZxelRRZXFMWTU1ZG91Uy1ab2o4YThrenZiZDVPNHB3MzFtV3FFU0x4M2RSNy1OSndiR0gxQW9sa2dLLU9aZU1IYTV1NUJBTmFRYzA5elVtR05UZlJiUFdTVElUMTByUFBrSWZySms2VEtadHd0eTFNOEpidE4tZ1poMkltVzlOYjg4SHViajdiN254bC1v?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-03T10:40:17+00:00",
+      "impact": false
+    },
+    {
+      "title": "Dammräddningen: Gäddan Rolf ska äta invasiv art - Fiskejournalen",
+      "description": "Dammräddningen: Gäddan Rolf ska äta invasiv art Fiskejournalen",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzRWczVXVmh5aDVUMXhwSlAyTDBIMGd0T2pqSDRzSVQzSGl0cmdDWXVmeU5yWjNMdG5pRnZ5RzJ4aHNwZkY2QjhfVTdKa0NxdkZRSFVpZllxZUhxVXd3STAxVEdnVjdael9pODhUNWlubGlDVWxDeXE3aXFVU1lRYmJGdllKV0tPdFVrUXl2NGQwbzRTQ04zeVBWWG1DVmMwQ1E?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T10:30:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Politikernas löner i Göteborg sänks - Kvartal",
+      "description": "Politikernas löner i Göteborg sänks Kvartal",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYnpHeFFRcEl6R3RaR1RoM2RsMDBwZnllVUtVV0NLaVgzRWNITkZUZi1US0ItR0xzV2FzZTJBNXg0c2RkSVdmWElWVXFNcUU4VzJYN2NuTjlFai1pbUIyZ2hPNlpHbTNmWjM3WEtmaWR5NnhtZUtkNXJKd0VKRmt3ekN6WkhQYy03Q25CVy1hYUY?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T10:25:48+00:00",
+      "impact": false
+    },
+    {
+      "title": "Juridiska striderna om USA-valet har redan börjat",
+      "description": "De juridiska striderna kring det amerikanska mellanårsval har börjat trots att valet inte dragit igång än. I flera delstater har man förberett sig för överklaganden av valresultat och anmälningar om valfusk. Justitiedepartementet har bland annat krävt att Kalifornien ska lägga tusentals valsedlar åt sidan, då man hävdar att drygt 20 000 utländska medborgare felaktigt kan ha hamnat i delstatens röstlängder. Högsta Domstolen har avvisat den begäran. I Alaska ville justitiedepartementet i förväg un",
+      "link": "https://www.sverigesradio.se/artikel/9333434",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T10:21:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Bombhot mot SAS-plan – evakuerades på flygplatsen",
+      "description": "Flera flygplan i europeiskt luftrum har i dag mottagit bombhot och tvingats nödlanda. Bland annat handlar det om ett SAS-plan på väg från Köpenhamn till Warsawa. Flyget landade som planerat men på flygplatsen fick passagerare och personal evakueras efter att det ringts in ett bombhot. Även ett plan från London fick nödlanda på en mindre flygplats i Warsawa, att plan från Manchester ska ha tvingats landa i Murica, och ett plan från Israel ska ha behövt landa i Sofia, alla efter bombhot.",
+      "link": "https://www.sverigesradio.se/artikel/9333437",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T10:08:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Attenius: ”Kan inte ha eld och bengaler på läktaren” - Göteborgs-Posten",
+      "description": "Attenius: ”Kan inte ha eld och bengaler på läktaren” Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVZTEFkR2QySXNBMWV3T2YyTGU0RmJYTGM0cEcwNWtNazRMSWFheGpDYndWX2RlS3hITmNScG8yWVVMM2dzRWhsTE1iWm0yNWlmeVpEZTc0bFVmY1JxbEZsZ2s3b0tQUGg3V0liLTBiZWZZaDREN29jUjJPQVZhNmtjOFEzTFpOWHNOX0MyZy11WHRydmxaM2lFcHBCcUQyc2RoUDlxdzhpYkFOTHdTMHhJaFY?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-03T10:06:56+00:00",
+      "impact": false
+    },
+    {
+      "title": "Falska bombhot mot flera flygplan i Europa",
+      "description": "Under bara drygt ett dygn har åtta flygplan i Europa – varav sju på tisdagen – utsatts för bombhot. Det är i nuläget oklart om hoten har koppling till varandra, men samtliga har visat sig vara falska.",
+      "link": "https://www.svt.se/nyheter/utrikes/uppgifter-hot-mot-sas-flyg-i-polen",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-03T10:01:08+00:00",
+      "impact": false
+    },
+    {
+      "title": "Trump riskerar granskning – om Demokraterna vinner mark",
+      "description": "Republikanerna riskerar att förlora kontrollen över kongressen i mellanårsvalet , enligt flera opinionsmätningar. Demokraternas ökade makt kan leda till dödläge i lagstiftningen och granskningar av presidenten och hans medarbetare, enligt professor Dag Blanck. Men inom utrikespolitiken ökar ofta amerikanska presidenter intensiteten efter mellanårsvalen. ”De är också mer benägna att ta till militär \"action\" utomlands”, säger Anna Wieslander, Nordeuropachef för tankesmedjan Atlantic Council.",
+      "link": "https://www.sverigesradio.se/artikel/9333334",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-03T09:56:00+00:00",
+      "impact": false
+    },
     {
       "title": "Bil- och busstrafik påverkas vid Linnéplatsen - Trafiken.nu",
       "description": "Bil- och busstrafik påverkas vid Linnéplatsen Trafiken.nu",
@@ -66,7 +561,7 @@
     },
     {
       "title": "Regeringsbildningen steg för steg",
-      "description": "Ett av talmannens uppdrag är att föreslå en statsminister efter ett val. Nuvarande talmannen Andreas Norlén har använt så kallade sonderingsuppdrag som verktyg att föra processen framåt. Elisabeth Thand Ringqvist (C) är den andra partiledaren att tilldelas sonderingsuppdraget, och nu väntar en statsministeromröstning den 3 november.",
+      "description": "Ett av talmannens uppdrag är att föreslå en statsminister efter ett val. Nuvarande talmannen Andreas Norlén har använt så kallade sonderingsuppdrag som verktyg att föra processen framåt. Elisabeth Thand Ringqvist (C) röstades ner i en andra statsministeromröstning den 3 november.",
       "link": "https://www.svt.se/nyheter/inrikes/regeringsbildningen-steg-for-steg",
       "source": "SVT Sverige",
       "category": "Sweden",
@@ -74,17 +569,8 @@
       "impact": false
     },
     {
-      "title": "Ethiopia pushes IP authority towards AI era - ITWeb Africa",
-      "description": "Ethiopia pushes IP authority towards AI era ITWeb Africa",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHg2b0pMYVRuMVZTVWtoV2E4WHhlRUVqZFZmeVJfMUJHcmoyY0ZCRzRKRmg0dnF5UjRMM3FhdnotQ3U1SFNoVHh4NjhlR1pzb2NzcjdpUk9MLW5JZzlDU1B2cC1ob0dZNmZYVTdTbENvZURxZUMzOXV2dnJDVUZOVkNhTnZ2dnM0Yzd2MHZfU0I1LUk?oc=5",
-      "source": "Ethiopia Amharic",
-      "category": "Ethiopia",
-      "published": "2026-11-03T08:48:16+00:00",
-      "impact": false
-    },
-    {
       "title": "Strömavbrott i Göteborgs skärgård – flera öar drabbade",
-      "description": "Flera öar i Göteborgs södra skärgård har drabbats av ett strömavbrott. Initialt var omkring 1 500 kunder drabbade, bland annat på Styrsö och Brännö.",
+      "description": "Flera öar i Göteborgs södra skärgård drabbades av ett strömavbrott på tisdagen. Initialt var omkring 1 500 kunder drabbade, bland annat på Styrsö och Brännö.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/stromavbrott-i-goteborgs-skargard-flera-oar-drabbade",
       "source": "SVT Väst",
       "category": "Local",
@@ -93,11 +579,20 @@
     },
     {
       "title": "Nu inleds rättegången efter gigantiska åtalet mot gängtoppen ”Scar”",
-      "description": "Nu inleds jätterättegången mot Ildar ”Scar” Galiyev. Det handlar om flera uppmärksammade mord, sprängningar och andra grova våldsdåd. – Det är väldigt många människor som har drabbats av de här gärningarna, säger statsåklagaren Mats Ihlbom.",
+      "description": "Jätterättegången mot Ildar ”Scar” Galiyev har inletts. Flera uppmärksammade mord och sprängningar ska avhandlas – förhandlingarna är inte klara förrän i mars. – Han ser sig själv som en ”sicario”, en lönnmördare, säger åklagaren Lukas Tigerstrand i rätten.",
       "link": "https://www.svt.se/nyheter/inrikes/nu-inleds-rattegangen-efter-gigantiska-atalet-mot-gangtoppen-scar",
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-11-03T08:45:58+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia pushes IP authority towards AI era - ITWeb Africa",
+      "description": "Ethiopia pushes IP authority towards AI era ITWeb Africa",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHg2b0pMYVRuMVZTVWtoV2E4WHhlRUVqZFZmeVJfMUJHcmoyY0ZCRzRKRmg0dnF5UjRMM3FhdnotQ3U1SFNoVHh4NjhlR1pzb2NzcjdpUk9MLW5JZzlDU1B2cC1ob0dZNmZYVTdTbENvZURxZUMzOXV2dnJDVUZOVkNhTnZ2dnM0Yzd2MHZfU0I1LUk?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-03T08:36:29+00:00",
       "impact": false
     },
     {
@@ -119,8 +614,8 @@
       "impact": false
     },
     {
-      "title": "Göteborg täckt i dimma – förklaringen till fenomenet",
-      "description": "Under tisdagsmorgonen är Göteborg täckt av tät dimma. Meteorologen Kjell Lund på SMHI förklarar väderfenomenet. Då lättar dimman enligt meteorologen.",
+      "title": "Göteborg täcktes i dimma – förklaringen till fenomenet",
+      "description": "Under tisdagsmorgonen täcktes Göteborg av tät dimma. Meteorologen Kjell Lund på SMHI förklarar väderfenomenet. Dimman lättade senare under dagen.",
       "link": "https://www.sverigesradio.se/artikel/9333308",
       "source": "P4 Göteborg",
       "category": "Local",
@@ -146,21 +641,12 @@
       "impact": false
     },
     {
-      "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
-      "description": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-03T07:50:37+00:00",
-      "impact": false
-    },
-    {
       "title": "Därför har John Ericsson-statyn i Göteborg drabbats av hosta - Aktuellt i Politiken",
       "description": "Därför har John Ericsson-statyn i Göteborg drabbats av hosta Aktuellt i Politiken",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXExbEtMelRUY29ERDlfYngxZE9QNHBtbWNsa1c5cUZTc0x2N0lrR1gwdklYSEozY3hOSENHR21PNFJyNmQzdk5jbzhYbVF4UVhiMi1zY3BidjRLOWNHNFZ6NGptRFNmRUw2SFF6WnVDUlBIazJSV3RuNUN1bDdEd0xR?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
-      "published": "2026-11-03T07:23:17+00:00",
+      "published": "2026-11-03T07:35:57+00:00",
       "impact": false
     },
     {
@@ -174,7 +660,7 @@
     },
     {
       "title": "Artisten och låtskrivaren Gert Lengstrand död – skrev stora hits",
-      "description": "Artisten och låtskrivaren Gert Lengstrand från Göteborg har avlidit, 84 år gammal. Han skrev hits som ”Växeln hallå” och ”Eloise”.",
+      "description": "Artisten och låtskrivaren Gert Lengstrand från Göteborg har avlidit, 84 år gammal. Han skrev hits som ”Växeln hallå” och ”Eloise” – och vann Eurovision med ”Take me to your heaven” 1999.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/artisten-och-latskrivaren-gert-lengstrand-dod-skrev-stora-hits",
       "source": "SVT Väst",
       "category": "Local",
@@ -198,6 +684,24 @@
       "category": "Sweden",
       "published": "2026-11-03T06:25:00+00:00",
       "impact": true
+    },
+    {
+      "title": "Trump Says Iran Wants A Deal 'And It Could Happen' - Radio Free Europe/Radio Liberty",
+      "description": "Trump Says Iran Wants A Deal 'And It Could Happen' Radio Free Europe/Radio Liberty",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-03T06:24:04+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia: Will Renewed Conflict Derail Ethiopia's Economic Growth? - allAfrica.com",
+      "description": "Ethiopia: Will Renewed Conflict Derail Ethiopia's Economic Growth? allAfrica.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0teDVzZnVjRVkzYUF0NnBZbFpNcmhLaDdZRjlubkhvTThVbGtuQjRTVmYySUhONDhjM0FEc2g5eWNaWGtCNmdEQzJMeTlqMEd6dmU3RkM3UElQbmM?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-03T06:18:50+00:00",
+      "impact": false
     },
     {
       "title": "Ethiopia-Eritrea Conflict Could Open a Second Red Sea Front - Small Wars Journal",
@@ -299,15 +803,6 @@
       "impact": false
     },
     {
-      "title": "Trump Says Iran Wants A Deal ‘And It Could Happen’ - Radio Free Europe/Radio Liberty",
-      "description": "Trump Says Iran Wants A Deal ‘And It Could Happen’ Radio Free Europe/Radio Liberty",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-03T04:40:34+00:00",
-      "impact": false
-    },
-    {
       "title": "Govt Relocates Two KCSE Centres in Moyale Over Kenya-Ethiopia Border Clashes - Capital FM Africa",
       "description": "Govt Relocates Two KCSE Centres in Moyale Over Kenya-Ethiopia Border Clashes Capital FM Africa",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHQ4c0htWHFTeW5Lb2MzdlVib210Wnl5eHZYazFtLURWVDBvejVyRWlNWWFzc3dhVDMtNmhMTWhBclhLZUhkNFhyaTlaaVZZRHdtMkdKZHUzSDVzREkxa1FtMHZhNVFBNC1mWmlOV19BcXdhOXVOY1AtbjU5cVJXRVp4amIyejE5SHp2UzRqVHZNYTJ3c0NadFd6LWpPU1pFLThKSw?oc=5",
@@ -380,6 +875,15 @@
       "impact": false
     },
     {
+      "title": "Tehran denies Ghalibaf sidelined as Rezaei's role grows - Iran International",
+      "description": "Tehran denies Ghalibaf sidelined as Rezaei's role grows Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00M0cxT2taTkpkRkQ1MDhFQ2dOd19ESjZ1M2VzWWFtVl9iOFRSUWxHNkZpcC1DQlJPSDN0dG1aWUI1VjVWOFVIYkZwR1BfVGVJRWc?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-03T03:31:15+00:00",
+      "impact": false
+    },
+    {
       "title": "Kommuner säger nej till mindre barngrupper i förskolan",
       "description": "Många kommuner motsätter sig en lag om mindre barngrupper i förskolan och pekar på att finansieringen av förslaget är oklar. Utredningen föreslår ett tak på tolv barn för de yngsta och femton för äldre förskolebarn, medan flera kommuner hellre ser rekommendationer än lagkrav. I remissvaren lyfts både rekryteringsproblem och förskolor som redan i dag är byggda på ett sätt som försvårar förändringen.",
       "link": "https://www.sverigesradio.se/artikel/9332772",
@@ -405,6 +909,15 @@
       "category": "Sweden",
       "published": "2026-11-03T03:06:00+00:00",
       "impact": true
+    },
+    {
+      "title": "Ethiopia's economic boom: Will renewed conflict in Tigray derail growth? - DW.com",
+      "description": "Ethiopia's economic boom: Will renewed conflict in Tigray derail growth? DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFZZYzhVU0dXdmpiQUxCajdIWHp4OTZwMGxIMnJxUDYzNmJzWmwxMWJHcHlZZ2hMVkdiTGtuMjVJLVJRNEhzOFJHdU9IS0c4RlFpUVZPX3g3a3ptQ2RMLWh4MHgzcEhsMjE3bnRVbi1VQXhrR0Q4UUhVY001SFZnWTdPb3ptMlBzSzh2QnBubnDSAZABQVVfeXFMUDlNVmhFZkNORXVPZnpVcUZMWHBzTjVzZmtibHVtcW5oSjdYMEJPZ0tHLTR1ZUZOYTlBSVNOQl96bW83T3Q3dTBTLWMybzJwSDA2aF9LdFpNWklnci1ncm5iWVFqQ3FEWG56NVh3TENqR0FMMzVYT2Q0aEdzNktzZW9WR1dvTjhidEhxN1A0Q2xt?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-03T02:15:16+00:00",
+      "impact": false
     },
     {
       "title": "Färre litar på att valen går rätt till – tydlig minskning",
@@ -623,15 +1136,6 @@
       "impact": true
     },
     {
-      "title": "Attenius: ”Kan inte ha eld och bengaler på läktaren” - Göteborgs-Posten",
-      "description": "Attenius: ”Kan inte ha eld och bengaler på läktaren” Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVZTEFkR2QySXNBMWV3T2YyTGU0RmJYTGM0cEcwNWtNazRMSWFheGpDYndWX2RlS3hITmNScG8yWVVMM2dzRWhsTE1iWm0yNWlmeVpEZTc0bFVmY1JxbEZsZ2s3b0tQUGg3V0liLTBiZWZZaDREN29jUjJPQVZhNmtjOFEzTFpOWHNOX0MyZy11WHRydmxaM2lFcHBCcUQyc2RoUDlxdzhpYkFOTHdTMHhJaFY?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T19:15:43+00:00",
-      "impact": false
-    },
-    {
       "title": "Minst 26 döda i rysk attack mot ukrainskt hjälpcenter",
       "description": "I Ukraina uppges minst 26 personer ha dödats i en rysk attack mot ett hjälpcenter och ett skyddsboende i Zaporizjzja-regionen idag, enligt ukrainska myndigheter, rapporterar AP. Runt 20 personer saknas och samtidigt rapporteras det om nya ryska drönarattacker på flera håll i Ukraina.",
       "link": "https://www.sverigesradio.se/artikel/9333161",
@@ -701,15 +1205,6 @@
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-02T18:35:20+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ethiopia's economic boom: Will renewed conflict in Tigray derail growth? - DW.com",
-      "description": "Ethiopia's economic boom: Will renewed conflict in Tigray derail growth? DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZFZZYzhVU0dXdmpiQUxCajdIWHp4OTZwMGxIMnJxUDYzNmJzWmwxMWJHcHlZZ2hMVkdiTGtuMjVJLVJRNEhzOFJHdU9IS0c4RlFpUVZPX3g3a3ptQ2RMLWh4MHgzcEhsMjE3bnRVbi1VQXhrR0Q4UUhVY001SFZnWTdPb3ptMlBzSzh2QnBubnDSAZABQVVfeXFMUDlNVmhFZkNORXVPZnpVcUZMWHBzTjVzZmtibHVtcW5oSjdYMEJPZ0tHLTR1ZUZOYTlBSVNOQl96bW83T3Q3dTBTLWMybzJwSDA2aF9LdFpNWklnci1ncm5iWVFqQ3FEWG56NVh3TENqR0FMMzVYT2Q0aEdzNktzZW9WR1dvTjhidEhxN1A0Q2xt?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-02T18:24:43+00:00",
       "impact": false
     },
     {
@@ -902,6 +1397,15 @@
       "impact": false
     },
     {
+      "title": "Polisen om ingripandet: ”En farlig situation” - Göteborgs-Posten",
+      "description": "Polisen om ingripandet: ”En farlig situation” Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckswUTJFOC05Vk5qZEhzT0taTkRTeDl5ZTV5UngzRkdRQ0txOFBZWnlndHRoa0hvbkVrZ3dzV2g5LVhZLWdsS3M2VmI2VmdkWDhlV29UTldfNFZ3dDJGcnRNTjh0QkZaTjZ2Y2FWMDNVN3B4OXJGZzl3b3dRSU90dmNSTXdZWXlZUlFJa0JUWjU4YU9tQkNJNUcxRC1UVmZ1Um5JQkhlVjhVR01kck5Ydw?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-02T15:40:47+00:00",
+      "impact": false
+    },
+    {
       "title": "The Swedish Newspaper of America - nordstjernan.com",
       "description": "The Swedish Newspaper of America nordstjernan.com",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91Ujlxa2hJVElFU3NKejBoZEdZb2laQ196c0lqLWRqSXJaZlV0cXpTRWpURF9MVnJmLTB0TzdHWWZUWVlwajB0YzdKcGF1bTdpVFVraw?oc=5",
@@ -942,6 +1446,15 @@
       "description": "Ett 20-tal personer uppges ha behövt söka vård efter derbyt, enligt IFK Göteborg. Men trots tumultet försvarar polisen agerandet att gå upp och konfrontera bortasupportrarna. – Polisen provocerar aldrig fram något, vi agerar mot brott, säger Daniel Norlander, operativt ansvarig för polisens läktarinsats.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/polisen-forsvarar-agerandet-pa-laktaren-kvinna-kom-ut-brannskadad",
       "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-02T15:07:54+00:00",
+      "impact": false
+    },
+    {
+      "title": "Polisen försvarar agerandet på läktaren: Kvinna kom ut brännskadad - SVT Nyheter",
+      "description": "Polisen försvarar agerandet på läktaren: Kvinna kom ut brännskadad SVT Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWhmQndBU2cyQ2ZDS2F3TjJfQVZrV2l1VHRGTEFPb2t6NExPRFJuWEktR2EwMk9nZmtyMlQyUDRRRlBOVHBYd0JBYmQtVnBqQS12NzNldlBNdGdUdGticG9RWml2QzZ2eXFBbDNMYXdXMTQwcGpRdjZuM09UNUM4bEtfMkJmWjRBWTV3RmlyVHZCUFdpSlJ4aUFUWEdldFJOVnRWSTV3MA?oc=5",
+      "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-02T15:07:54+00:00",
       "impact": false
@@ -1028,6 +1541,15 @@
       "impact": false
     },
     {
+      "title": "Polisen försvarar ingripandet i IFK-klacken - Sveriges Radio",
+      "description": "Polisen försvarar ingripandet i IFK-klacken Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS051c3VIQm5PakZSZ1JPNEtBYy1pd3FEcEZPR09TUzhyeFM4d3hxMmswbFhvNUNJY0NnaGsxdVFJSTNCdDFEWWVXSFVDNk04ZVRtckJrSWxXZzdHRWRMbC1tWEdkVmtCUmhvUVFOcVpxTlUtM1JMa09DOVNuSHRVNktFOTZZTXc?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-02T13:47:19+00:00",
+      "impact": false
+    },
+    {
       "title": "Polisen försvarar läktarinsatsen: ”Folk kom ut med brännskador”",
       "description": "Polisens beslut att gå upp på läktaren i kravallutrustning och med pepparsprej i hand under söndagens derby mellan IFK Göteborg och BK Häcken har kritiserats av både supporterklubben och IFK Göteborg. Men polisen står fast vid sitt agerande. Daniel Norlander är polisområdeschef för Hisingen i Göteborg och säger att personer kom ut från läktaren med brännskador i ansiktet efter att runt 90 bengaler tänds på läktaren. Att IFK Göteborg har gått ut med att de tycker att detta var oproportionerligt h",
       "link": "https://www.sverigesradio.se/artikel/9332863",
@@ -1082,6 +1604,15 @@
       "impact": false
     },
     {
+      "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says - News4JAX",
+      "description": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjJ6c0dqNmNIX2ctMjhCY3dQQUd5SlBRQm81ZUhESExPMDF3ME1IVjV2a1JGMnJ4VFhkQ2FERERaLTNEbDRGOVZrOTBqdlhkU2hYOGczejRjS2lrTTNJU2hJdzZRMUlYelRXZ0lwNmpJUFV5M2IydFFzemU5MVlhUUpwTVNqaDlpSE9JQ21vU3p1anFsQ1BWbVFMZjhwNXlJaFhBV1p2QVRTSTJJTTBhazQ5UXJ1NF9yRjA2NFctRQ?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-02T13:05:20+00:00",
+      "impact": false
+    },
+    {
       "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says - WKMG",
       "description": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says WKMG",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSlVtcHpuQXBIeFZNMTNxcmM1U1hWLWhXN3RCaWVVemtjVzhFbmoyWEJZQkpyX3R2T3VidVRTOGFneDIyUHU2RlltS3JqeTFfUHF4Q0dhTEhyVWVYczE5WEdXMDU4bktBdWJTN1RBcHhuNFNEbDJ0cEFSQXdBenRVa0w2SmFjZm1wMGp5aFQtVmN1UldjZGJBZXJoVkVpY01qc1lzMHRmb1dHX09Ea1Z6Nkl6TUF0N09fYnMydEt6S0NHTVpy?oc=5",
@@ -1097,6 +1628,15 @@
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-02T13:05:20+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says - AP News",
+      "description": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2pwMVJyZHZmQjloaWFaT2ViOGZvNlYyYkJaZkROTS1vSnFzU0dvdURGUUllQXpIYlZqcTB6azNRc2VtZC1WbE95Wnc2OW9EWEY1NjNGQUN1WHlCS2ZQY0VCZm41SnVPeF9tUnpaOUtTdEZ6dzZtWWl2QmNma1Q0WS1pdWxxZnZIY0g2T1RWbldpNWNaTXpNNVZRSDdMQlBtN1ZxNTFsaGc4aURWWXN0Qm93?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-02T13:05:00+00:00",
       "impact": false
     },
     {
@@ -1460,6 +2000,15 @@
       "impact": false
     },
     {
+      "title": "Iran’s Economy Is Running Out of Its Future - National Council of Resistance of Iran - NCRI",
+      "description": "Iran’s Economy Is Running Out of Its Future National Council of Resistance of Iran - NCRI",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSm5falRPOXZlVGNDRXBOdXdYUTdUelp2bGFSYXJLWmloUC0ySnBLTS1yM1pscFA4U1dWVU16NWF3NmR1bnBSdGVURjRvT3hfZ3ZsUllmLWF1ZUg3SFFER3ZneVhQTHNHckZ1dXNtblFqNFJRdDZvSUlQSy01OVk3TmZoZWFPb3Z5YW1PZQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-02T08:45:37+00:00",
+      "impact": false
+    },
+    {
       "title": "Hur lång tid kan regeringsbildningen ta?",
       "description": "Ovissheten kring regeringsbildningen väcker många frågor, inte minst hur lång tid det kan ta innan Sverige får en ny statsminister. Bedömningen är att processen kan bli lång, men sannolikt inte lika utdragen som 2018, då regeringsbildningen tog 134 dagar. Ekots politiska kommentator Fredrik Furtenbach och Jan Teorell, professor i statsvetenskap vid Stockholms universitet, svarar på lyssnarnas frågor.",
       "link": "https://www.sverigesradio.se/artikel/9332449",
@@ -1523,6 +2072,15 @@
       "impact": false
     },
     {
+      "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica",
+      "description": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-02T08:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Här skolorna med högst lärarbehörighet i Göteborg - Göteborgs-Posten",
       "description": "Här skolorna med högst lärarbehörighet i Göteborg Göteborgs-Posten",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmo1aThUeS1sYm5OWm1yS0hNQnBkbHR6V290WXQwTG1VVVZyRFJLRUtPdmRid3RGVUFzeHhWN19qMkc0NFI0ZFNyMmZ5SW81c0Fscy1CdkdRc2d3VUtocVhleWozeE53R3BpR2xSajVCTEI1OWItVHJWbHpKZHVEQmRNUUc2MzBmSVJkM2sweXpZOG9hOVNGUURqZ0FzMmFTMHYwQUxTN0c4NFRiRTlxQVRWOUxUOGZ1SHhqSXFnakE?oc=5",
@@ -1538,6 +2096,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-02T07:57:53+00:00",
+      "impact": false
+    },
+    {
+      "title": "Butikskylar och frysar hackade – flera butiker drabbade - SVT Nyheter",
+      "description": "Butikskylar och frysar hackade – flera butiker drabbade SVT Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFJKUTUxRU16bWdxbmExeXV0OVNDOEtlN2pNYTJnY0NSV2RLR0JsZk9SUGxDVmduc1FHWnJhR3lGOWJZVXlPTDV3bnA0WklLMkFtMzJMRUdSOUhwdUdYamFPOXNxN3BuVV9FbmNsR1B4RkxLd3Y0bm02RFlVeE1kUDg5OFI4OGFONFM1a05SbG9hRHJ5TnRZNHFxblBhNnFJWFE?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-02T07:50:21+00:00",
       "impact": false
     },
     {
@@ -1683,573 +2250,6 @@
       "category": "Local",
       "published": "2026-11-02T06:23:00+00:00",
       "impact": false
-    },
-    {
-      "title": "Udda begravningen – hölls i bowlinghall - Sveriges Radio",
-      "description": "Udda begravningen – hölls i bowlinghall Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3aEw2S1VkZ3c0TDNWWW5xOE1FY2ZvSEtlVG5ILWd1Rk1pLTFueTFjOWFXaFRlS0ZiOU0zQVZWbzNWa0JNaFZHMEN6UmgxY0dQaEliblltd21oTlNqN2NMV2hKV2N6NE1GbHRDZ2lnOUlmUXlpZXgxU1M0cm5rWGs?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T05:57:23+00:00",
-      "impact": false
-    },
-    {
-      "title": "Udda begravningen – hölls i bowlinghall",
-      "description": "Nyligen skedde en begravning i en mer udda miljö - en bowlinghall i Majorna i Göteborg. Det vanligaste är att folk begravs i en kyrka eller ett kapell men det går precis lika bra att hålla till i skogen, på en restaurang eller någon annan plats, menar begravningsrådgivare Mika Tonfalk. ”Begravningen får gärna spegla den avlidna”, säger han.",
-      "link": "https://www.sverigesradio.se/artikel/9331884",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T05:57:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lärare efterlyser tydligare regler kring AI i skolan",
-      "description": "AI-utvecklingen går snabbt framåt – men trots detta saknas riktlinjer för hur tekniken ska användas i skolan. Flera lärare som SVT varit i kontakt med via Lilla Aktuellts lärarpanel vittnar om att de saknar ett tydligt regelverk. – Det här är en så pass stark teknik att den påverkar vår demokrati, säger AI-analytikern Johan Falk.",
-      "link": "https://www.svt.se/nyheter/inrikes/larare-efterlyser-tydligare-regler-kring-ai-i-skolan",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-02T05:34:12+00:00",
-      "impact": true
-    },
-    {
-      "title": "Företag litar inte på elsystemet – köper egna generatorer",
-      "description": "Allt fler industrier i södra Sverige investerar i egen balanskraft för att undvika avbrott i tillverkningen till följd av effektbrist i elsystemet. Det bekräftar flera källor för Ekot. ”Det råder nästan en konsensus om att det är så här man behöver göra”, säger Johan Eklund, vd för för Sydsvenska Handelskammaren. Flera företag vittnar om ökad risk för avbrott och ett av företagen som överväger att investera i dieselgeneratorer är Blekinge Pressgjuteri.",
-      "link": "https://www.sverigesradio.se/artikel/9331472",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-02T05:13:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Trumps utspel under valspurten: ”Mer skit som kandiderar”",
-      "description": "USA håller kongressval på tisdagen och både republikaner och demokrater försöker in i det sista locka över väljare. Under söndagkvällen höll president Donald Trump valmöten i både Iowa och Kansas, två delstater som setts som självklara republikanska bastioner, men där partiet nu riskerar att tappa mark. De sista opinionsmätningarna före valet tyder på att Demokraterna har ökat sin ledning i kampen om representanthuset, medan det är fortsatt jämn kamp om majoriteten i senaten. Demokraterna har se",
-      "link": "https://www.sverigesradio.se/artikel/9332395",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-02T05:12:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Kanada följer mellanårsvalet intensivt: ”Jag kollar varje kväll”",
-      "description": "USA:s relation till grannlandet Kanada har ju de senaste två åren varit ovanligt ansträngd. President Trump har bland annat pratat om Kanada som ny delstat och infört tullar mot landet. Därför följer nu många kanadensare noga vad som händer i mellanårsvalet på tisdag.",
-      "link": "https://www.sverigesradio.se/artikel/9332366",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-02T05:08:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Huthierna: Civila skadade i attack",
-      "description": "Hutirörelsen uppger att sju civila skadats i attacker från den saudiledda koalitionen i Jemen.",
-      "link": "https://www.svt.se/nyheter/utrikes/huthierna-civila-skadade-i-attack",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-02T05:03:19+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nytt insatsteam ska komma åt ”kriminella konsulter”",
-      "description": "Ekobrottsmyndigheten har startat ett särskilt insatsteam för att tidigare stoppa så kallade möjliggörare, konsulter som används i ekonomisk brottslighet. Enligt chefsåklagare Jonas Svanfeldt har de blivit viktigare när fler branscher skärpt kontrollerna, och arbetet bygger bland annat på uppgifter från Skatteverket efter fjolårets lagändring. Det första åtalet kan komma i höst och rör, enligt myndigheten, konsulter i byggbranschen i södra Sverige.",
-      "link": "https://www.sverigesradio.se/artikel/9327136",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-02T04:56:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Söndersågade takstolar bakom evakueringen av Hagabion - Sveriges Radio",
-      "description": "Söndersågade takstolar bakom evakueringen av Hagabion Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGh3QnVkTzU5dlloWGViU1FhSzNhcjNqYjFLekd5eFdZdEdwVmhaTzlWZlNoLXpRUjlhQ0VDTUdBcEZvOFFXUW9rb1RPSVhGRWQ3TGVaTVFPTlRKSFBCNEFOTTU3SUVZSWowUVR5X2g0Y3hhU1kwNVlSMlVDUFJqSmsxSW9YTGhtbEhQYnNKNA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T04:55:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "Söndersågade takstolar bakom evakueringen av Hagabion",
-      "description": "Delar av takkonstruktionen på Viktoriahuset, där Hagabion i Göteborg ligger, hade sågats av. Det var en av orsakerna till att huset behövde utrymmas i över ett år, kan P4 Göteborg avslöja. Det var när projektet inleddes sommaren 2025 som konsulter upptäckte att delar av takstolarnas mittstolpar hade plockats bort, vilket gjorde att andra delar överbelastades. Det kommunala fastighetsbolaget Higabs projektledare Louise Martinsson bekräftar att takstolarna var försvagade, men det fanns aldrig någo",
-      "link": "https://www.sverigesradio.se/artikel/9327344",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T04:55:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ingegärd, 88, ville ha hjälp med mobilen – fick tre nya avtal",
-      "description": "88-åriga Ingegärd Bergqvist gick in i en Telenorbutik i Göteborg för att få hjälp med sin mobiltelefon. Hon kom därifrån med nya abonnemangsavtal. Först efter att SVT kontaktat Telenor fick hon beskedet att avtalen skulle rivas. – Jag tycker det är illa att dom har lurat mig, säger hon.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/ingegard-88-ville-ha-hjalp-med-mobilen-fick-tre-nya-avtal",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-02T04:30:02+00:00",
-      "impact": false
-    },
-    {
-      "title": "Från Göteborg till drömbygge i Sala - Sala Allehanda",
-      "description": "Från Göteborg till drömbygge i Sala Sala Allehanda",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0eUpRTHVHaHBRVHljQk40RGw5OWtIX2p5bG8tQU1IRVZvRFhwdFRYMGtDa0dBWkxMSVJuRkVGTlZ0M3FPRmttbk9YZmpNcS1XYlNMdEZ6T0l4Qm1MQzFJaGFDOTNyWXlBSzZhOU9XY2kxU3ZCQTQ3d3dXMA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T04:30:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "2 november: Nattens nyheter",
-      "description": "",
-      "link": "https://www.svt.se/nyheter/utrikes/2-november-nattens-nyheter-ts037m",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-02T04:14:53+00:00",
-      "impact": false
-    },
-    {
-      "title": "Axfoods kylar i Göteborg drabbade av it-attack - Privata Affärer",
-      "description": "Axfoods kylar i Göteborg drabbade av it-attack Privata Affärer",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWVVyYlBUS3NhTjNOWTdEWGVuQ1A4d0xuTE11cm5HVXhRbHNERWxrS2VraUtwcnFoVnRwNmhFekozR2hkMklvYjJYME0xVlM4dW1DbFRlWXlUT01tYTZWN1VfZTZGTW9xMnZpYjFBMVJTdUg5d29IYk9TUTdLUzdySG42V2MxME9MYjByMUZlNFVyNmpZUXFoc3dNQlo?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-02T03:36:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Iran war latest: Tehran holding intensive talks with mediators, foreign minister says - The National",
-      "description": "Iran war latest: Tehran holding intensive talks with mediators, foreign minister says The National",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-02T02:39:33+00:00",
-      "impact": false
-    },
-    {
-      "title": "Trump på megaturné inför mellanårsvalet i USA – superfansen hänger med",
-      "description": "Front Row Joes-medgrundaren Sharon Anderson sover i bilen för att se Donald Trump tala. Hon beskriver stämningen på mötena som elektrisk.",
-      "link": "https://www.svt.se/nyheter/utrikes/trump-pa-megaturne-infor-mellanarsvalet-i-usa-superfansen-hanger-med",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-02T02:26:52+00:00",
-      "impact": false
-    },
-    {
-      "title": "Pensionärer vill också ha gratis RS-vaccin",
-      "description": "Efter förra säsongens framgångsrika vaccination av nyfödda, höjs krav på att också äldre ska få kostnadsfria vaccinationer bland annat mot RS-virus. RS-virus orsakar svåra andningsproblem för nyfödda, och Folkhälsomyndigheten rekommenderar även äldre och riskgrupper att vaccinera sig. En dansk forskningsstudie visar att sjukhusinläggningar blir färre bland äldre som är vaccinerade mot RS-virus.",
-      "link": "https://www.sverigesradio.se/artikel/9329882",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-02T02:15:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Sudan files complaints against Ethiopia with UN, African Union over drone attacks - Anadolu Ajansı",
-      "description": "Sudan files complaints against Ethiopia with UN, African Union over drone attacks Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19NbElCNEpXQ05vQ3U5YkdmRlR3LWN2X0d3Rnp5SDVsR0k1V2hTUlNKeXlubFdQR1g0UWJsQmtBRUd3QzhROFFjLTZ2OWFwWjd2V2dRcGJnTzI1MDZWdDJseWZtZEJXWEluYTc2Q3BLYTRiRHAySVgyeTRTZ1p4X055UHdsU1VpUUc1OU1TYzQ5LXpzcWN1TlRaR0lJQlRRNjhfR2Y3Z2VzR2FYUzFpMUJWRnhKaE0?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-02T02:00:53+00:00",
-      "impact": false
-    },
-    {
-      "title": "Burnham öppnar för formell ursäkt gällande slavhandeln",
-      "description": "Den brittiske premiärministern Andy Burnham öppnar för att Storbritannien ska ge en formellt ursäkt för landets delaktighet i slavhandeln under tidigare århundraden. Däremot utesluter Burnham en ekonomisk kompensation till de länder som menar att slavhandeln hämmat deras samhällsutveckling. Kraven på en ursäkt och på kompensation har förts fram flera gånger av länder i bland annat Karibien och har skärpts på senare tid.",
-      "link": "https://www.sverigesradio.se/artikel/9332375",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-02T01:13:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Iran’s nuclear bomb debate gains ground on official platforms - Iran International",
-      "description": "Iran’s nuclear bomb debate gains ground on official platforms Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ncU5lU042bEhlZ2RxWkFMeFl3TFdqeHoyU045dTlPQ3EzTHpBRU1lOHBWblNBdGtFbEpQbEFZS3hRUmlfVzl5V2hxZm1VZEpyZWc?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-02T00:40:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Middle East latest: Iran offers to open strait in two days if US meets demands - The National",
-      "description": "Middle East latest: Iran offers to open strait in two days if US meets demands The National",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1YtZVpYb1lJeUVSMXFnakU1dlI2bW5DZlExMnZGTk5CTUNJV3JhX2d1T1U0SnJxbS1Gb0J4NzBQRmpNUDB0cHFsdTRzWm43NjBWNURaWFVyY1VvVDhlRUU1eThHNVdrTEhyYUI4cU5WemNCTmV4Z01pdkdqaXl6cmZOTDhwbUxjVkxBR1k2T2U?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-01T23:55:56+00:00",
-      "impact": false
-    },
-    {
-      "title": "Julius Lindberg: \"IFK Göteborg är rätt lättlästa\" - Fotbolltransfers",
-      "description": "Julius Lindberg: \"IFK Göteborg är rätt lättlästa\" Fotbolltransfers",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGhsTnU4cXNVN0o4Y29yd3pZa0gyR2VkMS00VEN6M0dlSGdYU2lScHBoUmxPYnQySTd5QUZJcXR3ZTZCU2hnUnNwSnZlbC11dFZKYWV4STVMQ0pITUNTRlZrZ1NkX3JGOGVYeW9Gejl3T1p6VHFvUXpvS1NYcTNya2dVWDRxRG0xODNLbzM2M05WQWVR?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T22:14:59+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ukrainas och Rysslands appar för flyglarm hackade",
-      "description": "Apparna som varnar invånarna i Ryssland och Ukraina om flyglarm hackades båda under söndagskvällen och tidigt måndag. Först gick det ukrainska flygvapnet ut med att det visades felaktiga meddelanden om varningar för kemiska vapen, kärnvapen och gatustrider. Bland annat varnades det om strålning i huvudstaden Kyiv, vilket var falskt. Bara timmar senare gick det ryska katastrofministeriet ut med att även deras app var utsatt för ett massivt cyberangrepp och att falsk information skickats ut, men v",
-      "link": "https://www.sverigesradio.se/artikel/9332377",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-01T22:08:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Wagner: Scenerna var vedervärdiga - Aftonbladet",
-      "description": "Wagner: Scenerna var vedervärdiga Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNm12dVFZUi1ZS1E5cUF6eFFKUUI0M2lSVXRqd0hzVnh0N1B5ZXNueThSMUtOWFYySUQ1ME9XRTFNZ1ZOYTlnOHJ6SFlWOVFHc21POWJ2R29BTW1yZGJOdDFPS21UQTZEbmk0elJLT0FOcWFwRzNNeUpCMTNzbGZIVVAxRXEzRnpPa0ZiN2ZOSkVrNEFPRG1RcHlCME94MlhkUkMyWg?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T22:03:07+00:00",
-      "impact": false
-    },
-    {
-      "title": "”Kan inte vara skitkul att spela för Blåvitt” - Aftonbladet",
-      "description": "”Kan inte vara skitkul att spela för Blåvitt” Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM19jMTlMTkZkbG9SLTdwZF84YzJSZjRoN1VFa3d5T29kUjRQS0F3dlRXc3Rsd19TNDg5Tk1ualdYNEF6UDNLbEdzMUpoNFctUkJNTlo5eWRod1UzOXZKbU5GcU5mbnpjdDFVUWgxMTdoaVdoOXp1RFB6eVMwNnFaRkxEZ01OeWRaanNHaVpMckZ3Tl8w?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T20:43:04+00:00",
-      "impact": false
-    },
-    {
-      "title": "Dagens Allsvenskan: Kaos i Göteborgsderbyt - BK Häcken mot IFK Göteborg avbröts efter våldsamt bråk mellan polis och publik - SvenskaFans.com",
-      "description": "Dagens Allsvenskan: Kaos i Göteborgsderbyt - BK Häcken mot IFK Göteborg avbröts efter våldsamt bråk mellan polis och publik SvenskaFans.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSGYtM2hzdHg5T002TC05TVFZc2NsWldvbTF0RGVYd3hZcHY0STl3N3B0VWNjUF9tOXBHQzkta1I2ampJTmhldzNlTFBPbnRVeHlhYmtnbmtBMVkwOTNCcXBvMVlOVTJBcHlYR1o4T095a21peUtoQ2t4d1NyQ05qRmQzeVZGS21TNWV0YlMySUJXYmNzQzh4N2wybUIzb1FyNjBkRVhYYi0yVVRLa0JZR3RUQ01Wa015dFc1QTJ6NElUTVA5U0JERmh3M0tmWjEtUmVxVUgtTTBTRnJoQ0pqdktiYzVScXp3M25NNzEwT2RUMTM1eFE?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T20:37:36+00:00",
-      "impact": false
-    },
-    {
-      "title": "Privatjet störtade i Palm Beach – nio personer döda",
-      "description": "Nio personer är döda efter att en privatjet störtat i Florida i USA. I ljudupptagningar från planet hör man piloten meddela flygledningen om att det var isbildning på planet och måttlig turbulens. Bara minuter senare anropar piloten mayday när planet snabbt börjar falla. På bara en minut föll planet över 8 000 meter, rapporterar CNN. Planet var på väg från Austin i Texas till Bahamas när det störtade i Palm Beach, norr om Miami. Vad som orsakade kraschen ska nu utredas.",
-      "link": "https://www.sverigesradio.se/artikel/9332370",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-01T20:15:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Privatjet har störtat i Florida – nio döda",
-      "description": "Ett privatjet har kraschat in i ett bostadsområde i Florida, USA, rapporterar The New York Post. Samtliga nio personer ombord omkom. I ett mayday-anrop varnar flygbesättningen att de sjunker 6 000 meter per minut.",
-      "link": "https://www.svt.se/nyheter/utrikes/privatjet-har-stortat-i-florida",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-01T20:14:53+00:00",
-      "impact": false
-    },
-    {
-      "title": "Uppgifter: Polis och åskådare skadad under Göteborgsderbyt - Sveriges Radio",
-      "description": "Uppgifter: Polis och åskådare skadad under Göteborgsderbyt Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFhmMTdubGxNalphV1R0cTR3QzQ4a1M0NmNWeGpqOTF4TUVid3FWTWo4MzZIQVJSc200YnIzX0lwY3V0c3ZWZjY0TkU0OTA0ZXZiRjMtMDRPYV83b0hLYmZCUkVTSlB2eGtnYVpTUkE1NV9scy03Q3dwNzFpbUlyRmtrc2QzMkZ0T2pySGlHRlVMX2hnc0NaVU1n?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T20:10:50+00:00",
-      "impact": false
-    },
-    {
-      "title": "Många döda identifierade efter tågolyckan i Spanien",
-      "description": "Majoriteten av de döda i tågolyckan i Spanien har identifierats. Men fortfarande saknas tolv personer. Det rapporterar tidningen El Mundo.",
-      "link": "https://www.svt.se/nyheter/utrikes/manga-doda-identifierade-efter-tagolyckan-i-spanien",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-01T20:09:06+00:00",
-      "impact": true
-    },
-    {
-      "title": "JUST NU: Sänker Blåvitt i derbyt - Expressen",
-      "description": "JUST NU: Sänker Blåvitt i derbyt Expressen",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVA0ZjNkV2ZhcnZCZkVjN2RwcE5reTBJamxna2lIZlVxODlKLWYxV21JOE9yelFoTko0NWhxNllpT2pfVGlNZTRzamNoNHRYOHZULXhKVHU5TEVjMHh5U0hUUVJ5N01zOW0yWnNwWGcyY19rQXNTa3pENjVLQzhCaVZmUl96TmpXaEpxcHBlTm9rN3Z5MWQ3RGxnYw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T20:04:18+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nyheter från dagen: 1 november",
-      "description": "Här är ett urval av händelserna i Västsverige under lördagen den 1 november.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/nyheter-fran-dagen-1-november-n8k769",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-01T19:59:52+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ryssvänliga presidenten sitter kvar i Bulgarien",
-      "description": "I presidentvalet i Bulgarien har den sittande rysslandsvänliga presidenten Iliana Iotova utropat sig som segrare. Beräkningar av valresultatet visar att hon får kring 57 procent av rösterna, medan den mer västvänlige motkandidaten Andrey Gyurov ligger på kring 39 procent. Iotova var tidigare vicepresident men tillträdde presidentposten i januari i år. Hon är den första kvinna som valts till president i Bulgarien, en post som är ceremoniell.",
-      "link": "https://www.sverigesradio.se/artikel/9332361",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-01T19:51:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Derbyt pausades – polis sprejade mot supportrar - Göteborgs-Posten",
-      "description": "Derbyt pausades – polis sprejade mot supportrar Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXFDMkZxRjltbnlmVXlGeGpVdlp5V2Yxckx6VkM5T2g2VnRrb3JrYW96YzFaQXQ0TEk0TE5vNHVEdFVEWlJDMm90eERGLWpVaExsSXlHTlpfdUNqemM1Wi1Tc3pRZ3AzbFVEcVpYTF83NEdFQklHSmpzRDAyVUFXMFM5SFl2Y2VJZzBjNmFPTjVEV05sb2UyUkt1QzJDTXA4c2pjWVJlU0h0RWZnbi1aRlNEekFyOENUVGNWV25lNUU4ODczMTVienJCdmRPSHdWUFE?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T19:42:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Därför klev polisen in på läktaren: ”Farlig situation” - Aftonbladet",
-      "description": "Därför klev polisen in på läktaren: ”Farlig situation” Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZkpUNUNCXzhEclFMXzVYLWVKZmdhVUZaZWxEdHotdjA3R3owYlc5OElweXlkc0hhSVBUTU81QTNWeXpmWjVQT3JJQnJwcjRrYXBIWW04NFlCSzZiU1BKQndZVUIxOWFrNnlac1F4YlNWS05JYS1pSmE1U1lMcDhzbFNDQTVWVEJCcU9CZlhqcm1jRERtTm5oZVAzZnBGTmJoQmdTNW0wOWxkLXdL?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T19:38:58+00:00",
-      "impact": false
-    },
-    {
-      "title": "Polis och åskådare skadade i Göteborgsderbyt - Göteborgs-Posten",
-      "description": "Polis och åskådare skadade i Göteborgsderbyt Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHk5ai1HTjRjT1lOWTFleEZORXpUTGZfczNCUWlVWUNzSTZIZGtjbU5MRlkxcHhyRERibDgzc1NwLUNfck5PSUktcGFuZTdCZXg1aWZSRU9PZ19EelFqblktTExBNld4RVBMVjFmajJrWVlCbTBNTnRmZGdfUE9VZS1Xd2F6bXVSaENfYV8yWVZBa3QwWTU5OFZ1cGJ1aUhjNEE?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T19:38:19+00:00",
-      "impact": false
-    },
-    {
-      "title": "Misstänkt detonation i Borås – bombskyddet larmades",
-      "description": "Nationella bombskyddet var på plats vid en villa i Borås efter misstankar om att en detonation orsakat en brand under söndagskvällen. – Man hade hört någon smäll, men vi vet inte vad det beror på, säger Pontus Studahl, vakthavande befäl på räddningstjänsten.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/bombskydd-pa-plats-vid-villa-i-boras-efter-brand",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-01T19:25:54+00:00",
-      "impact": false
-    },
-    {
-      "title": "Polisen om ingripandet: ”En farlig situation” - Göteborgs-Posten",
-      "description": "Polisen om ingripandet: ”En farlig situation” Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckswUTJFOC05Vk5qZEhzT0taTkRTeDl5ZTV5UngzRkdRQ0txOFBZWnlndHRoa0hvbkVrZ3dzV2g5LVhZLWdsS3M2VmI2VmdkWDhlV29UTldfNFZ3dDJGcnRNTjh0QkZaTjZ2Y2FWMDNVN3B4OXJGZzl3b3dRSU90dmNSTXdZWXlZUlFJa0JUWjU4YU9tQkNJNUcxRC1UVmZ1Um5JQkhlVjhVR01kck5Ydw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T19:16:18+00:00",
-      "impact": false
-    },
-    {
-      "title": "Stjärnan förvånad – efter ingripandet på läktaren - Göteborgs-Posten",
-      "description": "Stjärnan förvånad – efter ingripandet på läktaren Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYjR5aW9LLW1zMktNTFVRVTZzcXJQa0JhV1lZdi1hcjc5UlFmWVVOejVlbWpTZlV4WjV2TDAzWEFGY2haalJmeDVVdGdUZVVwdDdDNVJNZHZEOWNwTzBwSDBvcVcyVmt5RmhJZ0lYTFI2SWdxYW9XUG5PM1kyTEMwdTdQS1VpSmdGUzdqWjJIbS1FdXJkaDhadHZxQjFfOHpWUk4wVXhobmROdnl0NWNsMXFycWpKNm56dTlLNW8xdTd3RWFvemdyVEVocF9HeXhLZ2pBVHI5ZkNqQ1BH?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T19:06:05+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ethiopia - ኢትዮጵያውያን ታጋዮች በአስመራ | ታጋዩ ያወጣው ምስጢርና ኢሳያስ በሞስኮ! - YouTube",
-      "description": "Ethiopia - ኢትዮጵያውያን ታጋዮች በአስመራ | ታጋዩ ያወጣው ምስጢርና ኢሳያስ በሞስኮ! YouTube",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UEF5UW1BV0VlZEdtdVA0RkZmek1VTEI2aTQtS1FucjZJNkhsaGsxYU1odnZyTllTR1cyWU02bmZzVFZLRjVTUHNHc20ydGkyeFE1RDZxdGZ5U09E?oc=5",
-      "source": "Ethiopia Amharic",
-      "category": "Ethiopia",
-      "published": "2026-11-01T19:00:16+00:00",
-      "impact": false
-    },
-    {
-      "title": "Snabbanalys: Derbyfesten försvann – polisen i Göteborg har en hel del att svara på - Göteborgs-Posten",
-      "description": "Snabbanalys: Derbyfesten försvann – polisen i Göteborg har en hel del att svara på Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNenhSQm5fWVl1TUo0RHdxM1JvVEd4SFN5TGdUc0twVmJ3Y2I4YndNTmUxSjY0LXYyZFdiN1Bpa0x5SlJ5RlEwVlh4T1M0NG5PVEJ2cWtqeC12WlZNQ2VJMFBoVkZKTWluOUMxOGZWX1loaDdhZnpQSnhaYW8td3ViU3VuVU5hSV93VC1HRHcwQmhaR3hMTUx3YU1ycXdjWmxOQi1mV3JRSHBiNHVfTWE4dnYtbkszdFoxRHdDZ1N0dThmQVRrWkpEYndaSHM1OWdoR21DU2oxV3h1UlU2QVVJNzl3?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T18:58:28+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lokala Nyheter Västerbotten – Igår 22:00 - SVT Play",
-      "description": "Lokala Nyheter Västerbotten – Igår 22:00 SVT Play",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZThwZTZGblFvYzNXd1loR1NYODFfNnU1UHdYSW51Q013MHVlVVItSWVZT25LSENBa0k5RV9ydnNfVjFUM3VzbWtVM2ZCNjhoOEN6Y01lVHh2YmR0RXhDLVVrTGVWTE1rUmN6Y1MwOEhmSDU4cGFtdGVQUnpGNFNTSA?oc=5",
-      "source": "Sweden Regional",
-      "category": "Sweden",
-      "published": "2026-11-01T18:55:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Matchdelegaten: Polisen går in – startar ett upplopp - Omni – Alla nyheter. Alla perspektiv.",
-      "description": "Matchdelegaten: Polisen går in – startar ett upplopp Omni – Alla nyheter. Alla perspektiv.",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kRUJTX0ZvYjFxXy01TUFZRUFLVEVyQTIxYzBKUGNIV3VrQzQ1SFNTZ0lkclRNVlZjYVlVejQzR0hSaEdxUHVwU1ZWYWFyaFF0OWUxamZmRlJRbjBibTN6anMyQlFkMHE0NE1pdTVWT0lJUW80Z2xKOS03ZW9RSUU?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T18:51:04+00:00",
-      "impact": false
-    },
-    {
-      "title": "Supermodellens utklädnad viral – i år igen",
-      "description": "Den tyska fotomodellen Heidi Klum är känd för sin storslagna halloweenfest, som i år hölls New York för 25:e gången. Varje år dyker hon upp i en överraskande kostym och denna gång kom hon som sin egna avhuggna hand.",
-      "link": "https://www.svt.se/nyheter/utrikes/supermodellens-utkladnad-viral-i-ar-igen",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-01T18:46:31+00:00",
-      "impact": false
-    },
-    {
-      "title": "AI-chip för 120 miljoner beslagtagna – USA misstänker smuggling till Kina",
-      "description": "Malaysias tull har beslagtagit avancerade AI-chip värda över 100 miljoner kronor. Tullen uppger inte vilket land chippen var på väg till, men säger att det var ett annat asiatiskt land. Kina får på grund av amerikanska exportkontroller inte köpa de allra senaste AI-chippen från USA, och Washington har länge misstänkt att hårdvaran smugglas dit via Sydostasien, där Malaysia pekats ut särskilt.",
-      "link": "https://www.sverigesradio.se/artikel/9329799",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-01T18:46:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Psykoterapeuter: Terapi riskerar att bli en klassfråga",
-      "description": "Många patienter med depression och ångest får inte psykologisk behandling, trots att Socialstyrelsen anser att fler bör erbjudas det. Nu varnar Psykoterapiföreningen för att terapi riskerar att bli en klassfråga.",
-      "link": "https://www.svt.se/nyheter/inrikes/psykoterapeuter-terapi-riskerar-att-bli-en-klassfraga",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-01T18:39:32+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nordic Capital and Ukrainian Defence Technology: Investment - Industrial Power and European Rearmament to 2030 - https://debuglies.com",
-      "description": "Nordic Capital and Ukrainian Defence Technology: Investment - Industrial Power and European Rearmament to 2030 https://debuglies.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEtkWllwNTJxOEZmX1F4VFg0Z3htUWlHWjdGeS04ckhrb055NEZiaUN2ZmF2NlptVGZPcTY3VDJGV0xLNVZkOTFHZDRPNTN1ejVQZi1ocVNmVzB6MFdkdTBCUzI5Zm1XbFFDTV85MVVuSnZxVklOSVJlRnk0ZElPV2s5aEVkZ1VkQXc0UElyZ3FrdDZjRTByTnJaMDRtdEhabmFQUWg0dklFN05FVmcwM1h4VmQtZlRiMEFrOXJqOUdKdWR1UVVudmpXX204X0cyMHpubmU5VHM?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-01T18:37:04+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skandalscener i Göteborg – flera gripna i derbyt - Dagens Nyheter",
-      "description": "Skandalscener i Göteborg – flera gripna i derbyt Dagens Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SZkhmc1pRTXVLdzRuRFRFaVZ6UXpMRTFDekoxU3J3dm1tb3JJZERLYV9Hd2xoZDNrRkNneF94Q1F5Z2Q5M0o3dUJaNDJ3SF9WdXllMWxlWldDck9ZSU12WU8zN3FPXzBfUzd4YXRKcw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T18:22:38+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skandalscener i derbyt – matchen mellan Häcken och IFK Göteborg avbryts - Aftonbladet TV",
-      "description": "Skandalscener i derbyt – matchen mellan Häcken och IFK Göteborg avbryts Aftonbladet TV",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmdHeHBSNG45b1dlSFk0QWhWUzlDS292R3ZIcEZNWVVxOHh4bkREaFBCbE1TYU8zVjE3TUthQVF4dVI1UmdsT3FiWkpiSTh1Rk9OR043dDFVSUVRUzNsNU5fUjBsdndKX19JdHlZM2RLOERvS05iZWVCM1YwUkVrYm5Kcw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T18:07:54+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fotboll: IFK Göteborg föll i derbyt – matchen fick brytas efter stök på läktare - SVT Nyheter",
-      "description": "Fotboll: IFK Göteborg föll i derbyt – matchen fick brytas efter stök på läktare SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbzQ4YkZwYnl4ZUhrSnFTM0xvZjR0UlFjYXBoMnhlMjZ1Z2tFVEowSDdDTzJ3NmZUNEU1bXBLS2VKWjJzVjUyZlVHb0J2YkRIVEdsUk01Z1ZIRU1lcV9zcW5JUVAzYUtZZzdsMlhrQ25DT2k4ZVRyemRhMlBKQlBaRDRjMXJuRU1fai1OLXJlQndrZWhrTWdaSjJRbG43SEYtc2Nv?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T18:06:52+00:00",
-      "impact": false
-    },
-    {
-      "title": "Shafaq News..Crypto market loses over $300B in October - شفق نيوز",
-      "description": "Shafaq News..Crypto market loses over $300B in October شفق نيوز",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zWlJsMGpjYmtldDBPTmdLOUdHaUFLUjBTc0lQamVJRU5MWGlSTUwtZ0RlZ2xaZm9qUXZZVmJCQVlCd1g1MkN5VTQxcjlUeFZULXZodC0yWjBxenhodEM3T291aVp0RjRxWDJoUGRrbFNTZm0xdVd2bUln?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-01T18:00:46+00:00",
-      "impact": false
-    },
-    {
-      "title": "Abdu Adem Yesufe: Transforming Cancer Care in Ethiopia Through Strategic Action - Oncodaily",
-      "description": "Abdu Adem Yesufe: Transforming Cancer Care in Ethiopia Through Strategic Action Oncodaily",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sYW91SlNuc0ppUlplV2JGQ1pEVWtoSC1TcjZKSTM0bzZXRXBEOFQ0R3NSWDRBX1BTNk5xYTg2ZFZST0JoSmhSSVBxSGMyeDVXX3l4Y0FTdDdHWGJfSFFWeWZn?oc=5",
-      "source": "Ethiopia Amharic",
-      "category": "Ethiopia",
-      "published": "2026-11-01T17:59:12+00:00",
-      "impact": false
-    },
-    {
-      "title": "Koppartjuvar mörklade Örgryte – hundratals lampor släcktes",
-      "description": "Över 100 gatlampor i Örgryte var släckta i flera dagar efter att koppartjuvar stulit kablar från ett elarbete. Lars Ocklund, belysningsexpert på Stadsmiljöförvaltningen på Göteborgs stad, säger att kopparstölder är ovanliga, men att tjuvarna den här gången kommit åt kablarna. För att motverka stölderna får staden ibland lägga stora grushögar i hålen innan arbetet är klart och gräva upp dem igen dagen efter.",
-      "link": "https://www.sverigesradio.se/artikel/9330223",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:54:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Skandalscener i Göteborg - polis på läktaren - Fotbollskanalen",
-      "description": "Skandalscener i Göteborg - polis på läktaren Fotbollskanalen",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTURJTkZYamYtMUJJY1g2OG9qWXFERmktbXNIOVdVeGZsZnd3X3lpWDR4cENrZ1NBbWtoUzNLQVNELUFYTFo3bDhJblVZYlRuVkVnbG1KQlRrRmJIaXF6RzBjZ3BpV3NscmVwOUwyazU2bWVVdGtEcGdTQTg4MjdQLTh3WnloYU5nVlhjeW1qbmVWY0F3X1E?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:45:52+00:00",
-      "impact": false
-    },
-    {
-      "title": "Live - Iran warns any new war could spread beyond the Middle East - Iran International",
-      "description": "Live - Iran warns any new war could spread beyond the Middle East Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-01T17:24:02+00:00",
-      "impact": false
-    },
-    {
-      "title": "Häcken vann derbyt – avbröts men spelades klart - Omni – Alla nyheter. Alla perspektiv.",
-      "description": "Häcken vann derbyt – avbröts men spelades klart Omni – Alla nyheter. Alla perspektiv.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb05UdVROU3Q2QTJDcFhLNDI2UGxwM1h3d1hFVm5scnlOMUpnVWxXQXFxWG12NGhjUGRPZ1YyOGNiVDlwclV1R2FVczNmWFo2UU05QUlWcVkyRDljbktHU1VLMURyR1FibE5UV2x4WlFCd3YwbktnbmFmdUdKUTZLSw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:17:13+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skandalscener i derbyt – polis på läktaren - Aftonbladet",
-      "description": "Skandalscener i derbyt – polis på läktaren Aftonbladet",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblUyOTFaWnJTUUFoMlhjZHhXaTFETTFnZWU1a3JZX3hHUVB1QzE2cHlHZkxtdFdyM0hkODAwaW14WjVZS2NKTjd0QjMtd2tmNzJ3cnpPUkJrSmxZQ0lUUE9ib2tXZDVMSmM2Y2VqNlJyVDlkY0N4dTBRcU81RkZrMURqbVNlWEhYV1Z3dHJYOVBTc0hEaXZUb2kwTXF4NERmT0pSQS1GNHY?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:05:31+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skandalscener i Göteborg – derbyt stoppat - Västerbottens-Kuriren",
-      "description": "Skandalscener i Göteborg – derbyt stoppat Västerbottens-Kuriren",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMTQ2Q1V3eVZhZmZZRFNTZ1VMTGtlSzg0a0ROYUZHbDQwU2pzYzdhLUJNVm1SZ3JPNE9LWkd2WUhSQWZTcFY4SUlTRnhJMTM1WW5TUngyQTFiYXBpNmtaZVRJUWFNNVY1THdSWTdQV3g5SjY2LXFfemZPd05TQWM?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:03:40+00:00",
-      "impact": false
-    },
-    {
-      "title": "DN Direkt – Skandalscener i Göteborg – flera gripna - Dagens Nyheter",
-      "description": "DN Direkt – Skandalscener i Göteborg – flera gripna Dagens Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nY0d2clE3WUxqMEpPcHprQkNta3F6MzFFWGF5ck9kRzdCNGktZzJPMnR1WnZXQW00Y05BX1hTTzc3VjRBdEV5UHVkdmZYbWZSTlZHUGRPcWtOSTROMzViV0E1all4bTVBYXRDMFVWcERuODRrbFBsRmd1MGl5Zjg?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:01:10+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skandalscener i Göteborg – derbyt stoppat - Borås Tidning",
-      "description": "Skandalscener i Göteborg – derbyt stoppat Borås Tidning",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBET3RjUjNSRnVkYnVFUzJFcHdLM0lMUzhCeXdVYVRmbkJ4OVJBXzJPdjE4cS1TNjJWWVMxV0NzeVJZWlc0VWdTc3c1SGtTTXRuWlNZZ1BUQkt6bkpCSmQtQmZoaVhYZW53SHdqaVdoa1dnUQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:01:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Skandalscener i Göteborg – derbyt stoppades - TV4 Nyheterna",
-      "description": "Skandalscener i Göteborg – derbyt stoppades TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1VvbnJ5MVBoYjFQR3VzLUZWTF91cGZBcGUtSE9LX3c1S0c5aXF6ZGtsYnY0TXBjRGh5WlN4M1AzU1ZfQ3BBbEdDeEJ6QnFTQVNDcTV2QmVjRDFOUUU3MVgwbGlteGFrdkdDdF9pZ3JaMllZQk9XdW9Od0ZJTnZra3h1dVkzRmxhSmtBOTg2RnpQTU4yOEUzeV83QWpHR3pKRWh4ejdpUFlCLTA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T17:00:10+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lyxig hästgård till salu för 37 miljoner - Göteborgs-Posten",
-      "description": "Lyxig hästgård till salu för 37 miljoner Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0xMcm1FNTctdWxRMEtMSTBhTDJRVm5BSmZaQllsT0FlcDBRMy1TY0VMV014a2ZnNjNlcFNXNEpGeWg4N0dqSENyZVJ5SWpMV2h2QzQwZERnYnM0ejhjc1RibFl0X19iU3RILXhETmFsQ21pT2w4eVp5ZzBaZzZCSE5sOXd5WlFEdkNCWHFVRDVuckJickI1T1Z1TU52OHUwYlM0V2pGSTU?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-01T16:51:54+00:00",
-      "impact": false
-    },
-    {
-      "title": "IRC: Minskat bistånd försvårar kampen mot ebola",
-      "description": "Ebolautbrottet i Kongo-Kinshasa sprider sig ovanligt fort. Närmare 5000 dödsfall har registrerats och över 10 000 människor har bekräftats smittade. Fall har också upptäckts i Uganda, Kenya och Nigeria. Aleksandra Roulet-Cimpric, biträdande regionchef för International Rescue Committee i Väst-och Centralafrika, säger att viktig beredskap saknades när utbrottet började. Detta till följd av kraftiga bidragssänkningar, främst från USA. Säkerhetskrisen och misstro mot vården försvårar arbetet ytterl",
-      "link": "https://www.sverigesradio.se/artikel/9331715",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-01T16:50:00+00:00",
-      "impact": true
     }
   ],
   "feedErrors": []
