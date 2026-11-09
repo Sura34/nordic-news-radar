@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-08T22:55:17.613627+00:00",
+  "updatedAt": "2026-11-09T02:42:17.678652+00:00",
   "articles": [
+    {
+      "title": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort - CBS News",
+      "description": "Nvidia investigates CEO Jensen Huang amid allegations he was target of Chinese intelligence effort CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3k3U25UbEN5bDBpODExQVZEUTVUWFRwWlZwSGF3SW1xaU5kVERpZ0ZpeE03NUZjbTlLVUFrQkEzbTZtY0RKS2N4NVUzdWt4N1NHb3VfcFlUekdQS1ZPRnlVcHZ2aGFGeTVENEZuai1fbjhCTjJSdUlNdzJ1Y3pvUTdzb2lJRlM3Q1E?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-09T02:11:24+00:00",
+      "impact": false
+    },
+    {
+      "title": "Drogtester i rekrytering kan röja känsliga hälsouppgifter",
+      "description": "Drogtester i rekryteringar kan slå särskilt mot personer med adhd, eftersom vanlig medicin kan ge positivt utslag och tvinga fram uppgifter om diagnos. Eric Donell från organisationen Attention kallar det ett integritetsproblem, medan de samtidigt säger att tester kan vara motiverade av säkerhetsskäl i vissa jobb. Bakom ett positivt test kan det alltså finnas ordinerad behandling – i en redan svag arbetsmarknadssituation för personer med till exempel adhd.",
+      "link": "https://www.sverigesradio.se/artikel/9336214",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-09T02:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "En till sjukhus efter olycka – flera personer flydde upp i skogen - Sveriges Radio",
+      "description": "En till sjukhus efter olycka – flera personer flydde upp i skogen Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0FXcjkyRXN6N1JLRTI1LTAwQTZVc3Y3Z0ZRYXRwR0FFRzlYMUYwMXZZcnBrWXg5dU1YOUdhdWgyM1NENElLdGZfUE10UllHUndFUjlLZS14RFpyMkhEQUx1NTQtU25leFF6WUQzMjhnTGpObFZfei1GbHg0dXdEZTQyVndyNmNLXzU0cHhrcVJaRVQ3amZZNURPY25NcVdxeVE?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-09T00:31:20+00:00",
+      "impact": true
+    },
+    {
+      "title": "Aig-Imoukhuede urges African banks to finance economic growth - Head Topics",
+      "description": "Aig-Imoukhuede urges African banks to finance economic growth Head Topics",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3o5VkZJbUZVQWlDWEFidDdCOXJLTFQ2NkhmY2tTUVFiX3kzVncweWxMSHRkSnBnT2ZsMnF1THZaakpsZzdyVWxrcjhQTEc2MGZmZG1LT1pDeVdLbmI2VUctYmgtSzhCdFNkeFNtNEhOSkNzajFIQmxGbG04RnRlRFd3VERmSzVYbTVOWVgwMGtsTG94TmQwUUlB?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-08T23:50:03+00:00",
+      "impact": false
+    },
+    {
+      "title": "NVIDIA announces investigation of CEO Jensen Huang amid foreign intelligence target allegations - 6abc Philadelphia",
+      "description": "NVIDIA announces investigation of CEO Jensen Huang amid foreign intelligence target allegations 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXNKeUxSd3ZYdEtKUmJFWlVmT2lId1N0dDlnZEpLS21YLVJ2X2ZJRVpFeThSeEdZeEFaNEEzV3RQVlRoN0o5SlFET0N1dXhGeTg5MFI3alhRZFkzZkdoT0tWaDZYVWhiLTNyc3FwQXZJNU92dEZRU3luWndkUWlya2NLS2ZsVDNIcXduOGtwSW4yVjZkajFuckIySGJBTmZhRjRxNDVFbVlib0xtMVVVeloxdDYwcDVFMXhHWDd1eFdrQQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-08T23:02:16+00:00",
+      "impact": false
+    },
+    {
+      "title": "Oliver Månsson: \"Vi får se om man stannar eller går\" - Fotbolltransfers",
+      "description": "Oliver Månsson: \"Vi får se om man stannar eller går\" Fotbolltransfers",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVlvUWhpVkFnc1dtUVkzX2ZNWllnWm4yd3lDUjlTazFZMXZCRVYyb1JlRE5kV2laZFZweG5OQ216NEpFRDJiSmFkMHhiOG9iYlphV3BQeEJvZ0xBa0M1Y0JYaW85VThVODNKeGRhWWxHdm9jZExLT3ZxRW5lalhXb0pBNXhDcVZDeFlaRUhueXVpSTZESzNuVA?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-08T23:02:02+00:00",
+      "impact": false
+    },
+    {
+      "title": "Live - Rubio casts doubt on Iran diplomacy, says Tehran's demands unrealistic - Iran International",
+      "description": "Live - Rubio casts doubt on Iran diplomacy, says Tehran's demands unrealistic Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-08T22:43:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy - BBC",
+      "description": "Nvidia launches investigation into CEO's affair with suspected Chinese spy BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rSHZmeGJPaUtpS1pra1NUa3ZHRXJ5WDI0ODVUbS1XZHo0S0lDNnpaSzBabVFWMDRHNXZJRzFYTFMyaXRGb0kxYUhRQmhHY2s3bkdrcHlPSzNQQVU?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-08T22:42:41+00:00",
+      "impact": false
+    },
     {
       "title": "”Fördel Kristersson eller extraval”",
       "description": "Magdalena Andersson försöker ta tillbaka det politiska initiativet i regeringsbildningen. Men om Vänsterpartiet står fast vid sina ministerkrav kommer det antingen att leda till att Ulf Kristersson blir statsminister eller extraval.",
@@ -17,15 +89,6 @@
       "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-08T21:14:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy - BBC",
-      "description": "Nvidia launches investigation into CEO's affair with suspected Chinese spy BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rSHZmeGJPaUtpS1pra1NUa3ZHRXJ5WDI0ODVUbS1XZHo0S0lDNnpaSzBabVFWMDRHNXZJRzFYTFMyaXRGb0kxYUhRQmhHY2s3bkdrcHlPSzNQQVU?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-08T21:01:33+00:00",
       "impact": false
     },
     {
@@ -72,15 +135,6 @@
       "category": "Local",
       "published": "2026-11-08T19:47:00+00:00",
       "impact": false
-    },
-    {
-      "title": "En till sjukhus efter olycka – flera personer flydde upp i skogen - Sveriges Radio",
-      "description": "En till sjukhus efter olycka – flera personer flydde upp i skogen Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS0FXcjkyRXN6N1JLRTI1LTAwQTZVc3Y3Z0ZRYXRwR0FFRzlYMUYwMXZZcnBrWXg5dU1YOUdhdWgyM1NENElLdGZfUE10UllHUndFUjlLZS14RFpyMkhEQUx1NTQtU25leFF6WUQzMjhnTGpObFZfei1GbHg0dXdEZTQyVndyNmNLXzU0cHhrcVJaRVQ3amZZNURPY25NcVdxeVE?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-08T19:22:14+00:00",
-      "impact": true
     },
     {
       "title": "Linköping Volley vann klart mot KFUM Göteborg - Corren",
@@ -198,6 +252,15 @@
       "category": "Sweden",
       "published": "2026-11-08T17:00:46+00:00",
       "impact": true
+    },
+    {
+      "title": "Öis fördömer banderoll med polismördares namn - Göteborgs-Posten",
+      "description": "Öis fördömer banderoll med polismördares namn Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWQ1Q3Z4S1p0VElKWkRRWEdRNEJEQlo4UzhhUTdOVWppbFJ5bXJGMHI0V3VlYkNJMEh2dXozTjg4WmxyMVpXazZwNDN5Z1JRV2kzRjJpNTlDT2RhNXJCdk9qQm8tWGZnZDhILXpPbFl4SjFXN1BZVHVyaFNYT3pCdHRqMEFLcF9feDhrc19DVE5QczVpendWR2ZVN3VPRFUwc3htcHpPM1BfM0xoa1BOcjZSUjJTTzh2MXlZVUVxUQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-08T16:53:17+00:00",
+      "impact": false
     },
     {
       "title": "Andersson (S) vill bilda regering med MP och C – utan V",
@@ -322,7 +385,7 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbllWTXZhTHVwOEJIZWFwRDM2b2tJTHM4SWwyRWV2STREYnNZdldFVlpjS3ZDaEhxeDJaYnpKRDlKMGIyeFpCbnpwX3Bnc0YzcE1ENXB4RXZrN0xpQXRNVmRkVk5kNEdWbXNzUG9hRlFuNlBqSGthNmV5bFkxdzNyQi1xd1ZnSkttM3A0bVU1RTR4OWtBdVJib3I2Ui1ncFZpZWhMVjFLVTFjaGtJRGZJ?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
-      "published": "2026-11-08T15:18:18+00:00",
+      "published": "2026-11-08T15:21:42+00:00",
       "impact": false
     },
     {
@@ -398,6 +461,15 @@
       "impact": true
     },
     {
+      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat - The New York Times",
+      "description": "A ‘Chaotic Race’ for the World’s Top Diplomat The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk91UXhKdmE5UlMzSEJ1MWM3ZGcxX0M5VWwybmlvck4xV2lJZkxFLXlqcGZGaTZfa2RnRmFwQWxVaGJqanpsXzF3cVF5RWhZUUhmYmJPTHRJNnpYWEg5d0VScUV6N2hTRzRuSzVLYWp5dnlkUW9NQ1M0TmdGdXBSVUZCc0lFTjA?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-08T14:33:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Cop31: what is at stake at the UN climate summit and what can it achieve? - The Guardian",
       "description": "Cop31: what is at stake at the UN climate summit and what can it achieve? The Guardian",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUFhSUxVTE1vRlM5Qmd6R2NOYnc3U3ZPRW1XZDNPVEsta3BjM29laVg1dTMxZGxpUndjbEVpc0lfOUVfeDZLQ0c3bHdvVVpNWlRqTjVpS3Zab1RHZ3NJZkRFYm1GN29OSXRtRWFlUGx1SE1LcGtPUHcwYUxWcjRZYWdRUERJSXNaTzFZMklFWERNZWdKeXNKRGFqQ2Mxbl9JMXlEdUlpRVRpTlo2UlVZS1VjbVJHZndQN2JiTTlpTEc?oc=5",
@@ -422,6 +494,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-08T14:25:24+00:00",
+      "impact": false
+    },
+    {
+      "title": "Knäpptyst protest på Gamla Ullevi - Omni – Alla nyheter. Alla perspektiv.",
+      "description": "Knäpptyst protest på Gamla Ullevi Omni – Alla nyheter. Alla perspektiv.",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15cnlPQ052OEFuRXU3VkZwY3JDX2hVQ2JQbmplTkQxNzh5MFY1R05NMGZyU2ZXamZEMWphcWJnN0RLY2tNWThrZ1gyMFlmRnlvNTV0RjQ1LXJ5Um5RWXpnMUJySlJJQVJibEE?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-08T14:20:29+00:00",
       "impact": false
     },
     {
@@ -521,15 +602,6 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-08T12:47:23+00:00",
-      "impact": false
-    },
-    {
-      "title": "Stormöte mellan IFK Göteborg och Malmö FF - här är startelvorna till dagens matcher - SvenskaFans.com",
-      "description": "Stormöte mellan IFK Göteborg och Malmö FF - här är startelvorna till dagens matcher SvenskaFans.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTF3M28yY19lUjk5WVhTallPbTN6a1I1d1hqdVBLNTRfQkdDdlpib2R2UTBzdXpxenp5d3NhTVBhMzR3bFRRNERTZElNcTAtYnNGbGdLNlIxQW4tOTdwSlVnWHVkN3AwVnhLOXoxSlpHaEFIcnB0NUFqcGVMQlJpdDRaVlBfNXEydlhUYldmcHlPLXJtOGpndDZyWWZDOXc0MzBDRkV5YXhEQTJMS3ozdC1hVGg1anNqR01WX1RHVW1zUQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-08T12:25:57+00:00",
       "impact": false
     },
     {
@@ -994,7 +1066,7 @@
     {
       "title": "Göteborg avslöjar hur ohållbart dyrt kortare arbetstid skulle bli - Göteborgs-Posten",
       "description": "Göteborg avslöjar hur ohållbart dyrt kortare arbetstid skulle bli Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkNWR0dqdWVMMDZwZ2xIc0kwaXB2eElNcW1Eb0JCVEY2eE9xVGU4Z01JRHotQjRBaTVWZXQyVlF1ZG9DSHpwTEhJbWNRT1RSM2pSbUN5aVBYNGlNN2ZjYUtPVmJLaFhhS3E4c3BTamI4aEJadkpLSWVHQmNtVDFpbG5Ed2VaaTEyRFFfTW1McjBjUUExd21maE14U1FVSU93R1VsOVpwdHBkWHQ5VWJyQU9HN184OEh0c2F3SHlEc21neFdFbVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQakNRQjNqcmZMR2hmdlB4MERINDlGYm1pdUhpUFVKSHYwbDg5Rzk3bDZ2Y3o5aC14QXFncjM4MmtwUFJRUmVPWGw1QVBFbmh0VkprVVVHZzBpbVZSdkRMSHRkdkdyX2g4aXBDZmJmZWthMUxoZE8wUFRyUjE5UzJSa1l3UTB2QWQydElxcnpHR2Y3VVlIc1FOZWJxT05pRVdRQnNGQjdHMkdjVXdEQlZzSjhfamtWc2ltRzQ2SWlHSnMtSFdxbG1yV0IzZ1AtbkNyYmk5THA3UFRYUFox?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-08T04:01:03+00:00",
@@ -1003,10 +1075,10 @@
     {
       "title": "Göteborg avslöjar hur ohållbart dyrt kortare arbetstid skulle bli - Göteborgs-Posten",
       "description": "Göteborg avslöjar hur ohållbart dyrt kortare arbetstid skulle bli Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQakNRQjNqcmZMR2hmdlB4MERINDlGYm1pdUhpUFVKSHYwbDg5Rzk3bDZ2Y3o5aC14QXFncjM4MmtwUFJRUmVPWGw1QVBFbmh0VkprVVVHZzBpbVZSdkRMSHRkdkdyX2g4aXBDZmJmZWthMUxoZE8wUFRyUjE5UzJSa1l3UTB2QWQydElxcnpHR2Y3VVlIc1FOZWJxT05pRVdRQnNGQjdHMkdjVXdEQlZzSjhfamtWc2ltRzQ2SWlHSnMtSFdxbG1yV0IzZ1AtbkNyYmk5THA3UFRYUFox?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkNWR0dqdWVMMDZwZ2xIc0kwaXB2eElNcW1Eb0JCVEY2eE9xVGU4Z01JRHotQjRBaTVWZXQyVlF1ZG9DSHpwTEhJbWNRT1RSM2pSbUN5aVBYNGlNN2ZjYUtPVmJLaFhhS3E4c3BTamI4aEJadkpLSWVHQmNtVDFpbG5Ed2VaaTEyRFFfTW1McjBjUUExd21maE14U1FVSU93R1VsOVpwdHBkWHQ5VWJyQU9HN184OEh0c2F3SHlEc21neFdFbVE?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
-      "published": "2026-11-08T04:00:00+00:00",
+      "published": "2026-11-08T04:01:03+00:00",
       "impact": false
     },
     {
@@ -1043,6 +1115,15 @@
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-08T00:34:20+00:00",
+      "impact": false
+    },
+    {
+      "title": "Stormöte mellan IFK Göteborg och Malmö FF - här är startelvorna till dagens matcher - SvenskaFans.com",
+      "description": "Stormöte mellan IFK Göteborg och Malmö FF - här är startelvorna till dagens matcher SvenskaFans.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTF3M28yY19lUjk5WVhTallPbTN6a1I1d1hqdVBLNTRfQkdDdlpib2R2UTBzdXpxenp5d3NhTVBhMzR3bFRRNERTZElNcTAtYnNGbGdLNlIxQW4tOTdwSlVnWHVkN3AwVnhLOXoxSlpHaEFIcnB0NUFqcGVMQlJpdDRaVlBfNXEydlhUYldmcHlPLXJtOGpndDZyWWZDOXc0MzBDRkV5YXhEQTJMS3ozdC1hVGg1anNqR01WX1RHVW1zUQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-08T00:27:20+00:00",
       "impact": false
     },
     {
@@ -1223,15 +1304,6 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-07T18:41:40+00:00",
-      "impact": false
-    },
-    {
-      "title": "A ‘Chaotic Race’ for the World’s Top Diplomat - The New York Times",
-      "description": "A ‘Chaotic Race’ for the World’s Top Diplomat The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk91UXhKdmE5UlMzSEJ1MWM3ZGcxX0M5VWwybmlvck4xV2lJZkxFLXlqcGZGaTZfa2RnRmFwQWxVaGJqanpsXzF3cVF5RWhZUUhmYmJPTHRJNnpYWEg5d0VScUV6N2hTRzRuSzVLYWp5dnlkUW9NQ1M0TmdGdXBSVUZCc0lFTjA?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-07T17:39:54+00:00",
       "impact": false
     },
     {
@@ -1757,15 +1829,6 @@
       "impact": false
     },
     {
-      "title": "Live - Trump says he is ‘unlikely’ to strike Iran if talks advance - Iran International",
-      "description": "Live - Trump says he is ‘unlikely’ to strike Iran if talks advance Iran International",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95U0ZtQmdNa0ZLb1ZDczdBNHVhcXJEdTRNLThfVWpPZW1WSjRwY0RERFEwTzFlOVJyb09UZ1h0aUh5OG1PNWI0YVFQeXhzbkdxOU0yX25yaDVwUFlHVWc?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-07T05:45:34+00:00",
-      "impact": false
-    },
-    {
       "title": "AI kan pressa priser men även löner: ”Ett vinnar- och ett förlorarlag”",
       "description": "När AI klarar av att göra samma jobb som människor kan det bli press neråt på priserna – men även på lönerna. ”Än kan man inte se några stora effekter, men det finns många som spekulerar om det”, säger Erik Thedéen, som kallar AI-utvecklingens påverkan i framtiden för ”the million dollar question”. Enligt ekonomijournalisten Gabriel Mellqvist kan ekonomin dras isär i ett vinnar- och förlorarlag.",
       "link": "https://www.sverigesradio.se/artikel/9336069",
@@ -2186,69 +2249,6 @@
       "source": "World English",
       "category": "World",
       "published": "2026-11-06T18:28:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Global markets were already fragile. Big AI bets could break them - The Business Standard",
-      "description": "Global markets were already fragile. Big AI bets could break them The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQjFJU05aWldFaUdXMVVkTHd4Wk9RdHNuSjZsdjFjRVBJM0EzSHBEQmVSY1FnZGpudHRoVWVEUG8xRnVfNVhxUGpUWmkwSzl2YlRfdS1oZUM2VUV6bHk0blpaNHI3YXU3MWdRLUZwclNZVDV0TVdwZnJEalVsblc3SkxXX0QxbkFrVWxqQ1VYVGpHWUFWSVRPZ1hKM1liNm4xNlVWdU9qUWhxTkRBdjdPOGlDS0IzM0Rr?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-06T18:20:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Pledge to end homelessness, growing economy are highlights from federal budget for Waterloo region leaders - CBC",
-      "description": "Pledge to end homelessness, growing economy are highlights from federal budget for Waterloo region leaders CBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3kzSmd5SDQxRDNtNkE5YmZ4TjVzN0tLbDJ1U0lnNzE4Y0RNYU51TnBXcHNCSERCMG50VzNYVnF6N3R0TlFEMU5lRHJud1BCWUQteVVBZzJmR1JvX29sMG9JbV9meE1FZ1J2c3puWm9fMlk1aTJ1cTd0emNNc25fcThIa1Y1bERjVGg4ejY5N1RrTVBIZ0MtZE9yRG52U0JF?oc=5",
-      "source": "Sweden Regional English",
-      "category": "Sweden",
-      "published": "2026-11-06T18:12:45+00:00",
-      "impact": false
-    },
-    {
-      "title": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? - Carnegie Endowment for International Peace",
-      "description": "After the Midterm Rout, Can Trump Change Course Without Giving Up Tariffs? Carnegie Endowment for International Peace",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTTlPWVM2SzF4RmJ1Ry1oX2NOMWc0MGJQREpBLTE5OEZ2RnVDT2JtZFZXR1JYWDRka19hUWkzTWJCR1ZrNVQ3R0RTUEFOcDJVSXJnWE54YjFlOUR6RkVUWTNiYWJweWsxQUI2TmpGWTdFZmtOc1VnVllRdWM1ajlhbjg5UXkxZ3Vid3c?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-06T18:10:28+00:00",
-      "impact": false
-    },
-    {
-      "title": "Trump holds call with mediator Qatar about Iran de-escalation - The Economic Times",
-      "description": "Trump holds call with mediator Qatar about Iran de-escalation The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOOFNTaDBpRTNESURuRUUwSWhMX2hfZHd4aWx1aHdVajdkOWlkQ0RLZGdac1JwVUpyNWVUWUFWOEZ3UkJOQVlvYnllMF9ZU2ZkU3hLMjVwX2c0eFV0SWZLZk03WWh1YnpGMFBIbG1HRXJwOVhQbmlWd2JWM3hVcV80TUpLTndJSGs5eFJaM2Y3SWdpclR2OG5uTENuSlFGYTNBekhWdlAxc0lmcnYyZ2twM2VSMi13ek0xMDlCeVVJbk9TZzdSdE54MXhJT1h1OVJJLUhYR0dPaGdMQkZqRGNIaWVKQk95Y0pmdFA4UDVtSzF1YjZxTlJUZVowdHI3NlI1MDBTU2VEZi1NX0dPTndlNDNIa2h2SkNMeFJNZzZOQkJCOHZDX2Q3RjhOc1J6V3lQaF9HT2duUmRSemVHUkZ4dTFMRHUxSVnSAeMBQVVfeXFMUDBrSUtaWHlRcUMwbVBEekg3WHVkVTEtMVVDc3luemNTR0NCRnhDa09ZNW91bERMbl92blhqd3hoZWJabERpdnFmVHMwX3k0dGtnaFVXc0xVSmNCS3I0QXYwYXJMNEFVMjlpRkxuOWhYWndKUVVjU191RGhCcjRCSkZrY2xGR0dZSWhzOTAzQlgtSVIweWRxclJEdW9YU0tuYVJGZ1hROWRMSEJBZU9jYTFuNGUtU2p0a0V5ZzM0c2o5bTdpcUkwNjBuZ29WYVg5LUs1Rzc0RUtYSmUwRGwxMmE3NlU?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-06T18:08:51+00:00",
-      "impact": false
-    },
-    {
-      "title": "Abu Dhabi shapes future of energy resilience and security as record-breaking ADIPEC 2026 mobilises US$67bn in energy investment - مكتب أبوظبي الإعلامي",
-      "description": "Abu Dhabi shapes future of energy resilience and security as record-breaking ADIPEC 2026 mobilises US$67bn in energy investment مكتب أبوظبي الإعلامي",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPVTFPVTh2eUlucGk1S21RcGx6YVc2VC1YRjJneW5IaFA3V09xYTV0VG1iLURGaHppbGVtdEd2dWxxaGpycUlOZ016cHlXNkVsSFR1QTRXTnhZa0h6TW1yQWZLLWRWMmJCT0k4LTdvcFV6VkVCZUJiNEhENndqeEhDbDB3SjBwYkVQVnNwQlVGVVAtZ0NkSGV5ZDBkZ0FWMkZ4V0xMRDFLNDRPU0FudEYwRGZjWHVfZjUzSlFEVlBGRUw2bmVpd3lpdko1RnhDdFZzcDlQWEI3WTBmdlNyWHhiWld0LWRULTdCTWNLLTZ6ZTg1VEdKYXJCNlB6NDRRU1E?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-06T18:06:31+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lista: Här är Gais-talangerna som kan skriva grönsvart historia - Göteborgs-Posten",
-      "description": "Lista: Här är Gais-talangerna som kan skriva grönsvart historia Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1AzSjF2dFZ6bGt0WllGV1BSMHVaNnZKS0dPU004ZWdKOUtYMUZyRDNtazUweVk1M1VoampYU0pNemU2bnM1dEZyRExWdnZLY01oMVhkYlk2RUU0X3JUUWI3X0kxR2Q3eHo0ZFlqYkxqU3lUVVlHc2QySTlsbEFFZzRXZUxDNEtIOWdxaGhQZXN5T2tSM05FZkwwRGZKZk5hZHdRYmlZRVZsVlRqZUNvWFRBaWhQSGlhMTh3NVVTS3RMY3RvRy00Nw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-06T18:02:33+00:00",
-      "impact": false
-    },
-    {
-      "title": "Gais gyllene generation kan skriva historia – och bli bäst i Sverige - Göteborgs-Posten",
-      "description": "Gais gyllene generation kan skriva historia – och bli bäst i Sverige Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVjNGMHFfMDhta3M3TnRIYzhzYUJCNjZsbWtwRUFhbVlwM2Nydll3UUhnNUw5TXBtZG9UTnUxb0plZWk4SjgyM2FPWThadWxTS2pxX0VJdk4wYWdaSjRqUFVHMTUyYjZjX2tMVmQxSWJodmk3S1lIb2V3eHhIQ1NMX3F6eVJqajNkZVYtblRLd1RRaXVVbFlYd1h2blg1ODdYeEpodC05Mm1ZeTh2U3o4MThDY3RKNzlWeHBNa1FfaTRJWE9GY1M2QU5ma0ZnZzVobTMyUnRQN3ktVUU4cEFF?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-06T17:59:48+00:00",
       "impact": false
     }
   ],
