@@ -1,6 +1,6 @@
 let articles=[],category='All';
 const $=id=>document.getElementById(id);
-const cats=['All','Local','Sweden','Ethiopia','World'];
+const cats=['All','Local','Sweden','Ethiopia','World','Tech Radar'];
 const STORE='nordic-radar-read-v1';
 let readIds=new Set();
 try{const saved=JSON.parse(localStorage.getItem(STORE)||'[]');if(Array.isArray(saved))readIds=new Set(saved.filter(x=>typeof x==='string').slice(-1000))}catch(e){}
@@ -20,7 +20,7 @@ function render(){
   b.onclick=()=>{category=c;render()};
   return b
  }));
- const items=articles.filter(a=>(category==='All'||a.category===category)&&(!$('impact').checked||a.impact)&&((a.title+' '+a.description+' '+a.source).toLocaleLowerCase().includes(q)));
+ const items=articles.filter(a=>(category==='All'||a.category===category)&&(!$('impact').checked||(a.impact||a.category==='Tech Radar'))&&((a.title+' '+a.description+' '+a.source).toLocaleLowerCase().includes(q)));
  $('articles').replaceChildren(...items.slice(0,24).map((a,i)=>{
   const unread=!readIds.has(storyId(a));
   const card=document.createElement('article');card.className='article'+(i===0?' lead':'')+(unread?' unread':' read');
