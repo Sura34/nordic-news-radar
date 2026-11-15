@@ -1,6 +1,240 @@
 {
-  "updatedAt": "2026-11-15T17:46:08.178266+00:00",
+  "updatedAt": "2026-11-15T22:53:50.485921+00:00",
   "articles": [
+    {
+      "title": "V: ”I ett totalpaket behöver alla vara med på lika villkor”",
+      "description": "Trots att Centerpartiet valt vänster istället för höger verkar positionerna fortfarande vara låsta mellan de rödgröna partierna. Centerns krav på samarbete utan Vänsterpartiet i regeringen ligger fast. Det gör också V:s krav på ministerposter. ”Om det ska bli ett totalpaket måste alla vara med på lika villkor”, säger vice partiledaren, Ida Gabrielsson (V).",
+      "link": "https://www.sverigesradio.se/artikel/9341350",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T22:40:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Kvinna försvunnen i Göteborg – stor sökinsats - Aftonbladet",
+      "description": "Kvinna försvunnen i Göteborg – stor sökinsats Aftonbladet",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmhpZEdvSzRvclJoN00wYktsNXJWTVZsZ2dyVU9JXzZyaWVISk1oRmdyUDExTkZuRVgzRmthU2xlaXhnOENMMzF4RzZDSUh5MjdxZ2RkVW0yN01uWmNpYWlBUmszcXdOZU5KN1RNeGFVR3ZrUEtwMV83NjZEMndRajJ1WERHSWQzUEE?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T22:18:45+00:00",
+      "impact": false
+    },
+    {
+      "title": "Partierna reagerar: ”Välkommet” – men borgerliga dörren hålls öppen",
+      "description": "Centerpartiet går vidare med Socialdemokraternas totalpaket. Beskedet välkomnas av S och MP, medan M, KD och L fortsatt hoppas på en mittenregering. Samtidigt står Vänsterpartiet fast vid kravet på ministerposter.",
+      "link": "https://www.svt.se/nyheter/inrikes/partierna-reagerar-valkommet-men-borgerliga-dorren-halls-oppen",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-15T22:13:28+00:00",
+      "impact": false
+    },
+    {
+      "title": "A step toward defining the Standard Model on a lattice",
+      "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "category": "Tech Radar",
+      "published": "2026-11-15T22:00:01+00:00",
+      "impact": false
+    },
+    {
+      "title": "Our new blog for science",
+      "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "category": "Tech Radar",
+      "published": "2026-11-15T22:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "”Det kan fortfarande sluta med att Kristersson vinner”",
+      "description": "Det hade varit mer riskfyllt för Centerpartiet att välja den andra vägen med Kristersson framför Anderssons sida, eftersom man hade riskerat att få en stor svekdebatt på halsen. Det säger Ekots politiske kommentator Fredrik Furtenbach. Samtidigt är allting fortfarande oklart och Fredrik Furtenbach tror att det säkert är några ronder kvar i den här matchen. ”Det kan fortfarande sluta med att Kristersson vinner”, säger han.",
+      "link": "https://www.sverigesradio.se/artikel/9341345",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T21:45:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "”Positionerna är lika låsta”",
+      "description": "Centerpartiet har inte suddat ut några röda linjer. De stora tvistefrågorna är fortfarande olösta och positionerna är lika låsta. Men om inte Vänsterpartiet eller Centerpartiet ändrar sig kan bollen i något skede komma tillbaka till Ulf Kristersson (M) eller extraval.",
+      "link": "https://www.svt.se/nyheter/inrikes/positionerna-ar-lika-lasta",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-15T21:26:03+00:00",
+      "impact": false
+    },
+    {
+      "title": "S totalpaket: Vinststopp i skolan och nej till fackligt veto",
+      "description": "SVT har nu tagit del av Magdalena Andersson (S) totalpaket i sin helhet. S vill bland annat se slopat lönegolv för arbetskraftsinvandring, vinststopp i skolan samt lättnader för jordbruket.",
+      "link": "https://www.svt.se/nyheter/inrikes/s-totalpaket-vinststopp-i-skolan-och-nej-till-fackligt-veto",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-15T21:04:29+00:00",
+      "impact": true
+    },
+    {
+      "title": "Too Many Chips in One Basket? - The New York Times",
+      "description": "Too Many Chips in One Basket? The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LOGdQaThNc0s2UTZmcVJHYkdfaXBkVDZtQTRpNXBqUklrNXlia05nZ1ktdVRrcW9mUlo3Wk04VURWX2wyLVVDd0tUeXRZWml5WDRtMGsyMmFHd0l0cERndm5VWkZGLW8wcFF5a3NlZnUwZGdWSXdEaDAzM2pJa0U?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-15T20:48:31+00:00",
+      "impact": false
+    },
+    {
+      "title": "74-årig kvinna i Kortedala fortfarande försvunnen - Göteborgs-Posten",
+      "description": "74-årig kvinna i Kortedala fortfarande försvunnen Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUU3VDh6OGF1S0FrRFRyczdtZkhKdE1kRFRLRkdMQkExdmRURnM0bWtOWUkzeFZPbUUzTXlkT3NZN3NqdW9GZzB2RFpNNmUyQ3B4X3NhVnI1OXRzTmNRNzF6cFBNb3c4RlRkbXNvNUk4enJSQTQtSWhhM3FIX294X0pYRjJrVVp6czAwWjhjVVFqdktreXk3VFJwa2J0N3BZM056d05POVI3YTVZbmc?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T20:43:54+00:00",
+      "impact": false
+    },
+    {
+      "title": "C väljer S – röda linjen mot V ligger fast",
+      "description": "Centerpartiet har valt Socialdemokraternas ”totalpaket” och vill se Magdalena Andersson (S) som statsminister, säger partiledaren Elisabeth Thand Ringqvist till Ekot. Nu vill Thand Ringqvist gå in i förhandlingar med de övriga rödgröna partierna men kravet på att Vänsterpartiet inte ska sitta i regering står lika fast som Vänsterpartiets eget krav att få göra det. ”I det förslag som Magdalena Andersson presenterat för oss är det en regering med Centerpartiet, Socialdemokraterna och Miljöpartiet”",
+      "link": "https://www.sverigesradio.se/artikel/9341320",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T20:43:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says - Bloomberg.com",
+      "description": "US, Allies Agree to Guard AI Supply Chains From China, FT Says Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdZazV1cGI2aFI0Ymdpb2hhRTU1Z3FjZ1hTdkZWVlRzT0Y4RzZnZXMzSXdPS2VEaFp4NGg2STQxdzhxQ2tGN1AxZzJQc3BkUjE4RnVoenRnM3dwN2t5TzV1dVpyUjAyd254NU1kM1ZSTTdoZkVnU3V3dUJxSE1LVFBiQWxWQzFkSHNIanRhQVRlU3ExV3MzYnpEeVhlZUZjbkRBZ1o4bVQ1YnlsdVl4TA?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-15T20:16:10+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sweden Center Party Picks Social Democrats for Government Talks - Bloomberg.com",
+      "description": "Sweden Center Party Picks Social Democrats for Government Talks Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc195bWFLSnQ1TnVMLWpkM2d3MV9fMU13dmtfNkpBTlF3SXVsZjZFLXhvODl0YkozZlN5dWV6a2RlUndfSmJKZkM4YWJKRUtoNUw2ajEzOGhqQXpqdDRtSi13dUJPS1B1V2xtcnY3Z21vQWJOeDd1a0ZYc2lzSjU0a0hpMEFnWW1HcEpyT1dDVGtnZG5MU1FGS284cEwzend5ZnpUYjhScjFzVXJBNUo1R2dldHg?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-15T19:56:01+00:00",
+      "impact": false
+    },
+    {
+      "title": "Västtrafik: Så ska du bete dig i kollektivtrafiken",
+      "description": "Västtrafik har flera skrivna regler, men det finns också oskrivna regler, enligt Frida Antonsson, kommunikatör på Västtrafik. Amerikanen Stephen Lessard flyttade till Göteborg för fem år sedan och har försökt lära sig vilka beteenden som inte uppskattas på spårvagnen. Men vad händer om man exempelvis lyssnar på musik utan hörlurar och då bryter mot en klassisk oskriven regel? Frida Antonsson förklarar.",
+      "link": "https://www.sverigesradio.se/artikel/9339299",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T19:54:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Omar orm infriade vallöftet med gamingdag i Göteborg - Sveriges Radio",
+      "description": "Omar orm infriade vallöftet med gamingdag i Göteborg Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2F3bUhTUVpzN0FzajhRVzZDNU90ZzlkYWVHM01SWURFRzZlM2lxVWlNb1JPYTF0V1g4NW8wb2ZiRlZiYmJ2VE5qN1BTUjkydUF0WGNyb0hYRml3Q1BqSHZXNTlPZ3QwQkhuWHJ0S0FzeGxNSmhfc2tOZVE3N3QtRnFmeXhRMUZhZGFQSzQ5ME9MTDA?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T19:48:31+00:00",
+      "impact": false
+    },
+    {
+      "title": "Försvarsmakten hjälper polisen söka försvunnen kvinna - Sveriges Radio",
+      "description": "Försvarsmakten hjälper polisen söka försvunnen kvinna Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2FTWWFWRUJoUWgtNFRnXzNwTDRzMThzVkZveTRDZjhWRy1MdzFHazZWMUkyZHZIOWpWUnVFajZOTk44cVhDVUpkaUY3TDU1U3ZNak1vT1dxX0FMd3lLSlJCa19WajlNTFNEOXhudjM4eEY2cTZtMXE1YktKUnJNNmNaV0hmckNBM1lJeDluS0FDWWpt?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T19:30:10+00:00",
+      "impact": false
+    },
+    {
+      "title": "”Pressen kommer vara stenhård på Vänsterpartiet”",
+      "description": "Centerpartiet väljer att gå vidare med Socialdemokraternas totalpaket – men med det fortsatta kravet att hålla Vänsterpartiet utanför en regering. Ekots politiska kommentator Fredrik Furtenbach säger att det av allt att döma kommer bli nya förhandlingar mellan de rödgröna: ”Då kommer pressen vara stenhård på Vänsterpartiet, men även på Magdalena Andersson”. ”Än finns inga tecken på att Vänsterpartiet kommer ge sig i sitt krav på ministerposter, så vi vet ju ännu inte hur det här slutar”, säger F",
+      "link": "https://www.sverigesradio.se/artikel/9341311",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T19:14:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Räkor kan få ny smak – blir stressade av försurade hav",
+      "description": "Framtidens räkmacka kan smaka annorlunda på grund av att haven blir allt surare. Det varnar forskare vid Göteborgs universitet för. Forskarna tror att smakförändringen beror på att räkorna blir stressade när havet försuras. Stressen gör att de använder fett och muskler som energi för att hantera stressen vilket i sin tur förändrar smaken. I provsmakningar har människor fått jämföra dagens räkor med räkor som utsatts för havsförsurning och det var tydligt vilken smak som föredrogs.",
+      "link": "https://www.sverigesradio.se/artikel/9338942",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T18:57:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Misstänkt mord i Biskopsgården – två gripna - Göteborgs-Posten",
+      "description": "Misstänkt mord i Biskopsgården – två gripna Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVhGaHFWd3FoNlJYZzA0N2phOXhKX1VIakNaRXBzQ1IwQ2lYOUJrcEl1aWpaSjlWMjFja21CY29BYW5YUURkUVA3M2FZNVVuTllwMk96NUJHbUtNeEItYXhVODhCMXZZMGFYTGJCRE1QV1hEd1Uxa05SX2xraU0wQWxDUFRKR2lkZXU0MEdiX3J1VENVak5OQ1NMbWd4SUk2VlF5bzdkRGt1aFlvVk9EOXVYcw?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T18:56:04+00:00",
+      "impact": false
+    },
+    {
+      "title": "Centerpartiet går vidare med Anderssons totalpaket",
+      "description": "Centerpartiet lämnar nu besked om vilken sida partiet väljer att gå vidare med. Det berättar Elisabeth Thand Ringqvist i en exklusiv intervju med Ekot. ”Centerpartiet har i dag beslutat att gå vidare med Magdalena Anderssons totalpaket”, säger Thand Ringqvist.",
+      "link": "https://www.sverigesradio.se/artikel/9341296",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T18:51:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Klart: Centern väljer Socialdemokraterna",
+      "description": "Centerpartiet väljer S totalpaket, säger partiledare till Elisabeth Thand Ringqvist i en kommentar till SVT. – Efter att ha granskat Anderssons totalpaket är vårt besked att Socialdemokraternas alternativ är det vi väljer att förhandla vidare om, säger Thand Ringqvist.",
+      "link": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-15T18:48:11+00:00",
+      "impact": false
+    },
+    {
+      "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick - The Guardian",
+      "description": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDk2Z1htajVLenRVR2tqcWdOaHVDQ3JpeEgwOWx2THpNU3pwRGFrblRsVnJvVWoyZ21lbHY0WXlabFI2cm1ENWRwcXQ2anQ1akpMdkM0V0Y5Mkw1U1VHdkJwMjRkSGllV2xhcGNjODRZQ05HOFJsMnExZmx6QmJXemZrTW4tNENNUzVzRHFzb3M?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-15T18:34:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Nato ställer in planerat toppmöte i Albanien",
+      "description": "Försvarsalliansen Nato ställer in nästa års planerade toppmöte i Albanien, samtidigt som alliansen minskar antalet högnivåmöten generellt. – Vi har toppmöten när vi behöver dem, säger generalsekreterare Mark Rutte till AP.",
+      "link": "https://www.svt.se/nyheter/utrikes/nato-staller-in-planerat-toppmote-i-albanien",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-15T18:31:16+00:00",
+      "impact": false
+    },
+    {
+      "title": "Nyheter från dagen: 15 november",
+      "description": "Här är ett urval av händelserna i Västsverige under söndagen den 15 november.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/nyheter-fran-dagen-15-november-1l48ul",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-15T18:09:39+00:00",
+      "impact": false
+    },
+    {
+      "title": "Gårdakvarnen kritiserar polisens husrannsakan: ”Helt oproportionerlig”",
+      "description": "Efter bortamatchen mot Degerfors förra helgen genomförde polisen en husrannsakan mot Gais supporterförening, Gårdakvarnen. Föreningen beskriver insatsen som aggressiv och oproportionerlig – och ser den som en del av en allt mer infekterad konflikt mellan polis och fotbollssupportrar. Polisen uppger för SVT att insatsen gällde misstänkt narkotikabrott och inte hade med fotboll att göra.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/gardakvarnen-kritiserar-polisens-husrannsakan-helt-oproportionerlig",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-15T18:00:07+00:00",
+      "impact": false
+    },
+    {
+      "title": "Rasar över Västlänkens rosa konstverk – nu blir det dokumentär",
+      "description": "Det rosa konstverket bLINK vid Olskroken i Göteborg rör upp starka känslor. När journalisten Po Tidholm ville höra röster om konstverket från de som är kritiska inför en SVT-dokumentär var det som att peta i ett redan öppet sår. ”En sån här grå dag så sticker det ännu mer i ögonen än normalt. Idag är det ännu mer fruktansvärt”, säger Gunilla Bratt Hedvall om den rosa jätteskulpturen. Agnetha Heed Thom är inne på samma spår och tycker att konstverket är både fult och provocerande och tycker att g",
+      "link": "https://www.sverigesradio.se/artikel/9339348",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T17:55:00+00:00",
+      "impact": false
+    },
     {
       "title": "Misstänkt mord i Göteborg – två personer gripna - Sveriges Radio",
       "description": "Misstänkt mord i Göteborg – två personer gripna Sveriges Radio",
@@ -12,11 +246,20 @@
     },
     {
       "title": "Misstänkt mord i Göteborg – två personer gripna",
-      "description": "En man har hittats död i Biskopsgården i Göteborg, enligt Göteborgs-Posten. Enligt tidningen kom larmet strax före 13.30-tiden på söndagseftermiddagen, och mannen ska ha påträffats avliden utomhus. De uppger också att polisen har gripit två misstänkta gärningsmän i 30-40-årsåldern. Artikeln uppdateras.",
+      "description": "En man har hittats död på i Biskopsgården i Göteborg och polisen har gripit två personer i nära anslutning till platsen. Brottsoffret anträffades avliden utomhus vid 13.30-tiden på söndagseftermiddagen, och de två gripna männen är i 30-40-årsåldern, berättar polisen för P4 Göteborg. Polisen uppger att man har genomfört en teknisk undersökning och att man har genomfört förhör med vittnen",
       "link": "https://www.sverigesradio.se/artikel/9341293",
       "source": "P4 Göteborg",
       "category": "Local",
       "published": "2026-11-15T17:34:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Misstänkt mord i Göteborg – två gripna - Svenska Dagbladet",
+      "description": "Misstänkt mord i Göteborg – två gripna Svenska Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rcEYyTEVhMFZNcXVHXzNnRlZfNlhueURqZUQwbFE2SThrN1pqTEZxNGp0TGxkYmtsUWRPVXdJMlBBTjd5MzJCSHREaUU5Nlg5amVCMVBpMFRzcHN5SXJBdjJGNlVOdFZLdXc?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T17:32:26+00:00",
       "impact": false
     },
     {
@@ -26,6 +269,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-15T17:28:52+00:00",
+      "impact": false
+    },
+    {
+      "title": "Misstänkt mord i Göteborg – två gripna - Svenska Dagbladet",
+      "description": "Misstänkt mord i Göteborg – två gripna Svenska Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55b0lTaDFsVkt2cXByZ2UzYzRQRzdhMWc3SmdCaGlPMjBYVm9NT0JtV0hJTVZDUUloYUczV2FBblVRa1o2T0V6ZS1QRW1odDZvRVN1N3NCaW54TDdQdjFySVNtc01fREtpbDdGLXZHUzhuQQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T17:28:06+00:00",
       "impact": false
     },
     {
@@ -66,20 +318,11 @@
     },
     {
       "title": "Misstänkt mord i Biskopsgården i Göteborg – två gripna",
-      "description": "En man har hittats död i Biskopsgården på Hisingen i Göteborg under söndagen. Två personer har gripits och polisen utreder händelsen som ett misstänkt mord, skriver GP.",
+      "description": "En man har hittats död i Biskopsgården på Hisingen i Göteborg under söndagen. Två personer har gripits och polisen utreder händelsen som ett misstänkt mord.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/misstankt-mord-i-biskopsgarden-tva-gripna",
       "source": "SVT Väst",
       "category": "Local",
       "published": "2026-11-15T17:13:03+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lundby brandstation kan byta brandstång mot rutschkana - Sveriges Radio",
-      "description": "Lundby brandstation kan byta brandstång mot rutschkana Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmtTZDJVbGExUjJkXzRWMlYyeUwxXzVFbVJFb1gxTTdwaVVBUFhVS0hyUENrdnVMSWdsR2tneTZRRmRHS0V4N1lPU1pJUnpBdGVzSWJWZ0xCbV9xT0wxb0ZtTTRZYnMySm9nZ25Jd1owdHBpQkxuYTBVWENfUkZkVjZ4UFdaUjBaNnRrcDdmWWJvVU9Wa2c?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-15T17:05:37+00:00",
       "impact": false
     },
     {
@@ -138,7 +381,7 @@
     },
     {
       "title": "Estland stänger gränsen mot Ryssland efter uppgifter om attentatsförsök",
-      "description": "Estland kommer att stänga alla gränsövergångar mot Ryssland från och med 1 december, meddelar landets utrikesminister. Anledningen uppges vara ett attentatsförsök som ska ha varit riktat mot ett företag inom försvarsindustrin. Någon ska ha brutit sig in på företaget och försökt sätta eld på byggnaden. Företaget tillverkar bland annat spanings- och attackdrönare.",
+      "description": "Estland kommer att stänga alla gränsövergångar mot Ryssland från och med 1 december, meddelar landets utrikesminister. ”En ovanlig åtgärd som innebär en tydlig eskalering säger Martin Hurt”, expert på estnisk säkerhetspolitik. Anledningen uppges vara ett attentatsförsök som ska ha varit riktat mot ett företag inom försvarsindustrin. Någon ska ha brutit sig in på företaget och försökt sätta eld på byggnaden. Företaget tillverkar bland annat spanings- och attackdrönare.",
       "link": "https://www.sverigesradio.se/artikel/9341276",
       "source": "Ekot",
       "category": "Sweden",
@@ -236,15 +479,6 @@
       "impact": false
     },
     {
-      "title": "Omar orm infriade vallöftet med gamingdag i Göteborg - Sveriges Radio",
-      "description": "Omar orm infriade vallöftet med gamingdag i Göteborg Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2F3bUhTUVpzN0FzajhRVzZDNU90ZzlkYWVHM01SWURFRzZlM2lxVWlNb1JPYTF0V1g4NW8wb2ZiRlZiYmJ2VE5qN1BTUjkydUF0WGNyb0hYRml3Q1BqSHZXNTlPZ3QwQkhuWHJ0S0FzeGxNSmhfc2tOZVE3N3QtRnFmeXhRMUZhZGFQSzQ5ME9MTDA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-15T13:26:19+00:00",
-      "impact": false
-    },
-    {
       "title": "Omar orm infriade sitt vallöfte – barnen fick en gamingdag",
       "description": "Omar orm vann gosedjursvalet som hölls parallellt med riksdagsvalet i höstas. Nu har hans vallöfte om en ”gamingdag” på stadsbiblioteket i Göteborg blivit verklighet. Julian Lundgren var en av över 600 barn som röstade i gosedjursvalet. Han älskar tv-spel och är glad att hans kandidat infriade sitt vallöfte. Tanken från stadsbiblioteket var att barnen skulle få en uppfattning om hur demokrati fungerar i praktiken.",
       "link": "https://www.sverigesradio.se/artikel/9341216",
@@ -254,30 +488,12 @@
       "impact": false
     },
     {
-      "title": "74-årig kvinna i Kortedala fortfarande försvunnen - Göteborgs-Posten",
-      "description": "74-årig kvinna i Kortedala fortfarande försvunnen Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUU3VDh6OGF1S0FrRFRyczdtZkhKdE1kRFRLRkdMQkExdmRURnM0bWtOWUkzeFZPbUUzTXlkT3NZN3NqdW9GZzB2RFpNNmUyQ3B4X3NhVnI1OXRzTmNRNzF6cFBNb3c4RlRkbXNvNUk4enJSQTQtSWhhM3FIX294X0pYRjJrVVp6czAwWjhjVVFqdktreXk3VFJwa2J0N3BZM056d05POVI3YTVZbmc?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-15T13:24:17+00:00",
-      "impact": false
-    },
-    {
       "title": "Tuva kämpar mot sin svåra kräksfobi",
       "description": "I över tio år har Tuva Claesson kämpat med sin emetofobi. Det som många känner igen som spyfobi påverkar vad hon gör, hur hon reser och vad hon äter – varje dag. Nu gör hon allt för att övervinna rädslan.",
       "link": "https://www.sverigesradio.se/artikel/9341249",
       "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-15T13:19:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Försvarsmakten hjälper polisen söka försvunnen kvinna - Sveriges Radio",
-      "description": "Försvarsmakten hjälper polisen söka försvunnen kvinna Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2FTWWFWRUJoUWgtNFRnXzNwTDRzMThzVkZveTRDZjhWRy1MdzFHazZWMUkyZHZIOWpWUnVFajZOTk44cVhDVUpkaUY3TDU1U3ZNak1vT1dxX0FMd3lLSlJCa19WajlNTFNEOXhudjM4eEY2cTZtMXE1YktKUnJNNmNaV0hmckNBM1lJeDluS0FDWWpt?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-15T13:16:40+00:00",
       "impact": false
     },
     {
@@ -327,7 +543,7 @@
     },
     {
       "title": "Uppgifter om C-toppmöten – detta har hänt i helgen",
-      "description": "I helgen har regeringsbildningen satt fart och enligt uppgifter till SVT kommer C-toppmöten hållas på söndagen. Här är vad som har hänt.",
+      "description": "I helgen har regeringsbildningen satt fart och enligt uppgifter till SVT hölls C-toppmöten under söndagen. Partiet har nu valt S. Här är vad som har hänt.",
       "link": "https://www.svt.se/nyheter/inrikes/uppgifter-om-c-toppmoten-detta-har-hant-i-helgen",
       "source": "SVT Sverige",
       "category": "Sweden",
@@ -394,7 +610,7 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb054X1VuRXpqenR3VzhZUnRMdXBBc1VnUG1rd2RPbi1NMzRkQW51dlFOd0xHeWRCSEtSVGdzZm14SjVBUG9BTEdESzlKdkpwUEtlQ2kwMXVMMTZlMThHM1ZibUJsVkRoOFZzSzhFZWZCVWxTMVY2dm9PRjlySWt2djRMRGlncVJyaFVUdlluXzFhclFBUXN3am9XcDZTei1GNzRjdTk3Q0hWWWpzTjRZTA?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
-      "published": "2026-11-15T09:44:55+00:00",
+      "published": "2026-11-15T09:47:43+00:00",
       "impact": false
     },
     {
@@ -404,15 +620,6 @@
       "source": "Sweden English",
       "category": "Sweden",
       "published": "2026-11-15T09:08:07+00:00",
-      "impact": false
-    },
-    {
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-15T09:03:18+00:00",
       "impact": false
     },
     {
@@ -722,6 +929,15 @@
       "impact": false
     },
     {
+      "title": "Valkompass 2026 – testa vilket parti som matchar dig bäst - Expressen",
+      "description": "Valkompass 2026 – testa vilket parti som matchar dig bäst Expressen",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxSWpONDI0QUNRWU9xN0RpcjVZSTI2SkVzbjJ4S0dBZUs0RnBlUHd1MnVHeXJHX2hTWjA0NXNhNmxPSXFob3VjOTRWeUFhR3RSaGg5MmJBQlJLQ25FdDg5SjF3?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-14T22:30:02+00:00",
+      "impact": false
+    },
+    {
       "title": "SpaceX Starship gör historisk landning i Texas",
       "description": "SpaceX rymdfarkost Starship landade i Texas, USA, under lördagskvällen efter sin längsta flygning hittills. Den lyckade landningen säkrade också den första återvinningen av raketsystemets centrala farkost i företagets historia.",
       "link": "https://www.svt.se/nyheter/utrikes/spacex-starship-gor-historisk-landning-i-texas",
@@ -872,6 +1088,15 @@
       "source": "SVT Sverige",
       "category": "Sweden",
       "published": "2026-11-14T18:34:43+00:00",
+      "impact": false
+    },
+    {
+      "title": "Eva Röse dissar tomten: ”Pratar hellre om regeringen” - Mitt i",
+      "description": "Eva Röse dissar tomten: ”Pratar hellre om regeringen” Mitt i",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPamhWVFRxdDZxMVpDMEE4Vk1GSERBQUF5X2FPbHVBNDNkblkxcUlfbjV0NUgxNC13TmVwLTdpbmJWUGNqazFnTjNUTDRvNUhlV0RENGN6aTVrYVVJRmJ1S3hVSG5XeERVdTFoYzUtUjhMME12UUpIVXVhNHJsbk01Uk9jN2pVRlh3NDdIOXlXMVItREo3aVZUTlNRN2pDQUQ2TVdJ?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-14T18:34:00+00:00",
       "impact": false
     },
     {
@@ -1235,6 +1460,15 @@
       "impact": false
     },
     {
+      "title": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
+      "description": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dHbXRoRmUxQ0d2U19SODVtLURyQU5tMWhQSjh6cl9SaDRybGVJQ0Y1aXNuUkl3WlpPb2FLY1JGYlFIZS1xNmFCbEk4QUFyZXFYdll2akFOdU9pcEtoLWgza1E4TmdXZlBXNnYtNklYNGlEaDF3bHY5TXZOSVp1UkdoY1RxZw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-14T13:25:12+00:00",
+      "impact": false
+    },
+    {
       "title": "Domarkritiken: ”Hon ville få dem att jubla” - Västerbottens-Kuriren",
       "description": "Domarkritiken: ”Hon ville få dem att jubla” Västerbottens-Kuriren",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ONXI0VFpVNG5kWmRwallZRDFPNnc3UmVqaEh5d2tBWmZLMDJXc3RsdG1EWkRCLXBfWmhma01hbGJQbW10WTE3RklqSEl6Z1NMM1llLUJWWDEwM3J6dGtTUFY5QXlmMEtTdTlWa3hLdUJXcERzbndYQVpHWHR5RW8?oc=5",
@@ -1370,6 +1604,15 @@
       "impact": false
     },
     {
+      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
+      "description": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-14T11:04:10+00:00",
+      "impact": false
+    },
+    {
       "title": "Centrumchefen medger brister efter p-kaoset: ”En läxa”",
       "description": "Allum i Partille medger brister efter att det nya parkeringssystemet skapat förvirring och fått butiker att tappa kunder. Centrumledningen säger att skyltningen och informationen borde varit tydligare från start. Samtidigt har Apcoa nu parkeringsvärdar på plats för att hjälpa förvirrade kunder. Centrumchefen Albert Aguilar beskriver läget som bättre nu, men säger också att det finns en inlärningskurva som kan ta lite tid.",
       "link": "https://www.sverigesradio.se/artikel/9340226",
@@ -1406,15 +1649,6 @@
       "impact": false
     },
     {
-      "title": "US to resume flights after air traffic network failure sparks chaos - Reuters",
-      "description": "US to resume flights after air traffic network failure sparks chaos Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-14T09:25:47+00:00",
-      "impact": false
-    },
-    {
       "title": "Ny forskning: Vikingars tänder kan avslöja exakt när de levde",
       "description": "Nu ska forskare i Göteborg försöka ta reda på mer exakt när människor under vikingatiden levde, vilket skulle vara ett stort genombrott för arkeologin. I dag kan det vara svårt att avgöra om två personer levde samtidigt eller med hundra års mellanrum. Genom att med en ny metod undersöka både tänder och ben från omkring 200 vikingar hoppas forskare nu kunna få säkrare svar på exakt när de levde. Forskningsprojekt vid Göteborgs universitet har fått drygt 16 miljoner kronor från Europeiska forsknin",
       "link": "https://www.sverigesradio.se/artikel/9340938",
@@ -1448,6 +1682,15 @@
       "source": "Sweden Regional",
       "category": "Sweden",
       "published": "2026-11-14T08:15:40+00:00",
+      "impact": false
+    },
+    {
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-14T08:00:00+00:00",
       "impact": false
     },
     {
@@ -1529,6 +1772,15 @@
       "source": "Sweden English",
       "category": "Sweden",
       "published": "2026-11-14T06:10:03+00:00",
+      "impact": false
+    },
+    {
+      "title": "Lundby brandstation kan byta brandstång mot rutschkana - Sveriges Radio",
+      "description": "Lundby brandstation kan byta brandstång mot rutschkana Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmtTZDJVbGExUjJkXzRWMlYyeUwxXzVFbVJFb1gxTTdwaVVBUFhVS0hyUENrdnVMSWdsR2tneTZRRmRHS0V4N1lPU1pJUnpBdGVzSWJWZ0xCbV9xT0wxb0ZtTTRZYnMySm9nZ25Jd1owdHBpQkxuYTBVWENfUkZkVjZ4UFdaUjBaNnRrcDdmWWJvVU9Wa2c?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-14T05:58:49+00:00",
       "impact": false
     },
     {
@@ -1757,6 +2009,15 @@
       "impact": false
     },
     {
+      "title": "Ethiopia War Security Review, November 13, 2026 - Critical Threats",
+      "description": "Ethiopia War Security Review, November 13, 2026 Critical Threats",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uRWtyaERyN2RkckNsZ3NHREdySWFQUkJhdVZadHdkWGRjVU40SW9EM1VGTU9lalVIWVBKOTlSbnY4V3ZxdEd0U3hUWTQtS3k3SDhFNWZHcVoybUNNQ0h2a0cwRjFWdVVC?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-14T00:29:16+00:00",
+      "impact": false
+    },
+    {
       "title": "Jocelyn skulle mellanlanda i USA – är fast i Mexiko",
       "description": "Jocelyn var på väg till flygplatsen JFK i USA när flygkaoset bröt ut. Nu är hon fast i Mexiko. – Just nu känns det väldigt nervöst faktiskt, säger Jocelyn vid midnatt, svensk tid, natten mot lördag.",
       "link": "https://www.svt.se/nyheter/inrikes/jocelyn-skulle-mellanlanda-i-usa-ar-fast-i-mexiko",
@@ -1781,15 +2042,6 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-13T23:59:51+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ethiopia War Security Review, November 13, 2026 - Critical Threats",
-      "description": "Ethiopia War Security Review, November 13, 2026 Critical Threats",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uRWtyaERyN2RkckNsZ3NHREdySWFQUkJhdVZadHdkWGRjVU40SW9EM1VGTU9lalVIWVBKOTlSbnY4V3ZxdEd0U3hUWTQtS3k3SDhFNWZHcVoybUNNQ0h2a0cwRjFWdVVC?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-13T23:56:16+00:00",
       "impact": false
     },
     {
@@ -1838,15 +2090,6 @@
       "impact": true
     },
     {
-      "title": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-      "description": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dHbXRoRmUxQ0d2U19SODVtLURyQU5tMWhQSjh6cl9SaDRybGVJQ0Y1aXNuUkl3WlpPb2FLY1JGYlFIZS1xNmFCbEk4QUFyZXFYdll2akFOdU9pcEtoLWgza1E4TmdXZlBXNnYtNklYNGlEaDF3bHY5TXZOSVp1UkdoY1RxZw?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-13T22:12:09+00:00",
-      "impact": false
-    },
-    {
       "title": "Då tänds klassiska julbelysningen i Göteborg - Göteborgs-Posten",
       "description": "Då tänds klassiska julbelysningen i Göteborg Göteborgs-Posten",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVm1vWFlzM1gzWkxtcXNYQUFoUlZzQnVsbVdlbkExRHFnM3B2TmpKTC1CWjJFR3gyTV84SGFqOExDaWVPLVJyczdSUFc2UktBeGJpRXREQjZvMDMwT0hEX2JYSXZEd0VOam42RlJkNy01S2g2dmkyN3psTER3NjBGdW1kck1WekZzVURCdktfSEpyY3A5c2dVajI0ODlDS0ZIcl83SmdqeWk0Zw?oc=5",
@@ -1862,6 +2105,15 @@
       "source": "World English",
       "category": "World",
       "published": "2026-11-13T21:41:27+00:00",
+      "impact": false
+    },
+    {
+      "title": "US to resume flights after air traffic network failure sparks chaos - Reuters",
+      "description": "US to resume flights after air traffic network failure sparks chaos Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-13T21:38:00+00:00",
       "impact": false
     },
     {
@@ -3746,6 +3998,15 @@
       "impact": false
     },
     {
+      "title": "Lokala Nyheter Småland - SVT Play",
+      "description": "Lokala Nyheter Småland SVT Play",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJY2E5Wlh2UnV1MVdiUEJmMDBKdER0RkFTaFVha0E4d3piS2NuR0dLOGpIdzFrWE5aeVhkYVFUeWtybC1fcWFmMjFLRXh4OTFkaV9sZ1J6d3Q?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-12T18:55:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Flera döda i helikopterkrasch i Turkiet",
       "description": "Fyra personer inom Turkiets militär har dött sedan en helikopter kraschat i Malatya i sydöstra Turkiet, enligt landets försvarsdepartement.",
       "link": "https://www.svt.se/nyheter/utrikes/flera-doda-i-helikopterkrasch-i-turkiet",
@@ -4238,267 +4499,6 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-12T14:10:37+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns - PBS",
-      "description": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns PBS",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa250SFhvdGZyZXFTcU1Qa1RoVVFjay1DRmRVeXZDeG5FMmgyMWNKc2E4Q2dPZ0RlWU1Pem5GZ0JPZWo5Z2tKRWxmVXBvaTczdWxrR3J5ZFdCemhkMWhHZ0d2ZTdZQTRtRk5uOE0ycVhpU0xMMjFucGhHYTVNR0YxbWFrcTY1RF9MR3V0T1lIRjljRTc4alh4WmkwSUU4d2IxUTBoMTJWT1NIclk2SWV2eXpmV2hBU1pXR3Fr0gHAAUFVX3lxTE95TDd1SGhCcVpjMFRUbkMxZ0tyWFlaWUdjeWJETzREWTctSlVhYzVwanhUNTU3SFI1Q0lzSlZnT3MtUVdKQUlJUWFUWWNwWFhzMzZ1LW0xTEQtQVFOZlVma1VUZmFIMktIRWc5dzFGT1l3TmN3blpMMTBwWFdPT0lDR3gxN1lnZ2g5YnYtLThJTDdnZ0ZFN1Z5bWE3QXctZnVDLUpYV2xyS2Z2TVBhcnF1QWo3SXBPUU5DZy1zQUVGWA?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-12T14:10:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "China, Turkey and Ethiopia Launch Initiative To Strengthen Global Carbon Credit Markets - The Media Line",
-      "description": "China, Turkey and Ethiopia Launch Initiative To Strengthen Global Carbon Credit Markets The Media Line",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEp0RnlKUVpvcnhOWWlma05IRWR2WDBBUllERGpWclFaUjJxM0N0UUtvbXZzdzZmTGFyNG45SGY4UUVKUnlVQlFvay1ocHZkbDdkcWhFSk5rWFVXaE9ZdTZPU0o2QUd1dnlXVlBNemNsSVo2LWNnYzFKRUpxQ0xZeWpvVWpEc21OemdkX3Zma0JxUUs2dGlHZGN3NTNwSTg5ZHJYaDkzMllFbjZiOGVjbVdZejFMUGZoWjlQMU5jSQ?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-12T14:08:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "S. Assefa, Myriad War — Sidecar - New Left Review",
-      "description": "S. Assefa, Myriad War — Sidecar New Left Review",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZMDlYREdydTZneXJQYllUc0gxZFBaSThHc3JHUUJpaHd2RDhPUTFOSkZRcV9WelRLMktrZ3l3bWNfOEMtMGFCZHpsLUgxR3lsX0JHanotRFd1N0xTSGIw?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-12T14:07:31+00:00",
-      "impact": false
-    },
-    {
-      "title": "Bangladesh seeks fair climate tech access, ‘fair’ energy transition - Yeni Safak English",
-      "description": "Bangladesh seeks fair climate tech access, ‘fair’ energy transition Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU3Zfb3ZGQ3hacWFfRk5aV0lCOExKbWpsZ19Ya0hrUTQ4cEV0SG9sY1hUMFJBT2ZrZ0QyN1E3dy1rTWtmX0thY0hIM0JTc09HZC1uc0FJZ2s0LVNTM3JfU3p6dXl0ak5TcE13a055UzNOU24tQVhlLUxHRnB3RGNxMmtJWEExOTlOeEVRWXhSSWk5TDVNTU5NbzVJRmh0SnpPNk5uX3h3?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T14:07:12+00:00",
-      "impact": false
-    },
-    {
-      "title": "Türkiye CANDU reactor deal for potential nuclear plant | America News - Yeni Safak English",
-      "description": "Türkiye CANDU reactor deal for potential nuclear plant | America News Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGk0aDZVcnZzajlhRlRFbS10TEI0Q2ZURWx5cVdSLWMtUjBZV1J1WDNCZE5XdTNmV2R1dTdsZ2FLYTBYd2NBRFkzdVBna3hpQW50WndHQ2ZmbWl1YUhUdUhtVnFvdlJoZnFIWVVxaXNENFhzOUUyamF1Vkw4ZEFmTnJUeDNyd0g4Zll6b19pajR3THRfLVE5bQ?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T14:06:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "Türkiye signs $5.1B deals with four development banks at COP31 - Yeni Safak English",
-      "description": "Türkiye signs $5.1B deals with four development banks at COP31 Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORUx3N3FDM3YxRWZ2aDloc3J0T0NVS20yOXBXaGNuT0NVNkFZcTh0WGlUQTdZc09kQUF1QmdGaS13Tm9nenpXbEp4TTA5cV9KYnpNTDNleThlb2xVeXBJNXdZa3RWcjdZUkRlSW1CczJXNWhUVjBVU0pIMXZ1RGwtb2JNa0FPT2VJbDVTRkJLdmdzbS1CbkRna19MY1JwYUl6bUJv?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T14:05:59+00:00",
-      "impact": false
-    },
-    {
-      "title": "Brå-rapport: Våld i nära relation vanligast bland unga",
-      "description": "En ny rapport från Brottsförebyggande rådet (Brå) visar att unga uppger att de utsätts för våld i nära relation i högre utsträckning en äldre. Störst andel brottsutsatta finns i åldersgruppen 20-24 år. – Unga personer har en större utsatthet, säger Anna Frenzel, utredare på Brå.",
-      "link": "https://www.svt.se/nyheter/inrikes/bra-rapport-vald-i-nara-relation-vanligast-bland-unga",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-12T14:05:58+00:00",
-      "impact": false
-    },
-    {
-      "title": "Unga förebilder hyllades på Öppet Hus höstgala - Göteborgs-Posten",
-      "description": "Unga förebilder hyllades på Öppet Hus höstgala Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0ZZYTc3UjJ5VWVKMUZuUl9lTkp5SUdZNHFHcDJIWVpzeFhyUVpmVURzd2NpY2t6OFpjbklvOG1qMWd3bnpOSHM3ZnZKMTJiSmdkbjliN1JGT05VZVQwWklXcXRKY3k0ZGNIREdpZmsyUmtLOVNtWTJBV2hRQllreHhXcHV4TThnN2VJVnZOWDRfVmlNLVdRSmtKaDhpMDRfUmtZdHRyMW9GV3VuMjVYTnRXOGo0bWI5UUE?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T14:04:41+00:00",
-      "impact": false
-    },
-    {
-      "title": "See what AI looks like in production at Microsoft Ignite",
-      "description": "If you’re deciding which AI pilots to move into production, Microsoft’s Satya Nadella and Judson Althoff’s opening keynote at Microsoft Ignite The post See what AI looks like in production at Microsoft Ignite appeared first on The New Stack .",
-      "link": "https://thenewstack.io/microsoft-ignite-2026/",
-      "source": "The New Stack",
-      "category": "Tech Radar",
-      "published": "2026-11-12T14:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nvidias vd Jensen Huang avgår efter misstänkt spionaffär",
-      "description": "Chipjätten Nvidias vd Jensen Huang avgår med omedelbar verkan efter uppgifterna om dubbla otrohetsaffärer, meddelar styrelsen enligt Bloomberg. En av affärerna var med en kvinna som, av amerikansk underrättetjänst, misstänks vara en kinesisk spion. Nvidias finanschef Colette Kress utses som tillförordnad vd, enligt beskedet. När börsen öppnade under torsdagseftermiddagen fortsatte raset för bolagets aktie.",
-      "link": "https://www.sverigesradio.se/artikel/9339197",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-12T13:53:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nvidias vd Jensen Huang avgår",
-      "description": "Nvidias vd Jensen Huang avgår med omedelbar verkan efter uppgifterna om dubbla otrohetsaffärer. På torsdagskvällen kom uppgifter om en affär med ytterligare en anställd, enligt källor till Reuters. Samtidigt faller bolagets aktie på New York-börsen. – Som företagsledare har hans förtroende rasat i botten fullständigt, säger SVT:s ekonomikommentator Alexander Norén.",
-      "link": "https://www.svt.se/nyheter/utrikes/nividas-vd-avgar",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-12T13:51:56+00:00",
-      "impact": false
-    },
-    {
-      "title": "Här är valresultaten för Dalarna – så gick det i din dalakommun - SVT Nyheter",
-      "description": "Här är valresultaten för Dalarna – så gick det i din dalakommun SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQTJaSUc5UHUwd0JGTkpqcHBYUVp2ZVhoSURBeXVOQ0FnZk1SNWYzOU80VWx2X0c1ekNsQXdEaHE0aFgzWkdjdWdudC03cXFjZ243ME5LTW1SLWxPX2xfdHc5d3ZjQjJmWkw4LWxka0UtN0dzSWh2ODJ3RUhkc2pBYTYtUE4zU1BVMWZVek1HQ05vYUhhRkk5SDdudEhqY1JlTzlFU0Vn?oc=5",
-      "source": "Sweden Regional",
-      "category": "Sweden",
-      "published": "2026-11-12T13:46:33+00:00",
-      "impact": false
-    },
-    {
-      "title": "Norge varnar: Stor risk för ryskt sabotage",
-      "description": "Det är mycket som pekar på att rysk underrättelsetjänst kommer att utföra sabotage i Norge under det kommande året, säger Inger Haugland, chef för den norska säkerhetspolisen PST, i ett pressmeddelande. Under 2026 har det som PST beskriver som sabotagehot ökat i Norge, efter ett minskat antal händelser under 2025. Enligt NRK har PST inte avslöjat några försök till sabotageoperationer mot norska mål, men är medvetna om att aktörer kopplade till rysk underrättelsetjänst har kartlagt infrastruktur ",
-      "link": "https://www.sverigesradio.se/artikel/9339612",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-12T13:27:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Türkiye's vice president urges global green transition funding at COP31 - Yeni Safak English",
-      "description": "Türkiye's vice president urges global green transition funding at COP31 Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzZON2V1MFpGZzF3bWU0cllLRDhOX3RibUJCbWZoNFd4WHlIeUZjeGg0RG5JaTRTcDJhRUhQMG93YVQzSzBkY1V5dHRKTjBPYUNJUXBkYVBiR2xidmItZ1VYTVBIXzRUbnJ4Z21kblRqcDByUm5zdjBHWGhRbGVlcXVrbmdyZkxmUkxNTlUwVXFVdDlNMTFxcWYwYTRwRkdMNVBmWTR6QTVaUjB1bjhySQ?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T13:16:59+00:00",
-      "impact": false
-    },
-    {
-      "title": "Türkiye, Saudi Arabia ready to deepen defense ties, expand joint production - Yeni Safak English",
-      "description": "Türkiye, Saudi Arabia ready to deepen defense ties, expand joint production Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbC1zNS1ObGlyYlVYTDNmNGNYQzRFdGRVNVlibFVURWpZYWRUdmdXNkxzN1liNDNaUlNLOFBhNmJuR2JSWlA0TTc0aUp5ZDBzS25Xc3RFRjNQNmZBc0R6cFR3YWw3YzM4QTExLVJUUGhuSHFCYV82S0JzcU9iN2o5MGhYcUhyUFpqaTN2NFhzZkJwNldtY1FROXdOTmdKa2JHSXRwRzQtbUsxdHRlWWlkZHE1bUw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T13:14:55+00:00",
-      "impact": false
-    },
-    {
-      "title": "Unga muslimer berättar om sina liv genom konst - Vårt Göteborg",
-      "description": "Unga muslimer berättar om sina liv genom konst Vårt Göteborg",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdE1UNHBRaEs3Nk4zeWxyWFZWMnFRank2c0RLbEVjM0NjYkwwemxVSHBfQzcwTEpQUjctMEF6TUEzLXJtaTZvZ1lDVFFGa0E2ZzUtYmZXa2gyanFzTnRlampGUjVuVnMwR252dzZLNEMzLS05VmtsekEyNktMQQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T12:52:02+00:00",
-      "impact": false
-    },
-    {
-      "title": "Misstänkta för bluffakturor gripna i Spanien",
-      "description": "Tre svenskar har gripits i Spanien misstänkta för att ha skickat stora mängder bluffakturor till Sverige. Genom bedrägerierna tros de ha dragit in tiotals miljoner i intäkter, skriver polisen på sin hemsida.",
-      "link": "https://www.svt.se/nyheter/inrikes/misstankta-for-bluffakturor-gripna-i-spanien",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-12T12:51:06+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fenger om tuffa tiden: ”Kroppen började äta sig själv” - Göteborgs-Posten",
-      "description": "Fenger om tuffa tiden: ”Kroppen började äta sig själv” Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3pxSXpuNjF4WXY2ZTYxYVo5MTF4enhTOHZrc1REejRfTDVPcXJjdTE0TnktY0VwQm53d3VjYXJKdWJKOXh4NDN4RXlZSEVLVkhFSUs4ZDRVVTlkNjZ0OF9pcU9aUjNEcmxDbjBITUZZYUhOcmw2RHpqbkxmX214eHh5cEdfcDBZaE9INDdJWHVXaXI3X1lORDQ5bi03aVpYMWlaVnhCYXBPLVFVNGJyZjV4Yw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T12:47:03+00:00",
-      "impact": false
-    },
-    {
-      "title": "Tre svenskar gripna i Spanien – misstänks ligga bakom bluffakturor",
-      "description": "Tre svenskar har gripits i Spanien misstänkta för omfattande bedrägerier. Männen misstänkt för grovt fordringsbedräger via bluffakturor som kan ha tiotals miljoner kronor i intäkter. Spansk polis genomförde också husrannsakningar under morgonen. Sedan tidigare sitter två personer häktade i Sverige, misstänkta för inblandning. De gripna kommer att begäras överförda till Sverige.",
-      "link": "https://www.sverigesradio.se/artikel/9339579",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-12T12:46:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Vegagatan i Göteborg avspärrad efter hög smäll - Sveriges Radio",
-      "description": "Vegagatan i Göteborg avspärrad efter hög smäll Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2h2ZFFXTzJfRFJUcTRQb21NQkE3UkZHQTU1akJvU3pfTHpuYTE1aFhoak9EbVVTZmxlQlhOYXhpVTk3YlNLeUtCc0dnLWYtTURycVplbk9LYi05d2dRZ2FRUDQ3UC1YTUo2Y05ic05ObTByMTd0dkhzOXBXTVNQMi0zQ2k4Rlk?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T12:45:58+00:00",
-      "impact": false
-    },
-    {
-      "title": "Explosionslarm i Göteborg",
-      "description": "Polisen fick vid lunchtid in larm om en hög smäll i Linné i Göteborg.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/explosionslarm-i-goteborg",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-12T12:26:44+00:00",
-      "impact": false
-    },
-    {
-      "title": "Explosionslarm i Göteborg - SVT Nyheter",
-      "description": "Explosionslarm i Göteborg SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqOEJ2aXJYc1dkVHBNMVJNQnR6ZFpvZVotSnhoZHFNMUN1bFkxYXVnaUhEXzNObzlDdkw3MFl3N3pmLWdnMEVpSnNpdGtTWWZ0Zi1pZ2tNS0tvZHhFaFBKeFVsd1hYTDNjN1BMODcwODhUUQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T12:26:44+00:00",
-      "impact": false
-    },
-    {
-      "title": "Water at the Heart of Climate Action: Communities find answers in Ethiopia’s Somali Region - Red Cross Red Crescent Climate Centre",
-      "description": "Water at the Heart of Climate Action: Communities find answers in Ethiopia’s Somali Region Red Cross Red Crescent Climate Centre",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWV9rclN4QmVaRGlPd1l6YS12bmQwZ1d2MFZUMWk2NWNNTC1NWExaWG5fanBYblpIUmkwZlMzWmhjcUhzUHkxUFFOVk1vaWx6RWp3TVhkb2FQTXFmd1FpSFRtRXdNSG9GU1R4NFpyWlhrQTEzVmJ3Y0RwLVMwXzJabmNlQ3QxV3I1RDlTdVhOeVlFeklRTWJtV3Jsek11QVVBYTlGTnlsRGJEazlzSmRqWXowQ2p4WjJZNjZOeUpVWkpuUTg?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-12T12:26:36+00:00",
-      "impact": false
-    },
-    {
-      "title": "Sweden's economic development justifies tighter monetary policy, central bank's Bunge says - Devdiscourse",
-      "description": "Sweden's economic development justifies tighter monetary policy, central bank's Bunge says Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdVhabnNYRmxXT2lTNzNjRXViQS1mNkZQMG1FM3pqN1VZRldJOEVzaWY2UktoYXhVZ1Q4WElYZ0t3QmJ1d1J4TWdwYW52eG93TGpmMzZjekp2eW1lMDdUdVFQODJfMm1rRTFhdmFUZDF1YUpTMFV3YklMYWdxaElacmZqZ29qdGxzdE5OQkxDcEFmUkEyQlZITXgzNXVObGVJUFQtb3pDelhMT0FTeGZxOTdpU1Q3WjFxZFFIS2ptVVlCN3IxNm1GX0VpSXp2emc5ZUltdlhlMzBVRGZ4MXfSAeMBQVVfeXFMTWJNMk5xb0pkRjBwdUxGSnVudGRQbDNyRmZqeWszSVBYWmhKWEpmSEFMSGNqRmh2bDk1M3VJRjluTFZSMkRuc0RFRlR6NmJ1dzBWU3VrajQtaVBmV2NjRXR2VE41cVlTalZXSnVLQTlqSjI0Q2J2TzdULWk4cUJ0aEtvYzk1UkNtOE1mMkFVWURnamJOMXZxMlNaeUFlWnp0MXFJakFtcVZOSkRNWGtxTXQ3aFRIWDN3ZUk2U3B1cEtCQWpWMjhZSFZXOE41bkVZZVhNUkxqQjd1UVctSHF0eFdaRXc?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T12:25:58+00:00",
-      "impact": false
-    },
-    {
-      "title": "Jämförs med Taha Ali – nu testas 19-åringen av Blåvitt - Göteborgs-Posten",
-      "description": "Jämförs med Taha Ali – nu testas 19-åringen av Blåvitt Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb0wwekxfM1pIMmhFMEs1VXk5WFdYRnIyOXkwTzZ5azN0bTI4ZWtQaFJjUjRtc0RyTl9nSFlYV0NiQW1MYTMxNnZfX3pSM0FYbVRnYVpxUi1vWjI1QXlKRDFKdllxSTJmY04zdnI0YzYtY21ObWsyTFM0N1E1X0xpRGltVTFjSzBkNGdjU1o5YUVzOWNRNjNFaGEtWmVNeDZJQkhJcE8tRWl0aFJ3WkVNWnU2UU80SGJwSklFbThPb1hPQXpsV015NTdSM3N0VEJDOEtDWlNhNWQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T12:22:25+00:00",
-      "impact": false
-    },
-    {
-      "title": "Avspärrningarna på Vegagatan i Göteborg hävda",
-      "description": "Delar av Vegagatan i Olivedal i Göteborg spärrades av under torsdagsförmiddagen efter larm om en hög smäll. Polisen var på plats och kunde lokalisera ett föremål som de bedömde vara ofarligt. Avspärrningarna är nu hävda.",
-      "link": "https://www.sverigesradio.se/artikel/9339540",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-12T12:12:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Furtenbach: ”Bekräftar bara att läget forfarande är låst”",
-      "description": "Vänsterpartiet kom inte med några nya besked på torsdagens pressträff, säger Fredrik Furtenbach, inrikespolitisk kommentator: ”Man kan sammanfatta budskapet väldigt kort: blir det inget rödgrönt samarbete är det inte vårt fel.” Vänsterpartiet håller fast vid sina krav på ministerposter, och Centerpartiet har redan hunnit svara att de inte heller ger vika.",
-      "link": "https://www.sverigesradio.se/artikel/9339523",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-12T12:04:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Gang scheduling and topology-aware placement for AI training in Kubernetes",
-      "description": "Distributed AI training workloads impose complex scheduling requirements that Kubernetes’s built-in scheduler can’t meet. Kubernetes schedules pods individually and independently, but distributed training introduces two requirements that break this model: Pods must land on hardware with...",
-      "link": "https://www.cncf.io/blog/2026/11/12/gang-scheduling-and-topology-aware-placement-for-ai-training-in-kubernetes/",
-      "source": "CNCF Blog",
-      "category": "Tech Radar",
-      "published": "2026-11-12T12:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI News",
-      "category": "Tech Radar",
-      "published": "2026-11-12T12:00:00+00:00",
       "impact": false
     }
   ],
