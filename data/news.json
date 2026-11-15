@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-14T23:00:41.188480+00:00",
+  "updatedAt": "2026-11-15T02:43:59.842725+00:00",
   "articles": [
+    {
+      "title": "Ännu en soldat död efter militärolyckan i Kanada",
+      "description": "En femte soldat har mist livet efter militärolyckan på en militärbas i Alberta, Kanada, i oktober. Ytterligare 24 soldater vårdas fortfarande på sjukhus.",
+      "link": "https://www.svt.se/nyheter/utrikes/annu-en-soldat-dod-efter-militarolyckan-i-kanada",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-15T02:04:38+00:00",
+      "impact": true
+    },
+    {
+      "title": "Forskare om C:s motstånd mot V: ”Handlar om väljarna”",
+      "description": "Centerpartiets motstånd mot att samarbeta med Sverigedemokraterna handlar framförallt om olika människosyn. När det gäller motståndet mot att släppa in Vänsterpartiet i regeringen är det mer komplicerat, säger källor till Ekot. Det finns sakpolitiska skillnader, men andra skäl väger tyngre, som att motståndet fungerar som ett alibi mot SD. ”C:s V-motstånd handlar mest om att partiet vill locka borgerliga väljare som ogillar SD, men som inte heller vill att politiken dras åt vänster”, säger Jan T",
+      "link": "https://www.sverigesradio.se/artikel/9339368",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T02:00:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Israel: Har attackerat Hamastopp",
+      "description": "Israel säger sig ha attackerat en högt uppsatt Hamasmedlem i Khan Yunis i södra Gaza. Sjukvårdare säger enligt Reuters att Hamasbefälhavaren ska ha dödats och att flera andra ska ha skadats i luftangreppet, som inträffade på en gata i staden. Nyhetsbyrån skriver att Hamas senare bekräftat att mannen dödades i attacken.",
+      "link": "https://www.sverigesradio.se/artikel/9341151",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T01:09:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "IFK Göteborg nu klart för allsvenskan - Göteborgs-Posten",
+      "description": "IFK Göteborg nu klart för allsvenskan Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmdsNlhlakE2NjlTVTZocjB4XzZFZmxMcVZ4NVhNNUVPMWthMExta1Y4TmFsa0NjTE9ZMlBEUXRKa2RwSVNqeXhTMk9zY0Q2bkFSeHoyOXlSMEktd3JYWUd1QjQtc0o1ZEhGNk10WjJwakFDYkxYY1pMVEtnU2VCYVZGNzktM2psaWJCX3Q1T2w3dTQzeVpnUVl1UmZGMl9aSU4tWUpzeUQ2OW04MmdBbjJCSE5BMFBfamNGWmRzMjREM0RrYXZLMk5uZHZEV1JOTDhN?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-15T00:42:49+00:00",
+      "impact": false
+    },
+    {
+      "title": "SpaceX fångade farkosten i historisk landning",
+      "description": "Rymdföretaget SpaceX har för första gången lyckats genomföra en kontrollerad landning av inte bara bärraketer, utan även en rymdfarkost. Med hjälp av jättelika mekaniska armar fångades farkosten upp i luften innan den nådde marken. Företaget har länge arbetat med att försöka återanvända raketer för att minska kostnaderna.",
+      "link": "https://www.sverigesradio.se/artikel/9341149",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-15T00:15:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia In The Face Of Catastrophe: Why Is Civil Resistance Not Rising To The Scale Of National Suffering? - Essay - Eurasia Review",
+      "description": "Ethiopia In The Face Of Catastrophe: Why Is Civil Resistance Not Rising To The Scale Of National Suffering? - Essay Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY0x0emROUHA4d2ZvTEJMTTBzaU9rd01uNzR0Nkp5S2ZQT0x6dFY4dkEweldhYzVzM0JMdzF3Q3k3aUVBU1ZhLW45RUpjeGtTUGNGX2FnNi1kc3lwbDR4ck5YbXAtQjExV2s3SnV0UmZDbzBMcnBtYzN2N1h0RUxWQWs2cUhSMXN1R1l2c2ppdEY2azRXWENPNGxKQUdGamEtUGphQVNZUFNLbHVDakdwWTJwVU14ZUhvU0kwNmV2cXJUNlU3bWppRUFSdVBNTjFtMHhFeFVtUXdiUi1yUUtNUGFjUlc2Zw?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-14T23:35:32+00:00",
+      "impact": false
+    },
+    {
+      "title": "Elfsborg och IFK Göteborg klara för OBOS Damallsvenskan - Svensk fotboll",
+      "description": "Elfsborg och IFK Göteborg klara för OBOS Damallsvenskan Svensk fotboll",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzZ3loSlRnZVppVFpEb1YwSHMyVWI5cTJOODJYdUhfR3lXcHlLb0JxMDlEakk1ZGk0MTFpYzBlTU1yclZBd1YyS2w0YzBPd3NsSjdmUGQ1dDAxTVAwYmVqYlQ1UHdVNDNTalJSeHlzRQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-14T23:34:00+00:00",
+      "impact": false
+    },
     {
       "title": "IFK Göteborg nu klart för allsvenskan - Göteborgs-Posten",
       "description": "IFK Göteborg nu klart för allsvenskan Göteborgs-Posten",
@@ -20,12 +83,21 @@
       "impact": false
     },
     {
+      "title": "Running beyond race day - CapitalEthiopia",
+      "description": "Running beyond race day CapitalEthiopia",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUFI5UnB5SEpQZGxrODlxSXQ2TmZQYTN3SmF1VHBESkd0dEl6V2U4aTJmSVAtN3o4cldXV3NfTUluWGlRWUZGckFCSkFQMDNZNEdvay1DUXpWVkE1V0djNUZGaVZLdEhoYU8taU9UNDk?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-14T22:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Benjamin Ingrosso klar för Ullevi 2027 - Göteborgs-Posten",
       "description": "Benjamin Ingrosso klar för Ullevi 2027 Göteborgs-Posten",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlNWY0pNLW5xaTNKNE96M2Z5X2lsLW9YWHp5VWpNVXNoVmYta1JJLWdpUE0tOGFWdWhBcDU3RUU1WlowcFdVcHY4NjBNVmd0Q2I4V2JHTmJUbmViT3FrbzZ5MGFsbUpIYzh4TXh3djcwMndyemVNcGVWUmZQV1pzQzZOb1V0S1hqRkx2QTZnc0tZQ0hXb0xqWG5uSDRoazlCMWc?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
-      "published": "2026-11-14T21:46:45+00:00",
+      "published": "2026-11-14T21:58:39+00:00",
       "impact": false
     },
     {
@@ -170,6 +242,15 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-14T18:07:19+00:00",
+      "impact": false
+    },
+    {
+      "title": "US government contractor pleads guilty to spying for Ethiopia - intelNews.org",
+      "description": "US government contractor pleads guilty to spying for Ethiopia intelNews.org",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNXFHVGhyb1NJdXJicXNrU3BWNUN1YmJ1MkxLTWtRdWhlemVXYzVpX0ltZk9lZDBFbnZQeG1RU0dZd00wRl8tV285UDB5eFJzM0s0?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-14T17:58:00+00:00",
       "impact": false
     },
     {
@@ -1028,6 +1109,15 @@
       "impact": false
     },
     {
+      "title": "Allsvenskt kontrakt klart för IFK: ”Vi ska fira med shots” - Sveriges Radio",
+      "description": "Allsvenskt kontrakt klart för IFK: ”Vi ska fira med shots” Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUdyc2stZFdDTTFrZ2xjdmwtNGNmcUdEM0FZRTczZDUyZDJ4Unk0V2xScnAya24yVXpSOHJaNUhTZl84ZXBmV3VWS1JKWFJEUUtDRXFLTE9EX1d0MHdIdXBrU00zaTNHMjBVOGFyemRoX0J2Mk1zVXZkdXJDS0VMUUZncG1jU19sUFlxQjlDa21tajBxQ1dv?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-14T01:12:07+00:00",
+      "impact": false
+    },
+    {
       "title": "Möte mellan Putin, Xi och Trump i nästa vecka",
       "description": "De tre respektive ledarna för USA, Ryssland och Kina ska mötas på torsdag, uppger Vita huset. Mötet bekräftas också av Kreml. Det trilaterala samtalen ska ske samband med Apecmötet i kinesiska Shenzhen.",
       "link": "https://www.svt.se/nyheter/utrikes/mote-mellan-putin-xi-och-trump-i-nasta-vecka",
@@ -1079,6 +1169,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-13T23:59:51+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia War Security Review, November 13, 2026 - Critical Threats",
+      "description": "Ethiopia War Security Review, November 13, 2026 Critical Threats",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uRWtyaERyN2RkckNsZ3NHREdySWFQUkJhdVZadHdkWGRjVU40SW9EM1VGTU9lalVIWVBKOTlSbnY4V3ZxdEd0U3hUWTQtS3k3SDhFNWZHcVoybUNNQ0h2a0cwRjFWdVVC?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-13T23:56:16+00:00",
       "impact": false
     },
     {
@@ -4079,11 +4178,11 @@
       "impact": false
     },
     {
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
+      "title": "2027 Banking and Capital Markets Outlook - Deloitte",
+      "description": "2027 Banking and Capital Markets Outlook Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXJ6LXdSdVFkOGFjTWtGRHFRZFdMZUh0Qnd5ZWhkaGRtc2RSbnRoYXJPdmRDNFc4WkhmVGtmeFJDbmQ4andYNDRoTS1UNWV2YUg5a2pCY0N2V2c5Vkd3aEtSR1BGcTAtS0lncGZnNFd0STFJa18tZWVVZ0JRZmhIOXNocGVSa240bVlsdWhPTEJXMkxJZW9iSkc4SmJVOVlnTGFhRU16dENLaFRzc21IaWNnX0VrNER1TTA5Rko2Q2Foek5MMExBdDRwanpOQlE?oc=5",
+      "source": "World English",
+      "category": "World",
       "published": "2026-11-12T08:00:00+00:00",
       "impact": false
     },
@@ -4091,15 +4190,6 @@
       "title": "U.S., Iran and Israel Agree to Cease-Fire - The New York Times",
       "description": "U.S., Iran and Israel Agree to Cease-Fire The New York Times",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4NjZQcHJQaDBaRTlzNEZ5dDJTR1UyWUJibWxBWFhFUjdfd1NFdzZpeGF3YUpObHc2OU5sZjNwa2o5dHZXVEViUV9sUTNzR1JCYzI3VWZqUGxaMGxFUDN3VVpVWjdCWjBCV2hzSXI5SzFGVU0?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-12T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "2027 Banking and Capital Markets Outlook - Deloitte",
-      "description": "2027 Banking and Capital Markets Outlook Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXJ6LXdSdVFkOGFjTWtGRHFRZFdMZUh0Qnd5ZWhkaGRtc2RSbnRoYXJPdmRDNFc4WkhmVGtmeFJDbmQ4andYNDRoTS1UNWV2YUg5a2pCY0N2V2c5Vkd3aEtSR1BGcTAtS0lncGZnNFd0STFJa18tZWVVZ0JRZmhIOXNocGVSa240bVlsdWhPTEJXMkxJZW9iSkc4SmJVOVlnTGFhRU16dENLaFRzc21IaWNnX0VrNER1TTA5Rko2Q2Foek5MMExBdDRwanpOQlE?oc=5",
       "source": "World English",
       "category": "World",
       "published": "2026-11-12T08:00:00+00:00",
@@ -4205,6 +4295,15 @@
       "impact": false
     },
     {
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-12T08:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Sveriges talanger vill helst jobba och bo i Göteborg - Cision News",
       "description": "Sveriges talanger vill helst jobba och bo i Göteborg Cision News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFBMdWVKallFYmxIbUI5Nm4zdFRPMDdIVlM3SkhyLXZsbUtVOTYxTzlUMmN4bkVJdlp4NmhqUWIwOGRobndIdlBEc2lLZnlJV21ZdjRnTWhmNFB2bTNBZVBTVnp2TEpESFJydXE0Ym9abWk5ZWk0RjJWVHFuU1VmdjYyLWtlem1WZGdkNlJBMDViRld2NndzWVFOR19TRW5tdnVrdV9pV0g2N0ZUZ3YzQXNDaVV1Zw?oc=5",
@@ -4228,7 +4327,7 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92Z05iUHFGbjRhZ0FUam43RGxyeXdLRWdJR0xBTlhVRHdtaUlGQ21rakItS0pLWmFvN0JHa3lkcnE1YTJlZV9VUzlxY0txVVg1N01xUWNnNA?oc=5",
       "source": "Sweden English",
       "category": "Sweden",
-      "published": "2026-11-12T07:55:13+00:00",
+      "published": "2026-11-12T07:44:26+00:00",
       "impact": false
     },
     {
@@ -4400,105 +4499,6 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-12T04:30:22+00:00",
-      "impact": false
-    },
-    {
-      "title": "EPA-förare om nya förslaget efter skrotkonsten i Henån: ”En hög stenar”",
-      "description": "Konstverket Semaforen på Orust skulle hylla EPA-kulturen med hjälp av en skrotad Volvo 240 som mittpunkt. Bilen fick tas bort av miljöskäl. Nu har konstnären kommit med ett nytt förslag – inspirerad av en stenåldersgrav. – Jag ser inte hur det är relevant för EPA-kulturen, säger EPA-föraren Alfred Hansson.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/epa-forare-om-nya-forslaget-efter-skrotkonsten-i-henan-en-hog-stenar",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-12T04:30:07+00:00",
-      "impact": false
-    },
-    {
-      "title": "240 miljoner unga riskerar sin hälsa – rör sig för lite",
-      "description": "En ny rapport från Världshälsoorganisationen konstaterar att unga mellan 11 och 17 år inte rör sig tillräckligt. En av fyra barn når inte WHOs rekommendation om 60 minuters måttlig fysisk aktivitet varje dag. Ungdomar riskerar genom det här övervikt och psykisk ohälsa och på längre sikt till exempel skador på hjärta och kärl och vissa cancersjukdomar.",
-      "link": "https://www.sverigesradio.se/artikel/9337843",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-12T03:03:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "What Sweden’s shipyards can teach Europe about industrial decline - Brussels Signal",
-      "description": "What Sweden’s shipyards can teach Europe about industrial decline Brussels Signal",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUU1Oa2RmSGtBWVZlSUt0dUI3Ukp1cjdaRjZFX1pWUE5ObFk3VnBPYzhJdmtndVRPZE1BUHpTa2xGME9oRVd1QWtMTXN3dDdoZG5LUzJfZnM5eTZFeC1DcjRuYVQ0SXFoa0FjLXdIVUFFVXdVSExKbXVEaXQ4Y3AteEYwY3RTa21xV24yZi1KSk41dWhzd2VSaHJqaFB2TmZE?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-12T01:30:54+00:00",
-      "impact": false
-    },
-    {
-      "title": "He started walking the world from Ethiopia in 2013. He’s reached Bellingham - Cascadia Daily News",
-      "description": "He started walking the world from Ethiopia in 2013. He’s reached Bellingham Cascadia Daily News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlN3SmRnYUVvdEZFVFlOd3NsbHlZNVdMd0lSUUVNQVppUTF5RFZLSW1pNHlWZmJVanBHRVZpNDFuRHhDWWtUSEJCOG5FOTRGV09oN3MxZ2xHOHJmX2RpN0k1TmJyTmJlY2RZU1Y3cTUxUUw1S0JwZjFRX3NOM3hybC1JSHA0WF9RNEFiaVo0c2ZmMFgxNy1tSGQxSUdKS1BZalU4NlplQTdnSXVkVkNMckM0N1NJTVk?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-12T00:46:18+00:00",
-      "impact": false
-    },
-    {
-      "title": "Hus har kollapsat i Brooklyn – minst två döda",
-      "description": "I Brooklyn i New York har minst två personer dött och 17 skadats, varav fyra livshotande, efter att ett trevåningshus kollapsat. Huset ska ha rasat ner på en byggarbetsplats där arbete pågick och nu jobbar räddningstjänsten med att hitta människor som kan finnas under rasmassorna. I nuläget har man ingen bild över hur många det kan vara. Räddningsarbetet beräknas kunna ta flera dagar på grund av risken för nya ras.",
-      "link": "https://www.sverigesradio.se/artikel/9339198",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-12T00:04:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "link": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI News",
-      "category": "Tech Radar",
-      "published": "2026-11-12T00:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "category": "Tech Radar",
-      "published": "2026-11-12T00:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Dödssiffran stiger efter husras i Brooklyn",
-      "description": "Dödssiffran har stigit till minst åtta personer sedan en tre våningar hög byggnad rasade i Brooklyn i New York på onsdagseftermiddagen, rapporterar CNN. ”Det gör oerhört ont i hjärtat att åtta New York-bor nu har mist livet och att minst 17 har skadats, däribland tre brandmän”, skriver borgmästare Zohran Mamdani på X.",
-      "link": "https://www.svt.se/nyheter/utrikes/minst-en-dod-och-tolv-skadade-efter-husras-i-brooklyn",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-11T23:53:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
-      "description": "DeepReinforce AI's Ornith-1.0-9B and Ornith-1.0-35B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models are part of the Ornith 1.0 family of open-source, self-scaffolding agentic coding models released under the MIT license, achieving state-of-the-art performance among open-source models of comparable size on coding benchmarks such as Terminal-Bench 2.1, SWE-Bench, NL2Repo, and OpenClaw. These models ad",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-11T23:36:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
-      "description": "DeepSeek's DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three open-weight Mixture-of-Experts (MoE) language models, released under the MIT license, deliver frontier-class performance across reasoning, coding, and agentic workloads while activating only a fraction of their total parameters per token, enabling high efficiency at scale. These models a",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-11T23:18:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Största utsläppsminskningen i Kina sedan pandemin",
-      "description": "Kinas utsläpp av växthusgaser har minskat oväntat mycket under tredje kvartalet i år, enligt klimatsajten Carbonbrief. Nedgången är den största sedan pandemin, trots att landets mål är att börja minska utsläppen först från 2030. En förklaring är Kinas snabba elektrifiering, som ligger långt före Europas, enligt Karl Hallding som är chefsanalytiker på Vinnova.",
-      "link": "https://www.sverigesradio.se/artikel/9339193",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-11T23:16:00+00:00",
       "impact": false
     }
   ],
