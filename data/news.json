@@ -1,13 +1,220 @@
 {
-  "updatedAt": "2026-11-20T21:11:31.943445+00:00",
+  "updatedAt": "2026-11-21T02:22:48.481695+00:00",
   "articles": [
     {
-      "title": "AI-frossa på börsen – årets uppgång raderad",
-      "description": "Fredagshandeln ger breda nedgångar på världens börser. Vid stängning backade Nasdaq med över fem procent, medan S&P 500 stängde på minus fyra procent. Chipjätten Nvidia fortsatte den senaste tidens nedgång och rasade 13,7 procent. Bolaget har nu rasat omkring 45 procent sedan toppen i början av oktober. ”Så dålig vecka har man inte haft sen Trumps tullkalas”, säger USA-korrespondent Simon Isaksson.",
+      "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
+      "description": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter. Socialdemokraten Monica Haider i näringsutskottet tycker inte att elskatten eller momsen behöver ses över: ”Egentligen inte. Det är välkomna inkomster i statskassan”, säger hon i Ekonomiekot Extra.",
+      "link": "https://www.sverigesradio.se/artikel/9347232",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-21T02:00:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Man skyldig till dödlig skogsbrand i Los Angeles",
+      "description": "I USA har en jury dömt en 30-årig man som skyldig till att ha startat en av de kraftiga bränder som härjade i Los Angeles i januari förra året. Det handlar om branden i Palisades där 12 personer omkom. Mannen är skyldig till två fall av mordbrand och straffet kommer meddelas i mars nästa år.",
+      "link": "https://www.sverigesradio.se/artikel/9347579",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-21T01:49:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
+      "description": "Amazon CloudWatch Omni now supports collecting Azure resource logs, Azure Monitor platform metrics, virtual network (VNet) flow logs, and traces from Application Insights. Teams that run workloads on both AWS and Azure no longer need separate monitoring tools or custom pipelines to see their whole environment. Central operations, DevOps, and site reliability engineering (SRE) teams can now view Azure telemetry alongside their AWS telemetry in one place. To get started, connect a Microsoft Entra ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-21T01:10:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Man döms för dödsbranden i Pacific Palisades",
+      "description": "En man har dömts för att ha orsakat den omfattande branden i Pacific Palisades i Los Angeles i januari 2025, rapporterar NBC News. Händelsen krävde 12 människors liv och förstörde tusentals byggnader. Mannen riskerar upp till 40 års fängelse.",
+      "link": "https://www.svt.se/nyheter/utrikes/man-doms-for-dodsbranden-i-pacific-palisades",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-21T01:03:54+00:00",
+      "impact": false
+    },
+    {
+      "title": "Jordbävning vid Perus huvudstad Lima",
+      "description": "En kraftig jordbävning med magnituden 6,7 skakade Anderna i Peru på fredagskvällen lokal tid. Skalvet kändes även i huvudstaden Lima, uppger ett vittne från nyhetsbyrån Reuters.",
+      "link": "https://www.svt.se/nyheter/utrikes/jordbavning-i-perus-huvudstad-lima",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-21T00:29:15+00:00",
+      "impact": false
+    },
+    {
+      "title": "Web Search on Amazon Bedrock expands language support and country-aware search",
+      "description": "Web Search on Amazon Bedrock, the tool that grounds AI agents and applications in cited, current web information, now supports five new languages, plus non-US English, on Amazon Bedrock AgentCore and Amazon Bedrock: Spanish, French, German, Italian, and Japanese. Agents serving users in these languages get results that draw on local-language sources. We are also introducing a new optional country field that biases results toward sources from a specific country - just pass an ISO 3166-1 alpha-2 c",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-21T00:17:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Vänsterpartiet kräver ministerposter trots risk för extraval - Sveriges Radio",
+      "description": "Vänsterpartiet kräver ministerposter trots risk för extraval Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1dpNWphYjlLUC1Fekh3ZlJkcHJnTktzQ2hLT1NfZ0NZb29hZ3JnNFFXWmgxOHFsdFU2cjFNMGYtMWw4RURMc3pXUGtEYUMtWF9vbjFIUHNMZGZtSUJyMWZGWEJUZjQxSjczaHluU1E2M2VLYXo1RHlJQzcyUjFWSVFaOVZvVXhWMDhud09Qc3VfYjhUd1hRWVc3MU8wdw?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-21T00:13:30+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports Primary Endpoint",
+      "description": "Amazon Relational Database Service (Amazon RDS) for Oracle now provides a Primary Endpoint, a DNS name that always resolves to the current primary DB instance in a replica configuration. When you switch over to an Oracle replica, Amazon RDS points the Primary Endpoint to the new primary DB instance, so you don't need to change your application connection strings. Previously, after each switchover, you had to update connection strings or DNS records to point to the new primary DB instance, which ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T22:54:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "HR-chefen jobbar från Costa del Sol - Expressen",
+      "description": "HR-chefen jobbar från Costa del Sol Expressen",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOak5lWVBWVHQ3aVV3em0waHBTcmVMRmxEN0ZFM1ZwYTRxRVpZYTlka0g1MVNGOWtPeGY4YVdLdWt4WXlwdnpqOUNQek92ZmJuUG0zbTZEaldsb0xuOGhUZG54cUtTQkpHb2ZUUEdhdk1YQi1YMk85ZENGRmhzRmhuWUtva3lPU1JsZVhiXzluN1kwY29n?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-20T22:44:37+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS Network Firewall introduces automated Internet firewall in public preview",
+      "description": "AWS Network Firewall announces the public preview of automated Internet firewall, a new centralized control that allows you to configure Network Firewall, with native network address translation (NAT) capability, on the internet gateways of all the Virtual Private Clouds (VPCs) in your environment. Using automated Internet firewall mode, you can centrally define your Network Firewall security rules and enforce them on all inbound and outbound traffic across the internet gateways of your VPCs. Yo",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T22:38:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Rusning till ny sminkbutik i Göteborg - Göteborgs-Posten",
+      "description": "Rusning till ny sminkbutik i Göteborg Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHdkQktQOWRzWEJhRElaNENmc2hoUWtYSFhvRFZ3UloydVA1NERRb3RweC1Cak9odDh4UVZqZFJEWlhSblU0eHU4elRMZklvZm53ZERSanNBWHY1VVUxTFBncjJtM2docEtXOXBpeG9vYXVWN2htWEVDTkxzMktJWEJSeENGWlJvSzNkb285ZWxzSmdFazdF?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-20T22:31:47+00:00",
+      "impact": false
+    },
+    {
+      "title": "Knut Kainz Rognerud: AI-pianot har slutat spela",
+      "description": "AI-bolaget Anthropics uppmärksammade börsintroduktion blev inte den vändpunkt som marknaden hade hoppats på – istället stängde börserna i USA med breda nedgångar under fredagen. Oron för att AI-bubblan ska spricka växer, vilket också påverkar svenska småsparare. ”Många kände sig tvungna att hoppa på AI-tåget”, säger Ekots ekonomikommentator Knut Kainz Rognerud.",
+      "link": "https://www.sverigesradio.se/artikel/9347574",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-20T22:01:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
+      "description": "Amazon Relational Database Service (Amazon RDS) for Oracle now supports Replica First Patching, which reduces downtime during minor version upgrades. Replica First Patching is available for Enterprise Edition DB instances. With Replica First Patching, you apply a minor version upgrade to a replica in the same AWS Region first while your primary DB instance continues to serve traffic, and then switch over to the replica when you're ready to complete the upgrade. If the replica is in read-only mod",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T22:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
+      "description": "Amazon Cognito multi-Region replication (MRR) now supports additional AWS Regions, extending the resilience benefits of MRR to more workloads. Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices in minutes, and MRR lets you synchronize user and machine identity data, including credentials, user pool configurations, and federation setups, to a secondary user pool in a standby Region you designate in near real-time. With user data in the sta",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T22:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
+      "description": "Amazon Neptune Serverless now delivers up to 30% better performance at the same price per Neptune Capacity Unit, running on AWS Graviton4 processors. The new Graviton4-based platform also brings an improved scaling algorithm that adjusts Neptune Capacity Units (NCUs) more closely to your workload. This especially helps applications with many concurrent graph queries, such as real-time fraud detection, recommendation engines and generative AI applications that run graph lookups on every request. ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T21:50:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon CloudWatch extends the PromQL query window to 30 days",
+      "description": "Amazon CloudWatch now supports a 30-day query window for PromQL queries against OpenTelemetry metrics, up from 7 days. You can query a month of data in a single request, chart month-over-month and week-over-week trends on one dashboard, and alarm on a 30-day baseline. Teams typically define service level objectives (SLOs) over a 30-day rolling window, longer than a 7-day query can measure. You can now calculate availability and remaining error budget for a full SLO period in one query, and alarm",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T21:23:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AI-frossa på börsen i USA – årets uppgång utraderad",
+      "description": "Fredagshandeln ger breda nedgångar på världens börser. Vid stängning backade Nasdaq med över 5 procent, medan S&P 500 stängde på minus 4 procent. Under veckan i stort föll Nasdaq 10,0 procent och ligger nu minus 2,7 procent sedan årsskiftet. Chipjätten Nvidia fortsatte den senaste tidens nedgång och rasade 13,7 procent. Bolaget har nu rasat omkring 45 procent sedan toppen i början av oktober. ”Så dålig vecka har man inte haft sen Trumps tullkalas”, säger USA-korrespondent Simon Isaksson.",
       "link": "https://www.sverigesradio.se/artikel/9347569",
       "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-20T21:08:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Account Mapping and Planning now available in AWS Partner Central",
+      "description": "AWS Partners can now map their target accounts against AWS records and find where to collaborate with AWS on joint go-to-market before an opportunity exists. Account Mapping and Planning in AWS Partner Central replaces manual, spreadsheet-based account mapping. Upload a target account list through CSV, API, or CRM integration, and accounts are matched automatically against AWS records, including accounts without an ACE opportunity and in any country. Partners can use Account Mapping and Planning",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T21:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Demand Center now available in AWS Partner Central",
+      "description": "AWS Partners can now plan, launch, fund, and measure demand generation campaigns in one AI-powered experience. Demand Center in AWS Partner Central succeeds Marketing Central and brings together Marketing Central and MDF capabilities, letting you work in Partner Central, in your CRM, or in your AI agents. Create hero and distribution assets in multiple languages in minutes with AI campaign creation. Generate content from reference materials, a URL, or a description, and launch it across email, s",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T21:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Lead groups and channel recommendations now available in AWS Partner Central",
+      "description": "AWS Partners can now organize enriched leads and plan outreach with lead groups and channel recommendations in AWS Partner Central. Enriched leads are automatically grouped by solution area and segmented into sales-ready, marketing-ready, and limited-potential groups, so you no longer have to segment leads by hand. Limited-potential leads help you avoid spending time and budget on leads unlikely to convert, lowering your cost of acquiring new customers. For each enriched lead, you also get guida",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T21:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
+      "description": "Today, Amazon CloudWatch announces built-in monitoring for open source tools running on your Amazon EKS clusters, including Karpenter, KEDA, vLLM, KServe, SGLang, Ray and Knative Serving. You get dashboards for the tools you already use without running Prometheus or Grafana yourself. Monitoring starts automatically when you enable OTel Container Insights. For your AI inference workloads, you can see queued requests, time to first token, and KV cache usage for each model server. For autoscaling, ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T20:47:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS Quick now supports group assignments for custom permissions and limit profiles",
+      "description": "AWS Quick now supports assignments for custom permissions and limit profiles to groups from your enterprise identity provider (IdP). Administrators can now apply feature restrictions and per-user resource limits to IdP groups, in addition to the existing user, role, and account assignments. Organizations can align governance with their enterprise identity structure without maintaining assignments for individual users. Administrators manage user, account or group assignments in the Quick administ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T20:42:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS Quick introduces enterprise guardrails (preview)",
+      "description": "AWS Quick now includes enterprise guardrails, giving administrators configurable content safety and sensitive-information controls for user prompts. Administrators can apply guardrail policies to individual users or enterprise identity provider (IdP) groups or set a policy as the account default. User-level policies take precedence over group policies and account defaults. When multiple group policies apply, Quick combines their content restrictions, using the stricter setting when controls over",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T20:30:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
+      "description": "Today, AWS announces the preview of Data Hub in AWS Billing and Cost Management, a managed data layer that enables AWS FinOps Agent to query cost and usage data with SQL. In preview, Data Hub is available to AWS FinOps Agent, so the agent can identify the individual resources behind a cost change, break down spend by team or cost allocation tag, and show how a resource's cost and usage change hour by hour. With AWS FinOps Agent and Data Hub, customers get these answers without setting up a data ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T20:30:00+00:00",
       "impact": false
     },
     {
@@ -18,6 +225,42 @@
       "category": "Sweden",
       "published": "2026-11-20T20:23:00+00:00",
       "impact": true
+    },
+    {
+      "title": "Muslims will overtake Christians in 2035! - Yeni Safak English",
+      "description": "Muslims will overtake Christians in 2035! Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmN6V2c0YS0xbkNhY3hRWkc2akFtUlJHSHpxbVVLc3N5al8tN1l2Y2VpbFB4M2NWU0lQRWNBVV96dFd4eW5nR2dleDZfYjlXTzB3MTM1bDUyTmdDcnJkWFVQZUJDZmowSVl2Tm1OeDZyQ2Z5MlFnMTJYdlBZdUhCcUpzVkJOalZJUVVkdmlGTlZwR0xjaXRLc1lCQlFtS0hsYlE?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T20:17:10+00:00",
+      "impact": false
+    },
+    {
+      "title": "New Zealand PM vows gun law reform after terror attacks - Yeni Safak English",
+      "description": "New Zealand PM vows gun law reform after terror attacks Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSkdXcnJrM3M5XzVFcTViZHpRcjNla1hPaHNpZXJBczUteUV3N3hTSTdOQVp2QURkcmFxZnNhcnZpLWQ2XzY1SS1ySkxTY3NDdE9zdmJQc0R1WmNmdmY0X0VONTJad0tNa0pubUd3SGRuS2U5bERBRllkLTBqUC1TWmxodF9jRUM2b1ZNOTlqNVl1VmJsMTFZQVRHM2k?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T20:08:34+00:00",
+      "impact": false
+    },
+    {
+      "title": "Khashoggi’s body cremated in furnace at Saudi consul’s Istanbul home - Yeni Safak English",
+      "description": "Khashoggi’s body cremated in furnace at Saudi consul’s Istanbul home Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbTJxSGdseWhZSEdWeGtLcC04UE1FUWJaMlBhb254VEk4VExMY1oyOTlXeGktZnRVUHQ3U1VWOWxiWE9qQlUxOHdjTXJLTTNEU19SVnBFUG1oYmZhalNYcF9RbnlMZlJuQ2RZNXZHd2ZiYjNLWFppVkFyTE9kSnh1cjhja3FpbGlWSGFuQzNWN2hUQWQ5dFpVT3dBRm5jV011Ymo4cGZuVmZRWlE?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T20:08:31+00:00",
+      "impact": false
+    },
+    {
+      "title": "Oil prices up as US lowers crude production estimates - Yeni Safak English",
+      "description": "Oil prices up as US lowers crude production estimates Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVc0N0t4V1BBSFVWdmlHclItSDE3MDM2UFNPMVVrdy04NFY1aF95dUdKMVRPZVZjNkZoVHB4QVhYc3JyTUU0TWFhTDRqbW9iYmhKUUgyVS13aFlHTGs5OURGcGpSRnVsZmVGTlVIRktrVjBBT19DM0d1T3JGdVprdERIRENENTM4cXowaW01QW9TRk1LSjZXQk53?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T20:08:28+00:00",
+      "impact": false
     },
     {
       "title": "Ethiopia, Indonesia, Oman, and Türkiye elected to ICAO Council - International Civil Aviation Organization",
@@ -38,8 +281,17 @@
       "impact": false
     },
     {
+      "title": "Amazon DynamoDB vector search now supports new inline filter operators",
+      "description": "Amazon DynamoDB vector search inline filters now support range comparisons, value lists, and logical operators in addition to the equality operator, so you can narrow a vector search to exactly the items you want. You can now filter on numeric ranges such as price, rating, or publish date, match an attribute against a list of values, check whether an attribute exists, and combine conditions with OR and NOT. Amazon DynamoDB vector indexes store vector embeddings alongside your operational data, a",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T20:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Amazon Transcribe announces a synchronous transcription API",
-      "description": "Amazon Transcribe now offers a synchronous transcription API, `TranscribeAudio`. Send a complete audio file in a single request and get the full transcript back in the same response. There is no job to start, no status to poll, no connection to manage. Add fast, accurate speech-to-text to interactive applications such as voice assistants, agent-assist tools and on-demand \"transcribe this clip\" features. The synchronous API supports the Amazon Transcribe features you already use, including: Word-",
+      "description": "Amazon Transcribe now offers a synchronous transcription API, TranscribeAudio . Send a complete audio file in a single request and get the full transcript back in the same response. There is no job to start, no status to poll, no connection to manage. The transcripts are as accurate as Amazon Transcribe batch transcription, so you can add fast, accurate speech-to-text to interactive applications such as voice assistants, agent-assist tools and on-demand \"transcribe this clip\" features. The synch",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/",
       "source": "AWS What's New",
       "category": "Tech Radar",
@@ -47,12 +299,12 @@
       "impact": false
     },
     {
-      "title": "Amazon DynamoDB vector search now supports new inline filter operators",
-      "description": "Amazon DynamoDB vector search inline filters now support range comparisons, value lists, and logical operators in addition to the equality operator, so you can narrow a vector search to exactly the items you want. You can now filter on numeric ranges such as price, rating, or publish date, match an attribute against a list of values, check whether an attribute exists, and combine conditions with OR and NOT. Amazon DynamoDB vector indexes store vector embeddings alongside your operational data, a",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/",
+      "title": "Amazon CloudWatch Observability EKS add-on now supports telemetry filtering",
+      "description": "Today, Amazon CloudWatch announces telemetry filtering for the CloudWatch Observability EKS add-on, so you can stop paying to ingest telemetry you don't use. You can now set cluster-wide include and exclude lists for namespaces, metric names, and pod and node labels. Exclude the non-production namespaces you don't monitor, drop high-cardinality metrics by name, and keep only the labels you group by rather than every label on every resource. Because ingestion is billed per GB, collecting less low",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-otel-addon-filtering/",
       "source": "AWS What's New",
       "category": "Tech Radar",
-      "published": "2026-11-20T20:00:00+00:00",
+      "published": "2026-11-20T19:52:00+00:00",
       "impact": false
     },
     {
@@ -107,6 +359,15 @@
       "source": "The New Stack",
       "category": "Tech Radar",
       "published": "2026-11-20T19:37:08+00:00",
+      "impact": false
+    },
+    {
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T19:31:00+00:00",
       "impact": false
     },
     {
@@ -173,9 +434,27 @@
       "impact": false
     },
     {
+      "title": "AWS Lambda now provides cost optimization recommendations for Event Functions",
+      "description": "AWS Lambda now provides cost optimization recommendations for Event Functions in AWS Trusted Advisor . These recommendations identify on-demand functions where moving to Lambda Managed Instances (LMI) is estimated to reduce costs, and provide configuration guidance for running on LMI. With these recommendations, you can lower your Lambda costs by focusing your efforts on the functions with the greatest estimated savings. LMI lets you run Lambda functions on Amazon EC2 instances while maintaining",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T19:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases",
       "description": "AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases, powered by AWS Glue Data Quality, which profiles and evaluates your tables at catalog scale from a single configuration. You define data quality checks once for a catalog, a database, or a single table, and AWS Glue Data Quality evaluates every table in scope, including tables added later, on the cadence you choose. Quality issues surface as data changes, without per-table setup or manual runs, which helps keep ",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T19:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon SQS FIFO queues",
+      "description": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon Simple Queue Service (Amazon SQS) FIFO queue event source mappings (ESMs) in provisioned mode , up from 10 messages previously. With larger batches, you can process high-volume, ordered workloads such as financial transactions, order processing, and inventory updates with fewer invocations and higher throughput. Lambda continues to preserve message ordering within each message group. Customers use SQS FIFO queues with Lambd",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-10K-batch-size-SQSFIFO/",
       "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-20T19:00:00+00:00",
@@ -233,6 +512,15 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-20T18:20:11+00:00",
+      "impact": true
+    },
+    {
+      "title": "Här tågar ungdomarna – för en bättre framtid - Göteborgs-Posten",
+      "description": "Här tågar ungdomarna – för en bättre framtid Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMTZWclVCeTZ5M0NXUGVwRWlwMkhTV0FTQ0pjSXo0Y05HUUdzSTdkMWZuWFRfOGxmNkVrSVBDME10cFFFVVVHUWVCNXpVRndoUTJHWXM0VGVKSmo1dGJBVXdCZmRoOUpZR09aTjBOU0JyZ0h4MF9QazhqQjZlYUY3c25GUDBoZFNSWm9IMmZOZ2ZaZWZxQ0QybTYzcVJfelZXRmRNd1FQaUtmenpCOEUyZ05CVmpteGpneElzZ09OeFM?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-20T18:11:27+00:00",
       "impact": true
     },
     {
@@ -353,6 +641,15 @@
       "impact": false
     },
     {
+      "title": "Amazon MSK Standard Brokers adds support for Apache Kafka version 4.2",
+      "description": "Amazon Managed Streaming for Apache Kafka (Amazon MSK) now supports Apache Kafka version 4.2 on Standard brokers. A key highlight of this release is Queues for Kafka, which is now production ready. With Queues, multiple consumers can process messages from the same topic partitions, which improves parallelism and throughput for workloads that need point-to-point message delivery. This release also includes Eligible Leader Replicas (ELR) enhancements that improve leader election correctness and st",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-msk-standard-version-42/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T17:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Your AI agent’s “memory problem” may be something else",
       "description": "An agent may need additional context to continue when a user returns the next day. A workflow may resume from The post Your AI agent’s “memory problem” may be something else appeared first on The New Stack .",
       "link": "https://thenewstack.io/ai-agent-memory-boundaries/",
@@ -368,6 +665,15 @@
       "source": "P4 Göteborg",
       "category": "Local",
       "published": "2026-11-20T16:56:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon ECS Action Logs now cover tasks, container instances, and capacity providers",
+      "description": "Amazon Elastic Container Service (Amazon ECS) now extends Action Logs to include tasks, container instances, clusters, and capacity providers, so you can see why your tasks failed or why your clusters didn't scale as desired. Action Logs provide detailed, timestamped records of the actions Amazon ECS performs on your behalf, and until now covered service deployments and managed daemon updates. With the expanded coverage, you can diagnose task failures and scaling issues yourself, and resolve the",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-action-logs-expanded-troubleshooting",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T16:50:00+00:00",
       "impact": false
     },
     {
@@ -437,6 +743,15 @@
       "title": "AWS Transform announces support for .NET 11 and expanded project types",
       "description": "Today, AWS announced the general availability of .NET 11 support in AWS Transform for .NET. Support for VB.NET, desktop projects, and mobile projects, previously in preview, is also now generally available. You can modernize a broad range of Windows .NET workloads to the latest version of .NET and lower costs by running them on Linux. Modernized workloads gain the performance improvements, new C# language features, and improved diagnostics in .NET 11. AWS Transform modernizes both legacy .NET Fr",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-20T16:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon Managed Service for Prometheus supports 2B active metrics and 300K rules per workspace",
+      "description": "Amazon Managed Service for Prometheus now supports up to 2 billion active metric time series and up to 300,000 total recording and alerting rules per workspace. Customers can also create multiple workspaces per account. This lets them store and analyze billions of Prometheus metrics across their organization. Amazon Managed Service for Prometheus is a fully managed, Prometheus-compatible monitoring service. It helps you monitor and alert on operational metrics at scale. It scales ingestion and s",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amp-supports-2b-metrics-300k-rules/",
       "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-20T16:00:00+00:00",
@@ -569,6 +884,33 @@
       "impact": false
     },
     {
+      "title": "Funding growth without debt. - Yeni Safak English",
+      "description": "Funding growth without debt. Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4TFktUVNET0VhTURydEk3bDBXeGhOaFRzYktfRGlHLXB1dGEwejNkX3h0TDA1dlVpR2pnYmhTcVNLTGR5WjU0MkV4V3Y1ZjFCQXVqWjg2Z3d3d21IMEV3cGZaRXh3dDV3QWxTeXF1d0JIWncwdGVZ?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T15:24:34+00:00",
+      "impact": false
+    },
+    {
+      "title": "Turkish parliament approves 2016 administration budget - Yeni Safak English",
+      "description": "Turkish parliament approves 2016 administration budget Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdE1oZmFWMDFRMHQ2cndwb2lrRU9aNUxXWW1mbHROWUhpREJUclRBbjV5R01POXg4S0k4cWJ2LXlzYmxfZFJRbXR3YWs4cjdzUDRwYzB6NUFZUUtOYTJsU19GVGNjLTliWl9NRzFlVXVibXo2VGZCYUdwdUZ1c19xemQ2M0hsb3lqaW1TX3FVOE5kcjVvS1k0TFZiYw?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T15:24:30+00:00",
+      "impact": false
+    },
+    {
+      "title": "Turkey's family minister hits out at female poverty - Yeni Safak English",
+      "description": "Turkey's family minister hits out at female poverty Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFRCOXl1c3pvd2ZiZEVCVzF0SXJIbTVxbjJPaVBXXzRTTjhXb2E3blZka1RqTmJfZ19MS0h5R1VXc2tIMzN5c0JnMGFQY0tKX3ZZaVBHMDAzdFhZZ0czUTIxLU52SU5MdlZtYl94TU1NLUd2OHJWdjZSNFI3cWNpUUgxeUY5U3lITHNTZlFCYmxJWUFRdVE?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T15:24:27+00:00",
+      "impact": false
+    },
+    {
       "title": "Hackerattack mot Universeum – 280 000 gäster drabbade",
       "description": "Bokningssystemet på Universeum har blivit utsatt för en hackerattack, det skriver deras pressavdelning i ett mail till P4 Göteborg. Uppgifter som läckt är exempelvis e-postadresser, telefonnummer och födelsedata. Dock inte personnummer eller kortuppgifter. \"Vi ser mycket allvarligt på skyddet av våra gästers personuppgifter, säger Eric Edblad, försäljningschef på Universeum.",
       "link": "https://www.sverigesradio.se/artikel/9347405",
@@ -596,6 +938,15 @@
       "impact": false
     },
     {
+      "title": "Tesla shares halted after CEO suggest taking it private - Yeni Safak English",
+      "description": "Tesla shares halted after CEO suggest taking it private Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFdtMmhDX3AtSFZTREdkNlA2M0dGV2UtbFdMakF4S3o1eUZkZ2ZTR29yVGo5NUJYbE1EeDZwcEw2VFhxaXdpUnNlbzJKamo0SGVIQ0ZXMzRsQjN4WWNlYjBDQl9OM2R4UVIyLURVbHNzbDIzTkJQMm94SERuQTFiVE94TVlFRG5Scko3WlZqeEtEMDdCOFhyeHd5alo?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T14:54:17+00:00",
+      "impact": false
+    },
+    {
       "title": "Västtrafiks rabatt går snart ut – så kan du förlänga den",
       "description": "Den 2 december är sista dagen att köpa Västtrafiks månadsbiljetter till halva priset. Men det finns faktiskt ett sätt att ta del av rabatten även en bra bit in i januari.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/vasttrafiks-rabatt-gar-snart-ut-sa-kan-du-forlanga-den",
@@ -605,12 +956,48 @@
       "impact": true
     },
     {
+      "title": "Opinion: The real cost of falling international student enrollment - Crain's Chicago Business",
+      "description": "Opinion: The real cost of falling international student enrollment Crain's Chicago Business",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNWRiam9aMGdyclNZTGhUSnJaZW53M3RZdFl3TjMzdFRWb2E5QzY1eEN0b2Z4ODBROWU5S3J6TkdTSi1DcF95akZzdUVnYk44SXZ3cktSelcwQ09oMEZuWThWUUVYN2pqMmh6bVdfbWdqUUlpbmJHWmVheVpDbHFVX1k0MmhQWkZ5OTFXczZDb0libEt3VUxGbU9YOW9nZ193WmdYeWxTUE9oREU?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-20T14:41:55+00:00",
+      "impact": false
+    },
+    {
+      "title": "Outages in US cause worry, despite official attempts to downplay concerns - Al Jazeera",
+      "description": "Outages in US cause worry, despite official attempts to downplay concerns Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3RaY3RmTS1RYVozdlE0aHl0YUtIY0xQeVUzQi12QVV5LXF0S1dxNGdSalJaemVhVWVkcEFyalI2dXdlVVYzRGVJdDRmN1A4RVdoRU9LUzFtU2NVYzkzTGlNdmFBUUYtQlotdERVNV9PRkRkVHJ3elpBWlU1bzJDQlFRYlBjTVFhN2FQSG9lbG0zcjNqR1pQNXJlVDhzbGhDNnk2cmJmRUJROUhpOEpFRklSd1HSAboBQVVfeXFMTWFoX3BoNHVvb1gtVXZ1MmFpeW9TM1otMXE2MGNKOVNxcFpvWmNsOHo5QktORU1sR3ZSUlA4Y09LUmxwcjAzcVUwd2R3bUQ5OUFFYUxuSzRtV2dOZDF1ZlRxbkJUM241dFJjZVR1akJIYjBCei1vQTdpdFl3SmQ0V2JBUXByWU1oaGJhLVNiLUdodWtFQjByNkZJQmZzUDFXUDRBWmtiaHZLNHUtV3J3NUp2bEhiWEZSb2Z3?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-20T14:40:41+00:00",
+      "impact": false
+    },
+    {
+      "title": "'Costs cut': Prime Minister secures deal with EU to cut costs, keep prices down and create opportunities for young people worth up to £17 billion per year - GOV.UK",
+      "description": "'Costs cut': Prime Minister secures deal with EU to cut costs, keep prices down and create opportunities for young people worth up to £17 billion per year GOV.UK",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSG8xaVAwN0hjRFJxLUdPZWw4aGY4QnRsbUdlTm5BeVVDUVMzX3VVZkZvSE9uSG5FQkY1RmNBN1NDbnpPV3hsdlpaTzdJZlktR2VLdG5rclN6TlhOaE94MENOVkdfTnVCaXUtakxDcXg1ZHhweXlVc2I2QWM4UFQzRHNIU1dUSU9LcVl4RUppazl3UkFQa0c4WUd6c3JBak51MGZMdlg4SHdWeEpEWGhKOG93alJhSS1DSFc1UFdicVFEYzREOUVRTEFoa0xiY2RrNnBsUjVCbHlubE1aS3Y2UVZEVU4tMWJaVVVPWTZDNmEtUXA1MDZvb2pCazhTX29HMDZ6cG40cGhmQmZFOHNSSTNR?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-20T14:38:40+00:00",
+      "impact": false
+    },
+    {
       "title": "Senate foreign relations chairman warns of 'horrific trend' as Christians killed in Ethiopia - Fox News",
       "description": "Senate foreign relations chairman warns of 'horrific trend' as Christians killed in Ethiopia Fox News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0F1MGNva2xQSjF3UksxNGpuY1E3cDRKUEU0MHdWOGdGNmZyLWtJb0hUN3VYaGNQZnM1cm83OEpTbHJnN0NYSHlWOE5HcndmZnhKaUNpeDJ1cmFOUmY0OF9QX19XQTM2SGM5NjhfMUJJUUFrb3NjY1F6bGIweVZsdmVFVml4RzB0dWtuZC0xVGhDNEJ3b29QMDdEZVBpQlFTbllkWnc0RFZCcEJHbF9yc9IBtgFBVV95cUxPdGFEclk0UHJ4ZDBhdnhuNlcwSXFkNGVteUQtSG1HWUl6MzBSNTFLYWtOUGtGVlY2N0FsSVM2RzVQOVVDMGJpYkNmaHlwWWZOVWJ2TGoyMG9qU2RwbExBRmNPd1RLZmk3aVc1dFVBX3BxSWRNcU9MZlB2Ykd5bVNZZGdOaXdJVXBwZ2V1Xy00YjNyRTZKN0hkWmRuZkdiRkhaN2I4ay1abHA3ZjdHS0FJMGhISjRLQQ?oc=5",
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-20T14:33:56+00:00",
+      "impact": false
+    },
+    {
+      "title": "Trump to discuss trade with China's Xi as talks continue - Yeni Safak English",
+      "description": "Trump to discuss trade with China's Xi as talks continue Yeni Safak English",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPel9ZQjJUR3RHU1dzZUtnMGt1T01tcUFER3FHa2FvOHFWbWNxa3JFbjVNcEJKQkhHWWw3bWpOQUo2dHhGZThOTmhuMUdPUzctVzF1enYwS3gyZFRja1AyU0JjcUhfT0dkaHExdV9oYUNXZjNpSHI0UTl1cXpKcXpmSm5LT0tBdVhtN3U4a2tVVGxnNkhoN2F5ZF91V1l2UQ?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-20T14:28:09+00:00",
       "impact": false
     },
     {
@@ -647,6 +1034,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-20T13:59:09+00:00",
+      "impact": false
+    },
+    {
+      "title": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya - ABC News - Breaking News, Latest News and Videos",
+      "description": "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTEhNVDFqWlV0MVA1aGpYdW1wWXpIeVhTNEgyb1lsQnR2Vk9hNTAzb0FZM2laUnp2MXlpZzM5WTlRdnJreUxzQTktRGk5djVNNEZYNi1mT1VEMFVLSWRLZnl2OURrV0RFZ0RXbXJjWEwtaVdQdWROTElMUHlkOUl0eHNFX1BHcGFJMUdhWEVJc29BVk1haVhZQtIBngFBVV95cUxOSGNPcjNSUENVMjBiSnpVQmdHRFAtdTEtbFJ4QnhHa3VxWmY3RHJsRGxlZkZieVByMXVnN2EwSzgyeC1BRVJkenNtWU1MYUFEMVVRTjNScm5Tal9FOUdxZXhQREFIc0ZYNnBrVHBwSWdRM1Fpb0NTdWhXdEFJa2FFT3dlTEZCdnR4RWlHYXZuQXpVTUJPVTc5SmxBTW51Zw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-20T13:55:40+00:00",
       "impact": false
     },
     {
@@ -875,8 +1271,8 @@
       "impact": false
     },
     {
-      "title": "Sweden’s Mix-Backed Battery Firm Polarium Files for Bankruptcy - Bloomberg.com",
-      "description": "Sweden’s Mix-Backed Battery Firm Polarium Files for Bankruptcy Bloomberg.com",
+      "title": "Polarium Energy Collapses in Setback for Sweden’s Harald Mix - Bloomberg.com",
+      "description": "Polarium Energy Collapses in Setback for Sweden’s Harald Mix Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzNJUFNwd29xcF9OQU5ITkVQcThaa3F0OThJSjJOZk85NW10YmFEd1lqeS1PYlp4bGlSZlhKVldORkFteXVBUmpwVDJkc0Y3Y2U3bllTdjZRMWM2OHAwQ3FKOTNJdVZKU3pIS2NsYmszSGttXzRNMEprR0htcVpGcDA4V2RUVFNKanVlZU4xSDZHclVNcTB0dUc2YlB1RmtWbU16NXljN0dFSFdqSjcxT1JsQQ?oc=5",
       "source": "Sweden English",
       "category": "Sweden",
@@ -956,6 +1352,15 @@
       "impact": false
     },
     {
+      "title": "Stängt tak inför Hammarby – Göteborg: \"Allt som gör att temperaturen höjs är jag positiv till\" - SvenskaFans.com",
+      "description": "Stängt tak inför Hammarby – Göteborg: \"Allt som gör att temperaturen höjs är jag positiv till\" SvenskaFans.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWVhMelZjZDc2V0Z3X3NnaGZ5cnZwVFhhb3ZDYkJhakpMREpndkJCVFhXLWV2ei1DMWhad1EwMmRWMGxNZUFRM0F2ZFU1a09aVXpPSXdxMERVOXVUdkZMQldPR0k3Z0xsUkYzejVNRG9heVBKX0hzR2hxb2ZGSHlsQXhWQmZyekIydF9FY0h3ZHZqQnU1SDdUU0U3eFMzb2l4Y2RIR1FIVkp6cmsyeWZ2cmFkQ2gyd2EwTk1kMlFBalFLS2l2cXlsWWx6c2g?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-20T10:40:29+00:00",
+      "impact": false
+    },
+    {
       "title": "Ny rapport: ”Socialförsäkringen speglar är ojämställt Sverige”",
       "description": "Kvinnor tjänar mindre och tar mer ansvar för barn och familj. Dessutom är de oftare sjukskrivna. Det visar en ny lägesrapport från Försäkringskassan. – Vi har inte nått så långt som politiken önskar på jämställdhetsområdet, säger Nils Öberg, generaldirektör för Försäkringskassan.",
       "link": "https://www.svt.se/nyheter/inrikes/ny-rapport-socialforsakringen-speglar-ar-ojamstallt-sverige",
@@ -1010,19 +1415,19 @@
       "impact": false
     },
     {
-      "title": "AgentCore runtime instances now support Amazon EC2 G7 instances",
-      "description": "Amazon Bedrock AgentCore runtime instances now support Amazon EC2 G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. Runtime instances run your agents on Amazon EC2 instances while AgentCore handles provisioning, patching, scaling, and lifecycle management. G7 instances give agents that do 3D rendering or model inference another GPU option, alongside families such as G6e and G7e. To use G7, add G7 instance types, from g7.2xlarge to g7.48xlarge, to the allowed instance ty",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
-      "source": "AWS What's New",
+      "title": "Combatting adversarial distillation",
+      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI News",
       "category": "Tech Radar",
       "published": "2026-11-20T10:00:00+00:00",
       "impact": false
     },
     {
-      "title": "Combatting adversarial distillation",
-      "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "OpenAI News",
+      "title": "AgentCore runtime instances now support Amazon EC2 G7 instances",
+      "description": "Amazon Bedrock AgentCore runtime instances now support Amazon EC2 G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. Runtime instances run your agents on Amazon EC2 instances while AgentCore handles provisioning, patching, scaling, and lifecycle management. G7 instances give agents that do 3D rendering or model inference another GPU option, alongside families such as G6e and G7e. To use G7, add G7 instance types, from g7.2xlarge to g7.48xlarge, to the allowed instance ty",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-ec2-g7/",
+      "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-20T10:00:00+00:00",
       "impact": false
@@ -1253,6 +1658,15 @@
       "impact": false
     },
     {
+      "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC - ABC News - Breaking News, Latest News and Videos",
+      "description": "Xi projects China’s global influence after hosting Trump and Putin at APEC ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOE84b19ETmx4YkJqMHhWRVlUQU9sc0tUWVoxTTIxb2lpWEZHdDdLYi1oVHFBUmdoYmcySXFmcVdBZjVUaE9CRWJ2eXdwWi13NVlPZnAyUXBzZzBQajJmdDVjNVltMmNERFNCWnJOXzRQSGJINkJGV0JDTEQzNjVSMGk5R3duNldBRGk2cHN4NnVmcTM5aGNoWGpKLWxqcXJVUXUxZVJfSHpQNW9pSGfSAbMBQVVfeXFMUFUtSFFKLXl1SmJmcTdsLUdDdlBKRHJnUUtLUFVVZVhpQnVEOV9NZlI2akRkX3J1QlFEU0czOVZ4eXJ4Z3kwUHVjUU9seHBOTHZ3bjhPeTJlWkVpeWpzWG1OX1BGb0E5SEc3alVKWVFtTTBfc2x3WWhaUmRVbGVUQ1JadG5FUjBIZHBheC10eldob281SFpHUm1id2RpWm9YZ2o5OW9oQjY1bzQ5RnlESHJvWXc?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-20T07:53:50+00:00",
+      "impact": false
+    },
+    {
       "title": "Svensk kvinna död i Filippinerna – misstänks mördats",
       "description": "En svensk kvinna i 70-årsåldern har avlidit i Filippinerna, det bekräftar UD för SVT. Enligt medieuppgifter ska hon ha skjutits ihjäl och två personer har gripits misstänkta för mord.",
       "link": "https://www.svt.se/nyheter/utrikes/svensk-kvinna-ihjalskjuten-i-filipinerna",
@@ -1358,15 +1772,6 @@
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-20T05:15:42+00:00",
-      "impact": false
-    },
-    {
-      "title": "Drinking-water - World Health Organization (WHO)",
-      "description": "Drinking-water World Health Organization (WHO)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZmxIaURaLVNlQ0tBdVdwWjVEYWlBWUhjUk9VODBONEtOLVg0dU9MS3lUX0hJVTRUd3lOZ1lTbHFJd2VyUXUtRG1XdWFwb2FYZlRkeVZ1U0ZkLS1YZ2N5UW93Wkc2d0FZWkFYZkVmaEk?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-20T05:06:18+00:00",
       "impact": false
     },
     {
@@ -1574,6 +1979,15 @@
       "source": "OpenAI News",
       "category": "Tech Radar",
       "published": "2026-11-20T00:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "National Cyber Director Sean Cairncross to depart White House - Politico",
+      "description": "National Cyber Director Sean Cairncross to depart White House Politico",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaWZUdTZCcU40UDJLdUtUU2pVaTAzVWlsck1RZkRidEdXdXFHZ3ZOYTNDVDZ4ZHpZN0tLZ0dNaW41bDFBQ1BMYm12NndtRmNtNDNoMHlKV2x1Z0RFVWt4U1JDNjNlb0ZnYXB3S2VUU09wUWFhckhUNlJYY25pek1xMHlHMlg5b1FHZXVaVQ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-19T23:25:00+00:00",
       "impact": false
     },
     {
@@ -1817,6 +2231,15 @@
       "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-19T20:53:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "EXCLUSIVE: Head of FBI San Francisco office says espionage in Bay Area is a 'constantly evolving threat' amid AI boom - ABC7 Bay Area",
+      "description": "EXCLUSIVE: Head of FBI San Francisco office says espionage in Bay Area is a 'constantly evolving threat' amid AI boom ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeGljZ3FfTjVCbV9GTmtEeUxpWExvdlJua3EwRWpRZ21VWkhQY2hWQVRPUF90WFozWnNBelZtX0VodHRrMzNHLTlUZTRBNkVwQW10TEpKT0lrZGh2aDRBLTVfS0ZSX3RzMExKY1FBWVREaWtqYUQxS3Ezbkw2WnVGdGJvVHdCQzdOVUIzX3FYQTFaOEZwdFV5REpPNEpVZWxjQzJBd0ZWUXNNYmJON3MwdUEtc0RqR29QeG5BWk1oX2lBVVVfM3hTTldVWXBudVdUYUJ2QmtCRld3Z9IB3wFBVV95cUxNZVh0X3A2cmVPRS1iaXZZMDVzY1d0ZHY1SThEWmtWMktFcjJDS09oc0ZPdmlycjg4TmwwMXBaRWVuZ0ZFaEMxS0xfWHV2SXd5ZV93QUJCRkxfb3p0b2Q5UDlMWXNVOUkxWl9GR1U1cnl5eTZuZ1A0bTdxdWlRUENLQkpGMVYyTkZqNjBzTFhpNUhERWx0V3JHeXhFd0VaV3FyYlNYUm5ZbGVTNll2SWxQSjdtUmJqekZQYVZ3akE4dHRSU2NIVUdzUm9vQXNTMUF5d18zc2hnTVMybWIyRXlZ?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-19T20:42:45+00:00",
       "impact": false
     },
     {
@@ -2801,6 +3224,15 @@
       "impact": false
     },
     {
+      "title": "How to support your app on Kubernetes environments you don’t control",
+      "description": "Running an application in Kubernetes is one thing, but supporting that application in Kubernetes environments your customers run is something else entirely. You don’t control the cluster configuration, its upgrade schedule, the surrounding tooling, or the...",
+      "link": "https://www.cncf.io/blog/2026/11/19/how-to-support-your-app-on-kubernetes-environments-you-dont-control/",
+      "source": "CNCF Blog",
+      "category": "Tech Radar",
+      "published": "2026-11-19T11:18:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Around 700,000 displaced amid volatile conflict in southern Ethiopia, Islamic Relief says - Islamic Relief Worldwide",
       "description": "Around 700,000 displaced amid volatile conflict in southern Ethiopia, Islamic Relief says Islamic Relief Worldwide",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGZZdVV2RmxQSm5Dd0J0M0tBWTJabnFwMjRHaUUxeUkxNndLN1oxZFNDQWxPa0x6ZU9pZVFqY0hzX0hYd2o5a1NvdUFmZjFxOXpwRXlnemFERHNUVWdXT2liS3RGcDhQeDRWY1A3UU0tdTBraFFTU2ZZTEFnbmxENDFST0JXMFlwdUJfejhUWkdBQ3FQV1B0MDNPVURXU2JGb3BrT1d2SHVkMmdmMzdwcExkemp1aExZOVE4Vg?oc=5",
@@ -3185,6 +3617,15 @@
       "source": "Sweden English",
       "category": "Sweden",
       "published": "2026-11-19T08:00:16+00:00",
+      "impact": false
+    },
+    {
+      "title": "Drinking-water - World Health Organization (WHO)",
+      "description": "Drinking-water World Health Organization (WHO)",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZmxIaURaLVNlQ0tBdVdwWjVEYWlBWUhjUk9VODBONEtOLVg0dU9MS3lUX0hJVTRUd3lOZ1lTbHFJd2VyUXUtRG1XdWFwb2FYZlRkeVZ1U0ZkLS1YZ2N5UW93Wkc2d0FZWkFYZkVmaEk?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-19T08:00:00+00:00",
       "impact": false
     },
     {
@@ -3764,6 +4205,15 @@
       "impact": false
     },
     {
+      "title": "Iran War: Latest News, Live Coverage and Video - NBC News",
+      "description": "Iran War: Latest News, Live Coverage and Video NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-19T00:03:49+00:00",
+      "impact": false
+    },
+    {
       "title": "Explore the Codex Security Plugin",
       "description": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "link": "https://openai.com/business/learn/codex-security-plugin-demo",
@@ -4050,463 +4500,7 @@
       "category": "World",
       "published": "2026-11-18T18:30:37+00:00",
       "impact": false
-    },
-    {
-      "title": "Atrocity Alert No. 503: Israel and the Occupied Palestinian Territory, Ethiopia and Afghanistan - Global Centre for the Responsibility to Protect",
-      "description": "Atrocity Alert No. 503: Israel and the Occupied Palestinian Territory, Ethiopia and Afghanistan Global Centre for the Responsibility to Protect",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CXzRSVVNVTGFPMElxYXRJbkZ4QXQ4OUFHVl9pNjhKVkpEcDh3cXdYUVQ3Y2VDTTQ4eXI2dWtnSXBrNHRvd3dZUEJfcDBNS2xIVWNsN3BfdTVFU291b1RnYWRoQzQxdjZmam5ScW9B?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-18T18:26:36+00:00",
-      "impact": false
-    },
-    {
-      "title": "CVE-2026-130638 - Path traversal in the object detection dataset preparation tool in AutoGluon MultiModal",
-      "description": "Bulletin ID: 2026-188-AWS Publication Date: 11/18/2026 10:00 AM PST Description: Relative path traversal in the object detection dataset preparation tool in AutoGluon Multimodal before 1.6.0 might allow adversary-in-the-middle attackers to write arbitrary files with the privileges of the user running the tool via a crafted dataset archive substituted for a dataset downloaded over plaintext HTTP. Impacted versions: Refer to the article for the most up-to-date and complete information.",
-      "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-188-aws/",
-      "source": "AWS Security",
-      "category": "Tech Radar",
-      "published": "2026-11-18T18:18:11+00:00",
-      "impact": false
-    },
-    {
-      "title": "OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning.",
-      "description": "OpenAI spent approximately $1.2 million in API costs to generate working exploits for 948 Linux kernel vulnerabilities. At The New The post OpenAI spent $1.2 million finding nearly 1,000 Linux security flaws. Sam Altman says this is just the beginning. appeared first on The New Stack .",
-      "link": "https://thenewstack.io/openai-entire-ai-stack/",
-      "source": "The New Stack",
-      "category": "Tech Radar",
-      "published": "2026-11-18T18:17:50+00:00",
-      "impact": false
-    },
-    {
-      "title": "Misstänkt mord på Jylland – två vuxna och ett barn döda",
-      "description": "Efter att tre personer hittats döda i Give på Jylland har nu fyra personer som greps initialt, försatts på fri fot, skriver DR . Enligt polisen finns det inga tecken på att de gripna hade något med dödsfallen att göra. Polisen tror att det rör sig om en isolerad händelse och kropparna kommer att obduceras senare under torsdagen.",
-      "link": "https://www.sverigesradio.se/artikel/9345713",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T18:09:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS",
-      "description": "Amazon CloudFront (CF) now supports WebSocket and gRPC traffic to application origins in AWS regions, with mutual TLS authentication between CF and the application origin (origin mTLS). Customers can now use TLS certificates to authenticate requests from CloudFront while setting up WebSocket or gRPC connections to their origins. Origin mTLS protects internet facing applications that need persistent, bidirectional or streaming connections, such as chat platforms, collaborative editing tools or li",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T18:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
-      "description": "AWS Lambda now supports GPU-accelerated Event Functions on Lambda Managed Instances using EC2 G-series instances . You can now run GPU-accelerated workloads including AI inference, media processing, 3D rendering, scientific computing, and financial simulations on Lambda without managing GPU drivers, frameworks, or scaling. Lambda runs multiple invocations concurrently in each execution environment and scales responsively based on GPU utilization, CPU utilization, and concurrency to keep your GPU",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T18:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Marit har jobbat 42 år i hemtjänsten – älskar sitt jobb",
-      "description": "Göteborgaren Marit Gamboa har arbetat inom hemtjänsten i 42 år. Sommarjobbet 1984 blev till ett fast jobb och i dag älskar hon fortfarande sitt jobb. Arbetsvillkoren inom hemtjänsten diskuteras ofta, men enligt Marit Gamboa missar man ofta att lyfta det som faktiskt fungerar. ”Så många besök som vi gör över hela Sverige varje dag som är fina, medmänskliga, ömma besök. Det är fantastiskt”, säger hon.",
-      "link": "https://www.sverigesradio.se/artikel/9344965",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T17:56:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Africa CDC and Ethiopia Officially Launch CPHIA 2026 to Advance Africa’s Health Security and Sovereignty Agenda - Home – Africa CDC",
-      "description": "Africa CDC and Ethiopia Officially Launch CPHIA 2026 to Advance Africa’s Health Security and Sovereignty Agenda Home – Africa CDC",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1RDOHJoSGNWRHl1XzNPWDU0ZVItZVBPdmtpcHhLVUg5eEsyaFFnRzJ2OU56d1JHNmc1NEFYWlF1Y1Q2S2ZlNHY0M094TXNiT091N3lzYmwwa2F1enRNeG9nYlA3S0JtUEpwQTBQa2tEQTY5UVF1T0VQLUJ1QXRLU0RyTU9IUENVcG9xSnAyNGV4eC1idTFRenE4S0d5OFJybUU3NGUxRF9FaDQ3Q1F0UTFNMk11Q0Jjd0xIQlVfd3J3VkRJSGI2YkN3UEhRZ3k2cjRZX2RXaUIydw?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-18T17:50:04+00:00",
-      "impact": false
-    },
-    {
-      "title": "Telefontrafik utslagen på Göteborgs centralstation – tåg försenas - Göteborgs-Posten",
-      "description": "Telefontrafik utslagen på Göteborgs centralstation – tåg försenas Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSTczWk5mbGUwZzVEQW5ZMHJhTHVDRXU4WVBfNXhaNl8wekpCcGl6NEhrM0ZRbjY5LWZzS2M1WjJkMDZEc211MzY3czFqSTlHNGEyWkhSN2xBdURjSHhoNFRYeVFBQ0lSTDRoYXJweE9yZHJGMHBDSVNxc09TMmpjUXBSdkQ3N3lkWXZzVXpxdUlVSklSTDFzT09Wc1k5ZzlYQ1RWSThhVVc5eWdCaTg3MGF4SUZ2T0VNSzM4UQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T17:36:52+00:00",
-      "impact": true
-    },
-    {
-      "title": "Göteborgs starke man får en gata – här ska den ligga - Göteborgs-Posten",
-      "description": "Göteborgs starke man får en gata – här ska den ligga Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc1lyNU5UY1gzdVZIb3Rqalp6NF9EWDB3V0hxRjFNU3g3UDVSZ0NaOFhvNnd4QXpXbHliazRvWTllMk5PMjJLRDFlTGNEaGNlNDdiX05XYmtKTDI1dnVyVHBockF6Y1ltUXIxRXk3UUdoaWJiZ3NqbnY2MUZXb0JxNVJ3WWIySktmcFQtQjg4T0tFN2NvaDdiZ0JCclNLOGhPMUNEalFKUVVZTlpubkJ1UEQ1ei0zTmFoeklfMjdUM3hzZw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T17:30:33+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ishalka i norra Sverige – kan bli struligt i trafiken",
-      "description": "SMHI har utfärdat en gul varning för ishalka längs Västerbottens och Norrbottens kust, där trafiken kan påverkas under onsdagsnatten och torsdagsmorgonen. Snö väntas övergå i regn med risk för underkylt regn som fryser på vägarna. Varningen gäller fram till klockan 06 på torsdag morgon i Västerbotten och 09 i Norrbotten. Det innefattar orter som Kalix, Luleå, Piteå, Robertsfors och Umeå. Förseningar eller inställda avgångar i kollektivtrafiken kan förekomma och SMHI uppmanar bilister, cyklister ",
-      "link": "https://www.sverigesradio.se/artikel/9345559",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T17:30:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Ethiopia-Eritrea clashes threaten full-scale war - Courthouse News",
-      "description": "Ethiopia-Eritrea clashes threaten full-scale war Courthouse News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOFF4TktrbGlFdkc1TVBRRDZpd0V0WG96T2pxZkFVZ2cyQ3VDdTBTOFBJc0RCaHAzX0VlNDdxYXBUY1R0SHVUQTBBX1gxc2V4ak9ZZmZWWVhHTTFVbDZOQTZOUzFBMS1XZDdmUlNaUXZoXzJtdTZ6bmc0RzhuY01HWWV6UVRIQQ?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-18T17:21:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ethiopia-Eritrea clashes threaten full-scale war - Courthouse News Service",
-      "description": "Ethiopia-Eritrea clashes threaten full-scale war Courthouse News Service",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb2JzMW13ejJHMllJaGxJS3FDUHJLaUJ6QnlBMmZtWHpKUXotelN6SlE1bmJXZGVmNDdyVXhocEMxZzNYdnZKLXdKTDhhOEdadkEwdnN3eHJmbl9DMHM5bi1xd29DNGJpb0xPSmFSOUJWTzR4b1hUR3psUXRGRGRTWTdtbUd2b0U?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-18T17:21:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "AI needs fresh data. Vector indexing is getting in the way",
-      "description": "It’s not a revelation to say AI workflows are changing enterprise infrastructure. What gets less attention, though, is how they’re The post AI needs fresh data. Vector indexing is getting in the way appeared first on The New Stack .",
-      "link": "https://thenewstack.io/gpu-accelerated-vector-indexing/",
-      "source": "The New Stack",
-      "category": "Tech Radar",
-      "published": "2026-11-18T17:11:35+00:00",
-      "impact": false
-    },
-    {
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "description": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "source": "Google AI Blog",
-      "category": "Tech Radar",
-      "published": "2026-11-18T17:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
-      "description": "Starting today, Amazon Relational Database Service (Amazon RDS) for MySQL supports MySQL minor version 8.4.13, the latest minor released by community MySQL. We recommend upgrading to the newer minor versions to accept fixes for Common Vulnerabilities and Exposures (CVEs) in prior versions of MySQL and to benefit from bug fixes, performance improvements, and new functionality added by the MySQL community. Learn more about the enhancements in RDS for MySQL 8.4.13 in the Amazon RDS user guide and M",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T17:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon RDS for MySQL now supports MySQL major version 9.7",
-      "description": "Starting today, Amazon RDS for MySQL supports MySQL major version 9.7, the latest Long-Term Support release from MySQL community. Amazon RDS for MySQL 9.7 launches with community MySQL 9.7.4. This launch introduces support for the Replication Applier Metrics component, JSON Duality Views, and Hypergraph Optimizer. The Replication Applier Metrics help you diagnose replication lag by adding two Performance Schema tables that report per-channel applier backlog, throughput, and wait statistics, alon",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T17:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon EKS Hybrid Nodes reduces price for large hosts",
-      "description": "Amazon Elastic Kubernetes Service (Amazon EKS) Hybrid Nodes now has lower pricing for large nodes, capping the billed vCPU per node at 32 vCPU, so you are no longer charged for vCPUs above that per node threshold. Amazon EKS Hybrid Nodes lets you use your existing on-premises and edge infrastructure as nodes in Amazon EKS clusters. You can now use your largest servers, including those with GPUs, with Amazon EKS Hybrid Nodes at lower cost. With this change, the Amazon EKS Hybrid Nodes cost of a l",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-hybrid-nodes-pricing-change/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T17:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon Cognito now supports point-in-time recovery",
-      "description": "Amazon Cognito now supports point-in-time recovery (PITR), so you can restore the user data in a user pool to an earlier time. Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and microservices. Previously, you had to build and maintain your own export and restore process, and restored users received new identifiers and had to reset their passwords. With PITR, you choose a recovery point, preview how many users, groups, multi-factor authentication (MFA) ",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T17:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi - PBS",
-      "description": "Trump plans to meet separately with Putin on his China trip in addition to their 3-way talks with Xi PBS",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQjRRRVBxb0V3cVlueF9QMkpVQUEwN3l3eUFWSjQzYnJ3ZHVoSjVYVFVOd042emZzU3ZCaFRNYy1FU3dkTU1VSEtwc0hTdi1JOWpzZW4wTmZkcjBlbWNnLXRCVFdPU2dJV2o5a0NXVVhicnllOVVMSkJTNjQ5RmhPRmthOWdCZ1FQWEtZYXlNNUM0eWpibzQ3UjRhc1FMNkhZVEt5aHA2aE9SbjVycGRaVEw4aEc1Tm5sQ1VSLXhrOW1FY3QycmJDWi0yeGlZazct0gHWAUFVX3lxTE1jamE5RVRJT2N5UE00RDA3Z2NLVGxVeEJVMmpVVTlvZ2ozd2lsMzNvZzJaT1JBbDExT0ZSWWxlTTZSdFpLdDNVaGtCQ3FDUG9kNk91ZEtPTVpFZ3NHSHZweU1TR2I1ZnJhU3B5dzhXWWt0Y3BjQy1fNGZ3WU15YnZaTk9nQTgtSVpYdGJNMEtZRWNVMXl0dlFlVjRUeEJEQ29KZXhZRzBGS3RBTHhOM3ZKbGJ4dXEyUkQ5QWx4QmJYOWhOVms4ZTZaMVluU0Uta1JncDU2T1E?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-18T16:57:45+00:00",
-      "impact": false
-    },
-    {
-      "title": "How Orkes ParticleDB turns an impressive demo into a remarkable application",
-      "description": "Building an AI agent that performs an impressive demonstration is one thing. Building one that can reliably process financial transactions, The post How Orkes ParticleDB turns an impressive demo into a remarkable application appeared first on The New Stack .",
-      "link": "https://thenewstack.io/orkes-particledb-agentic-database/",
-      "source": "The New Stack",
-      "category": "Tech Radar",
-      "published": "2026-11-18T16:54:44+00:00",
-      "impact": false
-    },
-    {
-      "title": "Flera partitoppar skippade omröstning – sitter i förhandlingar",
-      "description": "Flera tunga rödgröna politiker saknades vid onsdagens omröstning i riksdagen. Enligt SVT:s uppgifter är orsaken att flera av dem just nu sitter i förhandlingar om regeringsmakten. – Vi jobbar på, säger Daniel Helldén (MP).",
-      "link": "https://www.svt.se/nyheter/inrikes/flera-partitoppar-skippade-omrostning-sitter-i-forhandlingar",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-18T16:51:19+00:00",
-      "impact": false
-    },
-    {
-      "title": "Över 5 000 döda i ebola – brist på mat i Kongo-Kinshasa",
-      "description": "Antalet döda i det pågående ebolautbrottet i Kongo Kinshasa har nu passerat 5 000. Samtidigt har myndigheternas restriktioner för att förhindra spridningen av viruset fått allvarliga konsekvenser för den lokala matförsörjningen. Enligt FN hindras både jordbrukare och försäljare från att arbeta, något som fördjupar hungerkrisen. För att bromsa smittspridningen har resor mellan vissa byar förbjudits och fisket begränsats. Det försätter invånarna i ett svårt dilemma, att gå hungriga eller bryta mot",
-      "link": "https://www.sverigesradio.se/artikel/9345282",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T16:45:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Frihetsberövad man försökte rymma efter olycka på E20 - Göteborgs-Posten",
-      "description": "Frihetsberövad man försökte rymma efter olycka på E20 Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSUJfenV3WUUzNVlJU2JuaVNfSlF4RGtrVVR6YURuWVRrenAwM194NjZMS1VrN3U3TDdDYXprMDktT1U4WUYxc3J2dEtCUUZxalkzSFFLS3FpZ05EMFY5ZGVYN1JQZElZUC1vMGtqOFJ2ZWFlUXhFS1RHNm1BV1FJQkY3eXdfNEM5UUNsZy1TV1lUemlqVWNKcF9XQ2lsTVVORkJsamRPLUtQVUtXWS1SYXRGWkFyLVloaDU5M1dOU29IeVN4QWdEbw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T16:37:18+00:00",
-      "impact": true
-    },
-    {
-      "title": "Fler stoppar Ryssland från att tävla i ishockey-VM",
-      "description": "Även Tjeckien har nu meddelat att landet inte kommer utfärda visum till det ryska laget inför junior-VM för damer i Ostrava i januari. Men det är fortfarande oklart om ryssar kommer att få spela i herrarnas ishockey-VM i Tyskland nästa år. Hälften av deltagarländerna, däribland hockeynationen Tjeckien, har nu sagt att de inte kommer att spela mot Ryssland. Andrej och Dina, två hockeyföräldrar i Prag, ser olika på ryskt deltagande i hockey-VM.",
-      "link": "https://www.sverigesradio.se/artikel/9345596",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T16:27:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Swedish official loses job after adult-film past raises security concerns - Lehighvalleylive.com",
-      "description": "Swedish official loses job after adult-film past raises security concerns Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHRaVmlwQm9wa2txVHFZSVBucVRuUnJYdHZSWm53ZWMzUjZtYXcyWExWeHhNemRidWhaTmE0SU1sa2JGTy1LSWFETjI2YVI0VzVPcUFYX3pEcjFDQ09qYTdRN1JqZGhBNVFZT19KRVVTVEVNcjBpRjdPZlZYZ3J0NGFNVnZtVUpScl80TjZnLWlOWVdlMjhTai1SS2lnWUtpWnRfbkgySjZMWUJVUVdDOG1RQWdxbUgwSkdpRFhvY2NiaHNJTy10X093?oc=5",
-      "source": "Sweden Regional English",
-      "category": "Sweden",
-      "published": "2026-11-18T16:17:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Sverige tar inte fram nationell plan för fossilutfasning",
-      "description": "Minst tio länder har i dagarna presenterat nationella färdplaner för att fasa ut fossila bränslen, så kallade TAFF Roadmaps. Men Sverige kommer inte att göra det, säger klimatminister Romina Pourmokhtari. Enligt henne ligger Sverige före, med 23 planer för industribranscher inom ramen för Fossilfritt Sverige. Miljöpartiets EU-parlamentariker Pär Holmgren tycker inte att det räcker, utan vill att Sverige också presenterar en nationell genomförandeplan för utfasning av fossilt.",
-      "link": "https://www.sverigesradio.se/artikel/9345635",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T16:14:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "200 OK is dead as an AI agent health signal. Here’s what comes next.",
-      "description": "A customer asks whether they can swap unworn boots for a size 10. The agent replies, in under a second, The post 200 OK is dead as an AI agent health signal. Here’s what comes next. appeared first on The New Stack .",
-      "link": "https://thenewstack.io/silent-ai-agent-failures/",
-      "source": "The New Stack",
-      "category": "Tech Radar",
-      "published": "2026-11-18T16:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon CloudFront Functions now supports network calls",
-      "description": "Amazon CloudFront Functions can now make network calls and act on the response during a request. CloudFront Functions runs lightweight JavaScript at CloudFront edge locations to customize requests and responses. Previously, if your logic depended on data from another service, you had to use Lambda@Edge or move that logic to your origin. Now your functions can use real-time data to personalize, authenticate, or route requests at the edge, close to your viewers. With the new cf.fetch() method, you",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T16:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon RDS now supports fast storage volume initialization",
-      "description": "Amazon RDS now initializes storage volumes faster when you perform a point-in-time restore (PITR), create a read replica, or convert a Single-AZ instance to Multi-AZ. Each of these operations creates storage volumes from a snapshot, and the data blocks are downloaded from Amazon S3 before you can access them. With fast storage volume initialization, you get a fully performant DB instance in a predictable amount of time. Previously, the initialization rate varied with your workload and with which",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T16:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "EU: Ryssland kommer dubbla sina drönarattacker",
-      "description": "EU har lagt förslag om nytt lånestöd till Ukraina värt 45 miljarder euro. En stor del av de pengarna kommer gå till drönarförsvar som svar på de miljontals drönare som Ryssland attackerar Ukraina med. ”Ukraina uppskattar att Ryssland kommer använda 10 miljoner drönare i år och nästa år 20 miljoner drönare”, säger EUs försvarskommissionär Andrius Kubilius.",
-      "link": "https://www.sverigesradio.se/artikel/9345306",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T15:56:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Domprosten Stefan Hiller får två miljoner i fallskärm - Göteborgs-Posten",
-      "description": "Domprosten Stefan Hiller får två miljoner i fallskärm Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTJYWlFTRHBYUkV1SWtib2VtbTZjUFRLYkZWd2gzekM3TmFuMWdRM2VMb1JsQl9YNUE4RzZWZ1ZVdE5ROElsTEFjcU9VTlBCQ3p0X0x0Y0IxekRIN2ZjM0ZtVGpoSWp5Rmpsb3pyRk8xYTJEUEVwMzhGZkNuYzdMU3d1Mno3WWhrNGRsVTh4eTdILW5MSU5xcjg4VFNxQXcySUNhYWQxX3R3Y3ZJWXB4Y1JQcjlNdHdiMklPSkdLalU1RHdf?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T15:55:51+00:00",
-      "impact": false
-    },
-    {
-      "title": "Årets julklapp är ett ”startnummer till motionslopp” – så kan du komma igång",
-      "description": "Årets julklapp ”startnumret” är ingen högoddsare med tanke på senaste årens löpmani. Men uppskattas den av alla? Vad gör man om en sportig släkting slagit in flera mil i ett paket och man inte har tränat?",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/hjalp-jag-har-fatt-en-startplats-i-julklapp-vad-tusan-gor-jag-nu",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-18T15:19:28+00:00",
-      "impact": true
-    },
-    {
-      "title": "Försenade tåg efter kommunikationsproblem hos Trafikverket",
-      "description": "Problem med Trafikverkets kommunikationssystem har orsakat förseningar i tågtrafiken över hela landet. Problemen är lösta men förseningarna väntas bestå resten av dygnet.",
-      "link": "https://www.svt.se/nyheter/inrikes/forsenade-tag-efter-telefoniproblem-hos-trafikverket",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-18T15:19:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "OECD: Stöd till Ukraina kan tränga undan bistånd till de mest utsatta",
-      "description": "OECD riktar kritik mot delar av Sveriges biståndspolitik. I en ny granskning varnar organisationen för att det ökade stödet till Ukraina kan tränga undan bistånd till världens mest utsatta länder. OECD pekar också på risker med mer villkorat bistånd och att Sverige saknar plan för att hålla FN:s biståndsmål.",
-      "link": "https://www.sverigesradio.se/artikel/9345433",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T15:18:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Tågförseningar i hela landet – telefonstrul hos Trafikverket",
-      "description": "Tåg i hela Sverige är försenade på grund av problem med Trafikverkets telefonisystem. Det bekräftar Pär Aronsson, presskommunikatör på Trafikverket. Under onsdagen har systemet inte funkat som det ska, och därför har tågen avvaktat med att köra. Det har orsakat förseningar i Göteborg och resten av landet. Strax före 17 var problemen med telefonin åtgärdade överallt förutom i norra av landet. Enligt Trafikverket kommer efterföljande förseningar förekomma men lätta allt eftersom under kvällen.",
-      "link": "https://www.sverigesradio.se/artikel/9345569",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T15:12:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Kriminalvårdens transport i olycka på E20 – intagen man försökte fly",
-      "description": "Under onsdagen var ett av kriminalvårdens fordon inblandat i en olycka när det passerade på E20 genom Partille kommun. I samband med händelsen försökte en intagen man fly. – Det blev en brottningsmatch där, berättar Jens Andersson, polisens presstalesperson.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/kriminalvardens-transport-i-olycka-pa-e20-intagen-man-forsokte-fly",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-18T15:11:55+00:00",
-      "impact": true
-    },
-    {
-      "title": "Skjutsgruppen event gör det enklare att resa till evenemang - Vårt Göteborg",
-      "description": "Skjutsgruppen event gör det enklare att resa till evenemang Vårt Göteborg",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3k2bTlYejZaWGNDX1UyWW1xZU0tbWZlc1lLaVJXSFcteWdxaG5CdzdTTTJQYndpYnZIVEtxYTNvRzBsYXJsd0pPOEZlNS1uamRrNmExTno3cmxfR182dHVvZW5Fc1h4Q1lBc3hVNlVxbjZna0hoNHkyaVRwWTlxWmZPZHZlOU1heFdyMGwwWQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T15:02:58+00:00",
-      "impact": false
-    },
-    {
-      "title": "S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way",
-      "description": "At Red Canary, storing large amounts of small data is a big deal. Their Linux Endpoint Detection and Response (EDR) The post S3 vs. ScyllaDB for tiny telemetry: What Red Canary learned the hard way appeared first on The New Stack .",
-      "link": "https://thenewstack.io/scylladb-s3-tiny-telemetry/",
-      "source": "The New Stack",
-      "category": "Tech Radar",
-      "published": "2026-11-18T15:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS Clean Rooms supports writing PySpark job results to intermediate tables",
-      "description": "AWS Clean Rooms now supports intermediate tables for PySpark jobs , offering increased flexibility for organizations running complex, multi-step analytical workflows with their partners. With this launch, customers can write the results of a PySpark job to an intermediate table for reuse in subsequent analyses. For example, a measurement vendor can perform feature engineering with PySpark, then use those results as input into an ML model training job to identify new high-value customers to infor",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-clean-rooms-pyspark-intermediate-table",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T15:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS Lambda now supports customer-managed runtimes, giving platform teams centralized control over runtime contents and updates",
-      "description": "AWS Lambda now supports customer-managed runtimes for Lambda Event Functions (formerly Lambda functions). Customer-managed runtimes are a standalone resource type that fully decouples runtime management from function deployment. Platform teams gain centralized control over the runtime contents, updates, access, and lifecycle, including the ability to push updates to shared components without per-function redeployments. Application teams consume the runtime from their functions in the same way as",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-customer-managed-runtimes/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-18T15:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Kvinna dog efter hundattack i Göteborg – flickvännen döms till fängelse - QX.se",
-      "description": "Kvinna dog efter hundattack i Göteborg – flickvännen döms till fängelse QX.se",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdlFFTWNFYkdxYzNXVEROaW1acE15TmJYdmtVb011ckYwa0kwUEhEVENRUGFlMk82UTVaUTZpOHlUX29RZDdWRi1ZN0htaEVqbVBGUkxXSGthQmlZSnRlLWRMTVBHVUNIMWJEQTl3R25yYmM0ejFFdkRDbks4aUFHWHdZUkJhY1A4WlNvRHR3MzFRd0pWYVdDMXNCSGN0MVpWb1VWZDQtYlZwQQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T14:58:58+00:00",
-      "impact": false
-    },
-    {
-      "title": "Läkaren tipsar: Så återfuktar du huden i vinter",
-      "description": "Spruckna händer, narig och torr hud kommer som ett brev på posten när temperaturen sjunker. Så hur gör man för att återfukta huden och slippa bli torr? Läkaren Tracy Ghattas, även känd som Doktor Tracy, berättar i P4 Extra vilka delar av kroppen som kan behöva lite extra uppmärksamhet när kylan kommer. ”Händerna är jätteutsatta”, säger hon. Och Tracy Ghattas slår också hål på en myt om läppbalsam.",
-      "link": "https://www.sverigesradio.se/artikel/9345517",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T14:58:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Betongplattor ska ge mer liv i Göta älv - Vårt Göteborg",
-      "description": "Betongplattor ska ge mer liv i Göta älv Vårt Göteborg",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCcFRXbnJTQy0wSElNTFY0ZV8yYV81ajlqVW5ON3Zfd3pPSGNsalBGV2VJbldyeUMxRUhUaUF6LW5CMzBWb29mczlCaVVPSDE0SWJfU2Y5dFhHaTBSNDdwNHdWeERjTmdUMEFMbDdaaVlfSzB0?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-18T14:57:56+00:00",
-      "impact": false
-    },
-    {
-      "title": "WATCH: Mullin defends Trump administration's messaging on spate of outages, flight to football game during ground stop - PBS",
-      "description": "WATCH: Mullin defends Trump administration's messaging on spate of outages, flight to football game during ground stop PBS",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjNZZXVHNkFET2k1OUN6Q19iTFFzdkJrdVVPSlU0WG1PLWZxSllGWUpIRHNvTnVZTnlZcEZYUVloN28xRmdXMUg0Q3ByVlV4TVpOQWt6ckVud3R5Z2xDR0ZCNVJPc0VwRElGcVFwcjcwYXpfNm05TmRaczJlUzYya0xWeUJGa0x6Ulc2VkRWU2VYajFRcjJvY2hfMXhqd0NvUFFMcDc1S20xZllaODNSb0huMi1hTUludDNMdk14OTQ0YlBJMzVQMDUzVkvSAdIBQVVfeXFMTjNQR29NRWFiRUNrRkthaHN3OUtEeWpiUTZldWVtMUdWUmNtZjZOMUl0aGtkSVBXSlhMcFpBU01EZkd3aFp2dzBiNFpTbDhIeUdseU8xRUpjTDgxcmlmN0ROWmFBaVJfWlJ1SHp4YXBBTVMycDdSSFlZQno2YzFtNGhrbE5TMW1MWnlDNnd5VThfTkk3SXJ0bkxOdFJvQmdGSENoZGJXNjd5WDJvVVJxeHBqRnJiVkN1TVV2V1Q0SEY1MzVmY09Xb2ZWYXNxdnZERTNB?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-18T14:56:22+00:00",
-      "impact": false
-    },
-    {
-      "title": "Minst tre misstänkta i mutbrottsutredning i Kungälv – kommunen ser över rutiner",
-      "description": "Minst tre personer är misstänkta i den mutbrottsutredning gällande Kungälv som lett till att vd:n på ett kommunalt bolag sagts upp. Bolaget har också granskats tidigare – och nu ser kommunen över sina rutiner.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/minst-tre-misstankta-i-mutbrottsutredning-i-kungalv-kommunen-ser-over-rutiner",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-18T14:51:37+00:00",
-      "impact": false
-    },
-    {
-      "title": "Israel har inlett en ny offensiv i Gaza",
-      "description": "Israel har inlett en ny offensiv i Gaza, rapporterar AFP. En AFP-journalist på plats uppger att israeliska stridsvagnar har intagit positioner öster om flyktinglägret Nuseirat. ”IDF inledde tidigare i dag en precisionsoperation inne i Gazaremsan, väster om den gula linjen, för att undanröja ett hot mot IDF-soldater som opererar i Gazaremsan”, uppger en talesperson.",
-      "link": "https://www.sverigesradio.se/artikel/9345521",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-18T14:51:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Här hälsas Trump och Putin välkomna till Kina",
-      "description": "Just nu träffas världens mäktigaste män i kinesiska Shenzhen. Men exakt vad Trump, Putin och mötesvärden Xi Jinping ska prata om första gången de ses tillsammans är oklart.",
-      "link": "https://www.svt.se/nyheter/utrikes/har-halsas-trump-och-putin-valkomna-till-kina",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-18T14:45:03+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lyko hackat – kundernas personuppgifter har stulits",
-      "description": "Upp emot 50 000 Lyko-kunder kan ha fått sina personuppgifter stulna i ett dataintrång. Nu varnar företaget berörda kunder för risken för bedrägeriförsök.",
-      "link": "https://www.svt.se/nyheter/inrikes/lyko-hackat-kundernas-personuppgifter-har-stulits",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-18T14:36:44+00:00",
-      "impact": false
-    },
-    {
-      "title": "Senegal Book 2027 AFCON Ticket as Mozambique Stun Ethiopia, Angola Move Top of Group B - pan african visions",
-      "description": "Senegal Book 2027 AFCON Ticket as Mozambique Stun Ethiopia, Angola Move Top of Group B pan african visions",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTGZqc2NEMmpLcUk1dHpraDY3VElsVjRtSjNQTFpTNWlLWFFJNTE0UXV0VWVock4zenAxOVVleDdDZDZ1eGRyTlhWZEdrenBIVUVkU0NxSFRCdlpBM3N2UTVxSVB3R19RZ2w5ekY3ek9BNmRsTllTZzZwM2pvNXh5TURxeXhVc1ExZktodHM3UER2a1E3ejQ0ZEFmeGExc20wQVlVRURtYkIyWnJaY2dRRGRSeElQVXl4ZU00LS0taDFCUQ?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-18T14:34:07+00:00",
-      "impact": false
     }
   ],
-  "feedErrors": [
-    "Google News Ale: HTTPError: HTTP Error 429: Too Many Requests",
-    "Google News Sverige: HTTPError: HTTP Error 429: Too Many Requests",
-    "Sweden Regional: HTTPError: HTTP Error 429: Too Many Requests",
-    "Sweden English: HTTPError: HTTP Error 429: Too Many Requests",
-    "World English: HTTPError: HTTP Error 429: Too Many Requests"
-  ]
+  "feedErrors": []
 }
