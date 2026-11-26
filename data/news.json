@@ -1,8 +1,566 @@
 {
-  "updatedAt": "2026-11-25T15:40:44.273320+00:00",
+  "updatedAt": "2026-11-26T00:26:43.479870+00:00",
   "articles": [
     {
-      "title": "Uppror växer inom C – mobiliserar för ny väg",
+      "title": "Irländska kyrkfönster smyckas om till minne av aidsoffer",
+      "description": "I Dublin har kyrkfönster smyckats med röda band till minne av dem som dog under den världsomfattande aidsepidemin på 80-talet. Enligt den irländska public service-kanalen RTÉ avtäcktes installationen i St Teresa's kyrka i samband med kyrkans 100-årsjubileum och inför Världsaidsdagen den 1 december. Kyrkan har tidigare uppmärksammat stora samhällshändelser genom liknande installationer, bland annat genom att skildra covid-19-pandemins påverkan på samhället.",
+      "link": "https://www.sverigesradio.se/artikel/9350340",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-26T00:17:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sjödrama utanför Island – 17 personer hamnade i vattnet",
+      "description": "Utanför Islands nordöstra kust pågick under gårdagskvällen ett sjödrama efter att ett fiskefartyg sjunkit och samtliga 17 i besättningen hamnat i vattnet. Strax efter midnatt rapporterade isländska medier att besättningsmedlemmarna har lyfts ombord en räddningshelikopter och är på väg till fastlandet. Det finns i nuläget inga uppgifter om deras tillstånd.",
+      "link": "https://www.sverigesradio.se/artikel/9350341",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-26T00:11:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Fartyg i sjönöd utanför Island",
+      "description": "Ett fiskefartyg med en besättning på 17 personer hamnade under onsdagseftermiddagen i sjönöd utanför Islands kust, rapporterar det isländska public service-bolaget Rúv.",
+      "link": "https://www.svt.se/nyheter/utrikes/fartyg-i-sjonod-utanfor-island",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-25T23:49:48+00:00",
+      "impact": false
+    },
+    {
+      "title": "Minst 31 döda efter olycka i Egypten",
+      "description": "I Egypten har minst 31 personer dött och 15 skadats efter att en tankbil som transporterade bränsle fattade eld, rapporterar AFP. Händelsen inträffade på en motorväg i Kairo, där fordonet välte och exploderade, enligt det egyptiska hälsoministeriet.",
+      "link": "https://www.sverigesradio.se/artikel/9350339",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T23:23:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Minst 31 döda efter olycka i Egypten",
+      "description": "En tankbil kraschade på en motorväg i utkanten av Kairo på onsdagen. Det ledde till en stor brand där minst 31 personer omkommit, rapporter nyhetsbyrån AP.",
+      "link": "https://www.svt.se/nyheter/utrikes/minst-31-doda-efter-olycka-i-egypten",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-25T23:03:56+00:00",
+      "impact": true
+    },
+    {
+      "title": "C-företrädare öppnar för Kristersson: ”Har nått vägs ände”",
+      "description": "41 lokala centerpartister vill att C nu prövar Ulf Kristerssons regeringsalternativ. I en debattartikel i Expressen skriver de att S-spåret kört fast på grund av Vänsterpartiet. ”På grund av Vänsterpartiets inställning och ovilja att genomföra konkreta förhandlingar så har det här alternativet helt enkelt nått vägs ände”, säger Fredrik Jarl, kommunstyrelsens ordförande i Gagnef. Debattartikeln kommer bara en dag efter att 35 andra centerpartister skrev på Aftonbladet Debatt att en borgerlig rege",
+      "link": "https://www.sverigesradio.se/artikel/9350332",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T22:36:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Utbildningschefen: Så slår ett slopat sommarlov mot eleverna",
+      "description": "Färre möjligheter till utbildning och sämre chanser att få jobb och praktik – det kan bli resultatet när Skolinspektionen kräver att sommarlovet stoppas på yrkesutbildningar i vuxenskolan. Jonas Svensson som är utbildningschef för vuxenutbildningen i Malmö stad tycker beslutet är väl hårt. Han följer ärendet i Göteborg , där Skolinspektionen utfärdat ett vite på tre miljoner om inte sommaruppehållet slopas på fyra yrkesutbildningar. Claes Börjesson, utredare och jurist på Skolinspektionen, säger",
+      "link": "https://www.sverigesradio.se/artikel/9335236",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T22:15:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "What Trump should do next about Iran - Atlantic Council",
+      "description": "What Trump should do next about Iran Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVW9kOUVYOU9ZUkVFaEM1OTV2WGVfeVhYNTFFOVg4QkJycEZrV0w3VmVHSUNPSW14alU0V3dKVTBUSGdCUEthdmo2MnR4b3ItdW1adUYteTRQQXl5bmZSdFJlUUlrNkxuNHhsdGtaT1hJSHNZTU1VRU9EclZjV2h2bE9GS1NlQXM?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-25T21:56:08+00:00",
+      "impact": false
+    },
+    {
+      "title": "Tidal förbjuder AI-genererad musik – miljoner låtar tas bort",
+      "description": "Norsk-amerikanska streamingtjänsten Tidal förbjuder helt AI-genererad musik från den 9 december. Enligt musikbranschforskaren Daniel Johansson vill bolaget stå på artisternas sida. Johansson ser ändå en framtid för AI i musikskapandet och drar paralleller till instrument som förändrat musikhistorien.",
+      "link": "https://www.sverigesradio.se/artikel/9350144",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T21:27:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Starlink kan vara mål för ryskt kärnvapen i rymden",
+      "description": "Ryssland har kärnvapen i rymden sedan flera år tillbaka, enligt tyska medier. En kärnvapenexplosion i rymden kan slå ut satelliter – exempelvis Starlink. Tysklands regering tar uppgifterna på allvar, medan Kreml avfärdar dem.",
+      "link": "https://www.svt.se/nyheter/utrikes/starlink-kan-vara-mal-for-ryskt-karnvapen-i-rymden",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-25T21:20:20+00:00",
+      "impact": false
+    },
+    {
+      "title": "Elon Musks Space X får skjuta upp en miljon satelliter",
+      "description": "Amerikanska myndigheter ger företaget Space X klartecken att skjuta upp upp till en miljon satelliter som ska användas för datacenter i rymden. Det är första gången ett sådant tillstånd ges i USA, enligt kommunikationsmyndigheten FCC. Space X-chefen Elon Musk välkomnar beslutet och skriver på plattformen X att satsningen blir en stor tillgång för USA och resten av världen.",
+      "link": "https://www.sverigesradio.se/artikel/9350317",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T21:15:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Manifestation mot våld mot kvinnor i Göteborg - Göteborgs-Posten",
+      "description": "Manifestation mot våld mot kvinnor i Göteborg Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTZld05CRzRjZGRlSGw0LWhGSkdsUmsyR3lTc3dyV1pVSVZuLU5SV3RpX3BsNkpWYmpFTkNfNzh4aUJOcFZZNklaZWxMMnBKeG9XR1YtRHVEWHZXWlNPQUFpZ0F0ZEhLRHk3NHdZWFdYTlh0aUdndlR6SWJNQjNKdnI4YjBVLURZOFR1cWdqMkVwcGV5OGZJcGtwLVZXZlZXaHNJeFZOSlpfWmpxNklLRnFtSzRyV1pFcGJVTVJ2c3JxdGhZZmNkMGlaN1RfelZESVE?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T21:00:35+00:00",
+      "impact": false
+    },
+    {
+      "title": "Orange day i Göteborg: Därför lyser byggnader och torg - Sveriges Radio",
+      "description": "Orange day i Göteborg: Därför lyser byggnader och torg Sveriges Radio",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZTQUhqcFNnUmIzVWJDOGhVNWQtaEpBUlhnZnpKWHEtOEZ5VG5PQWJiUmtieTBJTkxYRTNrVVBJQkNDa3o2MmlpMGZQSUVCQVhGMElwczdTTHp5ZHVLVXpVQnd0Y1ZHbUFDMlE5dC0tYVZIY0NwWDc0R184RVJGRWltemRTQU1Nb2J4alA1UzNfcmpK?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T20:57:44+00:00",
+      "impact": false
+    },
+    {
+      "title": "Kuppen på S-högkvarteret: ”Svik inte era väljare”",
+      "description": "Den som gick förbi S högkvarter på Sveavägen 68 i Stockholm under onsdagen möttes av budskapet ”Svik inte era väljare Centerpartiet” på några av byggnadens rutor, efter beskeden att Centerpartiet nu förhandlar högerut. Lokalerna där budskapet är uppklistrat tillhör SSU, enligt Aftonbladet . Efter efter valdagen sattes lappar upp på Sveavägen 68. Då var budskapet: ”Tidö åker ut. Åker ut. Tidö åker ut. Shalalalalalala”.",
+      "link": "https://www.sverigesradio.se/artikel/9350314",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T20:56:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Elon Musk får grönt ljus för datacenter i rymden",
+      "description": "Rymdbolaget SpaceX har kommit ett steg närmare att skjuta upp datacenter i rymden, rapporterar flera medier. Projektet har fått grönt ljus från USA:s kommunikationsmyndighet, FCC.",
+      "link": "https://www.svt.se/nyheter/utrikes/elon-musk-far-gront-ljus-for-datacenter-i-rymden",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-25T20:46:18+00:00",
+      "impact": false
+    },
+    {
+      "title": "Mystiska brittiskregistrerade Range Rovers i Göteborg - Göteborgs-Posten",
+      "description": "Mystiska brittiskregistrerade Range Rovers i Göteborg Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWt1QWVJLU5mbnhFREFHMkgwcXRLNlJpeGp6b1diTUVIZTJVRkpsUUFENDJPR0x3S2RtQTdHSUFGNFpOYThUM3RXRzlzdXpYQUVPNWNVTDVzOU1JS0xyb3N3R1l3S242UzlNaGhhUzRDZDNndTU4VGJ0MmNvMlN1SUtKS2lDQUdTSFJEaU1EcWpNZmlwYU1xZVppX29EcnpzUHF5NG9ZVlJscEZaNlR6R09heVJqbFh6QkZfaVF6WFEyRm5wMzRpRXp3?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T20:17:29+00:00",
+      "impact": false
+    },
+    {
+      "title": "Comedian Juston McKinney has fans across New England—and even in Ethiopia - newscentermaine.com",
+      "description": "Comedian Juston McKinney has fans across New England—and even in Ethiopia newscentermaine.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMFBoRTRWUU9nQ0F2bGdTbVNvZ1N4QjZHbFFrbEV2RHBFTjhobmRRdnl5QjNrYUZJdGF1NmRLZ1JXSUtZMFNZR0ZQaG9iTDRhUUk1RzZRUEZrcGsyRVpEbXE4VEdhNGVHQUVrMktXOGVqV0FwMUlJSDVzLXM3MzJaM0xodWswZ2RTdTJubFJoOVhWMUhvbkllc1BINDQ3YzAwUGNSVWg0VEI0X3BKaGFKbGpMckdEYkQ3aDhwcHZuX1BWbnFDX0FNYmlQT1Z6ZEJJSXhzdnEwcHBYRHRhNVl0cmRZRlBxU1dDaXkyYlZiTUdCNlFOU3VN?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T20:13:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Fortsatt riskfyllt att föda barn i Gaza: ”Äventyrar liv och hälsa”",
+      "description": "En ny rapport från Amnesty visar att förlossningsvården i Gaza fortsätter att vara bristfällig även efter vapenvilan i oktober 2025. De flesta sjukhus är förstörda eller bara delvis i bruk, enligt FN:s organ för sexuell och reproduktiv hälsa. Blockader gör att viktiga mediciner och sjukvårdsmaterial inte kommer in i Gaza. Situationen äventyrar kvinnors och nyfödda barns liv och hälsa, säger Katarina Bergehed som är sakkunnig på svenska Amnesty.",
+      "link": "https://www.sverigesradio.se/artikel/9350075",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T20:12:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Efter årsskiftet chockhöjs britternas värmekostnader",
+      "description": "Priset på el och naturgas kommer att öka kraftigt för de flesta brittiska hushåll, som en följd av kriget i Mellanöstern. Storbritannien har ett tak för energi-räkningar som slås fast kvartalsvis. Därför kan man redan nu se att kostnaderna kommer öka med 26 procent efter årsskiftet för mer än 20 miljoner hushåll. Labourregeringen har lovat ett engångsbidrag på 100 pund per hushåll, men många britter oroar sig ändå över hur dom ska ha råd att värma upp sina hem ordentligt efter jul.",
+      "link": "https://www.sverigesradio.se/artikel/9350058",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T20:11:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Comedian Juston McKinney has fans across New England—and even in Ethiopia - newscentermaine.com",
+      "description": "Comedian Juston McKinney has fans across New England—and even in Ethiopia newscentermaine.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX21CaEFLVXo1NndiVXBqVjJWaFF0WEV5ZmI5UUx3U0RFaHUwMVdMQjA4MGFFeC0tRWNPeUhVN0VGTy1jVzJqWlJKc21HWUdUcm1YLUVXNDhmdEMxZEVIakQ4UUFpWmItM1dWOWQ2NHRqeUgwMU5hVHdaeWdET1RHWjFjYk1wc2J4dFNZckhXdmpBZG5DRHdMc3NyakJCTlZ5b0VKY1RMMU5HcERoejcwSDhxaC1OcHVCLTduMXU1NGNKZGFIdTFrZUhxazlOODRhdGtZdGFyc2hDYjVEVVZtd0Njdk15c3ZDYnZkU0ltUmVuZVRhRTBoLQ?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T20:10:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+      "description": "Today, AWS announces a developer preview of a new extension for orchestrating Lambda MicroVMs with Lambda durable functions . The extension adds durable operations for running work on MicroVMs and managing their lifecycle. You can use the new operations to build software factories, security scanners, or orchestrate CI/CD jobs that run untrusted or agent-generated code in isolated sandboxes. With Lambda durable functions, you can build resilient, multi-step applications and AI workflows that run ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T20:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon CloudWatch Omni now integrates with PagerDuty",
+      "description": "Amazon CloudWatch Omni alerts can now automatically create PagerDuty incidents, so notifications flow directly into your existing incident management workflows. This reduces mean time to resolution (MTTR) by eliminating manual notification steps and ensuring consistent incident workflows. CloudWatch Omni is a fully managed AI-powered observability experience built on open standards that unifies monitoring for AI agents, applications, and infrastructure. PagerDuty is an incident management platfo",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T20:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Diakonen: Absurt att hemlösa ska återvandra – fixa lagen nu",
+      "description": "Göteborgs stadsmission ser ett växande problem med att hemlösa avregistreras som försvunna. För att få tillgång till välfärdssystemet igen måste de återvandra till Sverige. Em Jakobsson, diakon på Göteborgs stadsmission, är en av många hos ideella organisationer och trossamfund som får axla ansvaret att hjälpa hemlösa som hamnat i en så kallad återvandringsprocess. Ändringen i folkbokföringslagen 2022 ger orimliga och absurda följder för de mest utsatta, menar han. ”Vill man stå för ett humant, ",
+      "link": "https://www.sverigesradio.se/artikel/9348917",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T19:55:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling",
+      "description": "As coding agents take on longer-running engineering tasks, Anthropic is examining how models behave when their execution environments fail to The post Anthropic set more than 1,700 traps for Claude — what it found is both reassuring and unsettling appeared first on The New Stack .",
+      "link": "https://thenewstack.io/anthropic-siren-sandbox-escape/",
+      "source": "The New Stack",
+      "category": "Tech Radar",
+      "published": "2026-11-25T19:45:18+00:00",
+      "impact": false
+    },
+    {
+      "title": "CVE-2026-134070 - Improper input sanitization in the AWS Config remediation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3",
+      "description": "Bulletin ID: 2026-203-AWS Publication Date: 11/25/2026 11:30 AM PST Description: AWS Systems Manager Automation provides AWS-managed runbooks that customers can run directly or through integrations such as AWS Config remediation. Session Manager, a capability of AWS Systems Manager, stores each account's regional session preferences in the SSM-SessionManagerRunShell document. We identified CVE-2026-134070, where improper input validation in the AWS-managed AWS Systems Manager Automation runbook ",
+      "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/",
+      "source": "AWS Security",
+      "category": "Tech Radar",
+      "published": "2026-11-25T19:41:20+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia’s Household Consumption Growth Trails GDP Expansion as Real Incomes Remain Under Pressure - Birr Metrics",
+      "description": "Ethiopia’s Household Consumption Growth Trails GDP Expansion as Real Incomes Remain Under Pressure Birr Metrics",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZkJvMDZSYjlsbHV0MHdWZmNGSFU0UHVfZUxVOS1JUXRSZk12aHVUTDRsRFlraUNaUnZZaThWS015TWlRejQtbTd5U2hqTm4tVVdsRW0zZkNfWTZEbzhXdjl6alVqdlh3M1V0c0lHMFpzcTE1cFZqLTFIOGVZc21QOGpibjJrMVlUUm90aml5eHQwYW02M1ZNVW9qdkN2NGl2cldsZ19mNW5fTzAyTzBjMVRwNzk4ZzFfRE5jRUlYbw?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-25T19:40:37+00:00",
+      "impact": false
+    },
+    {
+      "title": "Nyheter från dagen: 25 november",
+      "description": "Här är ett urval av händelserna i Västsverige under onsdagen den 25 november.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/nyheter-fran-dagen-25-november-jgo558",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-25T19:30:21+00:00",
+      "impact": false
+    },
+    {
+      "title": "Utvisningar av vissa unga vuxna pausas – SD kritiserar",
+      "description": "Efter att politikerna aviserat en ny stopplag pausar Migrationsverket vissa utvisningar av unga vuxna. Sverigedemokraternas migrationspolitiska talesperson Jessika Stegrud är kritisk. ”Det är för vitt och brett och för många oklarheter. Man får känslan att det ska landa i en allmän amnesti”, säger Stegrud.",
+      "link": "https://www.sverigesradio.se/artikel/9350089",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T19:30:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Hyllad verksamhet tvingas lämna Änggården - Göteborgs-Posten",
+      "description": "Hyllad verksamhet tvingas lämna Änggården Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMW1UNkFTSjZmQkdHMWQ0UTJCRFBlckt4ZFVXVERFdGlhVGt2OFZBY1FKQ194Zm8zOWhDck1pNk1HMW5RUHpPOFpHQU9HTHB5OUxLZHBIT09hWmNNdU5lUE9ZUy1ILVRrWWxRQUJmV0VmaUdSYWZZN3B2ejdGdXZXVm5LZXRMelFUbGM2ckYzZkxNSUNoN0xYM3ZCWFBHZm9nalVzWDM2X3IwOEFzN0hyUGxIR3BSUk83Q3BDa3drb2VCSDY4VFE?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T19:26:29+00:00",
+      "impact": false
+    },
+    {
+      "title": "Polen inför flygförbudzon efter flera kränkningar",
+      "description": "Polen kommer till slutet av december eller början av januari införa en flygförbudszon nära gränsen till Ukraina, uppger landets biträdande försvarsminister Cezary Tomczyk, enligt AFP. Beskedet kommer efter flera kränkningar av polskt luftrum, som Polen anklagar Ryssland för att ligga bakom. Enligt AFP är syftet med zonen att polska styrkor snabbt ska kunna identifiera ryska militära flygplan och vid behov skjuta ner dem.",
+      "link": "https://www.sverigesradio.se/artikel/9350281",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T19:26:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
+      "description": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp.",
+      "link": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-25T19:19:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Four ways Ethiopia can ensure COP32 is not like COP31 - Climate Home News",
+      "description": "Four ways Ethiopia can ensure COP32 is not like COP31 Climate Home News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYk1kVXRYTGRrSTZXYnpBSDJyRlNsVzM0UEI0LUhMMjdvajlpX1Z5SHduMzZnS3I3WlJkZUotZmVLQ0dueHB2eDJScDZXYXlfV1llX3ZKb2FsSVlOVGNiWjJ1NzQya19UaFBvVmFVUjNzVDdDRWxuSFRHNFNxdWdzdm1WYl9WV2lfRUNHdTQtODU2N2FrVDI4ejVsTm5DNWp2?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T19:13:01+00:00",
+      "impact": false
+    },
+    {
+      "title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region - Reuters",
+      "description": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGlKWlRMLUx5SDRZY3FLU3VLM19RX2JqVko0T3dBakVEVHVldFVtQ21MbGo2WEEzUXU1clEteTVvWWh3bkdkQzZPX3RSemt5eWlBVjJQZy1RdjNjNnlpT19ZZUd0ekFDc3JuVHZKVWJfX2VtTlBzU3ZTTHlBX3dkV1NNVXA4NmJMVlRGX3FidmJsa0VacW5fQ2E1ZHBZTnJrN2pVc1BkUk1aZVliX2lMdHJBcUFaYlh5WmY3a05aSVZYN1hKemFtTGFUMG0?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-25T18:58:04+00:00",
+      "impact": false
+    },
+    {
+      "title": "OpenAI claims to have solved a 57-year-old math problem at the heart of AI computation",
+      "description": "OpenAI claims to have solved a problem that has occupied theoretical computer scientists since 1969. In a preprint published Tuesday The post OpenAI claims to have solved a 57-year-old math problem at the heart of AI computation appeared first on The New Stack .",
+      "link": "https://thenewstack.io/openai-matrix-multiplication-exponent/",
+      "source": "The New Stack",
+      "category": "Tech Radar",
+      "published": "2026-11-25T18:14:05+00:00",
+      "impact": false
+    },
+    {
+      "title": "Ethiopia’s Anti-Corruption Commission Names Sectors Most Prone to Graft, Including Immigration and Customs, Reports - Borkena",
+      "description": "Ethiopia’s Anti-Corruption Commission Names Sectors Most Prone to Graft, Including Immigration and Customs, Reports Borkena",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYm1DSmk5VS1MUnppZVNpNzV3Z0N3WGJvamxLZWlDMXZrNnBVdV9wVnpJZmlCdVJCUkVEc2g5YzJiekpGeW03V3FZUWdUSXBWMTFiUC1wX0JiZ2hUSm9DbHJUazc1U2g0Y0Qyb1NjNUVaQXdrYTBqeEVhLWpjUkQ0V00xaDhSUlpVSldCMnRmbFEwa0FDWDNaNWZVVXdSNmVnTGhGVUlxQkd2dWU1MXVnN21HWkpyVXhnNHdLOUpnbktPZENNUF85amFkZmNCdw?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-25T18:10:31+00:00",
+      "impact": false
+    },
+    {
+      "title": "Göteborg vilar på pålar från Bollebygd - Borås Tidning",
+      "description": "Göteborg vilar på pålar från Bollebygd Borås Tidning",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5URlVwbFdCb2FGVXUtbHFIWEFjSHlTQjc3cjNMd1BXTjFNelFLZ3VIYXEyN1ZXOEYwbHhxUkJHUnctQXBmcldFVjFQcnRzNHVvWG9jaHNWRDlfRjJ4UFphamFoNGV5MUxIclFoSmtiYTExX0lWckE?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T18:03:47+00:00",
+      "impact": false
+    },
+    {
+      "title": "Migranter i Spanien oroas inför valframgångar för Vox",
+      "description": "Kalilou Sylla Sakhé Leiva kom till Spanien efter att 1997 hoppat över stängslet till den spanska exklaven Melilla. Han har sen dess rotat sig i Barcelona och har under alla år arbetat och betalat skatt. Länge ville han behålla sitt senegalesiska medborgarskap – men nu har han blivit spansk medborgare och röstar för första gången i ett nationellt val. Samtidigt väntas högernationalistiska Vox gå framåt i helgens val, något som oroar många migranter i Spanien – däribland Kalilou.",
+      "link": "https://www.sverigesradio.se/artikel/9349987",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T18:03:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Förtrollande Heilung till Scandinavium - Via TT",
+      "description": "Förtrollande Heilung till Scandinavium Via TT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXJrXzltVERJc1V3dDJIaUdLVVJVWU82Z3NwcmNKMXNTWjlRX1M5ZnZIVk9RS0ttM0dmZGZvdFRFWDFnNW1WU2Z2Q0ozM183OUlsZi00eGh5TElxTkIwY1l6TE4zdkRsXzBPUmlwSlpORXZtc3VwLTl2R3FTbWhiVWpRV3FzXzl3cm9say05R0dUYWVrS0syN25MbVM4R2Qyem1yelFzUlM5WG1y?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T18:01:23+00:00",
+      "impact": false
+    },
+    {
+      "title": "Brattåsmålet i hovrätten – professor varnar för övertro på dna",
+      "description": "Rättegången i hovrätten om dubbelmordet i Brattås utanför Härnösand för drygt 20 år sedan inleds på onsdagen. Dna-bevisningen är återigen i fokus, sen nya dna-fynd gjorts på material från brottsplatsen. Men även ett korrekt analyserat dna-fynd kan leda en domstol till felaktiga slutsatser om vem som begått ett brott, varnar Minna Gräns, professor i allmän rättslära vid Uppsala universitet.",
+      "link": "https://www.sverigesradio.se/artikel/9350092",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T18:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "En fjärde person misstänkt i muthärvan i Kungälv",
+      "description": "En fjärde person misstänks i muthärvan i Kungälv. Misstanken gäller medhjälp till givande av muta, enligt åklagaren Johan Lindmark. Polisen slog för två veckor sedan till mot bland annat kommunhuset och det kommunala bolaget Bokab. Bland de misstänkta finns Bokabs vd, som nu har sparkats. Även en företagare som har haft affärssamarbete med bolaget finns bland de misstänkta.",
+      "link": "https://www.sverigesradio.se/artikel/9349930",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T17:58:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Statsvetaren om C:s val: ”Kommer krävas förhandlingar med SD”",
+      "description": "Centerpartiets ledning verkar ha ett mål med att framställa att partiets vägval nu står mellan en regering ledd av Kristersson (M) eller extraval, det säger Jan Teorell professor i statsvetenskap vid Stockholms universitet. ”Det ska ju vara ett argument att gå mot Kristersson eftersom extraval är ännu värre”, säger han. Om en borgerlig fyrpartiregering ska få igenom sin budget kommer det att krävas förhandlingar med Sverigedemokraterna, enligt statsvetaren.",
+      "link": "https://www.sverigesradio.se/artikel/9350231",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T17:54:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Frederiksen får hård kritik efter uttalande om ”folkutbyte”",
+      "description": "Danmarks statsminister Mette Frederiksen är i blåsväder. I en intervju har hon sagt att hon ”inte är en anhängare av ett stort folkutbyte”. Nu riskerar hennes regering att falla då ett av stödpartierna hotar med att dra tillbaka sitt stöd.",
+      "link": "https://www.svt.se/nyheter/utrikes/frederiksen-far-hard-kritik-efter-uttalande-om-folkutbyte",
+      "source": "SVT Utrikes",
+      "category": "World",
+      "published": "2026-11-25T17:44:32+00:00",
+      "impact": false
+    },
+    {
+      "title": "S-profilerna varnar: Djup kris om Andersson misslyckas",
+      "description": "Om Magdalena Andersson misslyckas med att bilda regering riskerar Socialdemokraterna att kastas in i en djup kris. Det menar S-profilerna Daniel Suhonen och Lars Stjernkvist. – Att vinna ett val och sen tappa det. Det är ju nästan häpnadsväckande, säger Suhonen.",
+      "link": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-25T17:30:46+00:00",
+      "impact": false
+    },
+    {
+      "title": "JetBrains’ latest Mellum coding model uses 45% fewer tokens. It got there by not thinking.",
+      "description": "JetBrains has launched a new variant of its open source coding model, one designed to tackle quick code edits, tool The post JetBrains’ latest Mellum coding model uses 45% fewer tokens. It got there by not thinking. appeared first on The New Stack .",
+      "link": "https://thenewstack.io/jetbrains-mellum2-1-instruct-coding-model/",
+      "source": "The New Stack",
+      "category": "Tech Radar",
+      "published": "2026-11-25T17:23:47+00:00",
+      "impact": false
+    },
+    {
+      "title": "Kristersson: Samtal pågår mellan gamla allianspartierna",
+      "description": "Det pågår samtal mellan M, KD, C och L, bekräftade Ulf Kristersson, moderat statsminister i övergångsregeringen under onsdagen: ”Ja, att det sker möten och diskussioner och samtal, till och med kanske förhandlingar.” Den tidigare finansministern Anders Borg anser att ett organiserat budgetsamarbete mellan de forna alliansvännerna och SD är ett villkor för en stark regering, skriver han på sociala medier. Men det håller inte Ulf Kristersson med om: ”Jag ser inte framför mig något sådant fast sama",
+      "link": "https://www.sverigesradio.se/artikel/9349950",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T17:18:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+      "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in the Israel (Tel Aviv) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance compared to AWS Graviton3-based instances. Amazon EC2 M8g instances are built for general-purpose workloads, such as application servers, microservices, gaming servers, midsize data stores, and caching fleets. M8g instances are up to 40% faster for databases, up to 30% faster for web",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T17:15:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Anna fick hjälp av cyklande skräddare – räddade tre plagg",
+      "description": "Anna Brygård i Haga i Göteborg fick tre kappor fixade av en cyklande skräddare och är nöjd med hjälpen. Projektet Hemlagat ska minska plastavfallet och dämpa köphetsen under Black Week genom att laga kläder medelst cyklande skräddare. Hela projektet kostar Göteborgs stad drygt 300 000 kronor, där ersättning till skräddarna ingår. Magdalena Nilsson cyklar med symaskinen i en låda och ser inga gränser för vad hon kan laga – med ett undantag: brustna hjärtan.",
+      "link": "https://www.sverigesradio.se/artikel/9350215",
+      "source": "P4 Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T17:10:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+      "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9gd instances are available in the Asia Pacific (Seoul) region. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-designed CPUs, which deliver the best price performance for a broad range of workloads running on Amazon EC2. M9gd instances deliver up to 25% better compute performance than AWS Graviton4-based M8gd instances. They are up to 30% faster for databases, up to 35% faster for web applications",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T17:10:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "CVE-2026-136267 - Improper neutralization of special elements used in an OS command in Kiro Web",
+      "description": "Bulletin ID: 2026-202-AWS Publication Date: 11/25/2026 09:00 AM PST Description: Kiro Web is a cloud-hosted, AI-powered integrated development environment where subscribers use AI agents to work on software development tasks in the browser. We are aware of CVE-2026-136267, an issue in Kiro Web where tool-call markup inside content an agent session read, such as a repository file or a web page, could be repeated by certain models and run as a command in the subscriber's hosted development environ",
+      "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-202-aws/",
+      "source": "AWS Security",
+      "category": "Tech Radar",
+      "published": "2026-11-25T17:08:36+00:00",
+      "impact": false
+    },
+    {
+      "title": "Charlotte har bestående men – två år efter olyckan",
+      "description": "Antalet elsparkcykelolyckor fortsätter att öka. Tre personer dog och nära 3 000 skadades första halvåret 2026 – en ökning med 16 procent jämfört med samma period förra året, enligt nya siffror från Transportstyrelsen. Charlotte Olsson i Ängelholm skadade sig svårt – trots att hon hade hjälm på sig. ”Jag fick en illa käkfraktur, jag är av med sex tänder, har titan i nedre delen av käken, och bestående men resten av livet som jag aldrig blir av med”, säger hon.",
+      "link": "https://www.sverigesradio.se/artikel/9349968",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T17:05:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Ethiopia’s Strategic Recalibration Concurrent with Uganda’s Withdrawal from Somalia - horn review",
+      "description": "Ethiopia’s Strategic Recalibration Concurrent with Uganda’s Withdrawal from Somalia horn review",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0xmREpVNGxaVmFpNmdGZlVxNUdrWUgwa0VBekdRWDJzdXZidHVfbUxkenY3OGtLMDJjaUNGSk81d2ttbUI1dnNqcDQyM3BkNEY0VzEyeWNNQTFZLTl0a2hadHhSQmdNLXFwN1hUbW1qc2lLNnNIcV9DeUI0cld6ZE5wV2EwYUNrSUc2d1BoWi1SWV9sUGZlVzdaZE5oWjAwbjk0dHBUeXh1UTY4U2FEUmc1M1NBVkU?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T16:59:18+00:00",
+      "impact": false
+    },
+    {
+      "title": "Koka dricksvattnet i Antnäs, Alvik, Ale och Ersnäs - Krisinformation.se",
+      "description": "Koka dricksvattnet i Antnäs, Alvik, Ale och Ersnäs Krisinformation.se",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT3k0SWROdFBoS29nTEdQTXFoOUNZQ1BqQ1pTdWNXbi1OblRIMmtDRUE2N2FlUHNTN3Q2STlJQWhIQ1RPdFI1OGZZVWgxVFp3MVA5TGdJb25DZVU0M3FuS1Z3eHVSWWlYOENzcFlTVHZaaGk1Q0xPMUo1LVBLNEhMR2tVZU80c1JZdUliNXFOc21fNFJqTkNRbHBR?oc=5",
+      "source": "Google News Ale",
+      "category": "Local",
+      "published": "2026-11-25T16:58:54+00:00",
+      "impact": false
+    },
+    {
+      "title": "El Salvador Finally Reaps Economic Gains From Gang Crackdown - Bloomberg",
+      "description": "El Salvador Finally Reaps Economic Gains From Gang Crackdown Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFZKaGZkMFM3b2JScDdCTG5RY2M0NFJ3RnEySGt0R1Z3MnZVeUY3WTdsT0lKdy1NTFlWRU42aWJSMU5yenVzSW9jbE1VX1o3c3hycVZsdWVWb2NJRW91Y3Y2aXUzeTFqcFpPUEE1ZGRIN0dCN1dobm44ZG9aa3c4M211ZDhkMXgtYWdoT2ZDaVdrV0hQZHFqU1J1SmZnNVY2RmNITzFwMzNvVWxTLVU2Tg?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-25T16:55:27+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon EC2 C9gd instances now available in additional regions",
+      "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9gd instances are available in the Europe (Ireland, Spain) regions. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-designed CPUs, which deliver the best price performance for a broad range of workloads running on Amazon EC2. C9gd instances deliver up to 25% better compute performance than AWS Graviton4-based C8gd instances. They are up to 30% faster for databases, up to 35% faster for web applicat",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T16:49:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon EC2 C9g instances are now available in additional regions",
+      "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g instances are available in the Asia Pacific (Sydney), Europe (Ireland, Spain), and South America (São Paulo) regions. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-designed CPUs, which deliver the best price performance for a broad range of workloads running on Amazon EC2. C9g instances deliver up to 25% better compute performance than AWS Graviton4-based C8g instances. They are up to 30% fast",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T16:17:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon EC2 M9g instances now available in additional regions",
+      "description": "Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g instances, powered by AWS Graviton5 processors, are available in US West (N. California), Canada (Central), South America (São Paulo), and Asia Pacific (Seoul) regions. AWS Graviton5 processors are the fifth generation of custom-designed CPUs, delivering the best price performance for memory-intensive workloads running on Amazon EC2. M9g instances deliver up to 25% better performance compared to AWS Graviton4-based M8g instances. They",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T16:06:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Art of play in the age of AI",
+      "description": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog .",
+      "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "source": "GitHub Blog",
+      "category": "Tech Radar",
+      "published": "2026-11-25T16:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Oro i Iran för att kriget ska bryta ut igen: ”Folk är trötta”",
+      "description": "Attackerna mellan USA och Iran har trappats upp. Kuwait och Bahrain har skjutit ned iranska drönare och USA attackerat den iranska ön Qeshm vid Hormuzsundet. Vid gränsen till Irak säger iranier att de är rädda att kriget ska bryta ut igen. Samtidigt märks missnöjet över den ekonomiska krisen på Irans gator. Under november har protester hållits i flera städer mot inflationen och de höga levnadskostnaderna. Nu bunkrar människor mat och mediciner när oron växer för nya attacker.",
+      "link": "https://www.sverigesradio.se/artikel/9349275",
+      "source": "Ekot",
+      "category": "Sweden",
+      "published": "2026-11-25T15:50:00+00:00",
+      "impact": true
+    },
+    {
+      "title": "Väljare: C har skött regeringsbildningen sämst",
+      "description": "En ny undersökning från Verian visar att väljarna anser att Centerpartiet är det parti som har agerat sämst under regeringsbildningen. – Det är ingen som hade önskat att det skulle vara så här svårt, säger Martin Ådahl, Centerpartiets ekonomiskpolitiska talesperson, till Politikbyrån.",
+      "link": "https://www.svt.se/nyheter/inrikes/valjarna-c-har-skott-regeringsbildningen-samst",
+      "source": "SVT Sverige",
+      "category": "Sweden",
+      "published": "2026-11-25T15:49:54+00:00",
+      "impact": false
+    },
+    {
+      "title": "Larm om explosion i Landala i Göteborg",
+      "description": "En misstänkt explosion har inträffat i Landala i Göteborg. Enligt räddningstjänsten ska det röra sig om rök från en container på fjärde våningen i ett hus. – Det är lite oklart om något brinner eller har smällt, säger Fredrik Svedemyr, polisens presstalesperson.",
+      "link": "https://www.svt.se/nyheter/lokalt/vast/larm-om-explosion-i-landala-i-goteborg",
+      "source": "SVT Väst",
+      "category": "Local",
+      "published": "2026-11-25T15:45:48+00:00",
+      "impact": false
+    },
+    {
+      "title": "Larm om explosion i Landala i Göteborg - SVT Nyheter",
+      "description": "Larm om explosion i Landala i Göteborg SVT Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRiR2FZNHpZS1JfUHJaVkVTaDVnRm5GSG5YdE1qX3diUWlwZGZ0SkFraDA1Y2kyVkZOV2QxdTNLcU1jeEltZHgxMXRCOTJucnEyNF8wblBydTdVM3ZQQ19Hd3ZkclNyT1dzdndjRjFqNWZuQnlWLTRZaWZsaVN2OEVITQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T15:45:48+00:00",
+      "impact": false
+    },
+    {
+      "title": "Delorean slår upp dörrarna i Göteborg - Resume.se",
+      "description": "Delorean slår upp dörrarna i Göteborg Resume.se",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHk3UFdqSF83SzRqNFJTUTBIejN0NHpKdDh0X0xyTk1LTk51dnE1SkQzRERaMHc5dWQ5TkhEUm1pZXJSTnNBTlNvQjA0NHgwZ3N6WWRkVG9LQ0FhNjh6Vm9lbGYybzFsS1dKQTdrYm1KRkFnVHA4TlBuUjBMYTFhTw?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T15:32:59+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sprickan växer inom C – mobiliserar för ny väg",
       "description": "Inom Centerpartiet gror missnöjet och ilskan gentemot partiledningen efter gårdagens stormöte. Flera källor som Ekot pratat med beskriver det som att ledningen nu vill få partiet att välja mellan extraval eller en högerregering. Som en motreaktion till partiledningens svartvita syn, som flera källor beskriver det som, har delar av partiet börjat mobilisera för en tredje väg.",
       "link": "https://www.sverigesradio.se/artikel/9350038",
       "source": "Ekot",
@@ -20,12 +578,12 @@
       "impact": false
     },
     {
-      "title": "Ethiopia’s Strategic Recalibration Concurrent with Uganda’s Withdrawal from Somalia - horn review",
-      "description": "Ethiopia’s Strategic Recalibration Concurrent with Uganda’s Withdrawal from Somalia horn review",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0xmREpVNGxaVmFpNmdGZlVxNUdrWUgwa0VBekdRWDJzdXZidHVfbUxkenY3OGtLMDJjaUNGSk81d2ttbUI1dnNqcDQyM3BkNEY0VzEyeWNNQTFZLTl0a2hadHhSQmdNLXFwN1hUbW1qc2lLNnNIcV9DeUI0cld6ZE5wV2EwYUNrSUc2d1BoWi1SWV9sUGZlVzdaZE5oWjAwbjk0dHBUeXh1UTY4U2FEUmc1M1NBVkU?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-25T15:03:01+00:00",
+      "title": "China’s conspicuous absence in Asian energy security plans - Atlantic Council",
+      "description": "China’s conspicuous absence in Asian energy security plans Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlM2OURFb1lELVZxWTNzdzdFc2tLNHhQbklpUWNyVmwtd2pva0tqbGVOSVhmLXJIUXRTaXpxSUphc21BTVhZZmg0RDJnMUt0NkUwck5hZDdjVU1ETkI1X0l6TmpzZE5FbDNmaDBES2JGRDFRbWV3amFNTW0wajlLMFhuYnBsTzZ2d0xidjBjb08xZXNsc3NGODY2T19YcG1Lc3d2ZENMdVIzSGpDM3c?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-25T15:04:00+00:00",
       "impact": false
     },
     {
@@ -38,12 +596,21 @@
       "impact": false
     },
     {
-      "title": "Orange day i Göteborg: Därför lyser byggnader och torg - Sveriges Radio",
-      "description": "Orange day i Göteborg: Därför lyser byggnader och torg Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjZTQUhqcFNnUmIzVWJDOGhVNWQtaEpBUlhnZnpKWHEtOEZ5VG5PQWJiUmtieTBJTkxYRTNrVVBJQkNDa3o2MmlpMGZQSUVCQVhGMElwczdTTHp5ZHVLVXpVQnd0Y1ZHbUFDMlE5dC0tYVZIY0NwWDc0R184RVJGRWltemRTQU1Nb2J4alA1UzNfcmpK?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-25T15:00:18+00:00",
+      "title": "How to choose the next safe step in application modernization",
+      "description": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog .",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
+      "category": "Tech Radar",
+      "published": "2026-11-25T15:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Proximity, Precedent, and Pragmatism in Ethiopia’s Sudan Mediation Bid - horn review",
+      "description": "Proximity, Precedent, and Pragmatism in Ethiopia’s Sudan Mediation Bid horn review",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQmVmN09YVkd4R3NEUS1RaFA5dlpEVDRyTllUWkRtcGJFeHppVjdLNlhCdlBORmhHNVdvZW1rXzZMS3oxMVowdkxQZHlQSXRLYTZZUEhCa3E2VTJKMmdhRHNfTmxDLUFLczF1bDZRUEdZM2tQRHgxSEh1aUxSVXNtbm5faHUtSVBtVDNLYlBXcGNOc2k5bndLSHUzNTdGUjYyaXc5cA?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T14:57:15+00:00",
       "impact": false
     },
     {
@@ -52,7 +619,7 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNDk1cDBTLWNDV1JSM3RHZmZYWmhISjRMYkx5M1drY01ZR3NiRzctb1U1X1hNemcxQlhuRWVWcEU2VVVGS2Yyci11RnBtdUZXYnpHNkpMdEFVVUFoTzFDMUVDaXhOOWV0SXB3bmxYSi1sTmFndEc1WnVzMl9ja01sSXFMTmxmS3RiYmVrTG1Wc3RGUkZRTkFCVXl3LThLeGJRNU9LdUVobU9IZ296NnB4ek5XREVuNThGb1ZCNkVCSFZUYVljN0F4OUtXOGJlb3pUTTNsSUln?oc=5",
       "source": "World English",
       "category": "World",
-      "published": "2026-11-25T14:48:45+00:00",
+      "published": "2026-11-25T14:48:54+00:00",
       "impact": false
     },
     {
@@ -65,8 +632,8 @@
       "impact": false
     },
     {
-      "title": "Uppgifter: Trump inför nya tullar",
-      "description": "USA kommer att lansera tullar på upp till 20 procent mot EU, och mot Kina kan det bli upp till 40 procents tullar, enligt Bloomberg. Det senaste dygnet har det framkommit uppgifter om att USA:s president Donald Trump ska lansera ett nytt tullpaket efter att högsta domstolen tidigare underkänt tidigare tullar. På onsdagen väntas det komma ett officiellt besked, men Bloomberg skriver att det är omfattande åtgärder som slår globalt.",
+      "title": "Trump vill införa nya tullar: ”Det är ett viktigt vapen för honom”",
+      "description": "Donald Trump vill höja tullarna mot EU och Kina. Förslaget skulle innebära tullar upp mot 20 procent mot EU medan exempelvis Kina skulle få den högsta nivån upp mot 40 procent. ”Det är tydligt att Trump inte är beredd att släppa tullfrågan. Tullarna är ett viktigt vapen för honom och en del av hans politiska verksamhet”, säger USA-korrespondent Ginna Lindberg. Möjligheten att få igenom förslaget kommer att utmanas både juridiskt och politiskt, menar hon. ”Förslaget kommer få mothugg”.",
       "link": "https://www.sverigesradio.se/artikel/9350020",
       "source": "Ekot",
       "category": "Sweden",
@@ -80,6 +647,15 @@
       "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-25T14:28:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Bil brinner i parkeringshus i Gårda i Göteborg - Göteborgs-Posten",
+      "description": "Bil brinner i parkeringshus i Gårda i Göteborg Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclJPZzNkSkhnMEJHVEFBaE8tbHZwZmtnT2xJUmRiVVdmUWJTeTFPdEg4R3VnSWRiVkdnRGp4czA0NEZPa2xDcXlRMTJqcUw2bmhoTmlfUUpkdVZLSk12TFJYbmo4SDlYQUl2WGVFc3hLTlBRMkV3d1RPZDBoenhIMnJ6YlhycUdyemhjYWc0RWhycDd1SC1FWElGdkZ0TGpncDRLMlM1TQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T14:20:50+00:00",
       "impact": false
     },
     {
@@ -99,15 +675,6 @@
       "category": "Local",
       "published": "2026-11-25T14:16:34+00:00",
       "impact": true
-    },
-    {
-      "title": "Bil brinner i parkeringshus i Gårda i Göteborg - Göteborgs-Posten",
-      "description": "Bil brinner i parkeringshus i Gårda i Göteborg Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclJPZzNkSkhnMEJHVEFBaE8tbHZwZmtnT2xJUmRiVVdmUWJTeTFPdEg4R3VnSWRiVkdnRGp4czA0NEZPa2xDcXlRMTJqcUw2bmhoTmlfUUpkdVZLSk12TFJYbmo4SDlYQUl2WGVFc3hLTlBRMkV3d1RPZDBoenhIMnJ6YlhycUdyemhjYWc0RWhycDd1SC1FWElGdkZ0TGpncDRLMlM1TQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-25T14:10:56+00:00",
-      "impact": false
     },
     {
       "title": "Indikator Opinion: Därför ökar stödet för MP och V",
@@ -146,15 +713,6 @@
       "impact": true
     },
     {
-      "title": "Four ways Ethiopia can ensure COP32 is not like COP31 - Climate Home News",
-      "description": "Four ways Ethiopia can ensure COP32 is not like COP31 Climate Home News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYk1kVXRYTGRrSTZXYnpBSDJyRlNsVzM0UEI0LUhMMjdvajlpX1Z5SHduMzZnS3I3WlJkZUotZmVLQ0dueHB2eDJScDZXYXlfV1llX3ZKb2FsSVlOVGNiWjJ1NzQya19UaFBvVmFVUjNzVDdDRWxuSFRHNFNxdWdzdm1WYl9WV2lfRUNHdTQtODU2N2FrVDI4ejVsTm5DNWp2?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-25T13:33:53+00:00",
-      "impact": false
-    },
-    {
       "title": "Ethiopia’s Anti-Corruption Commission Names Most Corruption-Prone Public Institutions and Sectors - ethiopiatoday.net",
       "description": "Ethiopia’s Anti-Corruption Commission Names Most Corruption-Prone Public Institutions and Sectors ethiopiatoday.net",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcVlDejRoQktjQmFLZ0pZZ0E1R3ppUmVaSE9DZ3hVMnpIWHN0WXFGY2QtMm53b2ZhZ2xIOTl5NWp6TjJQcmVuY20wNzk2b2NYZkg5MW9aanAwYWlOM3JvdVZZcERLVG5OYTVBcnRRb3dySWNWTkVYTzhIbjNIb2F6aUd0UjZreFBlejdXZGxtVFkwZDd3LU8wS1ptM2R6Qy1zZGZtNWVnY0hkTGZqNVZzNjJyV0Q4a1ZmcElEeHpveEo?oc=5",
@@ -171,6 +729,15 @@
       "category": "Local",
       "published": "2026-11-25T12:47:18+00:00",
       "impact": true
+    },
+    {
+      "title": "European-Backed Trade Programme Targets Ethiopia’s Export Routes Through Djibouti and Somalia - Birr Metrics",
+      "description": "European-Backed Trade Programme Targets Ethiopia’s Export Routes Through Djibouti and Somalia Birr Metrics",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTWdkdE54ekFUZjVreU9mUUNpX01vczhmaTRtb1hkZ2pWdGRpYkFJTUotWlo5bGt2SDhoRzFVZzZNM2RMVDFJbl9lZTQzTk4tYkZtc09uTkZGNC1KWlVrUnZEY2Y5VDZ2WUVMUXlLZGdETVlHcDhkUkowdVFLXzZ5QmZkZWFLZFo5N3RIdHJvVGNnaGpVeUl6Tkw5Z2pVWDItb2FuLWdQVmwxOEFibDZrenpOdUZ3RDFy?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-25T12:40:32+00:00",
+      "impact": false
     },
     {
       "title": "🚀 The story behind “Drone 2”: My KubeCon + CloudNativeCon North America 2026 keynote",
@@ -250,7 +817,7 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUVpYYmR4LWt4OXpmUEoxRFc0QmNka2ZNWXNHRDl2SDItdS1JWTM3ODRBZFF3MHo0bjY1bkJvSlFLQjdsV2FxSW1OZWFYalBBTVAzVVNpd1E1dlZuUzRyZGJudWZHdlI5M2plTWlwWVp1NVJNUGU2bTl3VHlGbjNqNFhfQllLd1BVb2kzTXhOZU14VktpTkF2UE8zallHR1NEbEF6c2hvaGxzcnJNUEd2RFRZZnFxTVE?oc=5",
       "source": "Sweden English",
       "category": "Sweden",
-      "published": "2026-11-25T11:33:15+00:00",
+      "published": "2026-11-25T11:29:51+00:00",
       "impact": false
     },
     {
@@ -281,6 +848,15 @@
       "impact": false
     },
     {
+      "title": "Ethiopian Exporters Gain Access to Digital Certification Network Spanning Nearly 110 Countries - Birr Metrics",
+      "description": "Ethiopian Exporters Gain Access to Digital Certification Network Spanning Nearly 110 Countries Birr Metrics",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWm9GTmNxdkdDVlc5T3I4Q19neGFQS3hyNGtNZTJ0VUJXdTZIclVtZDMyam1IUGRrRmxKb1V0aU91QUYxZXkwWEVTLVptTnZ6b21wVWVYUFNxU1l4UjdRa2pyVEV5cklzZzdUSE1XYzZGc2tIU3ZlUkRKck1aQU92VTBEeTFaOWRpTW9iYjk0bFJUY1NoaHdFQXpNcWxpS1loSGpnZ01YU2VqTm1VRG0ydGV4RVNJZ0FyODNR?oc=5",
+      "source": "Ethiopia Amharic",
+      "category": "Ethiopia",
+      "published": "2026-11-25T11:10:29+00:00",
+      "impact": false
+    },
+    {
       "title": "Så fick Centern en vågmästarroll i regeringsbildningen",
       "description": "Centerpartiet gick till val på att hålla Sverigedemokraterna och Vänsterpartiet borta från regeringsmakten. Löftet har gett Centerpartiet en nyckelroll i regeringskampen. Efter över 70 dagar är det fortfarande osäkert vilken väg partiet kommer välja.",
       "link": "https://www.sverigesradio.se/artikel/9349498",
@@ -290,6 +866,24 @@
       "impact": true
     },
     {
+      "title": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray - Oskaloosa Herald",
+      "description": "Amnesty calls for independent war crimes probe into Ethiopian shelling in Tigray Oskaloosa Herald",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUG1fUGg4U19uX1pxaTlpX3lvR2thMXhNWVk5VVlNVXpDaGtidF9PMzZxbjViZVAtYWN0TkxJem5ySWh5NUlIVzBkenJEdWtPclpONFJuVHdXU2NKbFlwY3VXZlQ3SmhHMTVZbFZOVjlkUkJPN25zTDJEcHVEVG0wc2JjV2dqX2FIUDlINTc4cTdHT25NVHluenlKbWtkdHRTX2hTeXNpU3VYTXdvQ0l6eVR2UlQ1anZQVE5hTGFnYnpja29wcWpBSDA3UkJ1TlVKenJLX3lodzZlcVJ4TjNhODNCR2JhUXFFdnZjanZCV1dNRm1iWkF1TFZNZGRNSTBVRzNvOGp3?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T11:01:17+00:00",
+      "impact": false
+    },
+    {
+      "title": "Sirius gulddröm fyller krogarna – platserna snart slut - UNT",
+      "description": "Sirius gulddröm fyller krogarna – platserna snart slut UNT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkQzYk82V19CQmwxOUxvUlR1UnBnVV9xMTNNbC1uZkMxM21xcHpoajU5MS1abURFMTRraXBMcWZzcVZMcC1CMUgzSGhVa1VaaUJRUjFoYjZScWdMSF9mVElFSW85dHVCMVI2Rm1kRUJSdU1ETEhuaTBZcGJHbDJsSlIzUHI3Nk40Zi1qUVp6b0pESXJNS2pjeU16c296VEdaRTA0?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T11:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Hemlösa registreras som försvunna – Skatteverket agerar",
       "description": "Hemlösa registreras som försvunna och hamnar utanför det svenska välfärdssystemet. Nu agerar Skatteverket. Utan folkbokföring påverkas möjligheten till ekonomiskt bistånd och planerad sjukvård. Förhoppningen är att en informationsfolder till ideella organisationer, föreningar och trossamfund ska hjälpa. ”Vi väljer att göra den här insatsen för att hemlösa i en målgrupp som tyvärr kommer i kläm på grund av den nya lagstiftningen”, säger Annica Cronsjö, samordnare på Skatteverket.",
       "link": "https://www.sverigesradio.se/artikel/9348060",
@@ -297,6 +891,15 @@
       "category": "Local",
       "published": "2026-11-25T10:57:00+00:00",
       "impact": true
+    },
+    {
+      "title": "The world's largest oat milk producer has joined an unusual climate journalism campaign - The Washington Post",
+      "description": "The world's largest oat milk producer has joined an unusual climate journalism campaign The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXNCOHpQTC1qYU1ueTYzVnZFcDkwMzBoRDlQUjF1Xy1ZZE1SSklDSF9LOWpiaVlvZERzOFNnaFhJTVc2Q2tiV2JlMm1LQWxrVV9rWWRUMm9yR3VMVS1DbEVFUTZWejFwWGg0WDBxbGJWWm9mbXV6MU1feUxTRFQtaWxobndHdENZNjByZ3pUazNnbVlKYkh0VjVQaWNxSWZGRTZRQU9Id2NUcU9NZjlCdE5CbUtiWUVwT2ZnU2w1QmdpWmxmT3EyYUo4cTM4LXFmNHFF?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-25T10:51:51+00:00",
+      "impact": false
     },
     {
       "title": "Ungerns premiärminister besökte Ukraina – för första gången på 11 år",
@@ -314,15 +917,6 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-25T10:42:41+00:00",
-      "impact": false
-    },
-    {
-      "title": "The world's largest oat milk producer has joined an unusual climate journalism campaign - The Washington Post",
-      "description": "The world's largest oat milk producer has joined an unusual climate journalism campaign The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYXNCOHpQTC1qYU1ueTYzVnZFcDkwMzBoRDlQUjF1Xy1ZZE1SSklDSF9LOWpiaVlvZERzOFNnaFhJTVc2Q2tiV2JlMm1LQWxrVV9rWWRUMm9yR3VMVS1DbEVFUTZWejFwWGg0WDBxbGJWWm9mbXV6MU1feUxTRFQtaWxobndHdENZNjByZ3pUazNnbVlKYkh0VjVQaWNxSWZGRTZRQU9Id2NUcU9NZjlCdE5CbUtiWUVwT2ZnU2w1QmdpWmxmT3EyYUo4cTM4LXFmNHFF?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-25T10:30:49+00:00",
       "impact": false
     },
     {
@@ -390,7 +984,7 @@
     },
     {
       "title": "Finansman från Västsverige åtalas för grov våldtäkt i Bohuslän",
-      "description": "En finansman från Sverige åtalas mot sitt nekande för bland annat grov våldtäkt efter att ha drogat två kvinnor och våldtagit den ena. Brotten ska ha ägt rum sommaren och hösten 2024 i ett sommarhus i Bohuslän. ”För båda kvinnorna är det första gången de träffar honom som han utsätter dem för brott” skriver åklagaren i ett pressmeddelande.",
+      "description": "En västsvensk finansman åtalas mot sitt nekande för bland annat grov våldtäkt efter att ha drogat två kvinnor och våldtagit den ena. Brotten ska ha ägt rum sommaren och hösten 2024 i ett sommarhus i Bohuslän. ”För båda kvinnorna är det första gången de träffar honom som han utsätter dem för brott” skriver åklagaren i ett pressmeddelande.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/finansman-atalas-for-grov-valdtakt-i-bohuslan",
       "source": "SVT Väst",
       "category": "Local",
@@ -443,12 +1037,30 @@
       "impact": false
     },
     {
+      "title": "Sudan rejects Ethiopia’s offer to host peace talks on 'neutrality' grounds - TRT Afrika",
+      "description": "Sudan rejects Ethiopia’s offer to host peace talks on 'neutrality' grounds TRT Afrika",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NMlZPUk1OZk91UXRrUUV1ZGNWNVF5cjBSMjl1WWRTMHV1VjM4R3ZwZFhxRE1zNENXa3lKdngzYzdNRDRjWXE3VU5reENDa1NNVVBXTk5BVlVqRDhWY1lMTFMwVTA?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T08:59:03+00:00",
+      "impact": false
+    },
+    {
       "title": "Efter dataintrång: Utreds om läckan påverkar Borås färdtjänst och skolskjuts",
       "description": "Efter det dataintrång som upptäckts hos företaget Cabonline utreds nu om uppgifter om färdtjänst- och skolskjutsresor i Borås kan ha läckt.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/dataintrang-i-boras-paverkar-fardtjanst-och-skolskjuts",
       "source": "SVT Väst",
       "category": "Local",
       "published": "2026-11-25T08:57:03+00:00",
+      "impact": false
+    },
+    {
+      "title": "Volvokrisen sprider sig: Göteborgsbolag varslar - Göteborgs-Posten",
+      "description": "Volvokrisen sprider sig: Göteborgsbolag varslar Göteborgs-Posten",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSFo5ZzN3ODNOa056Rlc1R3ZPUTJoS3VybGxDZmQ4endfYlBqTWwyRGdPTmVBTGdreVQ5ZWhNQ1hGV05EclFBTTRmVndjdl9qeENtTTlnbWF5NktrbmpZQTVOakgzODhYVXVNU0pYa3RRSllpcTUwYmtqVW9TM3N1ajdoQTNCM2tjRUxUVUtuQndFOUVzR05YMGZPN0NMenZVcXgwZThJemwweS0xaGhuY2l6VXh4VlhFSUFuWEo2T1RoYUstVXR0bExR?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-25T08:56:23+00:00",
       "impact": false
     },
     {
@@ -494,6 +1106,33 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-25T08:12:23+00:00",
+      "impact": false
+    },
+    {
+      "title": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
+      "description": "Amazon Transcribe Turbo, our next-generation speech-to-text model, is now in public preview in US East (Ohio) for batch and streaming. Turbo improves accuracy, supports custom vocabulary, and formats numbers, dates, currency, phone numbers and addresses following each locale's conventions. Streaming: English, Portuguese, French, Italian, German and Spanish supported. Word Error Rate (WER) drops ~14% relative in English and 11% relative in the other languages versus the current production model, ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T08:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action",
+      "description": "AWS IoT Core can now send traffic to HTTPS endpoints within a dedicated, published IPv6 address range. This launch enables you to configure your HTTPS endpoints to accept requests only from AWS IoT Core and block all other traffic, thereby reducing your endpoint's exposure to public internet. AWS IoT Core is a fully managed service that securely connects IoT devices at scale to the AWS cloud and routes IoT device data to AWS and third-party services. AWS IoT Core's HTTP rule action delivers IoT ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T08:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "AWS IoT Core quotas and usage are now visible in AWS Service Quotas console",
+      "description": "AWS IoT Core now publishes its most used service quotas and your current usage against the quotas in AWS Service Quotas console , improving observability and monitoring of API limits and quotas. This launch enables you to monitor your service quota usage, set alarms before you are throttled, and request quota increases ahead of planned growth. AWS IoT Core is a fully managed service that securely connects IoT devices at scale to the AWS cloud and routes IoT device data to AWS and third-party ser",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T08:00:00+00:00",
       "impact": false
     },
     {
@@ -569,6 +1208,15 @@
       "impact": false
     },
     {
+      "title": "RSF Drone Strikes on Sudanese Infrastructure and Accusations Against Ethiopia - Bloomsbury Intelligence and Security Institute (BISI)",
+      "description": "RSF Drone Strikes on Sudanese Infrastructure and Accusations Against Ethiopia Bloomsbury Intelligence and Security Institute (BISI)",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXEwVVdYLWZNcHRVazd4LTd1SEdndUpJQUxaV08wSDc2NHlpM1VCMU9wVmNNYVJpd2tUWG5RaEYxSW9EWEhidC1jTGM3UnFEaXBhU1BoV2QzeEVDNFktUlllczU4QTY5cmZfSVNuSm5YZzV1Um1ULVFDV25QUElyR0F0ekhiSkxBc19RUzd3SHloMWg1MktYZFdJazA1enBNcG9BRkNwcXo?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-25T06:05:37+00:00",
+      "impact": false
+    },
+    {
       "title": "Migrationsverket pausar utvisningar av unga vuxna",
       "description": "Migrationsverket pausar tills vidare utvisningar av unga vuxna, så kallade tonårsutvisningar. Beslutet kommer efter att riksdagspartierna aviserat ny lagstiftning.",
       "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-pausar-utvisningar-av-unga-vuxna",
@@ -578,19 +1226,28 @@
       "impact": false
     },
     {
-      "title": "Migrationsverket pausar tonårsutvisningar",
-      "description": "Migrationsverket pausar vissa kritiserade utvisningar av unga vuxna vars föräldrar och minderåriga syskon får stanna i Sverige. Beslutet gäller i väntan på en lagändring som socialförsäkringsutskottet vill gå vidare med och som enligt Migrationsverket berör omkring 1 000 personer. Generaldirektör Maria Mindhammar beskriver pausen som ett exceptionellt undantag och pekar på detaljer i lagstiftningen som hon anser visar behovet av långsiktighet.",
-      "link": "https://www.sverigesradio.se/artikel/9349490",
-      "source": "Ekot",
+      "title": "Sweden’s White-Collar Workers Now Bear the Brunt of Unemployment - Social Europe",
+      "description": "Sweden’s White-Collar Workers Now Bear the Brunt of Unemployment Social Europe",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjVod2JKN3BoSVd4c1BFRkUxRnNKV3QzMm9HUHZXeUhQNDV0dFZZZUNLVlJSTzNTY3JwZ3JYeGJQdEIyV0lhQzBrMnYwcTd4bzEzd1JZWjAyRjFGRXNQVGhmRWVrNFdwOFBwS1lYZnhNWFRhNVBzOEZ0Zi04RVppcW5PQlRYV0FFMG5fNVFKS1RWaTZjRWc?oc=5",
+      "source": "Sweden English",
       "category": "Sweden",
       "published": "2026-11-25T06:00:00+00:00",
       "impact": false
     },
     {
-      "title": "Sweden’s White-Collar Workers Now Bear the Brunt of Unemployment - Social Europe",
-      "description": "Sweden’s White-Collar Workers Now Bear the Brunt of Unemployment Social Europe",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTjVod2JKN3BoSVd4c1BFRkUxRnNKV3QzMm9HUHZXeUhQNDV0dFZZZUNLVlJSTzNTY3JwZ3JYeGJQdEIyV0lhQzBrMnYwcTd4bzEzd1JZWjAyRjFGRXNQVGhmRWVrNFdwOFBwS1lYZnhNWFRhNVBzOEZ0Zi04RVppcW5PQlRYV0FFMG5fNVFKS1RWaTZjRWc?oc=5",
-      "source": "Sweden English",
+      "title": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
+      "description": "Trusted identity propagation (TIP) carries the identity of a human user or workload with requests to supported AWS Services. Customers can use that identity in IAM policy conditions for access control and to identify the originating human user or workload in AWS CloudTrail. AWS is expanding TIP to AWS Identity and Access Management (IAM) federation and IAM Roles Anywhere , while simplifying the existing TIP experience in AWS IAM Identity Center. In addition, IAM outbound identity federation now ",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-25T06:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Migrationsverket pausar tonårsutvisningar",
+      "description": "Migrationsverket pausar vissa kritiserade utvisningar av unga vuxna vars föräldrar och minderåriga syskon får stanna i Sverige. Beslutet gäller i väntan på en lagändring som socialförsäkringsutskottet vill gå vidare med och som enligt Migrationsverket berör omkring 1 000 personer. Generaldirektör Maria Mindhammar beskriver pausen som ett exceptionellt undantag och pekar på detaljer i lagstiftningen som hon anser visar behovet av långsiktighet.",
+      "link": "https://www.sverigesradio.se/artikel/9349490",
+      "source": "Ekot",
       "category": "Sweden",
       "published": "2026-11-25T06:00:00+00:00",
       "impact": false
@@ -611,15 +1268,6 @@
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-25T05:35:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-25T05:27:38+00:00",
       "impact": false
     },
     {
@@ -742,7 +1390,7 @@
     {
       "title": "Kajsa Dovstad: Förmånsbil ska inte vara ett sätt att skatteplanera - Göteborgs-Posten",
       "description": "Kajsa Dovstad: Förmånsbil ska inte vara ett sätt att skatteplanera Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0NKOEZJY2VXSHRmTE94dkc2QXdQb3Y1cnlkUnZScnNKbGJhU3RjMXZvUmQ1T1NGd0xvR1I4ZUVicGVjb0NsczFjSFZ0N3llN1Q2NnYxR2RoSWNmZGpaUkVKOHBrYVJmb0VjeTlMTGhaOFRtMWNZY1NvYW5Fd1RLUTBkZkFqdDFuaEdBTm1tczBZd0N5Z2ozazVHU2F2SWlsNFFMYUdHTkJaY0FVUXhLdXVMYl9IeWtmWFh0MjdpVkZtdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWU9NMUd5LXM1emRIbEFZUm4xYnB6RUZUckZrYXpZcGstZWNUTnM4cGJMYkxldjVaMnVsUGM4RG9maEhNS2Z0ZUNvWlNCVEZONUd2UnhUM3ZXMU56eW1HU2I1MTFGQUdWQkM4TFJYZVNLM0s3bm5GRzVGZmpiM0VwdGxyTUJZZUN2WWFqRlBFVUt5b0ttZHgtaEU1aGVBYUlGU2x2MGJVRzRUUlFWcGFwbkpRM0hTRzhNMXp4ZnRSSGhjSUtka2dCd2VmUDZCNXBzMGw5UjhkRU0?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-25T04:01:58+00:00",
@@ -751,10 +1399,10 @@
     {
       "title": "Kajsa Dovstad: Förmånsbil ska inte vara ett sätt att skatteplanera - Göteborgs-Posten",
       "description": "Kajsa Dovstad: Förmånsbil ska inte vara ett sätt att skatteplanera Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWU9NMUd5LXM1emRIbEFZUm4xYnB6RUZUckZrYXpZcGstZWNUTnM4cGJMYkxldjVaMnVsUGM4RG9maEhNS2Z0ZUNvWlNCVEZONUd2UnhUM3ZXMU56eW1HU2I1MTFGQUdWQkM4TFJYZVNLM0s3bm5GRzVGZmpiM0VwdGxyTUJZZUN2WWFqRlBFVUt5b0ttZHgtaEU1aGVBYUlGU2x2MGJVRzRUUlFWcGFwbkpRM0hTRzhNMXp4ZnRSSGhjSUtka2dCd2VmUDZCNXBzMGw5UjhkRU0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0NKOEZJY2VXSHRmTE94dkc2QXdQb3Y1cnlkUnZScnNKbGJhU3RjMXZvUmQ1T1NGd0xvR1I4ZUVicGVjb0NsczFjSFZ0N3llN1Q2NnYxR2RoSWNmZGpaUkVKOHBrYVJmb0VjeTlMTGhaOFRtMWNZY1NvYW5Fd1RLUTBkZkFqdDFuaEdBTm1tczBZd0N5Z2ozazVHU2F2SWlsNFFMYUdHTkJaY0FVUXhLdXVMYl9IeWtmWFh0MjdpVkZtdw?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
-      "published": "2026-11-25T04:01:58+00:00",
+      "published": "2026-11-25T04:00:00+00:00",
       "impact": true
     },
     {
@@ -818,6 +1466,15 @@
       "source": "World English",
       "category": "World",
       "published": "2026-11-25T01:48:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "What's going on at Nvidia? The economic and national security stakes of Huang's reinstatement - KMBC",
+      "description": "What's going on at Nvidia? The economic and national security stakes of Huang's reinstatement KMBC",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1lnYnBJQnR3YzRnTWEwc0FFTVNHakNONHIwdExBMHVhNVRYN1Nval92N080ZGpiZ01TWVY1TmhMT0VRMjMzZUM5Vms4Z0l0cGtIeVpNVTNIanc0NEdRRnN4anBITGFnVWtpS3lrMkVOc1hOSVE0UGFwV3FvaEdVRlFRdWhDRnZlUVB3VzBCX1E4b09aRFpqdFhURmNFeXRNNWhDTXMyelFMRUZQa3BjU3hsanRWalppLUZpZEZGeXAtMGw0bWxr?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-25T01:17:00+00:00",
       "impact": false
     },
     {
@@ -929,6 +1586,15 @@
       "impact": false
     },
     {
+      "title": "Valkompass 2026 – testa vilket parti som matchar dig bäst - Expressen",
+      "description": "Valkompass 2026 – testa vilket parti som matchar dig bäst Expressen",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxSWpONDI0QUNRWU9xN0RpcjVZSTI2SkVzbjJ4S0dBZUs0RnBlUHd1MnVHeXJHX2hTWjA0NXNhNmxPSXFob3VjOTRWeUFhR3RSaGg5MmJBQlJLQ25FdDg5SjF3?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-24T21:36:05+00:00",
+      "impact": false
+    },
+    {
       "title": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
       "description": "Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber through the bedrock-runtime endpoint on Amazon Bedrock in AWS GovCloud (US). Daybreak Red is designed for advanced, authorized tasks such as vulnerability research, exploit reproduction, and mitigation development. For these tasks, a lower refusal threshold, matched by stronger identity verification, monitoring, and access controls, improves the speed and depth of an investigation. Your infere",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/",
@@ -944,6 +1610,24 @@
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-24T21:00:14+00:00",
+      "impact": false
+    },
+    {
+      "title": "Lokala Nyheter Halland – Igår 21:50 - SVT Play",
+      "description": "Lokala Nyheter Halland – Igår 21:50 SVT Play",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13SVNSV1hFeGlwcWxlMnZUNThFc3h0cjhfamJGY21OV2NWaUVoTEcxWk94aFVTMWJTRVZVdmlQLW1IWTZQeDcwZi0wVEp4WkFMRTFVa1BzdDdob1FZeTE0M1AxMFRTb3ZMaHdQWnlrOG5SMTZSdG5wdm9n?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-24T20:50:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "Lokala Nyheter Småland – Igår 21:50 - SVT Play",
+      "description": "Lokala Nyheter Småland – Igår 21:50 SVT Play",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04QUtwdzdJd0RzMzhIc0R3bnQwemRpcnVLQkMwYnN1VS04Y3pFYXJuemU2V3llRkJpMERnRzZCTWZFTzIwSFprRHBRMnE5TGoxazUxVDc2blRMMEZzS2hrRGNRVzA2S200RHI1dl9DYXlkS0d6RjFoU3VB?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-24T20:50:00+00:00",
       "impact": false
     },
     {
@@ -990,6 +1674,15 @@
       "category": "Local",
       "published": "2026-11-24T19:56:00+00:00",
       "impact": true
+    },
+    {
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War - The New York Times",
+      "description": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-24T19:54:59+00:00",
+      "impact": false
     },
     {
       "title": "Move fast, don’t break 100 apps: Dan Garfield on keeping AI-powered coding on the rails",
@@ -1334,15 +2027,6 @@
       "impact": false
     },
     {
-      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War - The New York Times",
-      "description": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ0a2JfUmZTVkdhSmRUR3lpNF96cTVzdDVyaEtyYmhlbkdiWHJYNFRhdEpjUzhHeUc0UnJ4M0FoMFJHWExrYnMwQU12c29tVzJJXzYxLXBTTy1GbldPSWQ3bTEwSndFWmhNbWstLVNxNlJkQWVTdnFGOHVyN1F1cXlCSUxZbTM3ajdiRGNBaUF2ZG9uelFrYkhnVnlEbmtFcFE?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-24T15:59:07+00:00",
-      "impact": false
-    },
-    {
       "title": "Göteborgs stad stäms på miljonbelopp efter skredet på Hisingen",
       "description": "En halv lada, flera fordon och hästen Freya drogs med när marken under Österhögs gård i Rödbo gav vika i mars. Nu stämmer Alexander Karmark Göteborgs stad på 15 miljoner och anklagar flera tjänstemän för att ha dolt riskerna med den instabila marken. Staden avvisar anklagelserna – men striden om vad som verkligen utlöste jordskredet fortsätter. – Jag anser att de har undanhållit information och nu försöker undgå ansvar, säger Alexander Karmark.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/goteborgs-stad-stams-pa-miljonbelopp-efter-skredet-pa-hisingen",
@@ -1397,21 +2081,21 @@
       "impact": false
     },
     {
+      "title": "Containerterminalen i Göteborgs hamn får elspår hela vägen - Vårt Göteborg",
+      "description": "Containerterminalen i Göteborgs hamn får elspår hela vägen Vårt Göteborg",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3IwNnVqWXMxYmhiVzdPTVRPZVJwZzlUUTRYSzZTekdhdVVtZDNLR2luak9ORkZvLVU1aWJaSlZVN0V5OTQxWHNaeUhwMUF0S0NldnNfQno2cWNOY2h1OG9xRUM2cGJielBUeGhLdFJtRnllNnVmbUxaLTVhZ09iMHpVRTE5dmJjYk9sdU5R?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-24T14:40:48+00:00",
+      "impact": true
+    },
+    {
       "title": "Göteborgs Stad kraftsamlar för digital inkludering - Vårt Göteborg",
       "description": "Göteborgs Stad kraftsamlar för digital inkludering Vårt Göteborg",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLTUxbU1HRHNlSUF3T09Mc1JwYUNKS1dKXzJoTjhVSl9SdHZvOUM0ZzVkR1Q0cFFSN3dQcDVlbEFmcDFUYVdoenVJSEhneUFGNjRLRi1DRFlKNjlVN0VIZy0tclJ5VDdpSVZhYzZEZTRKNzF1TmJLaEJHSU5Ub1A0YVNfOA?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-24T14:40:48+00:00",
-      "impact": false
-    },
-    {
-      "title": "Valkompass 2026 – testa vilket parti som matchar dig bäst - Expressen",
-      "description": "Valkompass 2026 – testa vilket parti som matchar dig bäst Expressen",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxSWpONDI0QUNRWU9xN0RpcjVZSTI2SkVzbjJ4S0dBZUs0RnBlUHd1MnVHeXJHX2hTWjA0NXNhNmxPSXFob3VjOTRWeUFhR3RSaGg5MmJBQlJLQ25FdDg5SjF3?oc=5",
-      "source": "Sweden Regional",
-      "category": "Sweden",
-      "published": "2026-11-24T14:36:52+00:00",
       "impact": false
     },
     {
@@ -1838,6 +2522,15 @@
       "impact": false
     },
     {
+      "title": "Iranian media walk back tanker convoy claims after days of blockade-breaking hype - Iran International",
+      "description": "Iranian media walk back tanker convoy claims after days of blockade-breaking hype Iran International",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LR0d1R2poV0hQWGktWUQ0WXFxLU91MkRzSEVkUGNqV1M1Rk1HQU54XzE0YlgwU1NzaTQwUWtRREpnMjkwMG9Ra3JIay16ZDUxMmc?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-24T09:43:09+00:00",
+      "impact": false
+    },
+    {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang - BBC",
       "description": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLU9yX2djdGRQV01hM0llUENSZ0U3a1YzQU1WdWx5Z0dMMVJGUFduWkhJTjBxOHVVeE9SN1lyaE1sNjdJYWVENzhrRUJ2cXNUZEZHaUpRUHE0UXM?oc=5",
@@ -1853,6 +2546,15 @@
       "source": "World English",
       "category": "World",
       "published": "2026-11-24T09:38:21+00:00",
+      "impact": false
+    },
+    {
+      "title": "Fem tankar efter Hammarby IF - IFK Göteborg: \"Jag grämer mig fortfarande över det\" - SvenskaFans.com",
+      "description": "Fem tankar efter Hammarby IF - IFK Göteborg: \"Jag grämer mig fortfarande över det\" SvenskaFans.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMG1MaWFGcWxSZkpLM1ltS01aUU5iUFcyT0tlVUd5UVdfTFBTTW0xY0ZHZGZNMU1CNEJyd2JVZTN6aXQ0T0thUEtFVTNQa3BZbERabmN2YVJ0cHpjNDlXcndLaEk4dFIxVUM0emRqX3Z2SUpVdHFNUlR3UzFoaVZFcjV4RXVUR0JhcFJNcWVkMlk5Mzl1bzk2QldsQ2xqNm9oZUowbWhuS2trb3MycXdHR1lVRUtWUFlwZ2k0Xw?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-24T09:30:48+00:00",
       "impact": false
     },
     {
@@ -1874,18 +2576,18 @@
       "impact": false
     },
     {
-      "title": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ - Reading Eagle",
-      "description": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ Reading Eagle",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1RpaWFqTWxxRjlqODZiZzE4NmdqaE42eGFoUk95UExoUzNQSWJFYXkxaFVnSGNRUk03U19sZ3RWNFUyZlI0TlRaMHpMWEtpVmNKSW8yX0JFZVYtZDV6bzFVaGIwOV9XN2NpRDR6dHZRNGEwY3MzYThYTkRjYXZhMlkybVphRWZ0Q0tPMll4RTFSYVVWN0lfMnlHdXJaS2xvOXJ5eTcweHhkUDlqb2tWMlNqRER6NzJhVHJr?oc=5",
+      "title": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ - The Mercury News",
+      "description": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEthM0txZDB3OXA5NWU2aUZIYTRfazB5MFVGZFh2NWE5MW9jR1oxRjBFbFp2MWlLRXlWcW9JTDkyems5enpyQnlaQ1JPOEpLSlJzR0QyUXNJZUpfY3Q2d1VXb2ZjOXVHajVlSXd3QmxiZmtjbXozNkllTUNsc19MU196M2lSVjZxQ0tUQVZmU1dqUXYwTUlDTGllVy1XNnE5UVdSbDRGSjQ5TFgtOE9UQjQySmhKdEsxTnc?oc=5",
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-24T09:00:09+00:00",
       "impact": false
     },
     {
-      "title": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ - The Mercury News",
-      "description": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdEthM0txZDB3OXA5NWU2aUZIYTRfazB5MFVGZFh2NWE5MW9jR1oxRjBFbFp2MWlLRXlWcW9JTDkyems5enpyQnlaQ1JPOEpLSlJzR0QyUXNJZUpfY3Q2d1VXb2ZjOXVHajVlSXd3QmxiZmtjbXozNkllTUNsc19MU196M2lSVjZxQ0tUQVZmU1dqUXYwTUlDTGllVy1XNnE5UVdSbDRGSjQ5TFgtOE9UQjQySmhKdEsxTnc?oc=5",
+      "title": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ - Reading Eagle",
+      "description": "Today in History: November 24, skeletal remains found in Ethiopia nicknamed ‘Lucy’ Reading Eagle",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1RpaWFqTWxxRjlqODZiZzE4NmdqaE42eGFoUk95UExoUzNQSWJFYXkxaFVnSGNRUk03U19sZ3RWNFUyZlI0TlRaMHpMWEtpVmNKSW8yX0JFZVYtZDV6bzFVaGIwOV9XN2NpRDR6dHZRNGEwY3MzYThYTkRjYXZhMlkybVphRWZ0Q0tPMll4RTFSYVVWN0lfMnlHdXJaS2xvOXJ5eTcweHhkUDlqb2tWMlNqRER6NzJhVHJr?oc=5",
       "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-24T09:00:09+00:00",
@@ -2024,6 +2726,15 @@
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-24T08:06:37+00:00",
+      "impact": false
+    },
+    {
+      "title": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "description": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Britannica",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "source": "Sweden English",
+      "category": "Sweden",
+      "published": "2026-11-24T08:00:00+00:00",
       "impact": false
     },
     {
@@ -2324,6 +3035,15 @@
       "impact": false
     },
     {
+      "title": "Cuba grid collapse: The situation is growing more dire, experts say - ABC News - Breaking News, Latest News and Videos",
+      "description": "Cuba grid collapse: The situation is growing more dire, experts say ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2VmVHJ5QWVWN0x5NUVuYTBVUEl0c0lFSDVUbjhJNFpCRjFWbFZINDlSMTA3LVl6b2d5MWpHRGhpSUZCamE4anhIb2Vsd0VBMVZRaWxEZHVnLUVjcjEzYjBsLUR1d1VseWVUM1dVQjQ1VmdvTl9wVGxwMTRDZS1SVXFfbTZEUVRvbHA5S1M3MTVLREplYmtHSDZ1MjBjRHRDUTB3WdIBqgFBVV95cUxNUV9UeXpFazByVnBWYWIxOHdpQzROMUdtSGV5eDV3alFESUozT2NoMG9xMkl4RFlXMnJDeXNIa0VDdFhkS3pSWmxXY2FSWUUzeDV3Mkl5WThISmdOSGpleGVySXBoTS1vN1ZuODFpYndHMkNfY1h0ZWZYbTBFVHllcGxXV0JMa0J2cTYzZVRvblNvNEpsNXNSS05sNHlGemhXTDlBQWFnS2JPdw?oc=5",
+      "source": "World English",
+      "category": "World",
+      "published": "2026-11-24T04:39:05+00:00",
+      "impact": false
+    },
+    {
       "title": "Migranter strömmar till Kreta – oroar turistindustrin",
       "description": "Rekordmånga migranter och flyktingar kommer nu till den grekiska ön Kreta efter den riskfyllda färden över Medelhavet från Libyen. Minst 25 000 personer har anlänt hittills i år. Samtidigt är den växande migrationen förvånansvärt osynlig för många av öns invånare. ”Vi hör att det kommer fyra till fem båtar varje dag, men vi ser aldrig migranterna”, säger Giorgos, som fiskar i hamnen i Heraklion tillsammans med sin flickvän. Men opinionen på Kreta är mycket negativ till migrationsströmmen och är ",
       "link": "https://www.sverigesradio.se/artikel/9348679",
@@ -2468,6 +3188,15 @@
       "impact": false
     },
     {
+      "title": "Conflict in Ethiopia | Global Conflict Tracker - Council on Foreign Relations",
+      "description": "Conflict in Ethiopia | Global Conflict Tracker Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jY01qYVJ0eS1nVkI5NnNoa0JhODlhTDdReEdVREl2dFphVlRfTE1ZeDlvamJIdHo1ajhxeDRkY20wNXhpV0N5eW5oaTFjM05zc3V0aHY3V2k4M2NJVFJVcVV0ZmpPcndPQWlBNWwwVHliTmlKR25jZHFn?oc=5",
+      "source": "Ethiopia English",
+      "category": "Ethiopia",
+      "published": "2026-11-23T23:45:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Why COP31 climate talks collapsed and what to expect next - Atlantic Council",
       "description": "Why COP31 climate talks collapsed and what to expect next Atlantic Council",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYlhsTzFLd2hPUksyeU04MlVOeHpnU0NscS1IWUppYXJwNnlwM3FxTXFzSVd6ZVhoT3c1WVZWUnFMSHk2OGZXU2YyQ3BpQlQtQmJQX3lmM3dYcmhpd2pZa2lla01JOVU5VTNtbmt3emxHYWJoN2RTSXJEaEVXWlR4YTV5UzVnbnd6cm1GcnItS3lKbXJaYXJVUWZONWNWUFpudVdR?oc=5",
@@ -2585,6 +3314,15 @@
       "impact": false
     },
     {
+      "title": "Allsvenskan: Höjdpunkter – Hammarby – IFK Göteborg 23/11 - SVT Play",
+      "description": "Allsvenskan: Höjdpunkter – Hammarby – IFK Göteborg 23/11 SVT Play",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DcndFdU5ZQ0J2WEdrV2dSV0tXcHRJV1pwNEttZE5Ub0tvSGtKVzBxTU45OF9ZNHluQzVTaGFjRUp1OVZvMDY3QkRoalNYLUJlNE1yeHNDWEozTDhPZ0tpWDJBODRHZTU5czZNdlJISFE2UQ?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-23T21:59:47+00:00",
+      "impact": false
+    },
+    {
       "title": "Hammarby – IFK Göteborg 23/11 - SVT Nyheter",
       "description": "Hammarby – IFK Göteborg 23/11 SVT Nyheter",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWdOVW9XU1RQWnJxZUtoRmxHdTBjR2QxWlhZUmpid29xVWJqcjBQVUMzdDJ1S1N3Vzd6T3l1bURtNXlFa1lTRWxEQnlyTUFadXNyZnpwcmlwNU5kejV4emt6bm4wanpWdEFCUENheXpuZUNjTWRGVnREWXBhWV9SaTBsOER6TmxTbVE?oc=5",
@@ -2684,12 +3422,30 @@
       "impact": false
     },
     {
+      "title": "Lokala Nyheter Västernorrland - SVT Play",
+      "description": "Lokala Nyheter Västernorrland SVT Play",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZdFdDVDNONmlubWxaaXJpSy1IaV85cFNxQXUxaDlTd3Z3Qkw1bG5RaHBjWXk2VnhkWmQwMHM0bHpKZGpxa3BhczRmMnRlTG9jTUlEVWgyV0VtS0RjT29SeDRR?oc=5",
+      "source": "Sweden Regional",
+      "category": "Sweden",
+      "published": "2026-11-23T20:50:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Höjdpunkter: Hammarby IF - IFK Göteborg 4 min 15 sek - TV4 Play",
       "description": "Höjdpunkter: Hammarby IF - IFK Göteborg 4 min 15 sek TV4 Play",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjNHWGJqU3cyWVJ6RzNnbEhWOENuZzVDcVZ1bk5vczczRG9MVGVicVo2X1NPTDBjVGpURHA4RV90c244REZkMkFYczF6Rnh2aGdjalF5RXdVdlB5S2EwemFFLWh2NnhSV1NuVXNhNXYyZlNBbHZ4TjMySWRhSjdYcUlMVDRnbkUxRTdnM1Y5T2d6STlpbE5ad2lpN1h1QXA4MTBNMDJGb3o3aldubFBRWFdCdnF2emZHeERJc3ZGdWxsUQ?oc=5",
       "source": "Google News Göteborg",
       "category": "Local",
       "published": "2026-11-23T20:47:34+00:00",
+      "impact": false
+    },
+    {
+      "title": "Björklunds skämt - mitt i guldstriden: \"Ska rulla ut juniorlaget\" - Fotbollskanalen",
+      "description": "Björklunds skämt - mitt i guldstriden: \"Ska rulla ut juniorlaget\" Fotbollskanalen",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdEtZSjlDZWkwTFlXejlQdE8wUEQ4ejRLRm51TmItOVZpMmZUS0QzQVNGcVZEaEVKZGhkc0hvcVpwQXI4R19VbDU3Ty14Zjd3RkRxZExoM3VEOFR1bWxyX1NwaGtmRU1rSV8tdzg0ZWtQSko3VzBPbWx0SzZwUWl6TXF4aXE3RzRmRWI3T1FFbEEwMURTVUZWbUFxSlIxcUVGQXM4c09ETDl2ZGUycFhuakVEN04?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-23T20:43:00+00:00",
       "impact": false
     },
     {
@@ -2792,18 +3548,18 @@
       "impact": false
     },
     {
-      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
-      "description": "Amazon SageMaker HyperPod now supports managed cluster extensions for Slurm clusters. You can install, configure, update, and remove managed features through the SageMaker AI console or API. The first two extensions cover observability and user management. Earlier, every observability or user management change for HyperPod Slurm clusters meant editing lifecycle scripts and then replacing or rerunning nodes. Now, HyperPod manages these features for you, and you keep lifecycle scripts and custom A",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
+      "title": "Amazon API Gateway announces API Portal",
+      "description": "Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS organization. Many organizations can't see which APIs are running, which were never registered, which are no longer maintained, and which lack protection. API Portal builds a continuously updated inventory using AWS-side traffic logs and service configuration records, with nothin",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
       "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-23T20:00:00+00:00",
       "impact": false
     },
     {
-      "title": "Amazon API Gateway announces API Portal",
-      "description": "Today, Amazon API Gateway announces API Portal , a new feature that discovers, governs, and documents the APIs and AI endpoints behind Amazon API Gateway, Application Load Balancer, and Amazon CloudFront across your AWS organization. Many organizations can't see which APIs are running, which were never registered, which are no longer maintained, and which lack protection. API Portal builds a continuously updated inventory using AWS-side traffic logs and service configuration records, with nothin",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/",
+      "title": "Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters",
+      "description": "Amazon SageMaker HyperPod now supports managed cluster extensions for Slurm clusters. You can install, configure, update, and remove managed features through the SageMaker AI console or API. The first two extensions cover observability and user management. Earlier, every observability or user management change for HyperPod Slurm clusters meant editing lifecycle scripts and then replacing or rerunning nodes. Now, HyperPod manages these features for you, and you keep lifecycle scripts and custom A",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/",
       "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-23T20:00:00+00:00",
@@ -2969,15 +3725,6 @@
       "source": "SVT Utrikes",
       "category": "World",
       "published": "2026-11-23T19:17:34+00:00",
-      "impact": false
-    },
-    {
-      "title": "Kändisbagare kritisk mot lussebulleförbud i Göteborg - TV4 Nyheterna",
-      "description": "Kändisbagare kritisk mot lussebulleförbud i Göteborg TV4 Nyheterna",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcm8xcUJSd20yT0hXSkhtd2FxZDg4NzV0ejlLN1Y3ckp6b29QczN6QXlCc2NHSmlHaHhEcmppcUM2X1doa1YydlZreTU5dW50ckFXS2Y4LURWN1hzMmpqSUV0TlMtVU9VbWlwNU9KR3JjRTNBY2V0Uy1GdFVvZWJ0RmpXSGNZZDZteTFMWngxNGFVVDlDZHJ2SmVhNHpubDJfenc?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T19:13:02+00:00",
       "impact": false
     },
     {
@@ -3188,15 +3935,6 @@
       "impact": false
     },
     {
-      "title": "Fem tankar efter Hammarby IF - IFK Göteborg: \"Jag grämer mig fortfarande över det\" - SvenskaFans.com",
-      "description": "Fem tankar efter Hammarby IF - IFK Göteborg: \"Jag grämer mig fortfarande över det\" SvenskaFans.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMG1MaWFGcWxSZkpLM1ltS01aUU5iUFcyT0tlVUd5UVdfTFBTTW0xY0ZHZGZNMU1CNEJyd2JVZTN6aXQ0T0thUEtFVTNQa3BZbERabmN2YVJ0cHpjNDlXcndLaEk4dFIxVUM0emRqX3Z2SUpVdHFNUlR3UzFoaVZFcjV4RXVUR0JhcFJNcWVkMlk5Mzl1bzk2QldsQ2xqNm9oZUowbWhuS2trb3MycXdHR1lVRUtWUFlwZ2k0Xw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T18:00:00+00:00",
-      "impact": false
-    },
-    {
       "title": "Stockholmspriser för felparkering – nu höjs boten i Göteborg",
       "description": "Parkeringsböterna i Göteborg föreslås höjas till 750, 1 100 eller 1 300 kronor från 2027. Kommunfullmäktige ska fatta det slutliga beslutet. Stadsmiljönämnden har godkänt förslaget och ordföranden Karin Pleijel (MP) säger att höjningen ska kompensera för inflationen sedan 2018 och bidra till trafiksäkerheten. Den högsta avgiften matchar medvetet Stockholms nivå och Karin Pleijel förklarar vad som styr valet av belopp.",
       "link": "https://www.sverigesradio.se/artikel/9348426",
@@ -3242,6 +3980,15 @@
       "impact": false
     },
     {
+      "title": "Kändisbagare kritisk mot lussebulleförbud i Göteborg - TV4 Nyheterna",
+      "description": "Kändisbagare kritisk mot lussebulleförbud i Göteborg TV4 Nyheterna",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcm8xcUJSd20yT0hXSkhtd2FxZDg4NzV0ejlLN1Y3ckp6b29QczN6QXlCc2NHSmlHaHhEcmppcUM2X1doa1YydlZreTU5dW50ckFXS2Y4LURWN1hzMmpqSUV0TlMtVU9VbWlwNU9KR3JjRTNBY2V0Uy1GdFVvZWJ0RmpXSGNZZDZteTFMWngxNGFVVDlDZHJ2SmVhNHpubDJfenc?oc=5",
+      "source": "Google News Göteborg",
+      "category": "Local",
+      "published": "2026-11-23T17:15:38+00:00",
+      "impact": false
+    },
+    {
       "title": "Okänd gas spreds på Don Toliver-konsert – tusentals evakuerade",
       "description": "12 000 personer evakuerades från en konsert med den populäre rapparen Don Toliver i Storbritanniens största inomhus-arena i Manchester. Filmer från konserten visar hur delar av publiken börjar hosta och snabbt lämna lokalen efter att en illaluktande gas spridits i arenan, och ett 80-tal fick hjälp av ambulanspersonal på platsen. Polisen utreder nu vad som hänt, och en planerad konsert med Don Toliver i London har ställts in.",
       "link": "https://www.sverigesradio.se/artikel/9348553",
@@ -3269,15 +4016,6 @@
       "impact": false
     },
     {
-      "title": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
-      "description": "AWS Quick now supports three-legged OAuth (3LO) with end-user permissions for Snowflake and Databricks. When end users in AWS Quick consume Chat, interactive dashboards, or Apps, queries run using their own Snowflake or Databricks identity. Governance policies configured in Snowflake or Databricks Unity Catalog, including applicable row- and column-level controls and access to tables and views, are enforced by the source platform without requiring teams to recreate those policies in Quick. To ge",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T17:00:00+00:00",
-      "impact": false
-    },
-    {
       "title": "Amazon SageMaker HyperPod extends AMI auto-patching to Slurm and inference on EKS",
       "description": "Amazon SageMaker HyperPod now automatically patches AMIs on Slurm clusters and introduces a new AMI patching strategy for Amazon EKS clusters that deploy inference workloads. SageMaker HyperPod is purpose-built infrastructure for training and deploying foundation models at scale. Previously, patching a Slurm cluster meant waiting for training runs to finish, scheduling downtime, and upgrading nodes by hand, which could take days of coordination between infrastructure admins and research scientis",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-patching-slurm-eks-inference/",
@@ -3296,6 +4034,24 @@
       "impact": false
     },
     {
+      "title": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
+      "description": "AWS Quick now supports three-legged OAuth (3LO) with end-user permissions for Snowflake and Databricks. When end users in AWS Quick consume Chat, interactive dashboards, or Apps, queries run using their own Snowflake or Databricks identity. Governance policies configured in Snowflake or Databricks Unity Catalog, including applicable row- and column-level controls and access to tables and views, are enforced by the source platform without requiring teams to recreate those policies in Quick. To ge",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-23T17:00:00+00:00",
+      "impact": false
+    },
+    {
+      "title": "RDS PostgreSQL now supports PostgreSQL 19.0 in the Amazon RDS Database Preview Environment",
+      "description": "Starting today, Amazon RDS for PostgreSQL 19.0 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate PostgreSQL 19.0 on Amazon RDS PostgreSQL. PostgreSQL 19.0 introduces the REPACK command with a CONCURRENTLY option, which removes table and index bloat with minimal locking. You can now enable parallel autovacuum for faster index vacuuming, and logical replication to synchronize sequence values to the subscriber. Two new extensions, pg_plan_advice and pg_stash_adv",
+      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/postgresql-19-amazon-rds-database-preview-environment/",
+      "source": "AWS What's New",
+      "category": "Tech Radar",
+      "published": "2026-11-23T17:00:00+00:00",
+      "impact": false
+    },
+    {
       "title": "Amazon SageMaker HyperPod now detects Kubernetes issues affecting training",
       "description": "Amazon SageMaker HyperPod now detects Kubernetes issues that disrupt training, such as crash-looping device plugins or missing DaemonSets, on clusters orchestrated by Amazon EKS. SageMaker HyperPod is purpose-built infrastructure for AI/ML model development, with built-in fault tolerance and automated cluster recovery. Previously, when a device plugin crash-looped or a taint evicted a job's pods, the job's error rarely named the pod or node, so engineers pieced the cause together from kubectl ou",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-k8s-monitoring-agent/",
@@ -3308,15 +4064,6 @@
       "title": "Amazon SageMaker HyperPod deep health check now validates training correctness",
       "description": "Amazon SageMaker HyperPod clusters orchestrated by Amazon EKS now support MultiNodeTrainingValidation, a deep health check that validates nodes train correctly before your jobs run. SageMaker HyperPod is purpose-built infrastructure for AI/ML model development, with built-in fault tolerance and automated cluster recovery. Previously, a GPU with a subtle fault could pass hardware stress and connectivity tests and still compute wrong results, and the first sign was often NaN or infinite loss in a ",
       "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T17:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "RDS PostgreSQL now supports PostgreSQL 19.0 in the Amazon RDS Database Preview Environment",
-      "description": "Starting today, Amazon RDS for PostgreSQL 19.0 is available in the Amazon RDS Database Preview Environment , allowing you to evaluate PostgreSQL 19.0 on Amazon RDS PostgreSQL. PostgreSQL 19.0 introduces the REPACK command with a CONCURRENTLY option, which removes table and index bloat with minimal locking. You can now enable parallel autovacuum for faster index vacuuming, and logical replication to synchronize sequence values to the subscriber. Two new extensions, pg_plan_advice and pg_stash_adv",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/postgresql-19-amazon-rds-database-preview-environment/",
       "source": "AWS What's New",
       "category": "Tech Radar",
       "published": "2026-11-23T17:00:00+00:00",
@@ -3632,7 +4379,7 @@
       "title": "#Video_News:- Ethiopia hosts Africa’s flagship public health conference as push for health sovereignty gains momentum watch - Facebook",
       "description": "#Video_News:- Ethiopia hosts Africa’s flagship public health conference as push for health sovereignty gains momentum watch Facebook",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMmVIZ09GWmwwdU1hbVhnNjQ3dWdyRW51ajhicVJTaDU5NE56VzU4Yk83SW9Ib2kwcVBYZHpRaFVYQXIza3U0aHNpckJZd1J6a1N0NGFCV0t6aG9UOHNlcXVtUnNtenJrMDAtT3lsVkhfZU1qYmdTUVRCSFFNVl9aSmt6bVRtY0VxMGwwM1FvOU96WVFGV1FOT0k1bTRGTTM1MWRrYTU4ZkxHdlVra3F3N3NHUTgtbFpsWmJqTzNuUl9oWVRjX053cG9wWlVOeVR5WWZOX3IwVzlGYWh4cE5Z?oc=5",
-      "source": "Ethiopia Amharic",
+      "source": "Ethiopia English",
       "category": "Ethiopia",
       "published": "2026-11-23T13:27:37+00:00",
       "impact": false
@@ -3752,753 +4499,6 @@
       "source": "World English",
       "category": "World",
       "published": "2026-11-23T12:00:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Kubansk journalist i fängelse – kollegan: Rasar i vikt",
-      "description": "I två månader har Henry Constantin, chefredaktör för det oberoende mediet La Hora de Cuba, suttit i fängelse i Camagüey i centrala Kuba. Iris Mariño, en kollega, vittnar om att hans hälsa är allvarligt hotad. Constantin fick den Sverigegrundade organisationen Civil Rights Defenders människorättspris tidigare i år, ett pris han inte kunde komma och hämta i Stockholm. De få oberoende journalisterna sätts under allt hårdare press på Kuba. Mariño, som själv frihetsberövats flera gånger, säger till E",
-      "link": "https://www.sverigesradio.se/artikel/9341324",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T12:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Hammarby - Göteborg (23/11): Odds & stream - Sportal.se",
-      "description": "Hammarby - Göteborg (23/11): Odds & stream Sportal.se",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDLTAtWEhEOC1obG5LcjkyTDJ6Y1dwc2lBbV8yY1BZNC1faFR4bjJiZ09fX1hZUmhCcmlHdVVXN2xTbzZTVVkxT1ZCMEhGbWlzQXlfREFWU3BGQTFxUW83cnF3WXFwaUVxNlBv?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T11:50:24+00:00",
-      "impact": false
-    },
-    {
-      "title": "UN condemns drone strikes in Khartoum suspected to have come from Ethiopia - RFI",
-      "description": "UN condemns drone strikes in Khartoum suspected to have come from Ethiopia RFI",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMm1QLWRUbG1DSURYR0hMVkpJVXFjMUZTTEpRR2hjVGNHSE5oQTBiZGZqVERfcDktUlNJUWMzWlp5bG9GNDVhNWlBUjdreXY2cmQ3T3ktUlRzTlp3cUMwM05nblBmWEp6ckxsQ3RHT3lEbzJ2Q20tbDgtYjlISEVKdU1WS0VhUDNKNHVWVGtkaUpRN0RwRkdDM25pUlZBdVNpV1JqeU5KSFpKN3A5bjRFQWJn?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-23T11:49:14+00:00",
-      "impact": false
-    },
-    {
-      "title": "Liwång: Kan vänta oss fler ukrainska attacker i Finska viken",
-      "description": "Det ryska fartyg som attackerades helgen har nu har lämnat finskt vatten. Men vad som fanns ombord förblir ett mysterium. Enligt Finlands gränsbevakning har man frågat Ryssland exakt vad lasten innehöll, utan att få några klara svar. Däremot är det känt att fartyget Sparta II har nära kopplingar till den ryska staten, är belagt med sanktioner och tidigare har fraktat krigsmateriel mellan hamnar i Syrien och Ryssland. Attacken mot fartyget i Finska viken var den andra på tio dagar och enligt Hans",
-      "link": "https://www.sverigesradio.se/artikel/9348122",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T11:44:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "HSIA 3rd terminal deal with Japanese consortium by 30 Nov: Millat - The Business Standard",
-      "description": "HSIA 3rd terminal deal with Japanese consortium by 30 Nov: Millat The Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTVaUWlpZUVSaTVNVFVUbXF5MXVTX1d6MGJqSjNfa29qdmx2NVBqYmxVanJfWk90Y0ZOZlhad014SEVMZ0lvcFd5UElGVzhqTjdqdWpDcFBZYUtxR2g3U1lQbXBoemdFb2M0RXNVYzVOeENLS181T0RZRVVmcDg4a3JFTE5mdTYxbzEyRFN2UmlwNTRBYVB1Y01xWGxiSXhTekozWm95cms?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-23T11:40:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Strejk och regeringskris – inga flyg i Bryssel",
-      "description": "Tiotusentals belgare demonstrerar – samtidigt som regeringskrisen blir allt mer akut. Flygtrafiken till och från Bryssel ligger nere.",
-      "link": "https://www.svt.se/nyheter/utrikes/strejk-och-regeringskris-inga-flyg-i-bryssel",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-23T11:32:37+00:00",
-      "impact": true
-    },
-    {
-      "title": "Fantastiska Fågelcentralen måste få fortsätta att hjälpa lidande fåglar - Göteborgs-Posten",
-      "description": "Fantastiska Fågelcentralen måste få fortsätta att hjälpa lidande fåglar Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTTNuTkZvWWZsbW9oWUZqTDdYaThhNmo2ckVxZG5TOVNDM2lYY05MOTl2OWhKV0ZqMHBWd2VmaU9TaFJnbUtZUEtJZXBQZy1TT3RrdTFfZVNKZHlpUG1VbjJOd1IxWjFKYktVdHhia21MZ29tMWoxcWNXalNoR0s0RloyMU1CVXd5MmNhOXFYd1ZLMFVPb2JsZ2lhNThnRzVXUjU3MmVzWU41bDFCdGNXRExSSXNnT1I2SnhRbWhoWHBLejJPdHRyMDFlQU9Db2p4cGFlNzFvUWtWU1NGNjBJV1pTMA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T11:32:08+00:00",
-      "impact": false
-    },
-    {
-      "title": "En magisk juldag i Göteborg - Skillingaryd.nu",
-      "description": "En magisk juldag i Göteborg Skillingaryd.nu",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FQ2dHazhUNjBSaXQ2Uzg0SG9wTVVmanF3SFYyU2c5R3lFZDRxTkNscmRHTTZDUVdCSXNFT1Z0Z1p6MFNjejFUUnhTajlvTS1FeGNzOW03cUVtdGVoRVBYbWNZQUsybkZFMHpkQ3hpTVpfUkwzQnh0OA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T11:24:04+00:00",
-      "impact": false
-    },
-    {
-      "title": "Bryssels flygtrafik ligger nere när tusentals demonstrerar",
-      "description": "Tiotusentals belgare demonstrerar – samtidigt som regeringskrisen blir allt mer akut. Det har lett till att flygtrafiken till och från Bryssel ligger nere. Måndagens storstrejk stöttas av Belgiens tre största fackföreningar, i protest mot regeringens åtstramningspolitik och planerade nedskärningar. Bland de strejkande finns även flygledarna på Bryssels flygplats Zaventem, där så gott som samtliga flygningar under dagen har ställts in.",
-      "link": "https://www.sverigesradio.se/artikel/9348236",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T11:24:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Fågelcentralen öppnar igen – fått in över en miljon kronor",
-      "description": "Fågelcentralen i Rödbo mellan Göteborg och Kungälv öppnar på onsdag intaget av fåglar igen. Det var förra veckan som man fick stoppa intaget av ekonomiska skäl. Det har fått stor uppmärksamhet – och sedan dess har Fågelcentralen fått in över en miljon kronor. Jan Westin, zoolog och styrelseordförande för Animals Hope som driver Fågelcentralen, säger att det både är privatpersoner och företag som bidragit.",
-      "link": "https://www.sverigesradio.se/artikel/9348163",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T11:21:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Sweden Aslam placed on five-day remand - Jagonews24",
-      "description": "Sweden Aslam placed on five-day remand Jagonews24",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03blNfdExFSnBtblk2bDFYLUJqY2J3dWZRZGxvNnNtM091dWUzNWtxMFBzV2dOV2NNdXR0MEhQNUdWeGRNYW5SeG5rdEt0QzZWYXRXSTVoSF8xVjVjRnc?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T11:16:03+00:00",
-      "impact": false
-    },
-    {
-      "title": "Klimattoppmöten väntas bli mer polariserade",
-      "description": "Världens länder lyckades inte enas om ett slutdokument efter det rekordlånga klimattoppmötet i Turkiet, främst på grund av oenighet om utfasning av fossila bränslen. Klimatpolitikforskaren Björn-Ola Linnér tror att klimattoppmötena blir mer polariserade när Parisavtalets mål ska omsättas i praktiken. Samtidigt väntas fler samarbeten växa fram mellan likasinnade länder, regioner, städer, företag och organisationer vid sidan av själva COP-förhandlingarna.",
-      "link": "https://www.sverigesradio.se/artikel/9348215",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T11:11:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "HTV: Röster efter 3-1 mot IFK Göteborg - Hammarby Fotboll",
-      "description": "HTV: Röster efter 3-1 mot IFK Göteborg Hammarby Fotboll",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFV4OFVsa3Q4VzRXQk1fWkRaSlhObU9NTFBveEtybGdvaGpNQVNCcm55cm9XRjZ5ejRfV2FWZFl1TmVmdTA2N2VadHF2ck55cTZxTzBmZmppc1Z1ZVFZZ3BmT2hFX0o4ZVRkekRQdE41cHNlMmtaTDlLM0d3Tk1FblQ5TEw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T11:09:57+00:00",
-      "impact": false
-    },
-    {
-      "title": "Black Week är här – handeln väntas öka med över tio miljarder",
-      "description": "Reaveckan Black Week är här, och svensken väntas shoppa för flera miljarder mer än en normal vecka. Men vid sidan av möjligheten till klipp finns också risken att konsumenten blir lurad, eller till och med utsatt för bedrägeri. Det viktigaste tipset från Niklas Laninge, psykolog inriktad på konsumentpsykologi, är att planera dina inköp.",
-      "link": "https://www.sverigesradio.se/artikel/9348190",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T11:03:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Arenahotell kvar i planen trots Mässans varning - Sveriges Radio",
-      "description": "Arenahotell kvar i planen trots Mässans varning Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb2VDQ3ljRTdqd2s2dnJMUzFSSGR3eU51RzNZNWZLbnNvRHktU3dGb0tEampxWldOa0hMaGxuMXJncDBrRUxFdGlNcUhiNzZ1ZTYxOXNQdndpTlFlV3c0T3FkeGV3d0g2UjlRdGJZLV96QUpDMnVpMDFoVi1OZ3M5ZEN5S1JRWVdqaVJUdg?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T10:52:27+00:00",
-      "impact": true
-    },
-    {
-      "title": "Nytt arenahotell kan hota redan pressade Gothia Towers",
-      "description": "Ett nytt arenahotell skulle slå mot redan pressade Gothia Towers, ändå finns hotellet fortfarande kvar i stadens planer för det nya evenemangsområdet i centrala Göteborg. Elisabeth Thomson, hotelldirektör på Svenska mässans Gothia Towers, vill inte uttala sig specifikt om hotellet som är en del av planerna för det nya arenakvarteret. I ett brev till kommunstyrelsen har dock Svenska Mässans vd tidigare skrivit att ett nytt hotell i området skulle försörja sig på mässans besöksflöden och på Gothia",
-      "link": "https://www.sverigesradio.se/artikel/9339694",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T10:52:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Sveaskog missade hackspår – nu krävs utredning",
-      "description": "Skogsstyrelsen vill att statliga Sveaskog undersöker om den fridlysta tretåiga hackspetten finns i Ekoparken Jovan i Västerbotten. Det efter att Naturskyddsföreningen hittat färska hackspår på flera granar i ett område där bolaget planerar att avverka. Skogsstyrelsen uppger att myndigheten inte haft resurser att granska avverkningsanmälningarna närmare. Nu vill man att Sveaskog kompletterar med en inventering. Bolaget säger att man ska undersöka spåren i fält.",
-      "link": "https://www.sverigesradio.se/artikel/9347252",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T10:50:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "African leaders meet in Ethiopia to reduce reliance on foreign health aid - US Muslims",
-      "description": "African leaders meet in Ethiopia to reduce reliance on foreign health aid US Muslims",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGs3QmFmVlNGSjNFVGdrWmh0amVMXzdWRVprbWZGQnZ6NEVIakpwMExSNlNiakhYWE5maDVrZFRKY3ZKNW5jNnJfT0YtUnBzQnhBZG9CTVc1YWw5R0swQTVHWEVyblZlSTZKbWJEc1NXREljZUs0M1d4NUVwb0FlOG1QMWFZRGFiNTlVR2E2RTRibjhJdlgxUG1hY2NyYzQwNTFBWHFZTnhJd3Z0MkdqM9IBwAFBVV95cUxNT3hYamsydXNkcUFsbHJjSnBKWl8xRjVoVXVCX0ViNDRBZGZOclVac3djTmRxR1RGYXA1Y2FLT2F3RW5helE2d2czSHUyUi1mbmRPWjRsOUUwRFZRbUFFekVZQk1Zb3JmeEt2cXEtUGl6SHc3aFNDZklIYVppUHg2MzhPODMxNU4zYlV0M3ByVFJHS1g2WlpwLVVORWV1eVk3dmZ0WnczWjZxUVdLdHowdUdUT2l6My1yWThzZ1VETGs?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-23T10:36:19+00:00",
-      "impact": false
-    },
-    {
-      "title": "Zelenskyj: Ukraina bakom fartygsattack i Libyen",
-      "description": "Ett rysk stridsfartyg har sänkts i Libyen i en hamn kontrollerad av rysstödda styrkor i Benghazi. Ukrainas president Zelenskyy har bekräftat att Ukraina ligger bakom attacken. Fartyget, av typen korvett, skadades i en attack i går med vad som uppges vara en havsdrönare och tio personer ur besättningen skadades lindrigt. Även ett fartyg som misstänks tillhöra den ryska skuggflottan skadades i en attack utanför hamnen. FN kräver nu en utredning och fördömer attackerna, rapporterar AFP.",
-      "link": "https://www.sverigesradio.se/artikel/9348166",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T10:25:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Libya’s eastern-based government files UN complaint on Benghazi ship attacks - Yeni Safak English",
-      "description": "Libya’s eastern-based government files UN complaint on Benghazi ship attacks Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hLb2h3VEwwSmxGZVU4YlZmRlhqODVLZnNxNVhtc2V4OTlwc0hNd2x2XzNydlkxTXRNQnJjOUtLeGw1MU93U3lSci1MRmNwQmlmbzZwNzNJUlNqVUdnTV82QTVvX3FBejRpMGJMdF90R21aTmgtSi1oUGFCZ19ERjRlV2lQT3lwN0ZNOTQxemZQVklKdURNVlpiT0JaWVYwV2hPUnBLaWFMMjVtM0x6SW5GSDc?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T10:22:47+00:00",
-      "impact": false
-    },
-    {
-      "title": "Sweden detains suspect on suspicion of financing PKK terror group - Yeni Safak English",
-      "description": "Sweden detains suspect on suspicion of financing PKK terror group Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTE1hNG1YbTEyOVUtNXpaTVhZbXRpZ1FpNnowUjBPLXN4cXExUmoxSHFwazJNTlgtdWYxbW9vRGlLWlhaWUxXS2ZOQnRsQ0xxQjlfR0stZFIzRDZScHBNMlZhSk9FQTlKczJwZHFoTE5lbkxrQ29LTEI1U0NQeGdRTTdkR0xEeHYwOHNQVGJXZUt3RFBPbXJheHhNdURWUXBZZXBTZWdMbw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T09:59:39+00:00",
-      "impact": false
-    },
-    {
-      "title": "Speltips Hammarby - IFK Göteborg 23/11 | Rekar, Betting Tips & Speltips - Rekatochklart",
-      "description": "Speltips Hammarby - IFK Göteborg 23/11 | Rekar, Betting Tips & Speltips Rekatochklart",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1BKbV8wd202Q1pjWDVsOEdldUQyS0E3ZW1qdjNsZlpDY2FuVGdTRGdMLW5JdjV4MWVPNWxmblU4d2RhbU9vcEwwTUJnOVBKTV81Z0FiZU84X2ZSTFZaREFkNm5OaW5URTFPbEJjMUVtUGVpT1E4dGp3MGJvZmg5bA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T09:57:30+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fenger missar Hammarby – IFK Göteborg utan sina bästa målskyttar - TVmatchen.nu",
-      "description": "Fenger missar Hammarby – IFK Göteborg utan sina bästa målskyttar TVmatchen.nu",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjZhQnEyYmdQRzEtVHFIMDJNWm5fc1ZnSkx5V1lXZFV2TExfQUdzb290cWVuSTJ2N3plTERYX29OS25yYnFldXM4VHdxWE12Rk90ZG13OHVpSUVseC12WGNwdDNjcFZJNlgyRWJPUm1yeUxnSmc3aFVrSEQ4TU5nUk1qYXZYNjJleXByTllNZXZXUzZ4ZGwzbXYwbGVXZGxMcTNmOA?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T09:55:22+00:00",
-      "impact": false
-    },
-    {
-      "title": "Bombhot mot hundratals skolor i Europa",
-      "description": "Hundratals skolor runt om i Danmark har fått ta emot bombhot under måndagsmorgonen, det skriver dansk polis på sin sajt. Polisen kommer undersöka hoten mot varje skola, men skriver samtidigt att det för tillfället inte finns anledning till oro. Bombhot har även skickats ut till runt 450 skolor i Tyskland via e-post under morgonen, rapporterar nyhetsbyrån Reuters med hänvisning till tidningen Bild. För några veckor sedan blev tusentals skolor i Italien utsatta för bombhot, hot som alla visade sig",
-      "link": "https://www.sverigesradio.se/artikel/9348127",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T09:49:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Bombhot mot flera skolor i Danmark och Tyskland",
-      "description": "Skolor i Danmark och Tyskland har mottagit bombhot via mejl under måndagen. Vem eller vilka som ligger bakom hoten är oklart. – Just nu tror vi att det är falskt alarm, säger Árpád Kurgyis, pressansvarig vid polisen i tyska Freiburg.",
-      "link": "https://www.svt.se/nyheter/utrikes/larm-om-bombhot-mot-flera-skolor-i-danmark",
-      "source": "SVT Utrikes",
-      "category": "World",
-      "published": "2026-11-23T09:41:20+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lejon i bostadsområde – polisjakt pågår utanför Istanbul",
-      "description": "I Turkiet går ett lejon löst i ett bostadsområde utanför Istanbul. Turkisk polis håller på att försöka fånga in det, rapporterar nyhetsbyrån AP. En invånare larmade om lejonet i går kväll och det fångades senare på bild av övervakningskameror. Lejonet har nu hittats och det pågår försök att fånga det levande, enligt myndigheterna.",
-      "link": "https://www.sverigesradio.se/artikel/9348116",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T09:39:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Chatt: Vem blir statsminister – och när är det klart?",
-      "description": "Över 70 dagar utan regering. Förhandlingar inför öppen ridå. Andersson vs. Kristersson. Hur ska regeringsbildningen sluta? Och när? Ställ dina frågor till SVT:s politikreporter Kristoffer Törnmalm – som svarar i chatt och livesändning.",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-23T09:23:25+00:00",
-      "impact": false
-    },
-    {
-      "title": "Sweden Aslam shown arrested in murder case - Jagonews24",
-      "description": "Sweden Aslam shown arrested in murder case Jagonews24",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPay1FbnpWVU9McU9xaXZoYlZCM2l3QnVqSHRhM1JGWVBudE1iRXh0RUN3SFQtNlhzMTZNbHdOekxwNjh6VG83RE1wU1ZqMXFIWGJmRWRrZXg5QVVxc2c?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T09:20:27+00:00",
-      "impact": false
-    },
-    {
-      "title": "Artificial superintelligence ‘arriving’, warns top Meta executive - Al Jazeera",
-      "description": "Artificial superintelligence ‘arriving’, warns top Meta executive Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnRiM0ZpVzFaTkZaZ2lUc2dtYjY2U2tqZnFGQlNCb2JRWjlCdkxNQWU2WENIYnVsb0hXVjNtNS1XQ1JzdmtBaU1qRDE2aDd5T2c1Z1lTY2VsaXE4NHJUNjhwdGl6Tm1DRlNVa01DOFlPa294amRMSl9uQlFTczN1dVlhSmRBVWJETV84VkxFcG5EUDVxSC14bUpoREdBZGM50gGmAUFVX3lxTFBESHNmbkFBdXN2ZGc2b3FMT3JiVlNQWHNjRnZYUV83dV9NRVJaWXd0ZWVjbU82Qy1yYVNoXzVtT2VzbzQtQ05WTHI5X1MtZTEyRjdKN0M1UUtJdk5UNTYtdHhQbHlBdE9fZ29ZMnV4VzZhNnF1QTd2QnViYlhyOVNBQVM4V2FFV0otaGN5WkhqSTZMNWtvUUxBZG9ZUmEzQUYxWkpwbkE?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-23T09:13:28+00:00",
-      "impact": false
-    },
-    {
-      "title": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com",
-      "description": "Oil Shock Is Adding Stress to the Global Economy - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0dHbXRoRmUxQ0d2U19SODVtLURyQU5tMWhQSjh6cl9SaDRybGVJQ0Y1aXNuUkl3WlpPb2FLY1JGYlFIZS1xNmFCbEk4QUFyZXFYdll2akFOdU9pcEtoLWgza1E4TmdXZlBXNnYtNklYNGlEaDF3bHY5TXZOSVp1UkdoY1RxZw?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-23T09:13:09+00:00",
-      "impact": false
-    },
-    {
-      "title": "SJ-anställda varslas om avsked efter facklig träff - Göteborgs-Posten",
-      "description": "SJ-anställda varslas om avsked efter facklig träff Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWpDZzVwS2YtQ2RIZkRLWDliTENtWDNKQkVENFRGc3IySlhtUjljU3Z0WV9GOHV2WVFLWEFfQU4xNU9nam5TUGVVeHgyanMtSFJPWlB2RXEyUEdaZ21maXNjR1phQjk2ZjhKNGl0RVhuSy05QzBvdjY1dzJROC1kSWtXa0dDZG81b1RWQThSZ1NRUFZmajRYTkdwOUtxLS1xNkhNenN6ckpJeDV0LTRPRnExcmJnNEhkSzhGZWFWd2tNWjZkLW9MTVp0VUlIUzVP?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T09:10:42+00:00",
-      "impact": false
-    },
-    {
-      "title": "Blåvitts löfte: ”Vill förstöra” - Expressen",
-      "description": "Blåvitts löfte: ”Vill förstöra” Expressen",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdUlJY2dGUEhXbnF5YldjdjdXbXAweFZOODRBUHRGYzVEWDdtMDNRdWtNbUNKVzAzTkdlTWdvSkxhbldZVDVNdUNGajV0cXFUMkdQZXh1T3kwaVd3Q3E4c0hqNVE2WXlZOXVVRGpndzlhaWNiYXhyb1dCS3FpUDB5UjVsTDFOZ0FlanEwVDFGTHAzaThOTF8tWDh0ZUZyUWFNbmJxZVF3?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T09:07:21+00:00",
-      "impact": false
-    },
-    {
-      "title": "S gick emot vädjan från V: ”Vänstern förhandlar ju inte”",
-      "description": "I dag ska Vänsterpartiet ge besked om Socialdemokraternas startpaket för att återuppta förhandlingarna, men vice partiledaren Ida Gabrielsson har redan sagt nej i ett inlägg på plattformen X. Förslaget från S, MP och C innehåller bland annat en tandvårdsreform men inga ministerposter. En av anledningarna till nejet är att budet inte innehåller skattepolitik. ”C kan få stora skattesänkningar och då blir det ju nedskärningar i välfärden”, säger Ida Gabrielsson till Dagens ETC . Medan S:s Mikael Da",
-      "link": "https://www.sverigesradio.se/artikel/9348059",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T09:06:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Swedish Voters Warm to Prospect of Snap Vote as Talks Logjammed - Bloomberg",
-      "description": "Swedish Voters Warm to Prospect of Snap Vote as Talks Logjammed Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSlk5MlVhN3hrU01pQVZBYlJJVHNoc05hMzdBa0JPcGlodWhBUENyXy04Sk1SMFZ0OVI3VTJIWUhkR1NoeE9JU21XVFpvWTRUdjM5LVJES0NOVlJsVl9COEVoZlVQVER0dUFDUFZVMmIwVk9UdHlOQ0lNOFJPT0h2YVNOdWw5UDZwb0JuTF9ESy1BcWUyaUNUQUJIaVNsSkozYnl6RHdCNlpLcXlYY1JuczFGRktoX282?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T09:00:02+00:00",
-      "impact": false
-    },
-    {
-      "title": "Albin Lee Meldau tar nya tag - Göteborgs-Posten",
-      "description": "Albin Lee Meldau tar nya tag Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYTdIdUNlMmREX2RGWldpaUlxUlUybU9SZ2hrM1pLRmJmRUFKX1FvbV82anRjNnhJajdQd25oR05XcG5OY2tNcm92Q1pzU2FTVU12bkQxYWt4Z1BUeGQxRE93R3pST0JoM1ZtZ0pNaXRTQm9oc2xaaVByazN5UUYxbXJtc1RIeFUxczZnZkxzWDVjUzItOVMtYW1PaUV5a05KeGdSekluNHBUdlQ0ZHFJ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T09:00:02+00:00",
-      "impact": false
-    },
-    {
-      "title": "Här finnns jobben kring Göteborg - Göteborgs-Posten",
-      "description": "Här finnns jobben kring Göteborg Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUhkYWN3YzZ5eG5hODdOZWdWZ1lWbXBYNVExYWFRWGlia29xRUtIRzdaWV9rVHhVeDJQSGt2OFdTS1FJaWhjSGNWRTVEN182Q0NiQzBEazVDc1lsVm1JRWlweE1EcDdNa205VjV3d2hXbDRIdW54X1paNzBCRzBSN3BUNUdRLW1rZVFpaTlhVUpUSkN0OVdQMTZwanMzQ2tOZk9qYy1SaUJyU053dmVxSXBLVQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T08:40:52+00:00",
-      "impact": false
-    },
-    {
-      "title": "COP31 ends in paralysis: lack of deal on finance and fossil fuels a betrayal of Africa; all eyes now on Ethiopia for COP32 - Greenpeace",
-      "description": "COP31 ends in paralysis: lack of deal on finance and fossil fuels a betrayal of Africa; all eyes now on Ethiopia for COP32 Greenpeace",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbk9LS0Z1c1NTMG5WMThsWjViT01tSGdJeXh3YU01RDQwV3Awb0VPYnpsWTZMU1FUS2VqU0h0TmlnSkFLaFZEYkpteVdKMnI5VVRtUk1ETmpuSDhFM1VIV09kWkVJZ19NVDY3S1NMZEcwNlhWUjhoQ0hjM2dXTHlDYmpIaU1yODh5TFFVTDBLQi0tczBkZlBTSnNTVTliblJJUmt2eDZrRUZpLWN4T1ZBdGNHZmpzOWtyM3kyX0tNVFF4ZHYyQWZRUWtuUmNTWm1fWkhPMThRVzJ2NjdhV3owdHRvNXFLalB3TlliQnNsTEpod2hrM1NYZEpiVkdITFk?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters",
-      "description": "Amazon SageMaker Studio now provides a native developer experience for Amazon SageMaker HyperPod, enabling data scientists to submit distributed training jobs, deploy models, and monitor workloads through a visual interface on HyperPod clusters orchestrated with Amazon Elastic Kubernetes Service (Amazon EKS). SageMaker HyperPod is a purpose-built infrastructure for distributed training and fine-tuning of foundation models at scale, designed to reduce infrastructure management overhead. Submittin",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon Connect Customer AI agents now fill in step-by-step guides",
-      "description": "AI agents in Amazon Connect Customer can now populate fields of a step-by-step guide for contact center agents during live customer interactions. With step-by-step guides, managers can design forms and other user interfaces for common workflows, such as rebooking a trip or submitting a claim. Now, AI agents can fill in a guide when it first loads and suggest updates during live conversations, saving time and improving data accuracy. When contact center agents speak to customers, they spend valua",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings",
-      "description": "Amazon Inspector has expanded its vulnerability management capabilities with runtime reachability analysis for findings originating from Amazon Elastic Container Registry (Amazon ECR) and Amazon Elastic Compute Cloud (Amazon EC2) instances. Previously, Inspector reported every vulnerability found in a resource, including packages that were never used by applications. Security teams had to manually assess which vulnerabilities actually posed risk in their deployed environments. Now, Inspector aut",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes",
-      "description": "AWS CodeDeploy can now suspend Amazon EC2 Auto Scaling processes during EC2 in-place deployments to Auto Scaling groups. CodeDeploy is a fully managed service that automates application deployments to Amazon EC2 instances, on-premises servers, AWS Lambda functions, and Amazon ECS services. This launch helps prevent scaling activities from terminating or replacing instances while CodeDeploy is updating them, which can cause a deployment to fail. You can choose to suspend any combination of these ",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS WAF announces automated discovery and protection for API endpoints",
-      "description": "Automated API discovery and protection are now generally available, enabling you to discover every API behind Amazon API Gateway, Application Load Balancers, and Amazon CloudFront across your AWS Organization and protect them using AWS WAF. Discovery is available through the new API Gateway API Portal, which identifies the APIs automatically from traffic logs and service configuration records, with no agents to deploy or logs to forward. The API Portal classifies the APIs it finds, identifies zo",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/api-security-with-waf/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS Device Farm launches Device Connect for local access to remote Android devices",
-      "description": "AWS Device Farm , a service for testing mobile and web apps, now offers Device Connect. With Device Connect, you and AI agents can use remote Android devices from your local machine in an IDE, terminal, or development environment of your choice, as if it were plugged into your laptop. You can attach a debugger, profile performance, preview builds, run ADB (Android Debug Bridge) commands, and interact manually with the devices. You also get live video along with device and test logs. Tools and te",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-device-connect/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon SageMaker AI now supports viewing capacity reservations",
-      "description": "Amazon SageMaker AI now lets you view SageMaker Capacity Reservations in the SageMaker console, AWS CLI, and AWS SDKs. Previously, customers had no self-service way to see their reserved capacity, including reservation timelines and instance availability, and had to rely on AWS Support to plan their own workloads. Starting today, administrators can review the capacity they hold without leaving SageMaker AI. Administrators can list reservations with their status, instance type, availability zone,",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-capacity-reservations/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters",
-      "description": "Amazon SageMaker HyperPod now offers a redesigned AWS Management Console experience for creating clusters orchestrated by Amazon EKS. A guided workflow helps ML infrastructure administrators and platform teams set up networking, instance groups, storage, permissions, resiliency, observability, lifecycle scripts, and tags. Required settings are kept apart from optional ones. You enter only what is needed to create the cluster and add other capabilities later, when you need them. You can start wit",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS DevOps Agent adds Access Profiles and AWS Organizations",
-      "description": "AWS DevOps Agent now gives you more ways to govern and control your AWS DevOps Agent instances. With the new Access Profiles feature you can link IAM IDC users in your Agent Spaces to specific permission sets. For example, you can use Access Profiles to limit the ability to create or update skills and memories to a select set of users. AWS Organizations support allows you to more easily configure your Agent Space's AWS account access permissions by automatically aligning accounts in organization",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-access-profiles-orgs/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud",
-      "description": "AWS Systems Manager Automation now lets you create custom workflows (runbooks) that can automate operational tasks across Microsoft Azure, Google Cloud, and AWS resources. Automation helps you make changes safely at scale, such as remediating misconfigurations or cleaning up idle resources. Runbooks can roll out in controlled batches, pause for approval, and stop if errors pass a threshold. Instead of maintaining separate tools and credentials for each cloud, teams can now author and execute run",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions",
-      "description": "Amazon EC2 Capacity Blocks for ML now lets customers search across multiple instance types and AWS Regions in a single search, making it easier to find and reserve the capacity their ML workloads need. With Capacity Blocks for ML, customers can reserve accelerated compute instances such as Amazon EC2 P6-B300, P6-B200, and Trn2 instances, for a future start date and for up to 6 months. Until now, customers looking to buy Capacity Blocks had to run a separate search for every instance type and Reg",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Connected intelligence for in-house legal",
-      "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
-      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI News",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI News",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Weekly market commentary - BlackRock",
-      "description": "Weekly market commentary BlackRock",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Ethiopia - Healthcare, Nutrition, Poverty - Britannica",
-      "description": "Ethiopia - Healthcare, Nutrition, Poverty Britannica",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uSWtIREJuUTRUd250cmllTHhFOGsyY1E2X053bkpOWW5PSjZNR2YtSzFTaHNXNTlJLTU4NTV0RlV4TENhM0tMQUowYXVaSThFUUFXd3lVbndqQ0lXWTZob01jYTdZeWVNYkRKcA?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "AWS Parallel Computing Service now supports Split Cost Allocation Data",
-      "description": "Starting today, customers can receive granular cost visibility for AWS Parallel Computing Service (AWS PCS) in the AWS Cost and Usage Reports (CUR), enabling you to analyze, optimize, and chargeback costs for your Slurm jobs. With AWS Split Cost Allocation Data for AWS PCS, customers can now allocate costs to individual teams and projects based on how jobs request and consume shared EC2 CPU, GPU, and memory resources. AWS PCS is a managed service that makes it easier for you to run and scale you",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T08:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Truppen mot Hammarby - IFK Göteborg",
-      "description": "Truppen mot Hammarby IFK Göteborg",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vNE9zSUNBX3FlSjlXWE1JU1FEbnh5bGhpZ29McWNlbEV2VnBiN2hZZFdiUHIzdjN3ODcxbUtDTE9rMl9Lc21seXlxUHgzT3VnYkNFZUptdEg1WERGNXdUTUEtVzBiNU00RmRwcDgyU2Fsd3dDQWtN?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T07:59:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fredrik Furtenbach om S erbjudande till V: Kärvar rejält",
-      "description": "Socialdemokraternas debattartikel i Expressen på söndagskvällen, där man erbjuder Vänsterpartiet flera reformer och positioner, vittnar om förhandlingsproblem. Det säger Ekots inrikespolitiske kommentator Fredrik Furtenbach: ”Det kärvar uppenbarligen rejält”. Många faktorer spelar in i förhandlingarna, menar han: ”Det är också så att för Vänsterpartiet så handlar det här om något mer än ministerposter. Det handlar ju också, kan man säga, om ett slags revansch”.",
-      "link": "https://www.sverigesradio.se/artikel/9348036",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T07:59:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "US intelligence chief warns of more tech outages during upgrades - Yeni Safak English",
-      "description": "US intelligence chief warns of more tech outages during upgrades Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlk2a20yRWtmZzJsaDRuWFk5dWFPamwtN0JGLTllUXdabGs1bzkzWVJ1NGpaSDdsR2hQbVF3YkRJeUVWaFlOekRrakJpaWFiUEN2OHVRemFpdW5yc3R5R3FRQUZhaVZrQlJLWU1Ib0N6aFV6X3k4Zmg1NzdfZVZhSnlWSHRWbEhYa1pvVHNKOXVtWjBTbVFVMWtIWWY3ZlM4UDMwbW1R?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T07:17:22+00:00",
-      "impact": false
-    },
-    {
-      "title": "Så mycket dyrare blir CSN-lånet nästa år",
-      "description": "CSN-lånet väntas bli dyrare nästa år, trots att räntan kan sänkas. Regeringen ska i veckan besluta om studielåneräntan för 2027. Enligt Centrala Studiestödsnämndens prognos kan månadsbeloppet ändå öka, eftersom återbetalningen räknas upp med inflationen. En person med 217 000 kronor i skuld och 15 år kvar att betala kan få betala 37 kronor mer i månaden nästa år, enligt CSN.",
-      "link": "https://www.sverigesradio.se/artikel/9348024",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T07:17:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "The Generator Economy: Why Africa’s energy security must be measured at home - Realnews Magazine",
-      "description": "The Generator Economy: Why Africa’s energy security must be measured at home Realnews Magazine",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa1d3N3hlcUhfT09GaHNxcXNmenM5bHRZcWhwaEk4em9JSmxPS0pDdzZQMXlxSzRZZmc2T1p4RzVSNXZZNUFVemRjY0xrT2M1emoyRFJXNHVtRWQ0amktMmdEUDRxYzhGdTRpYXlUX0hyd2I2YjUxZUtZTDdGdE5FXzZGNUQwMU5ZWXhMNU1Rc2Y4eGdQT3Z3d3BpSWhkN0lJTERWeENOcw?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-23T07:15:26+00:00",
-      "impact": false
-    },
-    {
-      "title": "Rusning till ny sminkbutik i Göteborg - Göteborgs-Posten",
-      "description": "Rusning till ny sminkbutik i Göteborg Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOHdkQktQOWRzWEJhRElaNENmc2hoUWtYSFhvRFZ3UloydVA1NERRb3RweC1Cak9odDh4UVZqZFJEWlhSblU0eHU4elRMZklvZm53ZERSanNBWHY1VVUxTFBncjJtM2docEtXOXBpeG9vYXVWN2htWEVDTkxzMktJWEJSeENGWlJvSzNkb285ZWxzSmdFazdF?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T07:02:21+00:00",
-      "impact": false
-    },
-    {
-      "title": "Bilbranschens kris: Volkswagen tjänar bara 130 kronor per bil",
-      "description": "Biltillverkarnas vinster har minskat i år, visar en undersökning från tyska bilforskningsinstitutet CAM. Två av tre tillverkare har fått lägre rörelsemarginaler. Studien omfattar 21 globala bilkoncerner och jämför januari–september med samma period i fjol. Enligt CAM pressas tyska tillverkare av bland annat kinesisk konkurrens, amerikanska tullar och höga kostnader. Volkswagens vinst på runt 130 kronor per såld bil visar hur hårt pressad den tyska biljätten är.",
-      "link": "https://www.sverigesradio.se/artikel/9347971",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T06:51:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Tanzania’s President in Ethiopia for CPHIA 2026 - pan african visions",
-      "description": "Tanzania’s President in Ethiopia for CPHIA 2026 pan african visions",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHNxOWM1azc0VE5VWVJWU2hTeGxXdGtGZUJNZ0VfNFF2QW9obVNtcXlDNGJXOUJadnU5V0kyX2cxQmdCUTE4NTR1RFpVUEstSkczd0dqRmNhV0J2elVPVlNVRE9OdVZwSzBpbDRwZ3BacDVrYjJSaENFai0wUEtoSjRuY1kxYXlQNThkTXZ3?oc=5",
-      "source": "Ethiopia English",
-      "category": "Ethiopia",
-      "published": "2026-11-23T06:36:14+00:00",
-      "impact": false
-    },
-    {
-      "title": "Flerbilskrock på väg 40 mot Ulricehamn – trafiken igång igen",
-      "description": "Flera bilar samt en mindre lastbil har krockade på väg 40 i riktning mot Ulricehamn på måndagsmorgonen. – Det rör sig om fyra till fem bilar, säger Christian Brattgård, presstalesperson vid polisen.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/flerbildkrock-pa-vag-40-mot-ulricehamn-vagen-avstangd",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-23T06:34:22+00:00",
-      "impact": true
-    },
-    {
-      "title": "Då väntas Venezuela tidigast hålla val: ”De måste förstå”",
-      "description": "Venezuelas regering tvingas förhandla under amerikansk press efter USA:s gripande av president Nicolas Maduro. Ramon Lopez, en av oppositionens fem representanter i förhandlingarna, menar att presen ger resultat i form av den nya högsta domstolen som snart är snart på plats och näst på tur en ny valkommission. ”Samtalen har fått kritik för att gå för långsamt och fria val beräknas hållas tidigast i mitten på nästa år. Jag förstår att folk är otåliga men de måste förstå att det tar lång tid att b",
-      "link": "https://www.sverigesradio.se/artikel/9347982",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T06:32:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Nu står julgranen på Gustaf Adolfs torg – då ska den tändas - Göteborgs-Posten",
-      "description": "Nu står julgranen på Gustaf Adolfs torg – då ska den tändas Göteborgs-Posten",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUtIVnFpYzk3QkFmY1JrZ1JHTl9NLWpfOEplWGJIVUNDLVY0d2p2dE8xbzRiUzk4NmNwMW5oTVREODF4THRqdUZNb0ZYZmlRMEQxbXlycGxKVVBYMlIxVFJ1QWZ0Sk4xaEpMZ1VQYjEzUzg4RDA2SHZTX3NvczcwWmh6YlY1VC14cTlBVjBLNU8xbTNzdWpEZlEyOEttSWl3VE5nRUxLNGJJZGNSVldlRQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T06:30:53+00:00",
-      "impact": false
-    },
-    {
-      "title": "Tre nya elfärjor till Göteborgs södra skärgård 2028 - Sveriges Radio",
-      "description": "Tre nya elfärjor till Göteborgs södra skärgård 2028 Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUExdXo4Nk1jR056NEdkWGRKaDBrb3NVc0lDT3l0VnlOTUJfN2Jlbno0Ti13LWlzcURnQ1RqZGk4YmdOSTVrQ0hhcXFla2swSDZuMlZpT1FzY1NvTHZKbUhsdkJEVF9mcUc1amNYdzVhXzZCOEtKQ21UQi1Pa0FNR3JIU1p1VHhfNENHTEJKRGNkZw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T06:18:41+00:00",
-      "impact": false
-    },
-    {
-      "title": "World Bank warns Afghanistan faces mounting economic and water security challenges - Ariana News",
-      "description": "World Bank warns Afghanistan faces mounting economic and water security challenges Ariana News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakJQSDVYNzE4V0IwY3p1RG1YM21YNWtFbVpSOEFRYWs2bW0ySjJSOWtDbXptU3I1cU5tN3ZxRk9JcnVjQTFSNzFtM3M2VWJlS21rN25TNjlEVkp2b3NCcFlXZjFoOG5rSjBhUlBRbUxEal9rWDBkN2ZmMVhOd2JQTnNHeDhwNTlyOF9LaWxvVDhjVk5JdG5sVDgtWTRYM2VJQjdza0pMeEVXeDMzLWfSAbMBQVVfeXFMT2JickpKUnB3X1pLSlJQQnZONXppM2NJOTVxc3J4S21yRjFnUWlncEtIYURXOGg5U3BvUVhnc2RuQVFSeFd5M0ljMm1MZjBWNTFvRUJoMjJERTc2Wmw2d2pUX3RYUnBHdjVtZ1hFdTFFQmxEaHlxeXN5MDVkSTNQVEs3OWljOURheVI5S3dUT1BfNWkzNlROTnlFMzNQbmk3M2NzYlBZbGZRVU52YnhYbUE4QnM?oc=5",
-      "source": "World English",
-      "category": "World",
-      "published": "2026-11-23T06:03:14+00:00",
-      "impact": false
-    },
-    {
-      "title": "Hammarby – IFK Göteborg: TV, odds och guldstriden inför matchen - TVmatchen.nu",
-      "description": "Hammarby – IFK Göteborg: TV, odds och guldstriden inför matchen TVmatchen.nu",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGR0MUthSmtpbG9Vb2VyY1NvaHQ1UldxR1c4TEtNXzVscVd0U2ZXbVFZcXZlNXN5bXJIeGFiM2d3bThMeXpFdFRPenU2eVYzMTI2MXZhQTdtYVNJUHRvaXI1ckZ4SFNqRGxPaldaS19tak9uTlJYLW5LVkZidHROZEhvV0w?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T06:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Tre nya elfärjor till Göteborg – katamaraner från Spanien",
-      "description": "Styrsöbolaget har beställt tre nya elfärjor som ska trafikera Göteborgs södra skärgård. Beställningen kommer efter att bolaget vunnit Västtrafiks upphandling för skärgårdstrafiken, med ett avtal på 15 år. De nya färjorna rymmer omkring 200 passagerare och 30 cyklar vardera, och ska tas i trafik hösten 2028.",
-      "link": "https://www.sverigesradio.se/artikel/9346393",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T05:55:00+00:00",
-      "impact": true
-    },
-    {
-      "title": "Beredskapsbutiker ska säkra danskarnas mat vid kris",
-      "description": "Danska beredskapsbutiker ska kunna hålla öppet även vid krig eller kris. Totalt har 51 butiker utrustats med nödgeneratorer och betalsystem som fungerar utan internet. Vid en kris kommer särskilda varor med lång hållbarhet som konserver och torrvaror skickas till de utvalda butikerna från ett stort centrallager. Danskarna rekommenderas att ha mat hemma för tre dagar, men alla har inte förberett sig och livsmedelsföretagen räknar med ökad efterfrågan vid en kris.",
-      "link": "https://www.sverigesradio.se/artikel/9345325",
-      "source": "Ekot",
-      "category": "Sweden",
-      "published": "2026-11-23T05:40:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Matchdag: Årets sista hemmamatch - Hammarby Fotboll",
-      "description": "Matchdag: Årets sista hemmamatch Hammarby Fotboll",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tM1hkOHBIdzY5UGRRUGVmZDR5aTcyYXdSeHVWOWlsQUlJemE1V1dtdmtEalh6TXktOVpIeC1YanoyUW1aQm1Vd2FzY3lJalBhT1ZBS1E0eUh3SlFzZ3JjWVhmSmtuSnlzYkk2QWpNYWpjTWw2RkxXVU5B?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T05:28:32+00:00",
-      "impact": false
-    },
-    {
-      "title": "Estonia, Latvia end participation in China’s cooperation platform in Eastern Europe - Yeni Safak English",
-      "description": "Estonia, Latvia end participation in China’s cooperation platform in Eastern Europe Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV19vWW1sNnVnREI2U3hxRWpHZm1zYlBlT0tGYi1VeHhRY0Ntemk4bVM5a2t4Z04xLWxIdERvTkRVYm4yUHJsbW0yTmxoMnZ3dmJZZGxXazhaYUl3ZC1zSzVabE5nMzFDeGU5REY0bEllOTdkUnVzWjRuN3ZOeTdlV0NVdkV3Q0RxQjRNTGJtVVVYRnVMWDgzQnRJcktwRlVWTVFfM1N1bWdsaGQ1dEtBbHhQYzdFanlPRVptcA?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T05:25:26+00:00",
-      "impact": false
-    },
-    {
-      "title": "Pakistan government to move to top court to seek disqualification of former premier - Yeni Safak English",
-      "description": "Pakistan government to move to top court to seek disqualification of former premier Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeTM1U0w5Wk1oeFgtZ3RYNDJrOEtBd2pJaDlxMVY1WUdXbnZ0cFZwTlNSaHlhcUl1MkN1blpoUXpvN2R5ZENIR1FRV19YU2V5blg1cUxIX1dacVcyd2V5YnFITzh6aFlPODZJZFJZUkEzTncyaVJ4QzYwSGgzbmp3NXZMSHZRLTJzTWZyTjBfanVVbEh5cHNMYlRjR1ZZNHl3OVhibHp2Qk16dUs2TUxsZ29QRTA0MWpmSm52bmVUNTJOZw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T05:25:26+00:00",
-      "impact": false
-    },
-    {
-      "title": "Türkiye urges common sense amid political crisis in Iraq - Yeni Safak English",
-      "description": "Türkiye urges common sense amid political crisis in Iraq Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRGg1RjgzMWhmRE5od3NucnlMc2V5bXdCS0JPR1RPYnZPY0U3N1pHcEtYWXRNRDY5MVJKY3VPVWE3WkpfWGNCYkdUSkVvMFExN2tDME5GdkQwR2ZDR2JsWWxZbTcwd1RNYXpCa1EydGJ2U2ZBUkFGQnpxckxjWWdrZWtEQ2x0STdpeGtuelNCaWlBTHcwdGxxLVJ5eWl3Zw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T05:25:25+00:00",
-      "impact": false
-    },
-    {
-      "title": "Startelvorna klara: Hammarby IF möter IFK Göteborg - Nahir Besara på bänken - SvenskaFans.com",
-      "description": "Startelvorna klara: Hammarby IF möter IFK Göteborg - Nahir Besara på bänken SvenskaFans.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNU5pTEZlaWFYN3AxajBmb1VrTHBWYWZqbi0tUy1LLVptQzVJUnNrQ0FBalVEMzZkd2xMWk5jM2tGLXZxMDhWN1VlRzl5RkN1anVmUl9TTDJoUldDaFY4S3ZMalRlMkZUck1MNDdTZmtPb3pKRXpOSE11dFdpTWhBdUZQOEwyOUFwbWJNdFN2eFpHbDhHM0hDZjZrTGFTZGFMNXR1aWltamV0ZG9QRjFveVFUUVZiQQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T05:24:24+00:00",
-      "impact": false
-    },
-    {
-      "title": "The Swedish formula: How collaboration could strengthen PH innovation - Manila Bulletin",
-      "description": "The Swedish formula: How collaboration could strengthen PH innovation Manila Bulletin",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHduQ2VOckRLbEF2RzFHYl8xVFdadHdUeHF4dndmczlIRUkweFowSC1LcFlpajhpNlZTSmFKSkNpRGVNOEpsOTFrc1RNQVloMWdaRTFFVlNMbk1pOE5Gdzhkam0wSmo4a3pyamJYa1BHWkpBeUk4eTQ3SVNBTER2eXpPVmRJTlp3aGtNc0RnajBTSi11Y1c0MG44YUdWZw?oc=5",
-      "source": "Sweden English",
-      "category": "Sweden",
-      "published": "2026-11-23T05:13:53+00:00",
-      "impact": false
-    },
-    {
-      "title": "Amazon FSx for NetApp ONTAP adds AWS CloudFormation and Console support for snapshots, clones, and data replication",
-      "description": "Amazon FSx for NetApp ONTAP now lets you snapshot, clone, and replicate your data directly from the Amazon FSx Console and AWS CloudFormation. Today’s launch allows you to protect and copy your ONTAP data using the same AWS tools that you use across the rest of your AWS environments, with a few clicks in the AWS console or as part of your infrastructure-as-code workflows. FSx for ONTAP is the first and only storage service that allows you to launch and run fully managed, fully featured ONTAP fil",
-      "link": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-netapp-ontap-additional-resources/",
-      "source": "AWS What's New",
-      "category": "Tech Radar",
-      "published": "2026-11-23T05:00:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Fler hotell pressar Gothia Towers i Göteborg - Sveriges Radio",
-      "description": "Fler hotell pressar Gothia Towers i Göteborg Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdXBaaVJZekFONFpPZnprTXZVSzNsVGc0QVdqZUREdHVZVkU5endIRFdXdUIxZkNvQm5DdEZLeHJ6VFNQVGxya3NvS0RrczFnaDVyS1g3RHYzM0gtY1Azc3V1cUROQ1Rqd3ZaSzRNYTJiVUQtZXZWUEJDMFlBWnVaQVo5Y3k1SEJQ?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T04:56:29+00:00",
-      "impact": false
-    },
-    {
-      "title": "Gothia Towers tuffa tid – efter att Liseberg öppnade Curiosa",
-      "description": "50 miljoner – så mycket har Svenska mässans hotell Gothia Towers förlorat sedan 2023, året när Liseberg öppnade Grand hotell Curiosa. Under samma tid har de tappat tusentals hotellgäster och Svenska Mässan har fått minska sin personalstyrka med hundra personer. Hotelldirektör Elisabeth Thomson säger att det har varit tuffa år men att det inte bara handlar om Curiosa. Pandemin, lågkonjunkturen och det allt större hotellutbudet i Göteborg är andra orsaker. Elisabeth Thomson vill gärna se fler hote",
-      "link": "https://www.sverigesradio.se/artikel/9339405",
-      "source": "P4 Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T04:56:00+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lotta i Göteborg dissar Black week: ”Har inte köpt en enda pryl sedan 2022”",
-      "description": "Black Week är i full gång, och markerar en viktig tid för handeln. Samtidigt finns det de som är skeptiska mot all konsumtion. En sådan person är Lotta Kindmark i Göteborg. För fyra år sedan startade hon ett ideellt leksaksbibliotek i stadsdelen Högsbo som ett alternativ till att köpa nya prylar.",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/lotta-dissar-black-week-oppnade-leksaksbibliotek",
-      "source": "SVT Väst",
-      "category": "Local",
-      "published": "2026-11-23T04:30:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Här kommer fler med intellektuell funktionsnedsättning i rörelse: ”Magiskt”",
-      "description": "Personer med intellektuell funktionsnedsättning (IF) rör sig för lite. Brist på stöd och ett begränsat utbud av anpassade aktiviteter är några av orsakerna. Sanna Fjällström, utredare på Folkhälsomyndigheten menar att funktionsnedsättningen inte är det faktiska hindret.",
-      "link": "https://www.svt.se/nyheter/inrikes/har-far-dansen-fler-med-intellektuell-funktionsnedsattning-i-rorelse-magiskt",
-      "source": "SVT Sverige",
-      "category": "Sweden",
-      "published": "2026-11-23T04:30:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Lotta i Göteborg dissar Black week: ”Har inte köpt en enda pryl sedan 2022” - SVT Nyheter",
-      "description": "Lotta i Göteborg dissar Black week: ”Har inte köpt en enda pryl sedan 2022” SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVpSR2FuTC1oVFVVUkVjODhoX1o3Q1ozXzRjaEV4LVZ6Qlp5Z0xLc2VtaGVoczU4MTgzQ3JmLVliRVV5TTdPejVfMS13N0hFMXRXRjVENy1KSTNuQlFZTEtpOXNDZXIyQmMyc3E1a3NpTGx4dmRaODY1TTRDVk5tV0NWNWQwYTNNRmtXMk50Wi0?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T04:30:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Färre kommuner har bostadsbrist – men stora lokala skillnader - SVT Nyheter",
-      "description": "Färre kommuner har bostadsbrist – men stora lokala skillnader SVT Nyheter",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdG5UNnR2TzZ2bXBnOU5YWVc2ZXpnc3AyYnlkYjFILVk0emxLNV80RlRoNEJXVkd0ZndldEtKUUdoaUJBWTBfYldNTUY2czlSWkF5RkUwX1RpMHdKZUhZY0Q5UEVFbFRER3VIZlpZSVdDZ1lDUmRYMUVqNGxKdWQyTFdxd1J3alJMQXpPTFIxYmNSOGtJZUItNHBaY3FYX2hqSDEzUQ?oc=5",
-      "source": "Sweden Regional",
-      "category": "Sweden",
-      "published": "2026-11-23T04:30:01+00:00",
-      "impact": false
-    },
-    {
-      "title": "Julgranen på plats på Gustaf Adolfs torg i Göteborg - Sveriges Radio",
-      "description": "Julgranen på plats på Gustaf Adolfs torg i Göteborg Sveriges Radio",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzBnc0xVTTVzdXBiU2tISk1MUlZYZlREeDRjQnJCczR2Uk8xMkw1azA2bFRZZ0VmVkpFeF8yY0J3SXUtcV9ZNVRFZlREZWxNaWY4akhEajVoSzNXdV8xcS1qSDljcWsxdVFyLU9XRHZVOUFhM3c5enNMYlo2YThwWFhQbGkzZw?oc=5",
-      "source": "Google News Göteborg",
-      "category": "Local",
-      "published": "2026-11-23T04:24:44+00:00",
       "impact": false
     }
   ],
